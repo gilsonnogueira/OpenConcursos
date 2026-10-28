@@ -56,9 +56,9 @@ flowchart TD
 | **AUD-001** | [**Módulo 01: Auditoria Interna (NBC TI 01 e NBC PI 01)**](01-auditoria-interna-nbc-ti-01.md) | **Alta** | **FGV, FCC** | 🟢 **Concluído** |
 | **AUD-002** | [**Módulo 02: Planejamento (NBC TA 300) e Documentação (NBC TA 230)**](02-planejamento-documentacao-nbc-ta-300-230.md) | **Crítica** | **FGV, Cebraspe, FCC** | 🟢 **Concluído** |
 | **AUD-003** | [**Módulo 03: Evidências, Procedimentos e Circularização (NBC TA 500, 505 e 520)**](03-procedimentos-testes-evidencias-nbc-ta-500-505-520.md) | **Crítica** | **FGV, Cebraspe, FCC** | 🟢 **Concluído** |
-| **AUD-004** | [Módulo 04: Amostragem em Auditoria e Controle de Qualidade (NBC TA 530 e 220)](04-amostragem-controle-qualidade-nbc-ta-530-220.md) | Alta | FGV, Cebraspe | 🟡 Em elaboração |
-| **AUD-005** | [Módulo 05: Materialidade, Risco de Auditoria e Fraude (NBC TA 320 e 240)](05-materialidade-risco-fraude-nbc-ta-320-240.md) | Altíssima | Todas | 🟡 Em elaboração |
-| **AUD-006** | [Módulo 06: Relatório do Auditor e Tipos de Opinião (NBC TA 700, 705 e 706)](06-relatorio-opiniao-auditor-nbc-ta-700-705-706.md) | Crítica | Todas | 🟡 Em elaboração |
+| **AUD-004** | [**Módulo 04: Amostragem em Auditoria e Controle de Qualidade (NBC TA 530 e 220)**](04-amostragem-controle-qualidade-nbc-ta-530-220.md) | **Alta** | **FGV, Cebraspe** | 🟢 **Concluído** |
+| **AUD-005** | [**Módulo 05: Materialidade, Risco de Auditoria e Fraude (NBC TA 320 e 240)**](05-materialidade-risco-fraude-nbc-ta-320-240.md) | **Altíssima** | **Todas** | 🟢 **Concluído** |
+| **AUD-006** | [**Módulo 06: Relatório do Auditor e Tipos de Opinião (NBC TA 700, 705 e 706)**](06-relatorio-opiniao-auditor-nbc-ta-700-705-706.md) | **Crítica** | **Todas** | 🟢 **Concluído** |
 | **AUD-007** | [Módulo 07: Controle Interno, Comunicação de Deficiências e PAA/KAM (NBC TA 315, 265 e 701)](07-controle-interno-paa-kam-nbc-ta-315-265-701.md) | Altíssima | Todas | 🟡 Em elaboração |
 | **AUD-008** | [Módulo 08: Eventos Subsequentes, Continuidade, Estimativas e Partes Relacionadas (NBC TA 540, 550, 560 e 570)](08-eventos-subsequentes-continuidade-estimativas-nbc-ta-560-570-540-550.md) | Alta | FGV, FCC | 🟡 Em elaboração |
 | **AUD-009** | [Módulo 09: Representações Formais da Administração (NBC TA 580)](09-representacoes-formais-nbc-ta-580.md) | Média | FGV, Cebraspe | 🟡 Em elaboração |
