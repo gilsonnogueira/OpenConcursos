@@ -3,7 +3,7 @@
 > **A Base de Conhecimento Aberta e Repositório Vivo para Estudantes de Concursos Públicos.**  
 > Inspirado na filosofia colaborativa e de sincronização contínua do **AnkiHub**, aplicado às carreiras de elite: **Fiscal (Receita Federal, SEFAZ, ISS)** e **Controle (TCU, CGU, TCEs)**.
 
-[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-orange.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/00-guia-editorial/GUIA_CONTRIBUICAO.md)
 [![Markdown Native](https://img.shields.io/badge/Format-GitHub_Flavored_Markdown-blue.svg)](https://github.github.com/gfm/)
 [![AI-Grounded](https://img.shields.io/badge/Optimized_for-NotebookLM_%7C_Claude-8A2BE2.svg)](#-integração-com-ferramentas-de-estudo-e-ia)
@@ -73,7 +73,7 @@ Estruturada a partir da espinha dorsal do concurso de **Auditor Fiscal da Receit
 | **16** | [**Contabilidade Geral e Avançada**](docs/16-contabilidade-geral-e-avancada/README.md) | Pronunciamentos Técnicos CPC (00, 01, 16, 25, 27, etc.), BP, DRE, DFC e DVA | 🟡 Em estruturação |
 | **17** | [**Análise das Demonstrações Contábeis**](docs/17-analise-das-demonstracoes-contabeis/README.md) | Análise Vertical/Horizontal, Índices de Liquidez, Rentabilidade, Dupont e Capital | 🟡 Em estruturação |
 | **18** | [**Contabilidade Pública (CASP)**](docs/18-contabilidade-publica/README.md) | PCASP, Variações Patrimoniais (VPA/VPD), MCASP e Balanços da Lei 4.320/64 | 🟡 Em estruturação |
-| **19** | [**Auditoria Governamental e Privada**](docs/19-auditoria/README.md) | Normas NBC TA / NBASP (ISSAI), Planejamento, Matriz de Achados e Relatórios | 🟡 Em estruturação |
+| **19** | [**Auditoria Governamental e Privada**](docs/19-auditoria/README.md) | Normas NBC TA / NBASP (ISSAI), Planejamento, Matriz de Achados e Relatórios | 🟢 Ativo (Verbete Piloto) |
 | **20** | [**Administração Geral e Pública**](docs/20-administracao-geral-e-publica/README.md) | Planejamento Estratégico, Governança, Gestão de Processos e Políticas Públicas | 🟡 Em estruturação |
 
 ---
@@ -129,6 +129,10 @@ Para entender os padrões de escrita e as regras de blindagem jurídica, consult
 
 ---
 
-## ⚖️ Licença
+## ⚖️ Licença e Direitos Autorais
 
-Este projeto é distribuído sob a licença **Creative Commons Atribuição-CompartilhaIgual 4.0 Internacional (CC BY-SA 4.0)**. O conhecimento das normas públicas é livre e compartilhado; as obras derivadas devem manter o caráter aberto e atribuir a autoria ao projeto.
+Este repositório é distribuído sob a licença **Creative Commons Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional (CC BY-NC-SA 4.0)**.
+
+- **Uso Pessoal Livre:** Estudantes podem ler, estudar e utilizar os verbetes gratuitamente para sua preparação pessoal.
+- **Uso Comercial Estritamente Proibido a Terceiros:** É terminantemente vedada a comercialização, venda, revenda, empacotamento em cursos/mentorias pagas de terceiros ou qualquer forma de exploração lucrativa sem autorização prévia e expressa do autor (**Gilson Nogueira**).
+- **Atribuição Obrigatória:** Qualquer compartilhamento ou citação deve obrigatoriamente manter a autoria e o link original deste repositório.
