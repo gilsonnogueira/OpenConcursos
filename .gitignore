@@ -1,0 +1,20 @@
+# Sistema Operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores & IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Obsidian
+.obsidian/workspace*
+.obsidian/cache
+
+# Geradores estáticos (caso usados no futuro)
+node_modules/
+site/
+dist/
+*.tmp
