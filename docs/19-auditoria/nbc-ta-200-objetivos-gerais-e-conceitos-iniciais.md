@@ -148,7 +148,7 @@ A evidência deve ser **suficiente** e **apropriada (adequada)** para fundamenta
 
 ---
 
-## 8. Mnemônicos & Âncoras Cognitivas (Estilo AnkiHub)
+## 8. Mnemônicos & Âncoras de Memória
 
 > [!TIP]
 > **Mnemônico: 5 Princípios Éticos do Auditor (NBC PA 01 / NBC PG 100)**  

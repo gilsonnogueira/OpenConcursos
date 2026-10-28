@@ -62,7 +62,7 @@ flowchart TD
 
 ---
 
-## 5. Mnemônicos & Âncoras Cognitivas (Estilo AnkiHub)
+## 5. Mnemônicos & Âncoras de Memória
 
 > [!TIP]
 > **Mnemônico:** `[PALAVRA-CHAVE]`  
