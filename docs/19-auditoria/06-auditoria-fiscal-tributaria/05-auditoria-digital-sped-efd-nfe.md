@@ -315,9 +315,9 @@ WHERE dimp.valor_total_cartao_pix > COALESCE(efd.valor_faturado_efd, 0);
 
 ## 9. Bateria de Questões Oficiais Comentadas (QConcursos)
 
-### Questão 01 — [CESPE / CEBRASPE — SEFAZ-RR / Auditor Fiscal de Tributos Estaduais — 2023]
-**Identificador QC:** [Q4221420](https://www.qconcursos.com/questoes-de-concursos/questoes/78946ee9-91)  
-**Enunciado:** Uma indústria do setor químico foi submetida simultaneamente a diferentes procedimentos de verificação:  
+### [Questão 01](https://www.qconcursos.com/questoes-de-concursos/questoes/78946ee9-91) — [CESPE / CEBRASPE — SEFAZ-RR / Auditor Fiscal de Tributos Estaduais — 2023]
+
+Uma indústria do setor químico foi submetida simultaneamente a diferentes procedimentos de verificação:  
 I. Um profissional contratado pela administração avaliou controles internos e políticas operacionais corporativas.  
 II. Profissionais de uma firma com registro na CVM e no CNAI examinaram demonstrações contábeis para emitir opinião técnica independente.  
 III. Auditores vinculados à Secretaria da Fazenda de um Estado iniciaram procedimento de fiscalização para verificar a correta apuração e recolhimento do ICMS, mediante análise de NF-e, EFD ICMS/IPI e cruzamentos eletrônicos.  
@@ -338,12 +338,13 @@ As situações I, II, III e IV correspondem, respectivamente, a:
 - IV. Elaboração de laudo contábil sob nomeação de magistrado = **Perícia Contábil** (NBC TP 01).
 - **Alternativas A, B, C e E (INCORRETAS):** Confundem as atribuições privativas de cada ramo e seus respectivos instrumentos normativos.
 
----
-> **🛡️ Regra de Ouro Inviolável:** A assertiva correta consagra o dispositivo normativo estrito aplicável à matéria avaliada.
+> **Fique Ligado:** A assertiva correta consagra o dispositivo normativo estrito aplicável à matéria avaliada.
 
-### Questão 02 — [FGV — Receita Federal do Brasil / Auditor-Fiscal da Receita Federal — 2023]
-**Identificador QC:** [Q4222680](https://www.qconcursos.com/questoes-de-concursos/questoes/6129f236-91)  
-**Enunciado:** De acordo com o Decreto nº 6.022/2007, o Sistema Público de Escrituração Digital (SPED) é o instrumento que unifica as atividades de recepção, validação, armazenamento e autenticação de livros e documentos que integram a escrituração contábil e fiscal das pessoas jurídicas. A respeito do SPED e dos documentos fiscais eletrônicos:
+---
+
+### [Questão 02](https://www.qconcursos.com/questoes-de-concursos/questoes/6129f236-91) — [FGV — Receita Federal do Brasil / Auditor-Fiscal da Receita Federal — 2023]
+
+De acordo com o Decreto nº 6.022/2007, o Sistema Público de Escrituração Digital (SPED) é o instrumento que unifica as atividades de recepção, validação, armazenamento e autenticação de livros e documentos que integram a escrituração contábil e fiscal das pessoas jurídicas. A respeito do SPED e dos documentos fiscais eletrônicos:
 * **A)** A Nota Fiscal Eletrônica (NF-e) adquire existência jurídica plena a partir do momento em que o contribuinte assina digitalmente o arquivo XML, sendo prescindível a autorização da SEFAZ.
 * **B)** O DANFE é documento com eficácia legal autônoma, substituindo em definitivo a NF-e para todos os efeitos fiscais e contábeis.
 * **C)** A validade jurídica dos livros e documentos do SPED fundamenta-se nos certificados digitais emitidos sob a Infraestrutura de Chaves Públicas Brasileira (ICP-Brasil).
@@ -358,12 +359,13 @@ As situações I, II, III e IV correspondem, respectivamente, a:
 * **Alternativa D (INCORRETA):** O art. 37, XXII, da CF/88 e o SPED contemplam a integração com os Municípios (ex.: NFS-e padrão nacional).
 * **Alternativa E (INCORRETA):** A retificação contábil após o início do procedimento fiscal é ineficaz para elidir infrações tributárias apuradas (art. 138 do CTN e Súmula CARF nº 140).
 
----
-> **🛡️ Regra de Ouro Inviolável:** O art.
+> **Fique Ligado:** O art.
 
-### Questão 03 — [FCC — SEFAZ-SC / Auditor Fiscal da Receita Estadual — 2018]
-**Identificador QC:** [Q4163960](https://www.qconcursos.com/questoes-de-concursos/questoes/6e3270ee-7b)  
-**Enunciado:** A digitalização dos documentos fiscais no Brasil transformou profundamente os mecanismos de controle na administração tributária. No âmbito da Nota Fiscal Eletrônica (NF-e) e do Ajuste SINIEF nº 07/2005:
+---
+
+### [Questão 03](https://www.qconcursos.com/questoes-de-concursos/questoes/6e3270ee-7b) — [FCC — SEFAZ-SC / Auditor Fiscal da Receita Estadual — 2018]
+
+A digitalização dos documentos fiscais no Brasil transformou profundamente os mecanismos de controle na administração tributária. No âmbito da Nota Fiscal Eletrônica (NF-e) e do Ajuste SINIEF nº 07/2005:
 * **A)** A Carta de Correção Eletrônica (CC-e) pode ser utilizada para retificar erros na base de cálculo do ICMS, desde que a alíquota aplicável permaneça inalterada.
 * **B)** O cancelamento da NF-e pode ser efetuado mesmo após o início da circulação da mercadoria, desde que o destinatário recuse formalmente o transporte.
 * **C)** A Chave de Acesso da NF-e é estruturada em 44 algarismos, contendo, entre outros elementos, o código do IBGE da unidade da Federação emitente, o ano e mês de emissão e o número sequencial do documento fiscal.
@@ -378,12 +380,13 @@ As situações I, II, III e IV correspondem, respectivamente, a:
 * **Alternativa D (INCORRETA):** O emitente e o destinatário são legalmente obrigados a manter o arquivo XML pelo prazo decadencial (5 anos).
 * **Alternativa E (INCORRETA):** A consulta exige a Chave de Acesso e a visualização completa do XML restringe-se a partes legítimas com certificado digital.
 
----
-> **🛡️ Regra de Ouro Inviolável:** Descrição perfeita da estrutura técnica da Chave de Acesso (44 dígitos), contemplando cUF (2), AAMM (4), CNPJ (14), mod (2), série (3), nNF (9), tpEmis (1), cNF (8) e cDV (1).
+> **Fique Ligado:** Descrição perfeita da estrutura técnica da Chave de Acesso (44 dígitos), contemplando cUF (2), AAMM (4), CNPJ (14), mod (2), série (3), nNF (9), tpEmis (1), cNF (8) e cDV (1).
 
-### Questão 04 — [FGV — SEFAZ-AM / Auditor Fiscal de Tributos Estaduais — 2022]
-**Identificador QC:** [Q4183380](https://www.qconcursos.com/questoes-de-concursos/questoes/aa16e904-81)  
-**Enunciado:** Durante procedimento de fiscalização digital sobre uma empresa comercial e prestadora de serviços, a equipe de auditoria fiscal cruzou as informações prestadas por instituições e operadoras de meios eletrônicos de pagamento (cartão de crédito, débito e PIX) com as receitas declaradas na Escrituração Fiscal Digital (EFD). Constatou-se que o volume financeiro liquidado pelas administradoras de cartão era 80% superior ao total faturado nas notas fiscais emitidas no período. Diante dessa discrepância comprovada em malha eletrônica:
+---
+
+### [Questão 04](https://www.qconcursos.com/questoes-de-concursos/questoes/aa16e904-81) — [FGV — SEFAZ-AM / Auditor Fiscal de Tributos Estaduais — 2022]
+
+Durante procedimento de fiscalização digital sobre uma empresa comercial e prestadora de serviços, a equipe de auditoria fiscal cruzou as informações prestadas por instituições e operadoras de meios eletrônicos de pagamento (cartão de crédito, débito e PIX) com as receitas declaradas na Escrituração Fiscal Digital (EFD). Constatou-se que o volume financeiro liquidado pelas administradoras de cartão era 80% superior ao total faturado nas notas fiscais emitidas no período. Diante dessa discrepância comprovada em malha eletrônica:
 * **A)** a divergência não autoriza a lavratura de auto de infração por se tratar de presunção desprovida de previsão legislativa.
 * **B)** o Fisco deve instaurar mediação preliminar perante a Câmara de Conciliação Financeira do BACEN antes de exigir o tributo.
 * **C)** a autoridade fiscalizadora está respaldada na legislação para lavrar auto de infração com cobrança do imposto sobre a receita omitida, cabendo ao contribuinte o ônus probatório de afastar a presunção legal.
@@ -395,12 +398,13 @@ As situações I, II, III e IV correspondem, respectivamente, a:
 * **Alternativa C (CORRETA):** O cruzamento entre dados da DIMP (meios de pagamento) e a escrituração fiscal é instrumento legal consagrado de apuração tributária. O excedente financeiro liquidado e não acobertado por notas fiscais gera presunção legal de omissão de receitas tributáveis, invertendo-se o ônus probatório em desfavor do contribuinte.
 - **Alternativas A, B, D e E (INCORRETAS):** Há expressa previsão nas leis estaduais do ICMS e leis federais; não há mediação bancária; os dados de adquirentes decorrem de obrigação acessória (LC 105/01 art. 5º); e o lançamento de ofício independe de chancela judicial.
 
----
-> **🛡️ Regra de Ouro Inviolável:** O cruzamento entre dados da DIMP (meios de pagamento) e a escrituração fiscal é instrumento legal consagrado de apuração tributária.
+> **Fique Ligado:** O cruzamento entre dados da DIMP (meios de pagamento) e a escrituração fiscal é instrumento legal consagrado de apuração tributária.
 
-### Questão 05 — [CESPE / CEBRASPE — SEFAZ-CE / Auditor Fiscal da Receita Estadual — 2021]
-**Identificador QC:** [Q4132340](https://www.qconcursos.com/questoes-de-concursos/questoes/f365a438-6f)  
-**Enunciado:** A respeito da Escrituração Fiscal Digital (EFD ICMS/IPI) e de suas regras de organização por blocos, assinale a opção correta:
+---
+
+### [Questão 05](https://www.qconcursos.com/questoes-de-concursos/questoes/f365a438-6f) — [CESPE / CEBRASPE — SEFAZ-CE / Auditor Fiscal da Receita Estadual — 2021]
+
+A respeito da Escrituração Fiscal Digital (EFD ICMS/IPI) e de suas regras de organização por blocos, assinale a opção correta:
 * **A)** O Bloco H destina-se exclusivamente ao controle diário das ordens de produção industrial e ao consumo de matérias-primas na fábrica.
 * **B)** O Registro C100 abriga os dados de consolidação analítica do imposto por alíquota e CFOP, não identificando o número individual da nota fiscal.
 * **C)** O Bloco K é o livro Registro de Controle da Produção e do Estoque em formato digital, contendo os saldos de estoque escriturados e as quantidades de insumos consumidos.
@@ -415,12 +419,13 @@ As situações I, II, III e IV correspondem, respectivamente, a:
 * **Alternativa D (INCORRETA):** O Bloco G destina-se ao CIAP (Controle do Crédito de ICMS do Ativo Permanente); os serviços de transporte e comunicação estão no Bloco D.
 * **Alternativa E (INCORRETA):** O Bloco E (Apuração do ICMS) é obrigatório em todos os períodos de apuração.
 
----
-> **🛡️ Regra de Ouro Inviolável:** O Bloco K representa a versão digital do Livro de Controle da Produção e do Estoque, detalhando a produção (K230), o consumo de matérias-primas (K235) e a posição física dos estoques em poder próprio e de terceiros (K200).
+> **Fique Ligado:** O Bloco K representa a versão digital do Livro de Controle da Produção e do Estoque, detalhando a produção (K230), o consumo de matérias-primas (K235) e a posição física dos estoques em poder próprio e de terceiros (K200).
 
-### Questão 06 — [FCC — SEFAZ-PE / Auditor Fiscal do Tesouro Estadual — 2014]
-**Identificador QC:** [Q4221425](https://www.qconcursos.com/questoes-de-concursos/questoes/78a24aa5-91)  
-**Enunciado:** Durante a auditoria das demonstrações contábeis e fiscais de uma empresa atacadista, o auditor fiscal detectou a ocorrência de notas fiscais eletrônicas de saída com status "Autorizada", emitidas regularmente no sistema do contribuinte, cujos valores de débito do ICMS não foram transportados para o Bloco E (Registro E110) da EFD ICMS/IPI transmitida à Fazenda. Tal inconsistência:
+---
+
+### [Questão 06](https://www.qconcursos.com/questoes-de-concursos/questoes/78a24aa5-91) — [FCC — SEFAZ-PE / Auditor Fiscal do Tesouro Estadual — 2014]
+
+Durante a auditoria das demonstrações contábeis e fiscais de uma empresa atacadista, o auditor fiscal detectou a ocorrência de notas fiscais eletrônicas de saída com status "Autorizada", emitidas regularmente no sistema do contribuinte, cujos valores de débito do ICMS não foram transportados para o Bloco E (Registro E110) da EFD ICMS/IPI transmitida à Fazenda. Tal inconsistência:
 * **A)** constitui erro de baixa materialidade que deve ser relevado pelo Fisco sem aplicação de penalidades.
 * **B)** caracteriza omissão de débitos tributários escriturados, permitindo o lançamento de ofício da diferença do ICMS não recolhido com multa e juros de mora.
 * **C)** impõe a nulidade de pleno direito de todas as notas fiscais emitidas no respectivo mês pelo contribuinte.
@@ -432,12 +437,13 @@ As situações I, II, III e IV correspondem, respectivamente, a:
 * **Alternativa B (CORRETA):** A emissão regular da NF-e gera o dever material de escrituração e recolhimento do débito no Registro E110 da EFD. A omissão dolosa ou culposa do transporte desses valores para a apuração enseja lançamento de ofício do crédito tributário omitido com acréscimo de multas punitivas de ofício e juros legais.
 - **Alternativas A, C, D e E (INCORRETAS):** A sonegação de débito escriturado é infração gravíssima; as notas fiscais emitidas permanecem válidas e geram a obrigação tributária; não há expropriação sumária sem devido processo legal; e a responsabilidade pela integridade da EFD é integral do sujeito passivo.
 
----
-> **🛡️ Regra de Ouro Inviolável:** A emissão regular da NF-e gera o dever material de escrituração e recolhimento do débito no Registro E110 da EFD.
+> **Fique Ligado:** A emissão regular da NF-e gera o dever material de escrituração e recolhimento do débito no Registro E110 da EFD.
 
-### Questão 07 — [CESPE / CEBRASPE — Auditor Federal de Finanças e Controle / CGU — 2022]
-**Identificador QC:** [Q4251181](https://www.qconcursos.com/questoes-de-concursos/questoes/f297cb75-9d)  
-**Enunciado:** A Escrituração Fiscal Digital de Retenções e Outras Informações Fiscais (EFD-Reinf) possui estrutura organizada por eventos transmitidos ao repositório do SPED. A respeito da EFD-Reinf e de sua interação com as obrigações acessórias do SPED, assinale a opção correta:
+---
+
+### [Questão 07](https://www.qconcursos.com/questoes-de-concursos/questoes/f297cb75-9d) — [CESPE / CEBRASPE — Auditor Federal de Finanças e Controle / CGU — 2022]
+
+A Escrituração Fiscal Digital de Retenções e Outras Informações Fiscais (EFD-Reinf) possui estrutura organizada por eventos transmitidos ao repositório do SPED. A respeito da EFD-Reinf e de sua interação com as obrigações acessórias do SPED, assinale a opção correta:
 * **A)** A EFD-Reinf destina-se exclusivamente à apuração e ao recolhimento do ICMS e do ISS devidos por substituição tributária.
 * **B)** A EFD-Reinf abrange informações sobre retenções na fonte de tributos federais (IRRF, CSLL, PIS, COFINS) incidentes sobre pagamentos efetuados a pessoas jurídicas por serviços prestados, bem como sobre a contribuição previdenciária sobre a receita bruta (CPRB).
 * **C)** A transmissão da EFD-Reinf dispensa o contribuinte da emissão de notas fiscais eletrônicas de serviços perante as municipalidades.
@@ -452,12 +458,13 @@ As situações I, II, III e IV correspondem, respectivamente, a:
 * **Alternativa D (INCORRETA):** Toda a transmissão é digital com certificação ICP-Brasil no ambiente SPED, sem trâmite em Junta Comercial.
 * **Alternativa E (INCORRETA):** ECD e ECF continuam plenamente vigentes para escrituração contábil e apuração anual do IRPJ/CSLL.
 
----
-> **🛡️ Regra de Ouro Inviolável:** A EFD-Reinf integra o módulo tributário do SPED dedicado às retenções na fonte federais (IRRF, PIS, COFINS, CSLL) sobre prestação de serviços tomados de pessoas jurídicas, à apuração da CPRB (desoneração da folha) e aos recursos repassados a associações desportivas.
+> **Fique Ligado:** A EFD-Reinf integra o módulo tributário do SPED dedicado às retenções na fonte federais (IRRF, PIS, COFINS, CSLL) sobre prestação de serviços tomados de pessoas jurídicas, à apuração da CPRB (desoneração da folha) e aos recursos repassados a associações desportivas.
 
-### Questão 08 — [VUNESP — Prefeitura de Guarulhos - SP / Auditor Fiscal Tributário — 2019]
-**Identificador QC:** [Q4163961](https://www.qconcursos.com/questoes-de-concursos/questoes/6e356970-7b)  
-**Enunciado:** As obrigações tributárias acessórias desempenham papel nuclear no fornecimento de dados para a fiscalização digital. Sobre as infrações decorrentes do descumprimento de obrigações acessórias relativas à emissão e armazenamento de Documentos Fiscais Eletrônicos (DF-e):
+---
+
+### [Questão 08](https://www.qconcursos.com/questoes-de-concursos/questoes/6e356970-7b) — [VUNESP — Prefeitura de Guarulhos - SP / Auditor Fiscal Tributário — 2019]
+
+As obrigações tributárias acessórias desempenham papel nuclear no fornecimento de dados para a fiscalização digital. Sobre as infrações decorrentes do descumprimento de obrigações acessórias relativas à emissão e armazenamento de Documentos Fiscais Eletrônicos (DF-e):
 * **A)** O descumprimento de obrigação acessória não pode gerar penalidade pecuniária por ausência de previsão constitucional.
 * **B)** A obrigação acessória, pelo simples fato da sua inobservância, converte-se em obrigação principal relativamente à penalidade pecuniária.
 * **C)** A pessoa jurídica optante pelo Simples Nacional é imune à aplicação de penalidades decorrentes da falta de entrega de arquivos da EFD.
@@ -472,12 +479,13 @@ As situações I, II, III e IV correspondem, respectivamente, a:
 * **Alternativa D (INCORRETA):** O art. 13 do Ajuste SINIEF 07/05 impõe o dever de guarda do XML pelo prazo decadencial a ambos (emitente e adquirente).
 * **Alternativa E (INCORRETA):** A inidoneidade fiscal é declarada no âmbito administrativo fiscal pela autoridade fazendária competente.
 
----
-> **🛡️ Regra de Ouro Inviolável:** Expressa a regra basilar do art.
+> **Fique Ligado:** Expressa a regra basilar do art.
 
-### Questão 09 — [FGV — Auditor Fiscal da Receita Estadual / SEFAZ-ES — 2022]
-**Identificador QC:** [Q4146449](https://www.qconcursos.com/questoes-de-concursos/questoes/75093c5f-74)  
-**Enunciado:** Um auditor fiscal estadual está realizando auditoria nos créditos de ICMS apropriados por uma indústria metalúrgica decorrentes da aquisição de máquinas e equipamentos destinados ao seu ativo imobilizado operacional. Para auditar a regularidade dos créditos escriturados pelo contribuinte, o auditor deve verificar:
+---
+
+### [Questão 09](https://www.qconcursos.com/questoes-de-concursos/questoes/75093c5f-74) — [FGV — Auditor Fiscal da Receita Estadual / SEFAZ-ES — 2022]
+
+Um auditor fiscal estadual está realizando auditoria nos créditos de ICMS apropriados por uma indústria metalúrgica decorrentes da aquisição de máquinas e equipamentos destinados ao seu ativo imobilizado operacional. Para auditar a regularidade dos créditos escriturados pelo contribuinte, o auditor deve verificar:
 * **A)** se os créditos foram apropriados integralmente e de uma só vez (100%) no próprio mês de entrada do maquinário no estabelecimento, conforme regra geral do regime não cumulativo.
 * **B)** se o contribuinte escriturou corretamente o Bloco G (CIAP) da EFD ICMS/IPI, observando a apropriação mensal na proporção de 1/48 avos multiplicada pela razão entre as operações de saídas tributadas e as saídas totais do período.
 * **C)** se o contribuinte obteve autorização judicial prévia para creditamento de ICMS de bens de capital.
@@ -490,12 +498,13 @@ As situações I, II, III e IV correspondem, respectivamente, a:
 * **Alternativa A (INCORRETA):** A apropriação imediata e integral (100%) não se aplica a bens do imobilizado, mas sim a matérias-primas e mercadorias para revenda.
 - **Alternativas C, D e E (INCORRETAS):** O direito ao crédito do ativo decorre de lei complementar, prescindindo de ação judicial, não tem relação com isenção de IPI e não adota indexadores extintos.
 
----
-> **🛡️ Regra de Ouro Inviolável:** A Lei Complementar nº 87/1996 (Lei Kandir), art.
+> **Fique Ligado:** A Lei Complementar nº 87/1996 (Lei Kandir), art.
 
-### Questão 10 — [FCC — SEFAZ-BA / Auditor Fiscal — 2019]
-**Identificador QC:** [Q4014898](https://www.qconcursos.com/questoes-de-concursos/questoes/bf3a10b9-40)  
-**Enunciado:** Em relação à auditoria fiscal do inventário físico e ao controle quantitativo de estoques na EFD ICMS/IPI, o auditor fiscal confrontou os dados do Registro H010 (detalhamento do inventário físico em 31/12) com os saldos apurados através das entradas registradas no Registro C170 e saídas do período. Constatada a falta física de mercadorias no inventário do estabelecimento:
+---
+
+### [Questão 10](https://www.qconcursos.com/questoes-de-concursos/questoes/bf3a10b9-40) — [FCC — SEFAZ-BA / Auditor Fiscal — 2019]
+
+Em relação à auditoria fiscal do inventário físico e ao controle quantitativo de estoques na EFD ICMS/IPI, o auditor fiscal confrontou os dados do Registro H010 (detalhamento do inventário físico em 31/12) com os saldos apurados através das entradas registradas no Registro C170 e saídas do período. Constatada a falta física de mercadorias no inventário do estabelecimento:
 * **A)** presume-se que a mercadoria faltante evaporou por perda natural de estoque, não havendo repercussão tributária se for inferior a 10% do faturamento.
 * **B)** presume-se que as mercadorias faltantes foram alienadas e entregues a adquirentes sem a emissão do competente documento fiscal, configurando omissão de receitas de vendas e autorizando a exigência do tributo e penalidades.
 * **C)** a empresa adquire o direito automático a estornar os débitos de saídas anteriores para compensar o prejuízo patrimonial sofrido.
@@ -507,12 +516,13 @@ As situações I, II, III e IV correspondem, respectivamente, a:
 * **Alternativa B (CORRETA):** Trata-se de presunção legal expressa constante do art. 294 do RIR/2018 e das legislações estaduais do ICMS: a constatação de falta de mercadorias no estoque físico (estoque físico apurado inferior ao estoque contábil escriturado) enseja a presunção legal absoluta/relativa de que o saldo faltante foi comercializado sem emissão de documento fiscal (saída sem nota), gerando o dever de recolhimento do tributo com base no preço de venda praticado acrescido das penalidades cabíveis.
 - **Alternativas A, C, D e E (INCORRETAS):** Perdas anormais ou naturais de estoque exigem laudo técnico tempestivo do IPT, Corpo de Bombeiros ou órgão metrológico oficial; não há estorno de débito por descuido; o lançamento fiscal independe de inquérito penal; e reposição posterior de estoque não apaga o fato gerador pretérito consumado.
 
----
-> **🛡️ Regra de Ouro Inviolável:** Trata-se de presunção legal expressa constante do art.
+> **Fique Ligado:** Trata-se de presunção legal expressa constante do art.
 
-### Questão 11 — [CESPE / CEBRASPE — SEFAZ-CE / Auditor Fiscal da Receita Estadual — 2021]
-**Identificador QC:** [Q4059569](https://www.qconcursos.com/questoes-de-concursos/questoes/fe1660af-52)  
-**Enunciado:** Com base na legislação tributária e nas normas de fiscalização digital do SPED, julgue o item a seguir:  
+---
+
+### [Questão 11](https://www.qconcursos.com/questoes-de-concursos/questoes/fe1660af-52) — [CESPE / CEBRASPE — SEFAZ-CE / Auditor Fiscal da Receita Estadual — 2021]
+
+Com base na legislação tributária e nas normas de fiscalização digital do SPED, julgue o item a seguir:  
 *A escrituração e a entrega da EFD ICMS/IPI suprem em definitivo todas as exigências de apresentação de documentos fiscais físicos perante a administração tributária, de forma que o Fisco estadual fica impedido de exigir a exibição física de estoques ou a verificação in loco de estabelecimentos comerciais que já tenham transmitido os Blocos C e H do arquivo eletrônico.*
 - ( ) Certo
 - ( ) Errado
@@ -521,12 +531,13 @@ As situações I, II, III e IV correspondem, respectivamente, a:
 
 - **Justificativa:** O item está **ERRADO**. A transmissão da EFD ICMS/IPI é dever instrumental que não restringe nem limita o poder de polícia tributária e o livre acesso dos auditores fiscais aos estabelecimentos, mercadorias, depósitos e instalações da empresa (arts. 195 e 200 do CTN). A fiscalização pode e deve realizar a contagem física presencial de inventário para confrontar a existência física das mercadorias com os registros eletrônicos dos Blocos C, H e K, apurando eventuais desvios, sobras ou faltas de mercadorias.
 
----
-> **🛡️ Regra de Ouro Inviolável:** A assertiva correta consagra o dispositivo normativo estrito aplicável à matéria avaliada.
+> **Fique Ligado:** A assertiva correta consagra o dispositivo normativo estrito aplicável à matéria avaliada.
 
-### Questão 12 — [FGV — SEFAZ-MG / Auditor Fiscal da Receita Estadual — 2023]
-**Identificador QC:** [Q4059579](https://www.qconcursos.com/questoes-de-concursos/questoes/fe314206-52)  
-**Enunciado:** Em relação à apuração de fraudes na escrituração digital e à auditoria fiscal eletrônica dos livros do SPED, assinale a opção correta:
+---
+
+### [Questão 12](https://www.qconcursos.com/questoes-de-concursos/questoes/fe314206-52) — [FGV — SEFAZ-MG / Auditor Fiscal da Receita Estadual — 2023]
+
+Em relação à apuração de fraudes na escrituração digital e à auditoria fiscal eletrônica dos livros do SPED, assinale a opção correta:
 * **A)** A utilização de créditos de ICMS destacados em notas fiscais eletrônicas com status "Cancelada" na base nacional da SEFAZ constitui crédito legítimo se o contribuinte comprovar que pagou a duplicata mercantil ao fornecedor.
 * **B)** O aproveitamento de créditos fiscais de ICMS destacados em NF-e cuja autorização de uso tenha sido denegada ou cancelada pelo Fisco configura apropriação indébita e crédito inidôneo, autorizando a glosa integral do valor, estorno do crédito e lavratura de auto de infração com multa qualificada.
 * **C)** A reconciliação do Bloco K da EFD dispensa a fiscalização da análise de laudos periciais de quebras e perdas produtivas em processos químicos e petroquímicos.
@@ -539,4 +550,4 @@ As situações I, II, III e IV correspondem, respectivamente, a:
 * **Alternativa A (INCORRETA):** O pagamento financeiro de duplicata não convalida documento fiscal juridicamente inexistente ou cancelado para fins de crédito tributário.
 * **Alternativa C (INCORRETA):** O Bloco K não substitui laudos técnicos quando há divergência relevante nos índices de perda.
 - **Alternativas D e E (INCORRETAS):** O cancelamento intempestivo é infração autônoma e exige retificação da EFD; e os Fiscos possuem ampla competência constitucional e legal de compartilhamento mútuo (art. 37, XXII, da CF/88 e art. 199 do CTN).
-> **🛡️ Regra de Ouro Inviolável:** A existência jurídica e a eficácia de crédito do documento fiscal eletrônico decorrem de sua regular autorização.
+> **Fique Ligado:** A existência jurídica e a eficácia de crédito do documento fiscal eletrônico decorrem de sua regular autorização.

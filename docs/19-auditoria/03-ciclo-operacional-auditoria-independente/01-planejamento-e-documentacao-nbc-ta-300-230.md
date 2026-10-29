@@ -547,8 +547,7 @@ A firma *Alfa Auditores Independentes* foi contratada em **agosto de 2025** para
 
 ## 8. Questões Oficiais Comentadas
 
-### Questão 01 — [FGV — Receita Federal / Auditor-Fiscal — 2023]
-**Identificador QC:** [Q2118945](https://www.qconcursos.com/questoes-de-concursos/questoes/8a211894-5c)
+### [Questão 01](https://www.qconcursos.com/questoes-de-concursos/questoes/8a211894-5c) — [FGV — Receita Federal / Auditor-Fiscal — 2023]
 
 De acordo com a NBC TA 210 (Concordância com os Termos do Trabalho de Auditoria), quando a administração de uma entidade solicita ao auditor independente, antes da conclusão do trabalho de auditoria, a alteração do trabalho para um serviço que proporcione um nível mais baixo de asseguração (como uma revisão de demonstrações contábeis), o auditor deve avaliar se há justificativa razoável para fazê-lo.
 
@@ -568,12 +567,11 @@ Assinale a opção que apresenta o procedimento **correto** do auditor caso conc
 - **(D) Incorreta:** Não há emissão de relatório de abstenção sobre o trabalho original quando a mudança contratual é legítima e aceita por ambas as partes.
 - **(E) Incorreta:** Inverte a exceção do item 16: nos trabalhos de **procedimentos previamente acordados (NBC TSC 4400)** é que a referência aos procedimentos executados **é permitida** (pois descrever os procedimentos executados é a própria essência desse relatório!).
 
+> **Fique Ligado:** Na mudança de termos de trabalho para nível inferior de asseguração (ex: auditoria para revisão), se houver justificativa razoável, emite-se relatório de revisão SEM qualquer menção ao trabalho original ou procedimentos já executados.
+
 ---
 
-> **🛡️ Regra de Ouro Inviolável:** Na mudança de termos de trabalho para nível inferior de asseguração (ex: auditoria para revisão), se houver justificativa razoável, emite-se relatório de revisão SEM qualquer menção ao trabalho original ou procedimentos já executados.
-
-### Questão 02 — [FGV — SEFAZ-MG / Auditor Fiscal da Receita Estadual — 2023]
-**Identificador QC:** [Q2089456](https://www.qconcursos.com/questoes-de-concursos/questoes/5b208945-6d)
+### [Questão 02](https://www.qconcursos.com/questoes-de-concursos/questoes/5b208945-6d) — [FGV — SEFAZ-MG / Auditor Fiscal da Receita Estadual — 2023]
 
 No planejamento da auditoria de demonstrações contábeis regido pela NBC TA 300, o auditor deve estabelecer a estratégia global de auditoria e desenvolver o plano de auditoria.
 
@@ -593,12 +591,11 @@ Sobre a relação e o conteúdo desses dois instrumentos de planejamento, assina
 - **(D) Incorreta:** A natureza, a época e a extensão dos **procedimentos planejados de avaliação de risco (NBC TA 315)** integram o **Plano de Auditoria** (Item 9, "a"), e não a estratégia global.
 - **(E) Incorreta:** Conforme o item A3, a estratégia global e o plano de auditoria permanecem sendo **responsabilidade exclusiva do auditor**, e o compartilhamento detalhado dos procedimentos com a administração é vedado quando puder comprometer a imprevisibilidade da auditoria.
 
+> **Fique Ligado:** A Estratégia Global define o alcance, época e direção (RE-ES); o Plano de Auditoria é mais detalhado e inclui a natureza, época e extensão dos procedimentos de avaliação de riscos e adicionais (PRO-PLA).
+
 ---
 
-> **🛡️ Regra de Ouro Inviolável:** A Estratégia Global define o alcance, época e direção (RE-ES); o Plano de Auditoria é mais detalhado e inclui a natureza, época e extensão dos procedimentos de avaliação de riscos e adicionais (PRO-PLA).
-
-### Questão 03 — [Cebraspe — TCU / Auditor Federal de Controle Externo — 2022]
-**Identificador QC:** [Q1889412](https://www.qconcursos.com/questoes-de-concursos/questoes/3c188941-2e)
+### [Questão 03](https://www.qconcursos.com/questoes-de-concursos/questoes/3c188941-2e) — [Cebraspe — TCU / Auditor Federal de Controle Externo — 2022]
 
 À luz da NBC TA 230 (Documentação de Auditoria) e da NBC TA 300 (Planejamento da Auditoria), assinale a opção **correta**.
 * **A)** A preparação tempestiva da documentação de auditoria exige que todos os papéis de trabalho sejam redigidos exclusivamente após a emissão do relatório do auditor, durante o prazo de 60 dias de montagem do arquivo final.
@@ -616,12 +613,11 @@ Sobre a relação e o conteúdo desses dois instrumentos de planejamento, assina
 - **(D) Incorreta:** Dois erros graves: o prazo adequado de montagem do arquivo final é de **não mais que 60 dias** (Item A21), e esse processo é **estritamente administrativo**, não envolvendo a execução de novos procedimentos de auditoria (Item A22).
 - **(E) Incorreta:** Conforme os itens 15 e A23, após a montagem do arquivo final, é **proibido apagar ou descartar documentação de qualquer natureza** antes do fim do período de retenção, que não é inferior a **5 anos** a partir da data do relatório.
 
+> **Fique Ligado:** A documentação de auditoria deve permitir que um auditor experiente sem contato prévio compreenda a natureza, época, extensão, resultados e julgamentos significativos do trabalho.
+
 ---
 
-> **🛡️ Regra de Ouro Inviolável:** A documentação de auditoria deve permitir que um auditor experiente sem contato prévio compreenda a natureza, época, extensão, resultados e julgamentos significativos do trabalho.
-
-### Questão 04 — [FCC — SEFAZ-PE / Auditor Fiscal do Tesouro Estadual — 2022]
-**Identificador QC:** [Q1945612](https://www.qconcursos.com/questoes-de-concursos/questoes/7e194561-2a)
+### [Questão 04](https://www.qconcursos.com/questoes-de-concursos/questoes/7e194561-2a) — [FCC — SEFAZ-PE / Auditor Fiscal do Tesouro Estadual — 2022]
 
 Em relação aos trabalhos iniciais de auditoria e ao exame dos saldos iniciais disciplinados pela NBC TA 510, considere a situação em que o auditor foi contratado em outubro de $20\text{X}2$ para auditar as demonstrações contábeis do exercício findo em $31/12/20\text{X}2$, sendo que o exercício de $20\text{X}1$ foi auditado por outro auditor independente.
 
@@ -641,12 +637,11 @@ Nessa hipótese, de acordo com a NBC TA 510, assinale a alternativa **correta**.
 - **(D) CORRETA:** Transcrição fiel do **item A4 da NBC TA 510**: para ativos e passivos circulantes, a liquidação financeira (cobrança de clientes e pagamento de fornecedores) no período corrente fornece evidência sobre sua existência, direitos/obrigações, integridade e avaliação no início do período.
 - **(E) Incorreta:** Conforme o **item 13 da NBC TA 510**, se a modificação na opinião do auditor antecessor permanecer relevante e material para as demonstrações do período corrente, o auditor atual **deve modificar a sua opinião** sobre as demonstrações do período corrente!
 
+> **Fique Ligado:** Em trabalhos iniciais (NBC TA 510), se o relatório anterior continha modificação relevante para o período corrente, o auditor atual deve modificar sua opinião em relação ao período corrente.
+
 ---
 
-> **🛡️ Regra de Ouro Inviolável:** Em trabalhos iniciais (NBC TA 510), se o relatório anterior continha modificação relevante para o período corrente, o auditor atual deve modificar sua opinião em relação ao período corrente.
-
-### Questão 05 — [FGV — CGE-SC / Auditor do Estado — 2023]
-**Identificador QC:** [Q2123456](https://www.qconcursos.com/questoes-de-concursos/questoes/1f212345-6b)
+### [Questão 05](https://www.qconcursos.com/questoes-de-concursos/questoes/1f212345-6b) — [FGV — CGE-SC / Auditor do Estado — 2023]
 
 Antes de aceitar um trabalho de auditoria independente, o auditor constatou que a administração da companhia impôs nos termos da proposta contratual uma cláusula proibindo a equipe de auditoria de examinar quaisquer contratos e extratos das controladas operacionais da empresa, os quais representam $75\%$ das receitas e dos ativos consolidados. O auditor avaliou que tal restrição geraria um efeito relevante e generalizado sobre as demonstrações contábeis.
 
@@ -664,12 +659,11 @@ Considerando o disposto na NBC TA 210, e sabendo que não há determinação leg
 - **(C) CORRETA:** Aplicação direta do comando proibitivo do **item 7 da NBC TA 210**.
 - **(D) Incorreta:** Representações formais da administração (NBC TA 580) **jamais substituem** a evidência de auditoria apropriada e suficiente que o auditor deveria obter.
 
+> **Fique Ligado:** Se a limitação de escopo pela administração antes da contratação resultar em abstenção de opinião, o auditor NÃO deve aceitar o trabalho, salvo determinação legal compulsória.
+
 ---
 
-> **🛡️ Regra de Ouro Inviolável:** Se a limitação de escopo pela administração antes da contratação resultar em abstenção de opinião, o auditor NÃO deve aceitar o trabalho, salvo determinação legal compulsória.
-
-### Questão 06 — [FGV — SEFAZ-MT / Auditor Fiscal de Tributos Estaduais — 2023]
-**Identificador QC:** [Q2156789](https://www.qconcursos.com/questoes-de-concursos/questoes/9a215678-9c)
+### [Questão 06](https://www.qconcursos.com/questoes-de-concursos/questoes/9a215678-9c) — [FGV — SEFAZ-MT / Auditor Fiscal de Tributos Estaduais — 2023]
 
 Durante a execução da auditoria das demonstrações contábeis de uma instituição, o auditor deparou-se com uma circunstância excepcional na qual julgou estritamente necessário afastar-se de um requisito relevante previsto em uma Norma Brasileira de Contabilidade Técnica de Auditoria (NBC TA).
 
@@ -689,12 +683,11 @@ Nessa situação, de acordo com a NBC TA 230, o auditor deve:
 - **(D) Incorreta:** Como os procedimentos alternativos alcançaram a finalidade do requisito e forneceram evidência apropriada e suficiente, não há limitação de escopo nem modificação da opinião.
 - **(E) Incorreta:** A documentação por escrito nos papéis de trabalho é obrigatória (Item 12 da NBC TA 230).
 
+> **Fique Ligado:** Alterações na documentação após a conclusão do relatório exigem o registro das circunstâncias excepcionais, novos procedimentos, evidências obtidas e quem efetuou e revisou.
+
 ---
 
-> **🛡️ Regra de Ouro Inviolável:** Alterações na documentação após a conclusão do relatório exigem o registro das circunstâncias excepcionais, novos procedimentos, evidências obtidas e quem efetuou e revisou.
-
-### Questão 07 — [FCC — TCE-GO / Analista de Controle Externo — 2022]
-**Identificador QC:** [Q1923456](https://www.qconcursos.com/questoes-de-concursos/questoes/4b192345-6d)
+### [Questão 07](https://www.qconcursos.com/questoes-de-concursos/questoes/4b192345-6d) — [FCC — TCE-GO / Analista de Controle Externo — 2022]
 
 Considere os seguintes procedimentos realizados pela equipe de auditoria durante o processo de encerramento dos trabalhos, dentro do prazo de 45 dias após a data do relatório do auditor independente:
 
@@ -719,12 +712,11 @@ De acordo com a NBC TA 230, são procedimentos permitidos durante o processo adm
 - **Item IV — Correto:** Assinar listas de verificação relativas ao processo de montagem do arquivo é expressamente autorizado pelo **item A22**.
 - Assim, apenas os itens **I, II e IV** são permitidos, tornando a alternativa **(B)** a única correta.
 
+> **Fique Ligado:** O prazo ordinário de montagem do arquivo final de auditoria é de até 60 dias da data do relatório; durante a montagem administrativa é vedado apagar papéis existentes ou mudar conclusões técnicas.
+
 ---
 
-> **🛡️ Regra de Ouro Inviolável:** O prazo ordinário de montagem do arquivo final de auditoria é de até 60 dias da data do relatório; durante a montagem administrativa é vedado apagar papéis existentes ou mudar conclusões técnicas.
-
-### Questão 08 — [Cebraspe — CGU / Auditor Federal de Finanças e Controle — 2022]
-**Identificador QC:** [Q1890123](https://www.qconcursos.com/questoes-de-concursos/questoes/2d189012-3e)
+### [Questão 08](https://www.qconcursos.com/questoes-de-concursos/questoes/2d189012-3e) — [Cebraspe — CGU / Auditor Federal de Finanças e Controle — 2022]
 
 No que se refere às atividades preliminares do trabalho de auditoria e à documentação do planejamento previstas na NBC TA 300, assinale a opção **correta**.
 * **A)** As atividades preliminares do trabalho de auditoria devem ser realizadas após a conclusão dos procedimentos de avaliação de risco da NBC TA 315, quando o auditor já conhece os controles internos da entidade.
@@ -742,12 +734,11 @@ No que se refere às atividades preliminares do trabalho de auditoria e à docum
 - **(D) Incorreta:** Mesmo em entidades de pequeno porte, a documentação do planejamento é obrigatória, embora possa ser feita de maneira mais simples e concisa (ex.: memorando breve e programas padronizados — Itens A16 a A18 da NBC TA 300).
 - **(E) Incorreta:** Conforme o item A14 da NBC TA 300, um aumento no risco avaliado de distorção relevante para uma dada área exige normalmente um **aumento correspondente** (relação direta!) na extensão e no tempo da direção e supervisão dos membros da equipe e uma revisão mais detalhada do seu trabalho.
 
+> **Fique Ligado:** As atividades preliminares (NBC TA 300) incluem avaliar a continuidade do cliente, conformidade com a ética/independência e estabelecimento dos termos do trabalho (carta de contratação).
+
 ---
 
-> **🛡️ Regra de Ouro Inviolável:** As atividades preliminares (NBC TA 300) incluem avaliar a continuidade do cliente, conformidade com a ética/independência e estabelecimento dos termos do trabalho (carta de contratação).
-
-### Questão 09 — [FGV — SEFAZ-BA / Agente de Tributos Estaduais — 2022]
-**Identificador QC:** [Q1912345](https://www.qconcursos.com/questoes-de-concursos/questoes/6c191234-5f)
+### [Questão 09](https://www.qconcursos.com/questoes-de-concursos/questoes/6c191234-5f) — [FGV — SEFAZ-BA / Agente de Tributos Estaduais — 2022]
 
 Em relação ao registro das características identificadoras dos itens ou assuntos específicos testados na documentação de auditoria (NBC TA 230, item 9), assinale a afirmativa **correta**.
 * **A)** O registro das características identificadoras é facultativo nos testes substantivos de detalhes, sendo exigido apenas nos testes de controle de sistemas informatizados.
@@ -765,12 +756,11 @@ Em relação ao registro das características identificadoras dos itens ou assun
 - **(D) Incorreta:** Conforme o **item A13 da NBC TA 230**, a exigência de documentar quem revisou o trabalho **não implica** a necessidade de cada papel de trabalho específico incluir evidência de revisão, desde que esteja documentado que trabalho foi revisado, quem o revisou e quando foi revisado.
 - **(E) Incorreta:** Para um procedimento de observação, o item A12 exige registrar o processo ou assunto observado, os indivíduos relevantes, suas responsabilidades, e **onde e quando** a observação foi conduzida.
 
+> **Fique Ligado:** Ao registrar características identificadoras de itens testados, deve-se registrar o número do documento/ordem ou critérios de seleção de modo a permitir nova execução independente.
+
 ---
 
-> **🛡️ Regra de Ouro Inviolável:** Ao registrar características identificadoras de itens testados, deve-se registrar o número do documento/ordem ou critérios de seleção de modo a permitir nova execução independente.
-
-### Questão 10 — [FCC — SEFAZ-SC / Auditor Fiscal da Receita Estadual — 2021]
-**Identificador QC:** [Q1789012](https://www.qconcursos.com/questoes-de-concursos/questoes/8e178901-2a)
+### [Questão 10](https://www.qconcursos.com/questoes-de-concursos/questoes/8e178901-2a) — [FCC — SEFAZ-SC / Auditor Fiscal da Receita Estadual — 2021]
 
 Sobre as auditorias recorrentes e os termos do trabalho de auditoria regulados pela NBC TA 210, é **correto** afirmar:
 * **A)** Em auditorias recorrentes, o auditor é obrigado a firmar uma nova carta de contratação anualmente, sob pena de nulidade absoluta do relatório de auditoria emitido.
@@ -788,15 +778,13 @@ Sobre as auditorias recorrentes e os termos do trabalho de auditoria regulados p
 - **(D) Incorreta:** A responsabilidade pelo controle interno é **indelegável e permanente da administração** (Item 6, "b").
 - **(E) Incorreta:** O **item A24 da NBC TA 210** prevê expressamente que a carta de contratação pode fazer referência a acordos relativos ao envolvimento de outros auditores e especialistas e à utilização de auditores internos.
 
----
-
-> **🛡️ Regra de Ouro Inviolável:** Em auditorias recorrentes, o auditor deve avaliar se as circunstâncias exigem revisão dos termos ou lembrete dos termos vigentes à entidade.
-
+> **Fique Ligado:** Em auditorias recorrentes, o auditor deve avaliar se as circunstâncias exigem revisão dos termos ou lembrete dos termos vigentes à entidade.
 
 ---
 
-### Questão 11 — [FGV — Receita Federal / Analista-Tributário — 2023]
-**Identificador QC:** [Q2119850](https://www.qconcursos.com/questoes-de-concursos/questoes/a1211985-0b)
+---
+
+### [Questão 11](https://www.qconcursos.com/questoes-de-concursos/questoes/a1211985-0b) — [FGV — Receita Federal / Analista-Tributário — 2023]
 
 A respeito da montagem do arquivo final de documentação de auditoria e do prazo mínimo de retenção e guarda dos papéis de trabalho, conforme expressamente disciplinado na NBC TA 230 (R1), assinale a afirmativa CORRETA:
 
@@ -815,12 +803,11 @@ A respeito da montagem do arquivo final de documentação de auditoria e do praz
 * **(D) INCORRETA:** Minutas preliminares, correspondências duplicadas e rascunhos descartados não precisam ser mantidos na pasta final (item A4 da NBC TA 230).
 * **(E) INCORRETA:** O auditor pode modificar ou adicionar nova documentação após a conclusão do arquivo final em circunstâncias excepcionais, desde que documente as razões específicas e quem fez e revisou as alterações (itens 16 e A24 da NBC TA 230).
 
-> **🛡️ Regra de Ouro Inviolável:** Montagem do arquivo final = até 60 dias após a data do relatório (processo puramente administrativo). Prazo de guarda/retenção = no mínimo 5 anos.
+> **Fique Ligado:** Montagem do arquivo final = até 60 dias após a data do relatório (processo puramente administrativo). Prazo de guarda/retenção = no mínimo 5 anos.
 
 ---
 
-### Questão 12 — [Cebraspe — SEFAZ-AL / Auditor Fiscal da Receita Estadual — 2020]
-**Identificador QC:** [Q1156780](https://www.qconcursos.com/questoes-de-concursos/questoes/d3115678-0c)
+### [Questão 12](https://www.qconcursos.com/questoes-de-concursos/questoes/d3115678-0c) — [Cebraspe — SEFAZ-AL / Auditor Fiscal da Receita Estadual — 2020]
 
 No que tange ao planejamento da auditoria das demonstrações contábeis (NBC TA 300), a distinção entre Estratégia Global de Auditoria e Plano de Auditoria constitui elemento fundamental de governança do trabalho. A esse respeito, julgue os itens a seguir:
 
@@ -844,7 +831,7 @@ Assinale a opção correta:
 * **Análise do Item III (CORRETO):** Reflete com precisão o item 10 da NBC TA 300: o planejamento não é uma fase estática e isolada da auditoria, mas um processo contínuo e iterativo que deve ser atualizado e alterado sempre que circunstâncias imprevistas ou novas evidências assim exigirem.
 * Logo, estão certos apenas os itens **I e III**, confirmando o gabarito na **alternativa C**.
 
-> **🛡️ Regra de Ouro Inviolável:** A Estratégia Global define as diretrizes amplas (RE-ES); o Plano de Auditoria é MAIS detalhado (PRO-PLA: procedimentos no nível da afirmação). O planejamento é contínuo e iterativo ao longo de todo o trabalho.
+> **Fique Ligado:** A Estratégia Global define as diretrizes amplas (RE-ES); o Plano de Auditoria é MAIS detalhado (PRO-PLA: procedimentos no nível da afirmação). O planejamento é contínuo e iterativo ao longo de todo o trabalho.
 
 ## 9. Links e Conexões Temáticas
 

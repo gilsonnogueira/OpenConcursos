@@ -246,9 +246,9 @@ Levantamento físico realizado pela fiscalização em 31/12 para o produto "Bobi
 
 ## 8. Bateria de Questões Oficiais Comentadas (QConcursos)
 
-### Questão 01 — [FGV — Receita Federal do Brasil / Auditor-Fiscal da Receita Federal — 2023]
-**Identificador QC:** [Q4371095](https://www.qconcursos.com/questoes-de-concursos/questoes/dde2b7ce-c6)  
-**Enunciado:** Em procedimento de auditoria fiscal sobre uma sociedade anônima tributada pelo Lucro Real, o Auditor-Fiscal identificou que a empresa contabilizou como despesas operacionais dedutíveis: (1) multas punitivas de 75% aplicadas pela fiscalização tributária no ano anterior; (2) distribuição de cestas de brindes de alto valor distribuídas no Natal a clientes selecionados; e (3) despesas com aluguel de aeronave particular utilizada pela família do diretor-presidente para viagens de férias. À luz do art. 311 do RIR/2018 e da Lei nº 9.249/1995:
+### [Questão 01](https://www.qconcursos.com/questoes-de-concursos/questoes/dde2b7ce-c6) — [FGV — Receita Federal do Brasil / Auditor-Fiscal da Receita Federal — 2023]
+
+Em procedimento de auditoria fiscal sobre uma sociedade anônima tributada pelo Lucro Real, o Auditor-Fiscal identificou que a empresa contabilizou como despesas operacionais dedutíveis: (1) multas punitivas de 75% aplicadas pela fiscalização tributária no ano anterior; (2) distribuição de cestas de brindes de alto valor distribuídas no Natal a clientes selecionados; e (3) despesas com aluguel de aeronave particular utilizada pela família do diretor-presidente para viagens de férias. À luz do art. 311 do RIR/2018 e da Lei nº 9.249/1995:
 * **A)** Todas as despesas mencionadas são plenamente dedutíveis por refletirem atos normais de gestão societária.
 * **B)** Apenas as multas punitivas são dedutíveis, sendo as demais despesas indedutíveis.
 * **C)** As multas punitivas fiscais, as despesas com brindes e as despesas com viagens pessoais de administradores são totalmente indedutíveis, devendo ser adicionadas ao lucro líquido contábil no e-LALUR.
@@ -260,12 +260,13 @@ Levantamento físico realizado pela fiscalização em 31/12 para o produto "Bobi
 * **Alternativa C (CORRETA):** A legislação tributária federal é expressa: (1) multas punitivas decorrentes de lançamento de ofício são expressamente indedutíveis (art. 344 do RIR/2018); (2) despesas com brindes são vedadas pelo art. 13 da Lei nº 9.249/1995; e (3) despesas particulares de lazer de administradores violam o princípio da necessidade e utilidade do art. 311, caracterizando despesas indedutíveis e distribuição disfarçada de lucros. Todas devem ser adicionadas na Parte A do e-LALUR.
 - **Alternativas A, B, D e E (INCORRETAS):** Despesas indedutíveis por expressa previsão legal não admitem deduções parciais ou amortizações artificiais.
 
----
-> **🛡️ Regra de Ouro Inviolável:** A legislação tributária federal é expressa: (1) multas punitivas decorrentes de lançamento de ofício são expressamente indedutíveis (art.
+> **Fique Ligado:** A legislação tributária federal é expressa: (1) multas punitivas decorrentes de lançamento de ofício são expressamente indedutíveis (art.
 
-### Questão 02 — [FCC — SEFAZ-BA / Auditor Fiscal — 2019]
-**Identificador QC:** [Q4368110](https://www.qconcursos.com/questoes-de-concursos/questoes/0b7e61ce-c3)  
-**Enunciado:** Durante fiscalização em um grande supermercado, a equipe de auditoria fiscal estadual realizou a contagem física do estoque de mercadorias no dia 31 de janeiro, confrontando as quantidades físicas com o Livro Registro de Inventário (Registro H010 da EFD ICMS/IPI) e com as notas fiscais de entrada e saída emitidas em janeiro. Constatou-se a falta física de 5.000 unidades de azeite importado, sem qualquer registro de perda ou roubo. Diante dessa constatação fática:
+---
+
+### [Questão 02](https://www.qconcursos.com/questoes-de-concursos/questoes/0b7e61ce-c3) — [FCC — SEFAZ-BA / Auditor Fiscal — 2019]
+
+Durante fiscalização em um grande supermercado, a equipe de auditoria fiscal estadual realizou a contagem física do estoque de mercadorias no dia 31 de janeiro, confrontando as quantidades físicas com o Livro Registro de Inventário (Registro H010 da EFD ICMS/IPI) e com as notas fiscais de entrada e saída emitidas em janeiro. Constatou-se a falta física de 5.000 unidades de azeite importado, sem qualquer registro de perda ou roubo. Diante dessa constatação fática:
 * **A)** Presume-se que as 5.000 unidades faltantes foram consumidas pelos funcionários do supermercado, estando isentas do imposto estadual.
 * **B)** Presume-se que as mercadorias faltantes no estoque físico foram comercializadas sem a emissão de documento fiscal e sem o devido recolhimento do tributo, autorizando o lançamento de ofício do ICMS e penalidades.
 * **C)** O supermercado adquire o direito de anular as compras de janeiro perante os fornecedores estrangeiros.
@@ -277,12 +278,13 @@ Levantamento físico realizado pela fiscalização em 31/12 para o produto "Bobi
 * **Alternativa B (CORRETA):** A falta física de mercadorias no estoque em confronto com a escrituração contábil/fiscal gera presunção legal absoluta/relativa de operação de saída sem emissão de documento fiscal (art. 294 do RIR/2018 e regulamentos estaduais do ICMS), autorizando o lançamento de ofício imediato do imposto sobre as vendas presumidas acrescido de multas punitivas qualificadas.
 - **Alternativas A, C, D e E (INCORRETAS):** Não há presunção de consumo isento; a relação comercial com fornecedores não afeta a infração tributária; não há prazo dilatado para justificar faltas; e o lançamento tributário de ofício independe de confissão.
 
----
-> **🛡️ Regra de Ouro Inviolável:** A falta física de mercadorias no estoque em confronto com a escrituração contábil/fiscal gera presunção legal absoluta/relativa de operação de saída sem emissão de documento fiscal (art.
+> **Fique Ligado:** A falta física de mercadorias no estoque em confronto com a escrituração contábil/fiscal gera presunção legal absoluta/relativa de operação de saída sem emissão de documento fiscal (art.
 
-### Questão 03 — [CESPE / CEBRASPE — SEFAZ-CE / Auditor Fiscal da Receita Estadual — 2021]
-**Identificador QC:** [Q4221420](https://www.qconcursos.com/questoes-de-concursos/questoes/78946ee9-91)  
-**Enunciado:** A respeito da auditoria de Passivo Fictício e da jurisprudência do Conselho Administrativo de Recursos Fiscais (CARF), assinale a opção correta:
+---
+
+### [Questão 03](https://www.qconcursos.com/questoes-de-concursos/questoes/78946ee9-91) — [CESPE / CEBRASPE — SEFAZ-CE / Auditor Fiscal da Receita Estadual — 2021]
+
+A respeito da auditoria de Passivo Fictício e da jurisprudência do Conselho Administrativo de Recursos Fiscais (CARF), assinale a opção correta:
 * **A)** A demonstração de passivo fictício exige que a fiscalização prove o enriquecimento ilícito pessoal de todos os sócios da entidade.
 * **B)** Conforme a Súmula CARF nº 26, a simples constatação de passivo fictício autoriza a presunção legal de omissão de receitas, cabendo ao contribuinte o ônus de comprovar a efetiva existência e liquidação da obrigação.
 * **C)** O passivo fictício elide-se automaticamente se o contribuinte retificar a escrituração contábil após a intimação fiscalizadora.
@@ -296,12 +298,13 @@ Levantamento físico realizado pela fiscalização em 31/12 para o produto "Bobi
 * **Alternativa C (INCORRETA):** Retificação contábil após início de fiscalização não afasta infração pretérita (Súmula CARF nº 140).
 - **Alternativas D e E (INCORRETAS):** Mútuos com partes relacionadas são as áreas mais visadas em fiscalizações e passivo fictício enseja exigência de tributos, e não extinção.
 
----
-> **🛡️ Regra de Ouro Inviolável:** Reproduz literalmente a Súmula CARF nº 26.
+> **Fique Ligado:** Reproduz literalmente a Súmula CARF nº 26.
 
-### Questão 04 — [FGV — SEFAZ-AM / Auditor Fiscal de Tributos Estaduais — 2022]
-**Identificador QC:** [Q4183715](https://www.qconcursos.com/questoes-de-concursos/questoes/aa16e904-81)  
-**Enunciado:** O auditor fiscal, ao proceder à recomposição do fluxo de caixa de uma empresa comercial, identificou que em 15 de abril a empresa efetuou pagamentos no montante de R\$ 180.000,00, dispondo de saldo inicial de apenas R\$ 20.000,00 na conta Caixa e sem qualquer registro de ingressos ou transferências bancárias naquele dia. A constatação de saldo credor diário de R\$ 160.000,00:
+---
+
+### [Questão 04](https://www.qconcursos.com/questoes-de-concursos/questoes/aa16e904-81) — [FGV — SEFAZ-AM / Auditor Fiscal de Tributos Estaduais — 2022]
+
+O auditor fiscal, ao proceder à recomposição do fluxo de caixa de uma empresa comercial, identificou que em 15 de abril a empresa efetuou pagamentos no montante de R\$ 180.000,00, dispondo de saldo inicial de apenas R\$ 20.000,00 na conta Caixa e sem qualquer registro de ingressos ou transferências bancárias naquele dia. A constatação de saldo credor diário de R\$ 160.000,00:
 * **A)** Constitui mero erro de arredondamento justificado pela inflação do período.
 * **B)** Caracteriza presunção legal de omissão de receitas no montante de R\$ 160.000,00 na data de 15 de abril, pois a realização de pagamentos sem disponibilidade física comprova a introdução de recursos financeiros não escriturados.
 * **C)** É admitida pela legislação contábil societária como saldo negativo temporário de capital de giro.
@@ -315,12 +318,13 @@ Levantamento físico realizado pela fiscalização em 31/12 para o produto "Bobi
 * **Alternativa C (INCORRETA):** Não existe caixa físico negativo na contabilidade nem no mundo material.
 - **Alternativas D e E (INCORRETAS):** O banco não responde por desvios na tesouraria da empresa e o lançamento é imediato por período de apuração.
 
----
-> **🛡️ Regra de Ouro Inviolável:** Conforme art.
+> **Fique Ligado:** Conforme art.
 
-### Questão 05 — [FCC — SEFAZ-SC / Auditor Fiscal da Receita Estadual — 2018]
-**Identificador QC:** [Q4161429](https://www.qconcursos.com/questoes-de-concursos/questoes/6e3270ee-7b)  
-**Enunciado:** Em uma auditoria de custos e despesas dedutíveis no Lucro Real, o Auditor Fiscal glosou despesas registradas como "Comissões sobre Vendas", no valor de R\$ 400.000,00, pagas em dinheiro mediante simples recibos assinados por pessoas físicas cujos CPFs eram inexistentes no cadastro da Receita Federal. Diante desse fato:
+---
+
+### [Questão 05](https://www.qconcursos.com/questoes-de-concursos/questoes/6e3270ee-7b) — [FCC — SEFAZ-SC / Auditor Fiscal da Receita Estadual — 2018]
+
+Em uma auditoria de custos e despesas dedutíveis no Lucro Real, o Auditor Fiscal glosou despesas registradas como "Comissões sobre Vendas", no valor de R\$ 400.000,00, pagas em dinheiro mediante simples recibos assinados por pessoas físicas cujos CPFs eram inexistentes no cadastro da Receita Federal. Diante desse fato:
 * **A)** O pagamento classifica-se como despesa sem causa ou a beneficiário não identificado, ensejando a incidência do imposto de renda exclusivamente na fonte à alíquota de 35%, além da sua indedutibilidade na apuração do Lucro Real e da CSLL.
 * **B)** A empresa tem o direito de amortizar as comissões em 10 anos como custo diferido de vendas.
 * **C)** O Fisco deve convalidar as despesas em homenagem à livre iniciativa econômica privada.
@@ -332,12 +336,13 @@ Levantamento físico realizado pela fiscalização em 31/12 para o produto "Bobi
 * **Alternativa A (CORRETA):** Pagamento efetuado a beneficiários com CPFs inexistentes/fictícios caracteriza pagamento a beneficiários não identificados e sem causa idônea. Aplica-se compulsoriamente o art. 61 da Lei nº 8.981/1995: incidência de IRRF exclusivo de 35% e glosa total da dedutibilidade no Lucro Real e na CSLL.
 - **Alternativas B, C, D e E (INCORRETAS):** A lei proíbe a dedução de despesas fictícias e a tributação punitiva na fonte é cogente e imediata.
 
----
-> **🛡️ Regra de Ouro Inviolável:** Pagamento efetuado a beneficiários com CPFs inexistentes/fictícios caracteriza pagamento a beneficiários não identificados e sem causa idônea.
+> **Fique Ligado:** Pagamento efetuado a beneficiários com CPFs inexistentes/fictícios caracteriza pagamento a beneficiários não identificados e sem causa idônea.
 
-### Questão 06 — [CESPE / CEBRASPE — SEFAZ-RR / Auditor Fiscal de Tributos Estaduais — 2023]
-**Identificador QC:** [Q4368148](https://www.qconcursos.com/questoes-de-concursos/questoes/1f5b7033-c3)  
-**Enunciado:** Em relação à comprovação de perdas de estoques por quebras no processo produtivo industrial para fins de dedutibilidade fiscal no IRPJ (art. 303 do RIR/2018):
+---
+
+### [Questão 06](https://www.qconcursos.com/questoes-de-concursos/questoes/1f5b7033-c3) — [CESPE / CEBRASPE — SEFAZ-RR / Auditor Fiscal de Tributos Estaduais — 2023]
+
+Em relação à comprovação de perdas de estoques por quebras no processo produtivo industrial para fins de dedutibilidade fiscal no IRPJ (art. 303 do RIR/2018):
 * **A)** A empresa pode estimar unilateralmente qualquer percentual de perda em sua ata de diretoria sem necessidade de comprovação técnica.
 * **B)** As perdas normais do processo produtivo são dedutíveis desde que devidamente comprovadas por laudos periciais de órgãos oficiais (como IPT ou INT) ou decorrentes de controles técnicos idôneos de engenharia.
 * **C)** Toda perda industrial gera presunção absoluta de crime de responsabilidade societária.
@@ -350,12 +355,13 @@ Levantamento físico realizado pela fiscalização em 31/12 para o produto "Bobi
 * **Alternativa A (INCORRETA):** Veda-se estimativa discricionária arbitrária da administração.
 - **Alternativas C, D e E (INCORRETAS):** Não há crime em perdas normais; perdas anormais exigem estorno de crédito de ICMS (e não crédito presumido); e constituem custos ou perdas operacionais, não despesas financeiras.
 
----
-> **🛡️ Regra de Ouro Inviolável:** As perdas e quebras normais de estoque inerentes à atividade industrial são integradas aos custos de produção desde que respaldadas por documentação técnica e laudos idôneos emitidos por instituições tecnológicas oficiais ou controles analíticos consolidados de engenharia (art.
+> **Fique Ligado:** As perdas e quebras normais de estoque inerentes à atividade industrial são integradas aos custos de produção desde que respaldadas por documentação técnica e laudos idôneos emitidos por instituições tecnológicas oficiais ou controles analíticos consolidados de engenharia (art.
 
-### Questão 07 — [ESAF — Receita Federal do Brasil / Auditor-Fiscal da Receita Federal — 2014]
-**Identificador QC:** [Q4368143](https://www.qconcursos.com/questoes-de-concursos/questoes/1f4f7fb8-c3)  
-**Enunciado:** Em procedimento fiscalizatório, constatou-se que uma empresa manteve no Ativo Circulante a conta "Clientes - Duplicatas a Receber" no valor de R\$ 1.000.000,00, embora os clientes já tivessem liquidado integralmente as faturas via depósitos em contas bancárias não declaradas da diretoria. Essa manobra societária e fiscal:
+---
+
+### [Questão 07](https://www.qconcursos.com/questoes-de-concursos/questoes/1f4f7fb8-c3) — [ESAF — Receita Federal do Brasil / Auditor-Fiscal da Receita Federal — 2014]
+
+Em procedimento fiscalizatório, constatou-se que uma empresa manteve no Ativo Circulante a conta "Clientes - Duplicatas a Receber" no valor de R\$ 1.000.000,00, embora os clientes já tivessem liquidado integralmente as faturas via depósitos em contas bancárias não declaradas da diretoria. Essa manobra societária e fiscal:
 * **A)** Configura ativo fictício (superavaliação do ativo), cuja ocultação da liquidação mascara a entrada de receitas operacionais não contabilizadas.
 * **B)** É permitida como forma de preservar o capital de giro da companhia perante instituições financeiras.
 * **C)** Gera direito à apuração de lucros acumulados isentos de qualquer tributo.
@@ -367,12 +373,13 @@ Levantamento físico realizado pela fiscalização em 31/12 para o produto "Bobi
 * **Alternativa A (CORRETA):** A manutenção no balanço de títulos já quitados pelos clientes configura **ativo fictício**. A receita das vendas foi realizada, mas o numerário foi desviado para contas particulares dos diretores sem trânsito contábil, mantendo-se o saldo irreal a receber no ativo para não registrar o desfalque ou a omissão financeira.
 - **Alternativas B, C, D e E (INCORRETAS):** Ativo fictício é fraude contábil; os rendimentos desviados são tributáveis com penalidades de ofício; a fiscalização tributária é plenamente competente; e os clientes que pagaram regularmente não sofrem constrição judicial.
 
----
-> **🛡️ Regra de Ouro Inviolável:** A manutenção no balanço de títulos já quitados pelos clientes configura **ativo fictício**.
+> **Fique Ligado:** A manutenção no balanço de títulos já quitados pelos clientes configura **ativo fictício**.
 
-### Questão 08 — [FGV — CFC / Qualificação Técnica Geral (QTG) — 2026]
-**Identificador QC:** [Q4368105](https://www.qconcursos.com/questoes-de-concursos/questoes/0b7523a1-c3)  
-**Enunciado:** O teste de auditoria fiscal que confronta as notas fiscais de vendas de mercadorias com os lançamentos efetuados no livro Diário e nos extratos bancários, com o objetivo de assegurar que nenhuma venda realizada deixou de ser faturada ou escriturada, classifica-se tecnicamente como:
+---
+
+### [Questão 08](https://www.qconcursos.com/questoes-de-concursos/questoes/0b7523a1-c3) — [FGV — CFC / Qualificação Técnica Geral (QTG) — 2026]
+
+O teste de auditoria fiscal que confronta as notas fiscais de vendas de mercadorias com os lançamentos efetuados no livro Diário e nos extratos bancários, com o objetivo de assegurar que nenhuma venda realizada deixou de ser faturada ou escriturada, classifica-se tecnicamente como:
 * **A)** Teste de Superavaliação (*Vouching*).
 * **B)** Teste de Subavaliação (*Tracing*).
 * **C)** Procedimento de avaliação de intangíveis.
@@ -385,12 +392,13 @@ Levantamento físico realizado pela fiscalização em 31/12 para o produto "Bobi
 * **Alternativa A (INCORRETA):** Superavaliação parte da contabilidade para os documentos comprobatórios.
 - **Alternativas C, D e E (INCORRETAS):** Não se trata de avaliação de intangíveis, normas marítimas ou inventário rotativo.
 
----
-> **🛡️ Regra de Ouro Inviolável:** A verificação que parte da documentação das operações (vendas reais realizadas) para os registros contábeis e fiscais é o teste de **subavaliação (*tracing*)**, que valida a afirmação de completude/integridade (*completeness*) e busca identificar receitas omitidas.
+> **Fique Ligado:** A verificação que parte da documentação das operações (vendas reais realizadas) para os registros contábeis e fiscais é o teste de **subavaliação (*tracing*)**, que valida a afirmação de completude/integridade (*completeness*) e busca identificar receitas omitidas.
 
-### Questão 09 — [FGV — Receita Federal do Brasil / Auditor-Fiscal da Receita Federal — 2023]
-**Identificador QC:** [Q4368146](https://www.qconcursos.com/questoes-de-concursos/questoes/1f56860b-c3)  
-**Enunciado:** Em fiscalização sobre a escrituração contábil da empresa Beta Logística S.A., o Auditor-Fiscal identificou que o sócio majoritário aportou R$ 500.000,00 na conta Caixa da companhia a título de "Adiantamento para Futuro Aumento de Capital" (AFAC). Intimado a comprovar a origem dos recursos, o sócio declarou que os valores eram guardados em espécie em sua residência ("embaixo do colchão") e que não possuía conta bancária nem lastro patrimonial em sua DIRPF. Conforme as normas do RIR/2018:
+---
+
+### [Questão 09](https://www.qconcursos.com/questoes-de-concursos/questoes/1f56860b-c3) — [FGV — Receita Federal do Brasil / Auditor-Fiscal da Receita Federal — 2023]
+
+Em fiscalização sobre a escrituração contábil da empresa Beta Logística S.A., o Auditor-Fiscal identificou que o sócio majoritário aportou R$ 500.000,00 na conta Caixa da companhia a título de "Adiantamento para Futuro Aumento de Capital" (AFAC). Intimado a comprovar a origem dos recursos, o sócio declarou que os valores eram guardados em espécie em sua residência ("embaixo do colchão") e que não possuía conta bancária nem lastro patrimonial em sua DIRPF. Conforme as normas do RIR/2018:
 * **A)** O aporte é plenamente regular, tendo em vista o princípio contábil da autonomia patrimonial da pessoa jurídica.
 * **B)** O suprimento de caixa por sócio cuja capacidade financeira e origem dos recursos não sejam fidedignamente comprovadas autoriza a presunção legal de omissão de receita tributável da pessoa jurídica (art. 297 do RIR/2018).
 * **C)** A fiscalização deve converter o aporte em título da dívida pública federal inegociável.
@@ -402,12 +410,13 @@ Levantamento físico realizado pela fiscalização em 31/12 para o produto "Bobi
 * **Alternativa B (CORRETA):** O art. 297 do RIR/2018 e a jurisprudência sumulada do CARF estabelecem que o suprimento de caixa por sócio exige a demonstração cumulativa da origem dos recursos e da efetiva disponibilidade financeira. A alegação de valores em espécie guardados em casa sem lastro na DIRPF não possui idoneidade probatória, presumindo-se omissão de receita da pessoa jurídica.
 - **Alternativas A, C, D e E (INCORRETAS):** A autonomia patrimonial não legitima aportes sem lastro; não há conversão em títulos públicos; não há imunidade verbal; e o lançamento tributário de ofício não é suspenso por mera alegação desprovida de prova.
 
----
-> **🛡️ Regra de Ouro Inviolável:** O art.
+> **Fique Ligado:** O art.
 
-### Questão 10 — [CESPE / CEBRASPE — SEFAZ-CE / Auditor Fiscal da Receita Estadual — 2021]
-**Identificador QC:** [Q4221425](https://www.qconcursos.com/questoes-de-concursos/questoes/78a24aa5-91)  
-**Enunciado:** A respeito da desclassificação da escrituração contábil e do arbitramento da base de cálculo dos tributos decorrente de vícios no controle de estoques e disponibilidades (art. 148 do CTN c/c legislação do IRPJ e ICMS):
+---
+
+### [Questão 10](https://www.qconcursos.com/questoes-de-concursos/questoes/78a24aa5-91) — [CESPE / CEBRASPE — SEFAZ-CE / Auditor Fiscal da Receita Estadual — 2021]
+
+A respeito da desclassificação da escrituração contábil e do arbitramento da base de cálculo dos tributos decorrente de vícios no controle de estoques e disponibilidades (art. 148 do CTN c/c legislação do IRPJ e ICMS):
 * **A)** A existência de meros erros formais de digitação sem qualquer impacto quantitativo obriga o Fisco a arbitrar sumariamente o lucro da entidade.
 * **B)** A imprestabilidade da escrituração contábil que não reflita a real movimentação financeira, apresentando saldos credores de caixa reiterados e ausência de livros de registro de inventário, autoriza a autoridade fiscal a desclassificar a escrita e arbitrar os tributos devidos.
 * **C)** O arbitramento tributário é prerrogativa exclusiva do Poder Judiciário, sendo vedada sua aplicação por auditores fiscais no curso do processo administrativo.
@@ -421,12 +430,13 @@ Levantamento físico realizado pela fiscalização em 31/12 para o produto "Bobi
 * **Alternativa C (INCORRETA):** O arbitramento é ato administrativo fiscal típico do lançamento de ofício.
 - **Alternativas D e E (INCORRETAS):** Obrigações acessórias permanecem vigentes e as garantias constitucionais do contraditório e da ampla defesa são inafastáveis.
 
----
-> **🛡️ Regra de Ouro Inviolável:** Conforme art.
+> **Fique Ligado:** Conforme art.
 
-### Questão 11 — [FCC — SEFAZ-SC / Auditor Fiscal da Receita Estadual — 2018]
-**Identificador QC:** [Q4097279](https://www.qconcursos.com/questoes-de-concursos/questoes/f82aa610-8b)  
-**Enunciado:** Em uma indústria têxtil submetida a procedimento fiscal, constatou-se que o inventário físico do algodão estocado em 31/12 indicava quantidade significativamente SUPERIOR àquela escriturada no Registro H010 da EFD ICMS/IPI e no livro Diário. Conforme as presunções legais da legislação tributária:
+---
+
+### [Questão 11](https://www.qconcursos.com/questoes-de-concursos/questoes/f82aa610-8b) — [FCC — SEFAZ-SC / Auditor Fiscal da Receita Estadual — 2018]
+
+Em uma indústria têxtil submetida a procedimento fiscal, constatou-se que o inventário físico do algodão estocado em 31/12 indicava quantidade significativamente SUPERIOR àquela escriturada no Registro H010 da EFD ICMS/IPI e no livro Diário. Conforme as presunções legais da legislação tributária:
 * **A)** A sobra física de mercadorias no estoque presume a realização de aquisições de insumos sem emissão de nota fiscal, evidenciando a omissão de receitas na origem dos recursos financeiros utilizados para o respectivo pagamento (art. 295 do RIR/2018).
 * **B)** A sobra física de estoques gera direito ao aproveitamento em dobro dos créditos de ICMS e IPI.
 * **C)** A empresa deve receber uma bonificação fiscal da Secretaria da Fazenda por eficiência operacional.
@@ -438,12 +448,13 @@ Levantamento físico realizado pela fiscalização em 31/12 para o produto "Bobi
 * **Alternativa A (CORRETA):** O excesso de estoque físico em relação ao estoque escriturado (**sobra física**) comprova que a mercadoria ingressou no estabelecimento clandestinamente, sem documento fiscal de compra. Essa operação demonstra a existência de pagamentos não escriturados, cuja origem decorre de receitas pretéritas omitidas pela empresa (art. 295 do RIR/2018 e legislação do ICMS).
 - **Alternativas B, C, D e E (INCORRETAS):** Compras clandestinas não geram crédito tributário; não há bonificação por fraude; mercadorias fiscais não se transferem ao agente público; e doações exigem comprovação documental idônea e expressa.
 
----
-> **🛡️ Regra de Ouro Inviolável:** O excesso de estoque físico em relação ao estoque escriturado (**sobra física**) comprova que a mercadoria ingressou no estabelecimento clandestinamente, sem documento fiscal de compra.
+> **Fique Ligado:** O excesso de estoque físico em relação ao estoque escriturado (**sobra física**) comprova que a mercadoria ingressou no estabelecimento clandestinamente, sem documento fiscal de compra.
 
-### Questão 12 — [FGV — CFC / Qualificação Técnica Geral (QTG) — 2026]
-**Identificador QC:** [Q4368144](https://www.qconcursos.com/questoes-de-concursos/questoes/1f524a80-c3)  
-**Enunciado:** Ao realizar testes de conformidade na conta "Duplicatas a Receber", a equipe de auditoria independente constatou que diversos títulos já vencidos há mais de três anos permaneciam registrados pelo valor nominal integral no Ativo Circulante sem provisão para perdas e sem cobrança judicial. Em circularização, os clientes informaram que os pagamentos haviam sido liquidados tempestivamente em dinheiro diretamente na sede da empresa. Essa constatação evidencia:
+---
+
+### [Questão 12](https://www.qconcursos.com/questoes-de-concursos/questoes/1f524a80-c3) — [FGV — CFC / Qualificação Técnica Geral (QTG) — 2026]
+
+Ao realizar testes de conformidade na conta "Duplicatas a Receber", a equipe de auditoria independente constatou que diversos títulos já vencidos há mais de três anos permaneciam registrados pelo valor nominal integral no Ativo Circulante sem provisão para perdas e sem cobrança judicial. Em circularização, os clientes informaram que os pagamentos haviam sido liquidados tempestivamente em dinheiro diretamente na sede da empresa. Essa constatação evidencia:
 * **A)** Ativo Fictício decorrente de receita auferida e apropriada sem o devido trânsito contábil da liquidação financeira, objetivando mascarar omissão de receitas ou desvios patrimoniais.
 * **B)** Regular aplicação do princípio da prudência contábil societária.
 * **C)** Excelente gestão de créditos comerciais e liquidez corrente.
@@ -455,4 +466,4 @@ Levantamento físico realizado pela fiscalização em 31/12 para o produto "Bobi
 * **Alternativa A (CORRETA):** A permanência no ativo de direitos já extintos por quitação efetiva caracteriza **ativo fictício**. Os recursos recebidos dos clientes foram desviados ou ocultados sem trânsito regular pelo caixa escriturado, mantendo-se a duplicata em aberto para evitar a constatação de omissão de receitas ou desfalque de disponibilidades.
 - **Alternativas B e C (INCORRETAS):** Manter créditos inexistentes viola a fidedignidade contábil e as NBC TAs.
 - **Alternativas D e E (INCORRETAS):** Os administradores respondem por dolo e simulação; e clientes que já quitaram regularmente não podem ser cobrados duas vezes.
-> **🛡️ Regra de Ouro Inviolável:** A permanência no ativo de direitos já extintos por quitação efetiva caracteriza **ativo fictício**.
+> **Fique Ligado:** A permanência no ativo de direitos já extintos por quitação efetiva caracteriza **ativo fictício**.

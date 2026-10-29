@@ -203,9 +203,9 @@ $$
 
 ## 8. Bateria de Questões Oficiais Comentadas (QConcursos)
 
-### Questão 01 — [FGV — Receita Federal do Brasil / Auditor-Fiscal da Receita Federal — 2023]
-**Identificador QC:** [Q4371091](https://www.qconcursos.com/questoes-de-concursos/questoes/dde2b7ce-c6)  
-**Enunciado:** O auditor fiscal realizou testes de auditoria partindo dos registros contábeis do Livro Razão em direção aos documentos comprobatórios primários (notas fiscais de despesas e contratos de serviços). Esse procedimento de auditoria orienta-se para a detecção de:
+### [Questão 01](https://www.qconcursos.com/questoes-de-concursos/questoes/dde2b7ce-c6) — [FGV — Receita Federal do Brasil / Auditor-Fiscal da Receita Federal — 2023]
+
+O auditor fiscal realizou testes de auditoria partindo dos registros contábeis do Livro Razão em direção aos documentos comprobatórios primários (notas fiscais de despesas e contratos de serviços). Esse procedimento de auditoria orienta-se para a detecção de:
 * **A)** Subavaliação de passivos exigíveis e omissão de obrigações tributárias.
 * **B)** Superavaliação de contas de resultado ou de ativo, testando afirmações de existência, validade e ocorrência dos lançamentos.
 * **C)** Subavaliação de receitas operacionais brutas decorrentes de vendas mercantis clandestinas.
@@ -218,12 +218,13 @@ $$
 - **Alternativas A, C e E (INCORRETAS):** A investigação de subavaliação (omissão de receitas, passivos ocultos ou compras omitidas) exige o teste em sentido inverso (*tracing*), partindo dos documentos físicos/fatos reais para a escrituração contábil.
 * **Alternativa D (INCORRETA):** O teste de superavaliação é método geral e não se restringe a JCP.
 
----
-> **🛡️ Regra de Ouro Inviolável:** O teste que parte da escrituração contábil em direção à documentação comprobatória de suporte é o teste de **superavaliação (*vouching*)**, voltado a averiguar se as despesas registradas e ativos escriturados de fato **existem**, ocorreram e são válidos, identificando gastos fictícios e ativos inflados.
+> **Fique Ligado:** O teste que parte da escrituração contábil em direção à documentação comprobatória de suporte é o teste de **superavaliação (*vouching*)**, voltado a averiguar se as despesas registradas e ativos escriturados de fato **existem**, ocorreram e são válidos, identificando gastos fictícios e ativos inflados.
 
-### Questão 02 — [CESPE / CEBRASPE — SEFAZ-CE / Auditor Fiscal da Receita Estadual — 2021]
-**Identificador QC:** [Q4183715](https://www.qconcursos.com/questoes-de-concursos/questoes/aa16e904-81)  
-**Enunciado:** A respeito das presunções legais de omissão de receita previstas no Regulamento do Imposto de Renda e na legislação tributária estadual, assinale a opção correta:
+---
+
+### [Questão 02](https://www.qconcursos.com/questoes-de-concursos/questoes/aa16e904-81) — [CESPE / CEBRASPE — SEFAZ-CE / Auditor Fiscal da Receita Estadual — 2021]
+
+A respeito das presunções legais de omissão de receita previstas no Regulamento do Imposto de Renda e na legislação tributária estadual, assinale a opção correta:
 * **A)** A constatação de saldo credor na conta Caixa em determinado dia do mês constitui mera irregularidade formal que não autoriza a cobrança de tributos.
 * **B)** As presunções legais de omissão de receita possuem natureza relativa (*juris tantum*), incumbindo ao contribuinte, uma vez comprovado o fato-base pelo Fisco, o ônus de provar a inocorrência da sonegação ou a origem lícita dos recursos.
 * **C)** A manutenção de passivo fictício no balanço patrimonial somente caracteriza omissão de receita se o Fisco comprovar a identidade física dos credores simulados.
@@ -238,12 +239,13 @@ $$
 * **Alternativa D (INCORRETA):** A intimação formal prévia é requisito constitutivo essencial do art. 42.
 * **Alternativa E (INCORRETA):** O lançamento tributário administrativo prescinde de ação judicial prévia.
 
----
-> **🛡️ Regra de Ouro Inviolável:** As presunções legais tributárias são *juris tantum*, operando a inversão legal do ônus da prova em benefício da Fazenda Pública a partir da demonstração cabal do fato-índice pela fiscalização.
+> **Fique Ligado:** As presunções legais tributárias são *juris tantum*, operando a inversão legal do ônus da prova em benefício da Fazenda Pública a partir da demonstração cabal do fato-índice pela fiscalização.
 
-### Questão 03 — [FCC — SEFAZ-SC / Auditor Fiscal da Receita Estadual — 2018]
-**Identificador QC:** [Q4161429](https://www.qconcursos.com/questoes-de-concursos/questoes/6e3270ee-7b)  
-**Enunciado:** Em ação de auditoria fiscal sobre uma sociedade empresária, o Auditor Fiscal constatou a existência de diversos lançamentos a crédito na conta Caixa intitulados "Suprimentos de Sócios", no montante total de R\$ 1.500.000,00, sem contratos contemporâneos e sem que houvesse transferência a partir das contas bancárias dos sócios. Intimado a comprovar a origem dos recursos, o contribuinte limitou-se a afirmar que os sócios guardavam o dinheiro em espécie em suas residências ("guardados no colchão"). Diante desse quadro probatório e da jurisprudência consolidada do CARF:
+---
+
+### [Questão 03](https://www.qconcursos.com/questoes-de-concursos/questoes/6e3270ee-7b) — [FCC — SEFAZ-SC / Auditor Fiscal da Receita Estadual — 2018]
+
+Em ação de auditoria fiscal sobre uma sociedade empresária, o Auditor Fiscal constatou a existência de diversos lançamentos a crédito na conta Caixa intitulados "Suprimentos de Sócios", no montante total de R\$ 1.500.000,00, sem contratos contemporâneos e sem que houvesse transferência a partir das contas bancárias dos sócios. Intimado a comprovar a origem dos recursos, o contribuinte limitou-se a afirmar que os sócios guardavam o dinheiro em espécie em suas residências ("guardados no colchão"). Diante desse quadro probatório e da jurisprudência consolidada do CARF:
 * **A)** A fiscalização deve aceitar a justificativa apresentada em observância ao princípio da não surpresa tributária.
 * **B)** A alegação de entrega de recursos em moeda corrente mantida em poder dos sócios, desacompanhada de prova documental idônea da efetiva disponibilidade econômico-financeira e do trânsito bancário prévio, não elide a presunção legal de omissão de receitas.
 * **C)** Os suprimentos de sócios são considerados receitas isentas de tributação para a pessoa jurídica em qualquer hipótese.
@@ -255,12 +257,13 @@ $$
 * **Alternativa B (CORRETA):** A jurisprudência sumulada do CARF (Súmula CARF nº 107) e do STJ é taxativa: o suprimento de caixa por recursos atribuídos a sócios exige comprovação documental hábil da efetiva disponibilidade financeira do sócio na época do aporte e a comprovação da transferência bancária a partir de suas contas. Alegações desprovidas de lastro não afastam a presunção de omissão de receita.
 - **Alternativas A, C, D e E (INCORRETAS):** A presunção legal impõe a tributação; suprimentos fictícios caracterizam receitas omitidas; a competência fazendária é autônoma; e a exigência de prova bancária não viola a intimidade.
 
----
-> **🛡️ Regra de Ouro Inviolável:** A jurisprudência sumulada do CARF (Súmula CARF nº 107) e do STJ é taxativa: o suprimento de caixa por recursos atribuídos a sócios exige comprovação documental hábil da efetiva disponibilidade financeira do sócio na época do aporte e a comprovação da transferência bancária a partir de suas contas.
+> **Fique Ligado:** A jurisprudência sumulada do CARF (Súmula CARF nº 107) e do STJ é taxativa: o suprimento de caixa por recursos atribuídos a sócios exige comprovação documental hábil da efetiva disponibilidade financeira do sócio na época do aporte e a comprovação da transferência bancária a partir de suas contas.
 
-### Questão 04 — [FGV — SEFAZ-MG / Auditor Fiscal da Receita Estadual — 2023]
-**Identificador QC:** [Q4368148](https://www.qconcursos.com/questoes-de-concursos/questoes/1f5b7033-c3)  
-**Enunciado:** A respeito da aplicação de penalidades em autos de infração decorrentes de lançamento de ofício por omissão de receitas comprovada por presunções legais da Lei nº 9.430/1996:
+---
+
+### [Questão 04](https://www.qconcursos.com/questoes-de-concursos/questoes/1f5b7033-c3) — [FGV — SEFAZ-MG / Auditor Fiscal da Receita Estadual — 2023]
+
+A respeito da aplicação de penalidades em autos de infração decorrentes de lançamento de ofício por omissão de receitas comprovada por presunções legais da Lei nº 9.430/1996:
 * **A)** A multa de ofício básica geral é de 75% sobre a totalidade ou diferença do tributo omitido.
 * **B)** A multa básica de ofício é de 20%, equiparada à multa de mora aplicada ao recolhimento espontâneo intempestivo.
 * **C)** É vedada a qualificação da multa de ofício para 150% em casos de conluio ou fraude documental comprovada.
@@ -274,12 +277,13 @@ $$
 * **Alternativa C (INCORRETA):** Em caso de evidente intuito de fraude, conluio ou sonegação (arts. 71 a 73 da Lei 4.502/64), a multa é qualificada para 150% (art. 44, § 1º).
 - **Alternativas D e E (INCORRETAS):** A taxa SELIC incide compulsoriamente sobre todos os créditos fiscais federais e a multa é plenamente exigível de todas as pessoas jurídicas.
 
----
-> **🛡️ Regra de Ouro Inviolável:** O art.
+> **Fique Ligado:** O art.
 
-### Questão 05 — [CESPE / CEBRASPE — SEFAZ-RR / Auditor Fiscal de Tributos Estaduais — 2023]
-**Identificador QC:** [Q4221422](https://www.qconcursos.com/questoes-de-concursos/questoes/78999538-91)  
-**Enunciado:** Na realização de auditoria tributária para verificar a ocorrência de omissão de receitas de prestação de serviços no âmbito municipal ou estadual, o teste de conformidade que parte das ordens de serviços executadas pelos funcionários para os livros contábeis de faturamento classifica-se como:
+---
+
+### [Questão 05](https://www.qconcursos.com/questoes-de-concursos/questoes/78999538-91) — [CESPE / CEBRASPE — SEFAZ-RR / Auditor Fiscal de Tributos Estaduais — 2023]
+
+Na realização de auditoria tributária para verificar a ocorrência de omissão de receitas de prestação de serviços no âmbito municipal ou estadual, o teste de conformidade que parte das ordens de serviços executadas pelos funcionários para os livros contábeis de faturamento classifica-se como:
 * **A)** Teste de Superavaliação (*Vouching*).
 * **B)** Teste de Subavaliação (*Tracing*).
 * **C)** Procedimento analítico de dupla datação.
@@ -291,12 +295,13 @@ $$
 * **Alternativa B (CORRETA):** O exame que parte da realidade física/operacional (ordens de serviços executadas) em direção aos registros contábeis de faturamento é o teste de **subavaliação (*tracing*)**, destinado a verificar a completude e identificar serviços efetivamente prestados que não foram faturados (omissão de receita).
 - **Alternativas A, C, D e E (INCORRETAS):** Superavaliação parte da contabilidade para os documentos; dupla datação refere-se a eventos subsequentes; circularização é confirmação externa; e contingência retroativa não é teste de direcionamento.
 
----
-> **🛡️ Regra de Ouro Inviolável:** O exame que parte da realidade física/operacional (ordens de serviços executadas) em direção aos registros contábeis de faturamento é o teste de **subavaliação (*tracing*)**, destinado a verificar a completude e identificar serviços efetivamente prestados que não foram faturados (omissão de receita).
+> **Fique Ligado:** O exame que parte da realidade física/operacional (ordens de serviços executadas) em direção aos registros contábeis de faturamento é o teste de **subavaliação (*tracing*)**, destinado a verificar a completude e identificar serviços efetivamente prestados que não foram faturados (omissão de receita).
 
-### Questão 06 — [FCC — SEFAZ-BA / Auditor Fiscal — 2019]
-**Identificador QC:** [Q4368143](https://www.qconcursos.com/questoes-de-concursos/questoes/1f4f7fb8-c3)  
-**Enunciado:** Em auditoria fiscal sobre sociedade comercial atacadista, a equipe de fiscalização constatou a existência de compras de mercadorias no valor de R\$ 800.000,00, acobertadas por notas fiscais idôneas emitidas pelos fornecedores, as quais não constavam do Livro Registro de Entradas nem da escrituração contábil da empresa. Constatou-se ainda que as mercadorias foram pagas em dinheiro físico. Conforme o art. 294 do RIR/2018:
+---
+
+### [Questão 06](https://www.qconcursos.com/questoes-de-concursos/questoes/1f4f7fb8-c3) — [FCC — SEFAZ-BA / Auditor Fiscal — 2019]
+
+Em auditoria fiscal sobre sociedade comercial atacadista, a equipe de fiscalização constatou a existência de compras de mercadorias no valor de R\$ 800.000,00, acobertadas por notas fiscais idôneas emitidas pelos fornecedores, as quais não constavam do Livro Registro de Entradas nem da escrituração contábil da empresa. Constatou-se ainda que as mercadorias foram pagas em dinheiro físico. Conforme o art. 294 do RIR/2018:
 * **A)** A falta de registro contábil de compras constitui infração meramente formal, não autorizando qualquer cobrança de tributos sobre a renda.
 * **B)** O pagamento de compras e despesas não contabilizadas autoriza a presunção legal de omissão de receitas no montante correspondente aos desembolsos não escriturados.
 * **C)** A empresa deve ser submetida a liquidação extrajudicial sumária pelo Banco Central.
@@ -308,12 +313,13 @@ $$
 * **Alternativa B (CORRETA):** O art. 294 do RIR/2018 disciplina expressamente que o pagamento efetuado pela pessoa jurídica sem que haja comprovação da origem do numerário utilizado para sua quitação, ou a constatação de compras não escrituradas, gera a presunção legal de que os recursos empregados decorreram de receitas operacionais omitidas da tributação.
 - **Alternativas A, C, D e E (INCORRETAS):** A presunção é material com lançamento de tributos e multas; o BACEN não liquida empresas mercantis comuns; devoluções retroativas simuladas configuram fraude; e saídas em espécie sem trânsito contábil são o núcleo do caixa dois.
 
----
-> **🛡️ Regra de Ouro Inviolável:** O art.
+> **Fique Ligado:** O art.
 
-### Questão 07 — [ESAF — Receita Federal do Brasil / Auditor-Fiscal da Receita Federal — 2014]
-**Identificador QC:** [Q4368105](https://www.qconcursos.com/questoes-de-concursos/questoes/0b7523a1-c3)  
-**Enunciado:** O passivo fictício é considerado uma das manobras mais recorrentes em fraudes fiscais e societárias. A caracterização do passivo fictício autoriza a autoridade fiscal a:
+---
+
+### [Questão 07](https://www.qconcursos.com/questoes-de-concursos/questoes/0b7523a1-c3) — [ESAF — Receita Federal do Brasil / Auditor-Fiscal da Receita Federal — 2014]
+
+O passivo fictício é considerado uma das manobras mais recorrentes em fraudes fiscais e societárias. A caracterização do passivo fictício autoriza a autoridade fiscal a:
 * **A)** Presumir a omissão de receitas no montante correspondente à obrigação inexistente mantida no balanço patrimonial.
 * **B)** Determinar a extinção imediata do CNPJ da sociedade sem direito de defesa.
 * **C)** Expropriar os bens particulares dos contadores sem instauração de processo administrativo fiscal.
@@ -326,12 +332,13 @@ $$
 - **Alternativas B e C (INCORRETAS):** Violam as garantias constitucionais do contraditório e ampla defesa.
 - **Alternativas D e E (INCORRETAS):** Não há isenção para passivo fictício e o Fisco lança o tributo imediatamente.
 
----
-> **🛡️ Regra de Ouro Inviolável:** O art.
+> **Fique Ligado:** O art.
 
-### Questão 08 — [FGV — CFC / Qualificação Técnica Geral (QTG) — 2026]
-**Identificador QC:** [Q4368126](https://www.qconcursos.com/questoes-de-concursos/questoes/0b9e2ca4-c3)  
-**Enunciado:** O auditor fiscal, ao examinar os livros de escrituração contábil digital (ECD) de uma indústria de confecções, apurou que no encerramento do exercício havia uma obrigação escriturada no Passivo Circulante a favor de um fornecedor estrangeiro no valor de R\$ 2.000.000,00. Mediante procedimento de circularização com o fornecedor no exterior, confirmou-se que a dívida havia sido totalmente liquidada há dois anos em moeda estrangeira mediante operação de compensação não registrada na contabilidade da empresa brasileira. Diante dessa constatação fática:
+---
+
+### [Questão 08](https://www.qconcursos.com/questoes-de-concursos/questoes/0b9e2ca4-c3) — [FGV — CFC / Qualificação Técnica Geral (QTG) — 2026]
+
+O auditor fiscal, ao examinar os livros de escrituração contábil digital (ECD) de uma indústria de confecções, apurou que no encerramento do exercício havia uma obrigação escriturada no Passivo Circulante a favor de um fornecedor estrangeiro no valor de R\$ 2.000.000,00. Mediante procedimento de circularização com o fornecedor no exterior, confirmou-se que a dívida havia sido totalmente liquidada há dois anos em moeda estrangeira mediante operação de compensação não registrada na contabilidade da empresa brasileira. Diante dessa constatação fática:
 * **A)** Resta configurado passivo fictício, autorizando o lançamento de ofício de tributos federais sobre o montante de dois milhões de reais a título de omissão de receita.
 * **B)** O auditor deve desconsiderar o fato por se tratar de operação com fornecedor sediado no exterior.
 * **C)** O passivo deve ser convertido em reserva de capital sem repercussão fiscal.
@@ -343,12 +350,13 @@ $$
 * **Alternativa A (CORRETA):** A manutenção no balanço de passivo já extinto e liquidado há dois anos configura passivo fictício clássico. A quitação sem trânsito contábil demonstra que foram utilizados recursos financeiros não contabilizados para pagar o credor no exterior, consumando-se a presunção legal de omissão de receitas (art. 296 do RIR/2018).
 - **Alternativas B, C, D e E (INCORRETAS):** Operações com o exterior submetem-se ao controle tributário e cambial; não há criação artificial de reserva de capital; a escrituração mercantil deve espelhar a verdade material; e inexiste subordinação à OMC.
 
----
-> **🛡️ Regra de Ouro Inviolável:** A manutenção no balanço de passivo já extinto e liquidado há dois anos configura passivo fictício clássico.
+> **Fique Ligado:** A manutenção no balanço de passivo já extinto e liquidado há dois anos configura passivo fictício clássico.
 
-### Questão 09 — [FGV — Receita Federal do Brasil / Auditor-Fiscal da Receita Federal — 2023]
-**Identificador QC:** [Q4368146](https://www.qconcursos.com/questoes-de-concursos/questoes/1f56860b-c3)  
-**Enunciado:** Em relação à tributação sobre pagamentos a beneficiários não identificados ou sem causa econômica comprovada prevista no art. 61 da Lei nº 8.981/1995:
+---
+
+### [Questão 09](https://www.qconcursos.com/questoes-de-concursos/questoes/1f56860b-c3) — [FGV — Receita Federal do Brasil / Auditor-Fiscal da Receita Federal — 2023]
+
+Em relação à tributação sobre pagamentos a beneficiários não identificados ou sem causa econômica comprovada prevista no art. 61 da Lei nº 8.981/1995:
 * **A)** Os rendimentos pagos estão isentos de imposto de renda se a empresa for optante pelo regime do Lucro Presumido.
 * **B)** O imposto sobre a renda incidirá exclusivamente na fonte à alíquota de 35%, além de a despesa ser considerada indedutível na determinação do lucro real da pessoa jurídica pagadora.
 * **C)** A alíquota aplicável é de 15%, idêntica à alíquota básica geral do IRPJ.
@@ -362,12 +370,13 @@ $$
 * **Alternativa C (INCORRETA):** A alíquota legal punitiva é de 35%, e não 15%.
 - **Alternativas D e E (INCORRETAS):** A despesa é indedutível na CSLL e o imposto é de tributação definitiva exclusiva na fonte, não gerando direito a compensação.
 
----
-> **🛡️ Regra de Ouro Inviolável:** O art.
+> **Fique Ligado:** O art.
 
-### Questão 10 — [CESPE / CEBRASPE — SEFAZ-CE / Auditor Fiscal da Receita Estadual — 2021]
-**Identificador QC:** [Q4221425](https://www.qconcursos.com/questoes-de-concursos/questoes/78a24aa5-91)  
-**Enunciado:** A respeito da desclassificação da escrituração contábil e de sua distinção em relação à aplicação de presunções legais de omissão de receitas, assinale a opção correta:
+---
+
+### [Questão 10](https://www.qconcursos.com/questoes-de-concursos/questoes/78a24aa5-91) — [CESPE / CEBRASPE — SEFAZ-CE / Auditor Fiscal da Receita Estadual — 2021]
+
+A respeito da desclassificação da escrituração contábil e de sua distinção em relação à aplicação de presunções legais de omissão de receitas, assinale a opção correta:
 * **A)** A constatação de uma única presunção legal de omissão de receita impõe compulsoriamente a desclassificação integral da escrituração e o arbitramento do lucro da empresa.
 * **B)** A aplicação de presunção legal de omissão de receitas pode ocorrer com a manutenção da escrituração contábil da pessoa jurídica no regime do Lucro Real, adicionando-se os valores omitidos à base tributável, ressalvada a hipótese em que as deficiências e omissões tornem a escrita globalmente inidônea e imprestável para apuração do resultado.
 * **C)** As presunções legais somente podem ser aplicadas caso o contribuinte tenha sofrido processo penal por crime contra a ordem tributária com trânsito em julgado.
@@ -380,12 +389,13 @@ $$
 * **Alternativa A (INCORRETA):** Veda-se a desclassificação sumária por presunção pontual.
 - **Alternativas C, D e E (INCORRETAS):** A esfera administrativa independe da esfera penal; escrita desclassificada perde valor probatório; e o Fisco pode cobrar a omissão diretamente no Lucro Real sem arbitramento.
 
----
-> **🛡️ Regra de Ouro Inviolável:** A jurisprudência consolidada do CARF (Súmula CARF nº 32) e do STJ pacifica que a ocorrência pontual de omissão de receitas por presunção legal (ex.
+> **Fique Ligado:** A jurisprudência consolidada do CARF (Súmula CARF nº 32) e do STJ pacifica que a ocorrência pontual de omissão de receitas por presunção legal (ex.
 
-### Questão 11 — [FCC — SEFAZ-SC / Auditor Fiscal da Receita Estadual — 2018]
-**Identificador QC:** [Q4097279](https://www.qconcursos.com/questoes-de-concursos/questoes/f82aa610-8b)  
-**Enunciado:** Em fiscalização tributária estadual, a autoridade fazendária apurou que um grande atacadista de bebidas manteve, durante todo o ano-calendário, contas correntes bancárias ativas movimentando milhões de reais que não constavam de sua escrituração contábil (as chamadas contas paralelas ou "Caixa Dois"). O Fisco intimou a empresa para comprovar a origem dos depósitos e a correlação com as notas fiscais emitidas. Não tendo sido apresentada justificativa idônea:
+---
+
+### [Questão 11](https://www.qconcursos.com/questoes-de-concursos/questoes/f82aa610-8b) — [FCC — SEFAZ-SC / Auditor Fiscal da Receita Estadual — 2018]
+
+Em fiscalização tributária estadual, a autoridade fazendária apurou que um grande atacadista de bebidas manteve, durante todo o ano-calendário, contas correntes bancárias ativas movimentando milhões de reais que não constavam de sua escrituração contábil (as chamadas contas paralelas ou "Caixa Dois"). O Fisco intimou a empresa para comprovar a origem dos depósitos e a correlação com as notas fiscais emitidas. Não tendo sido apresentada justificativa idônea:
 * **A)** Os valores creditados nas contas bancárias não escrituradas presumem-se receitas operacionais omitidas da tributação, autorizando o lançamento de ofício do imposto estadual e federal, além da desclassificação da escrita contábil por inidoneidade material grave.
 * **B)** A empresa adquire imunidade tributária pelo princípio da insignificância contábil.
 * **C)** O Fisco fica obrigado a presumir que todos os recursos pertencem exclusivamente a partidos políticos.
@@ -397,12 +407,13 @@ $$
 * **Alternativa A (CORRETA):** A movimentação de contas bancárias à margem da contabilidade mercantil constitui fraude contábil e fiscal gravíssima. Os recursos creditados presumem-se receitas omitidas (art. 42 da Lei 9.430/96 e normas estaduais) e a ocultação deliberada de contas bancárias torna a contabilidade imprestável, autorizando a sua desclassificação formal e material (art. 603 do RIR/2018).
 - **Alternativas B, C, D e E (INCORRETAS):** Não há insignificância em fraudes milionárias; inexiste presunção política; a atuação do auditor é vinculada; e troca de contador não apaga crimes fiscais pretéritos.
 
----
-> **🛡️ Regra de Ouro Inviolável:** A movimentação de contas bancárias à margem da contabilidade mercantil constitui fraude contábil e fiscal gravíssima.
+> **Fique Ligado:** A movimentação de contas bancárias à margem da contabilidade mercantil constitui fraude contábil e fiscal gravíssima.
 
-### Questão 12 — [FGV — CFC / Qualificação Técnica Geral (QTG) — 2026]
-**Identificador QC:** [Q4368144](https://www.qconcursos.com/questoes-de-concursos/questoes/1f524a80-c3)  
-**Enunciado:** O auditor fiscal, ao realizar a auditoria da conta "Fornecedores" no Passivo Circulante de uma concessionária de veículos, aplicou o procedimento de confirmação externa (circularização positiva) para 100% dos credores. Uma das respostas revelou que uma duplicata no valor de R\$ 500.000,00, que constava em aberto no balanço patrimonial, já havia sido quitada por intermédio de depósito efetuado por terceiro não identificado há mais de seis meses. Diante disso:
+---
+
+### [Questão 12](https://www.qconcursos.com/questoes-de-concursos/questoes/1f524a80-c3) — [FGV — CFC / Qualificação Técnica Geral (QTG) — 2026]
+
+O auditor fiscal, ao realizar a auditoria da conta "Fornecedores" no Passivo Circulante de uma concessionária de veículos, aplicou o procedimento de confirmação externa (circularização positiva) para 100% dos credores. Uma das respostas revelou que uma duplicata no valor de R\$ 500.000,00, que constava em aberto no balanço patrimonial, já havia sido quitada por intermédio de depósito efetuado por terceiro não identificado há mais de seis meses. Diante disso:
 * **A)** Constata-se a ocorrência de passivo fictício, autorizando o lançamento de ofício por omissão de receitas tributáveis correspondente ao valor da obrigação indevidamente mantida no balanço.
 * **B)** A concessionária adquire o direito de pleitear ressarcimento ao Fisco pelo pagamento antecipado do débito.
 * **C)** A autoridade fiscal deve ignorar a resposta da circularização bancária por ferir o sigilo comercial.
@@ -413,4 +424,4 @@ $$
 
 * **Alternativa A (CORRETA):** A manutenção de obrigação já adimplida no passivo caracteriza passivo fictício (art. 296 do RIR/2018 c/c Súmula CARF nº 26). O pagamento efetuado por terceiro não identificado sem trânsito contábil comprova que foram introduzidos recursos clandestinos na operação da empresa, ensejando a autuação por omissão de receita tributável.
 - **Alternativas B, C, D e E (INCORRETAS):** Não há ressarcimento ao sonegador; circularização é procedimento legal de auditoria; dívida paga não é ativo intangível; e o lançamento tributário de ofício é ato plenamente vinculado.
-> **🛡️ Regra de Ouro Inviolável:** A manutenção de obrigação já adimplida no passivo caracteriza passivo fictício (art.
+> **Fique Ligado:** A manutenção de obrigação já adimplida no passivo caracteriza passivo fictício (art.

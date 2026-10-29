@@ -401,8 +401,7 @@ Na auditoria da *Varejista Ômega S.A.*, o auditor identificou que a rubrica de 
 
 ## 8. Questões Oficiais Comentadas
 
-### Questão 01 — [FGV — Receita Federal / Auditor-Fiscal — 2023]
-**Identificador QC:** [Q2118950](https://www.qconcursos.com/questoes-de-concursos/questoes/9b211895-0d)
+### [Questão 01](https://www.qconcursos.com/questoes-de-concursos/questoes/9b211895-0d) — [FGV — Receita Federal / Auditor-Fiscal — 2023]
 
 De acordo com a NBC TA 315 (R2) — Identificação e Avaliação dos Riscos de Distorção Relevante, os fatores de risco inerente são características de eventos ou condições que afetam a suscetibilidade à distorção, independentemente se causada por fraude ou erro, de uma afirmação sobre uma classe de transações, saldo contábil ou divulgação, antes da consideração dos controles.
 
@@ -422,12 +421,11 @@ Assinale a opção que apresenta **exclusivamente** fatores de risco inerente el
 - **(D) Incorreta:** Estas são **afirmações sobre classes de transações e eventos** (Item A190 da NBC TA 315).
 - **(E) Incorreta:** Estes são exemplos de **Atividades de Controle** (componente do controle interno).
 
+> **Fique Ligado:** Na NBC TA 315 (R2), os fatores de risco inerente são: complexidade, subjetividade, mudança, incerteza e suscetibilidade a distorção devido a viés da administração ou fraude.
+
 ---
 
-> **🛡️ Regra de Ouro Inviolável:** Na NBC TA 315 (R2), os fatores de risco inerente são: complexidade, subjetividade, mudança, incerteza e suscetibilidade a distorção devido a viés da administração ou fraude.
-
-### Questão 02 — [FGV — SEFAZ-MT / Auditor Fiscal de Tributos Estaduais — 2023]
-**Identificador QC:** [Q2089460](https://www.qconcursos.com/questoes-de-concursos/questoes/6c208946-0e)
+### [Questão 02](https://www.qconcursos.com/questoes-de-concursos/questoes/6c208946-0e) — [FGV — SEFAZ-MT / Auditor Fiscal de Tributos Estaduais — 2023]
 
 Durante a auditoria das demonstrações contábeis de uma companhia industrial, o auditor identificou que a empresa não possuía segregação de funções entre o funcionário que cadastrava novos fornecedores no sistema ERP e o funcionário que aprovava o pagamento de faturas de serviços até R\$ 200.000,00. Ao aplicar testes substantivos de detalhes sobre a totalidade dos pagamentos efetuados no exercício, o auditor constatou que todos os serviços pagos foram efetivamente prestados e que não ocorreu nenhuma distorção nos saldos contábeis do exercício findo. Todavia, no julgamento profissional do auditor, a referida falha de controle possui importância suficiente para merecer a atenção dos responsáveis pela governança.
 
@@ -447,12 +445,11 @@ Diante desse cenário e à luz da NBC TA 265, o auditor deve:
 - **(D) Incorreta:** O auditor não expressa opinião sobre a eficácia do controle interno, mas sim sobre as demonstrações contábeis (Item 11, "b"). Como os testes substantivos provaram que as demonstrações contábeis não contêm distorção relevante, a opinião sobre as demonstrações será **não modificada (limpa)**!
 - **(E) Incorreta:** Conforme o **item A28 da NBC TA 265**, ao explicar os possíveis efeitos das deficiências significativas, o auditor **não precisa quantificar** esses efeitos.
 
+> **Fique Ligado:** Risco significativo é aquele para o qual a avaliação do risco inerente está próxima do extremo superior do espectro, exigindo consideração especial de auditoria e testes substantivos dedicados.
+
 ---
 
-> **🛡️ Regra de Ouro Inviolável:** Risco significativo é aquele para o qual a avaliação do risco inerente está próxima do extremo superior do espectro, exigindo consideração especial de auditoria e testes substantivos dedicados.
-
-### Questão 03 — [Cebraspe — TCU / Auditor Federal de Controle Externo — 2022]
-**Identificador QC:** [Q1889420](https://www.qconcursos.com/questoes-de-concursos/questoes/4d188942-0f)
+### [Questão 03](https://www.qconcursos.com/questoes-de-concursos/questoes/4d188942-0f) — [Cebraspe — TCU / Auditor Federal de Controle Externo — 2022]
 
 A respeito da identificação e avaliação dos riscos de distorção relevante e do entendimento do sistema de controle interno da entidade segundo a NBC TA 315 (R2), assinale a opção **correta**.
 * **A)** Na avaliação dos riscos de distorção relevante no nível de afirmações, o auditor deve avaliar de forma conjunta e indissociável o risco inerente e o risco de controle, sendo vedada a sua avaliação separada.
@@ -470,12 +467,11 @@ A respeito da identificação e avaliação dos riscos de distorção relevante 
 - **(D) Incorreta:** A indagação, por si só, **não é suficiente** para avaliar o desenho de um controle nem para determinar se ele foi implementado (Item A175).
 - **(E) Incorreta:** Os **ITGCs** são **controles indiretos** que se relacionam com muitas aplicações e dão suporte ao funcionamento eficaz dos controles de processamento da informação, mantendo a integridade das informações e a segurança dos dados em todo o ambiente de TI (Item 12, "e").
 
+> **Fique Ligado:** O entendimento do controle interno abrange a avaliação do desenho e da implementação do controle; o teste de eficácia operacional só ocorre se o desenho for considerado adequado.
+
 ---
 
-> **🛡️ Regra de Ouro Inviolável:** O entendimento do controle interno abrange a avaliação do desenho e da implementação do controle; o teste de eficácia operacional só ocorre se o desenho for considerado adequado.
-
-### Questão 04 — [FCC — SEFAZ-PE / Auditor Fiscal do Tesouro Estadual — 2022]
-**Identificador QC:** [Q1945620](https://www.qconcursos.com/questoes-de-concursos/questoes/8f194562-0b)
+### [Questão 04](https://www.qconcursos.com/questoes-de-concursos/questoes/8f194562-0b) — [FCC — SEFAZ-PE / Auditor Fiscal do Tesouro Estadual — 2022]
 
 Considere que, durante a auditoria das demonstrações contábeis do exercício de $20\text{X}1$, o auditor independente testou a implementação e o registro das vendas realizadas nos últimos cinco dias de dezembro de $20\text{X}1$ e nos primeiros cinco dias de janeiro de $20\text{X}2$, confrontando as datas de emissão das notas fiscais com os comprovantes de saída da transportadora e os termos de transferência de controle das mercadorias aos clientes.
 
@@ -495,12 +491,11 @@ Ao realizar esse procedimento específico, o auditor está testando primordialme
 - **(D) Incorreta:** Classificação refere-se ao registro na conta contábil apropriada, e não ao período temporal de competência da receita.
 - **(E) Incorreta:** Valorização e alocação refere-se à mensuração monetária apropriada de saldos patrimoniais no final do período.
 
+> **Fique Ligado:** Relação inversa no modelo de auditoria: quanto maior o risco de distorção relevante (RI x RC), menor deve ser o risco de detecção (RD) aceito pelo auditor, aumentando a extensão dos testes substantivos.
+
 ---
 
-> **🛡️ Regra de Ouro Inviolável:** Relação inversa no modelo de auditoria: quanto maior o risco de distorção relevante (RI x RC), menor deve ser o risco de detecção (RD) aceito pelo auditor, aumentando a extensão dos testes substantivos.
-
-### Questão 05 — [FGV — CGE-SC / Auditor do Estado — 2023]
-**Identificador QC:** [Q2123460](https://www.qconcursos.com/questoes-de-concursos/questoes/2a212346-0c)
+### [Questão 05](https://www.qconcursos.com/questoes-de-concursos/questoes/2a212346-0c) — [FGV — CGE-SC / Auditor do Estado — 2023]
 
 Todo sistema de controle interno, por mais bem desenhado e operado que seja, só pode fornecer segurança razoável à administração e aos responsáveis pela governança quanto ao atingimento dos objetivos de relatório financeiro da entidade.
 
@@ -520,12 +515,11 @@ Assinale a opção que apresenta uma **limitação inerente** do controle intern
 - **(D) Incorreta:** A auditoria interna é justamente um dos pilares fundamentais do componente de **Monitoramento** do sistema de controle interno (Item 24 da NBC TA 315).
 - **(E) Incorreta:** O Conselho Fiscal não exerce cogestão prévia de todas as transações operacionais cotidianas.
 
+> **Fique Ligado:** Limitações inerentes do controle interno: falhas humanas decorrentes de cansaço ou desatenção, conluio entre funcionários e sobreposição de controles pela alta administração (management override).
+
 ---
 
-> **🛡️ Regra de Ouro Inviolável:** Limitações inerentes do controle interno: falhas humanas decorrentes de cansaço ou desatenção, conluio entre funcionários e sobreposição de controles pela alta administração (management override).
-
-### Questão 06 — [FGV — CGU / Auditor Federal de Finanças e Controle — 2022]
-**Identificador QC:** [Q1923460](https://www.qconcursos.com/questoes-de-concursos/questoes/5c192346-0e)
+### [Questão 06](https://www.qconcursos.com/questoes-de-concursos/questoes/5c192346-0e) — [FGV — CGU / Auditor Federal de Finanças e Controle — 2022]
 
 Em relação ao componente "Atividades de Controle" do sistema de controle interno (COSO I e NBC TA 315), um dos controles fundamentais para mitigar o risco de fraude e erro consiste em atribuir a pessoas diferentes as responsabilidades de autorizar transações, registrá-las na contabilidade e manter a custódia dos ativos.
 
@@ -545,12 +539,11 @@ Esse princípio basilar de controle interno denomina-se:
 - **(D) Incorreta:** *ITGCs* são controles de infraestrutura tecnológica (acesso lógico, mudanças de sistemas, operações de TI).
 - **(E) Incorreta:** Monitoramento é o quinto componente do COSO voltado a avaliar a qualidade do desempenho do controle interno ao longo do tempo.
 
+> **Fique Ligado:** Segregação de funções no COSO: separar autorização, execução, custódia de bens e registro contábil para evitar que um único indivíduo cometa e oculte fraudes ou erros.
+
 ---
 
-> **🛡️ Regra de Ouro Inviolável:** Segregação de funções no COSO: separar autorização, execução, custódia de bens e registro contábil para evitar que um único indivíduo cometa e oculte fraudes ou erros.
-
-### Questão 07 — [FCC — TCE-GO / Analista de Controle Externo — 2022]
-**Identificador QC:** [Q1912350](https://www.qconcursos.com/questoes-de-concursos/questoes/7d191235-0a)
+### [Questão 07](https://www.qconcursos.com/questoes-de-concursos/questoes/7d191235-0a) — [FCC — TCE-GO / Analista de Controle Externo — 2022]
 
 De acordo com a NBC TA 265, ao enviar a comunicação escrita sobre deficiências significativas de controle interno aos responsáveis pela governança e à administração, o auditor deve incluir determinadas informações obrigatórias para contextualizar a comunicação.
 
@@ -570,12 +563,11 @@ Sobre esse conteúdo obrigatório e as regras da NBC TA 265, é **correto** afir
 - **(D) Incorreta:** O **item 10 ("b") da NBC TA 265** determina que o auditor **deve comunicar** à administração no nível apropriado de responsabilidade **outras deficiências** de controle interno identificadas que não foram comunicadas por outras partes e que mereçam a atenção da administração.
 - **(E) Incorreta:** Conforme o **item 10 ("a") e A20 da NBC TA 265**, quando houver dúvidas sobre a integridade ou envolvimento da administração em fraude, é **inapropriado** comunicar diretamente à administração, mas a comunicação escrita aos **responsáveis pela governança (Item 9)** permanece estritamente obrigatória!
 
+> **Fique Ligado:** Na NBC TA 265, a comunicação de deficiências significativas deve ser SEMPRE por escrito aos responsáveis pela governança e à administração, esclarecendo que o trabalho não visou opinar sobre o controle interno.
+
 ---
 
-> **🛡️ Regra de Ouro Inviolável:** Na NBC TA 265, a comunicação de deficiências significativas deve ser SEMPRE por escrito aos responsáveis pela governança e à administração, esclarecendo que o trabalho não visou opinar sobre o controle interno.
-
-### Questão 08 — [Cebraspe — SEFAZ-CE / Auditor Fiscal da Receita Estadual — 2021]
-**Identificador QC:** [Q1789020](https://www.qconcursos.com/questoes-de-concursos/questoes/9f178902-0b)
+### [Questão 08](https://www.qconcursos.com/questoes-de-concursos/questoes/9f178902-0b) — [Cebraspe — SEFAZ-CE / Auditor Fiscal da Receita Estadual — 2021]
 
 Em relação aos controles manuais e aos controles automatizados no âmbito do sistema de controle interno da entidade (NBC TA 315), assinale a opção **correta**.
 * **A)** Os controles manuais são sempre mais confiáveis que os controles automatizados, visto que o ser humano nunca comete erros em transações repetitivas de grande volume.
@@ -593,12 +585,11 @@ Em relação aos controles manuais e aos controles automatizados no âmbito do s
 - **(D) Incorreta:** A eficácia contínua dos controles de aplicação automatizados **depende diretamente da eficácia dos ITGCs** (pois se qualquer programador puder alterar o código em produção ou editar o banco de dados sem controle de acesso/mudança, o controle automatizado perde a confiabilidade!).
 - **(E) Incorreta:** O auditor avalia e testa tanto controles manuais quanto controles automatizados relevantes para a auditoria.
 
+> **Fique Ligado:** Controles automatizados proporcionam consistência no processamento de grandes volumes, mas estão vulneráveis a acessos não autorizados e alterações inadequadas em programas ou dados mestres.
+
 ---
 
-> **🛡️ Regra de Ouro Inviolável:** Controles automatizados proporcionam consistência no processamento de grandes volumes, mas estão vulneráveis a acessos não autorizados e alterações inadequadas em programas ou dados mestres.
-
-### Questão 09 — [FGV — SEFAZ-AM / Auditor Fiscal de Tributos Estaduais — 2022]
-**Identificador QC:** [Q1901240](https://www.qconcursos.com/questoes-de-concursos/questoes/2b190124-0a)
+### [Questão 09](https://www.qconcursos.com/questoes-de-concursos/questoes/2b190124-0a) — [FGV — SEFAZ-AM / Auditor Fiscal de Tributos Estaduais — 2022]
 
 Na execução dos procedimentos de avaliação de riscos previstos no item 14 da NBC TA 315, o auditor deve combinar três técnicas fundamentais para obter o entendimento da entidade, do seu ambiente e do seu sistema de controle interno.
 
@@ -615,12 +606,11 @@ Essas três técnicas obrigatórias nos procedimentos de avaliação de riscos s
 - **(A), (C), (D) e (E) Incorretas:** Misturam procedimentos substantivos de detalhes (circularização, recálculo, contagem física), testes de controle (reexecução) e amostragem (NBC TA 530), que pertencem à fase de resposta aos riscos ou a normas específicas.
 - **(B) CORRETA:** Reproduz literalmente os três incisos do **item 14 ("a", "b" e "c") da NBC TA 315**: os procedimentos de avaliação de riscos devem incluir **(a) indagações** à administração e a outros indivíduos apropriados na entidade (inclusive auditoria interna); **(b) procedimentos analíticos**; e **(c) observação e inspeção**.
 
+> **Fique Ligado:** Procedimentos de avaliação de riscos (NBC TA 315): indagações à administração, procedimentos analíticos preliminares e observação e inspeção (apenas indagar não basta para obter evidência hábil).
+
 ---
 
-> **🛡️ Regra de Ouro Inviolável:** Procedimentos de avaliação de riscos (NBC TA 315): indagações à administração, procedimentos analíticos preliminares e observação e inspeção (apenas indagar não basta para obter evidência hábil).
-
-### Questão 10 — [FCC — SEFAZ-BA / Auditor Fiscal — 2021]
-**Identificador QC:** [Q1756780](https://www.qconcursos.com/questoes-de-concursos/questoes/3c175678-0d)
+### [Questão 10](https://www.qconcursos.com/questoes-de-concursos/questoes/3c175678-0d) — [FCC — SEFAZ-BA / Auditor Fiscal — 2021]
 
 Durante a avaliação do sistema de controle interno de uma companhia aberta (NBC TA 315), o auditor verificou que o processo de avaliação de risco da própria entidade deixou de identificar um risco elevado de obsolescência tecnológica de sua principal linha de produtos em estoque, risco esse que o auditor considerou que deveria ter sido identificado pela administração.
 
@@ -639,15 +629,13 @@ Nessa hipótese, conforme o item 23 da NBC TA 315, cabe ao auditor:
 - **(C) e (D) Incorretas:** Violam a independência e a separação de papéis entre administração, auditoria interna e auditoria independente.
 - **(E) Incorreta:** Uma falha no controle interno aumenta o risco avaliado, exigindo **ampliação** (e jamais dispensa!) dos procedimentos substantivos sobre a valorização dos estoques.
 
----
-
-> **🛡️ Regra de Ouro Inviolável:** Ambiente de controle define a postura, consciência e ações da governança (tom do topo); fornece a base para os demais componentes, mas não impede por si só distorções sem controles diretos.
-
+> **Fique Ligado:** Ambiente de controle define a postura, consciência e ações da governança (tom do topo); fornece a base para os demais componentes, mas não impede por si só distorções sem controles diretos.
 
 ---
 
-### Questão 11 — [FGV — SEFAZ-SP / Auditor Fiscal da Receita Estadual — 2023]
-**Identificador QC:** [Q2154320](https://www.qconcursos.com/questoes-de-concursos/questoes/e1215432-0a)
+---
+
+### [Questão 11](https://www.qconcursos.com/questoes-de-concursos/questoes/e1215432-0a) — [FGV — SEFAZ-SP / Auditor Fiscal da Receita Estadual — 2023]
 
 No que se refere ao Modelo de Risco de Auditoria ($RA = RDR 	imes RD$, onde $RDR = RI 	imes RC$), disciplinado na NBC TA 200 e NBC TA 315, assinale a afirmativa CORRETA:
 
@@ -666,12 +654,11 @@ No que se refere ao Modelo de Risco de Auditoria ($RA = RDR 	imes RD$, onde $RDR
 * **(D) CORRETA:** Reflete com precisão os itens A34 a A42 da NBC TA 200: os riscos inerente e de controle são funções do ambiente e das transações da entidade auditada, existindo fora do controle do auditor; ao auditor cabe avaliá-los e, em função dessa avaliação, planejar seus procedimentos para fixar o **risco de detecção** em nível aceitavelmente baixo.
 * **(E) INCORRETA:** Risco de auditoria é o risco de o auditor expressar uma **opinião inadequada** quando as demonstrações contábeis contiverem distorção relevante. Risco de falência é risco de continuidade operacional/negócio, que não se confunde com o conceito de $RA$.
 
-> **🛡️ Regra de Ouro Inviolável:** O auditor NÃO controla $RI$ e $RC$ (riscos da entidade); o auditor apenas controla o $RD$ (risco de detecção) modulando a extensão, época e profundidade dos seus testes substantivos. A relação entre $RDR$ e $RD$ é estritamente INVERSA.
+> **Fique Ligado:** O auditor NÃO controla $RI$ e $RC$ (riscos da entidade); o auditor apenas controla o $RD$ (risco de detecção) modulando a extensão, época e profundidade dos seus testes substantivos. A relação entre $RDR$ e $RD$ é estritamente INVERSA.
 
 ---
 
-### Questão 12 — [Cebraspe — SEFAZ-SE / Auditor Fiscal de Tributos Estaduais — 2022]
-**Identificador QC:** [Q1987650](https://www.qconcursos.com/questoes-de-concursos/questoes/f2198765-0b)
+### [Questão 12](https://www.qconcursos.com/questoes-de-concursos/questoes/f2198765-0b) — [Cebraspe — SEFAZ-SE / Auditor Fiscal de Tributos Estaduais — 2022]
 
 De acordo com a NBC TA 265 — Comunicação de Deficiências de Controle Interno à Governança e à Administração, assinale a opção que apresenta um requisito formal e obrigatório da comunicação por escrito das deficiências significativas:
 
@@ -690,7 +677,7 @@ De acordo com a NBC TA 265 — Comunicação de Deficiências de Controle Intern
 * **(D) INCORRETA:** A responsabilidade pelo desenho e manutenção do controle interno é exclusiva da administração da entidade (item 11, "a").
 * **(E) INCORRETA:** O auditor deve esclarecer por escrito que os assuntos comunicados estão restritos às deficiências identificadas durante a auditoria e que foram consideradas de importância suficiente para merecer comunicação, e **não representam uma garantia de que não existam outras deficiências**.
 
-> **🛡️ Regra de Ouro Inviolável:** Na NBC TA 265, a comunicação de deficiências significativas é SEMPRE por escrito e deve conter a cláusula de salvaguarda: a auditoria NÃO tem como objetivo emitir opinião sobre a eficácia dos controles internos da entidade.
+> **Fique Ligado:** Na NBC TA 265, a comunicação de deficiências significativas é SEMPRE por escrito e deve conter a cláusula de salvaguarda: a auditoria NÃO tem como objetivo emitir opinião sobre a eficácia dos controles internos da entidade.
 
 ## 9. Links e Conexões Temáticas
 

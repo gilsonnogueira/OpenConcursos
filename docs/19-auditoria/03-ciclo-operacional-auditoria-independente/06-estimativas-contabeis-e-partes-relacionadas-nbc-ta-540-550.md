@@ -327,8 +327,7 @@ Na auditoria de grupos econômicos (controladoras, controladas e coligadas conso
 
 ## 6. Bateria de Questões Oficiais Comentadas Alternativa por Alternativa
 
-### Questão 01 — [FGV — Receita Federal / Auditor-Fiscal — 2023]
-**Identificador QC:** [Q2118990](https://www.qconcursos.com/questoes-de-concursos/questoes/e5211899-0a)
+### [Questão 01](https://www.qconcursos.com/questoes-de-concursos/questoes/e5211899-0a) — [FGV — Receita Federal / Auditor-Fiscal — 2023]
 
 De acordo com a NBC TA 540 (Auditoria de Estimativas Contábeis e Divulgações Relacionadas), ao realizar procedimentos de avaliação de risco, o auditor deve executar uma revisão retrospectiva do desfecho das estimativas contábeis anteriores ou de sua subsequente remensuração. A respeito dessa revisão retrospectiva e da avaliação de estimativas pelo auditor, assinale a afirmativa correta:
 * **A)** A revisão retrospectiva tem como finalidade primordial questionar os julgamentos feitos pela administração no período anterior e determinar a retificação das demonstrações contábeis passadas sempre que o desfecho real divergir do valor estimado.
@@ -346,12 +345,11 @@ De acordo com a NBC TA 540 (Auditoria de Estimativas Contábeis e Divulgações 
 * **(D) Incorreta:** O item 16 da NBC TA 540 (Revisada) exige expressamente que o auditor avalie **separadamente** o risco inerente e o risco de controle para as estimativas contábeis.
 * **(E) Incorreta:** Obter evidência de auditoria de eventos ocorridos até a data do relatório do auditor é justamente a **primeira das três abordagens** previstas no item 18(a) e no item 21 da NBC TA 540!
 
+> **Fique Ligado:** Estimativas Contábeis (NBC TA 540): a revisão retrospectiva de estimativas do ano anterior é obrigatória para avaliar a eficácia do processo de estimativa da administração e identificar indícios de viés.
+
 ---
 
-> **🛡️ Regra de Ouro Inviolável:** Estimativas Contábeis (NBC TA 540): a revisão retrospectiva de estimativas do ano anterior é obrigatória para avaliar a eficácia do processo de estimativa da administração e identificar indícios de viés.
-
-### Questão 02 — [FGV — SEFAZ-BA / Agente de Tributos Estaduais — 2022]
-**Identificador QC:** [Q2089490](https://www.qconcursos.com/questoes-de-concursos/questoes/9f208949-0b)
+### [Questão 02](https://www.qconcursos.com/questoes-de-concursos/questoes/9f208949-0b) — [FGV — SEFAZ-BA / Agente de Tributos Estaduais — 2022]
 
 Em relação às responsabilidades do auditor independente no tocante às partes relacionadas, segundo a NBC TA 550, analise as afirmativas a seguir:
 I. O auditor deve tratar as transações significativas identificadas com partes relacionadas e fora do curso normal dos negócios da entidade como dando origem a riscos significativos.
@@ -372,12 +370,11 @@ Está correto o que se afirma em:
 * **Análise do Item III (Incorreto):** Conforme o item 24 da NBC TA 550, se a administração fizer a afirmação de que a transação foi realizada em condições equivalentes às de mercado, o auditor **deve obter evidência de auditoria apropriada e suficiente** sobre essa afirmação (e a NBC TA 580 veda que representações formais substituam evidências que devem estar disponíveis).
 * **Conclusão:** Apenas os itens **I e II** estão corretos. Gabarito: **(B)**.
 
+> **Fique Ligado:** Partes Relacionadas (NBC TA 550): transações fora do curso normal de negócios representam risco significativo de fraude; o auditor deve inspecionar contratos subjacentes e avaliar a lógica comercial.
+
 ---
 
-> **🛡️ Regra de Ouro Inviolável:** Partes Relacionadas (NBC TA 550): transações fora do curso normal de negócios representam risco significativo de fraude; o auditor deve inspecionar contratos subjacentes e avaliar a lógica comercial.
-
-### Questão 03 — [Cebraspe — CGU / Auditor Federal de Finanças e Controle — 2022]
-**Identificador QC:** [Q1889450](https://www.qconcursos.com/questoes-de-concursos/questoes/7a188945-0c)
+### [Questão 03](https://www.qconcursos.com/questoes-de-concursos/questoes/7a188945-0c) — [Cebraspe — CGU / Auditor Federal de Finanças e Controle — 2022]
 
 Durante a auditoria das demonstrações contábeis de uma companhia aberta, o auditor independente contratou um engenheiro de minas externo para avaliar a cubagem de reservas minerais e um especialista em normas internacionais de contabilidade (IFRS) para dirimir dúvidas sobre a contabilização de combinação de negócios. Com base na NBC TA 620 (Utilização do Trabalho de Especialista do Auditor), assinale a opção correta:
 * **A)** Ambos os profissionais enquadram-se no conceito de Especialista do Auditor regido pela NBC TA 620, devendo ter seus nomes citados na seção de opinião não modificada do relatório.
@@ -395,12 +392,11 @@ Durante a auditoria das demonstrações contábeis de uma companhia aberta, o au
 * **(D) Incorreta:** Conforme os itens 3 e 12 da NBC TA 620, o auditor é o **único responsável** pela opinião expressa (sua responsabilidade não é reduzida pelo uso do especialista) e deve avaliar a adequação do trabalho do especialista, incluindo a relevância e a razoabilidade das premissas e métodos utilizados.
 * **(E) Incorreta:** Nos termos do item 15 da NBC TA 620, em um relatório com **opinião modificada**, o auditor **pode** fazer referência ao trabalho do especialista se essa referência for relevante para o entendimento da modificação na sua opinião, devendo indicar no relatório que a referência não reduz a sua responsabilidade por essa opinião.
 
+> **Fique Ligado:** Especialista do Auditor (NBC TA 620): a responsabilidade do auditor pela opinião é exclusiva e não é reduzida pela utilização do especialista; em relatório sem modificação é VEDADO citar o especialista.
+
 ---
 
-> **🛡️ Regra de Ouro Inviolável:** Especialista do Auditor (NBC TA 620): a responsabilidade do auditor pela opinião é exclusiva e não é reduzida pela utilização do especialista; em relatório sem modificação é VEDADO citar o especialista.
-
-### Questão 04 — [FCC — SEFAZ-AP / Auditor da Receita Estadual — 2022]
-**Identificador QC:** [Q1945660](https://www.qconcursos.com/questoes-de-concursos/questoes/c4194566-0a)
+### [Questão 04](https://www.qconcursos.com/questoes-de-concursos/questoes/c4194566-0a) — [FCC — SEFAZ-AP / Auditor da Receita Estadual — 2022]
 
 De acordo com a NBC TA 550, caso o auditor identifique, durante a realização dos procedimentos de auditoria, acordos ou informações que sugiram a existência de relacionamentos ou transações com partes relacionadas que a administração não identificou ou não divulgou previamente ao auditor, uma das providências obrigatórias imediatas do auditor é:
 * **A)** comunicar imediatamente a informação relevante aos outros membros da equipe de trabalho e indagar por que os controles da entidade sobre relacionamentos e transações com partes relacionadas falharam na identificação ou divulgação.
@@ -418,12 +414,11 @@ De acordo com a NBC TA 550, caso o auditor identifique, durante a realização d
 * **(D) Incorreta:** O auditor deve executar procedimentos substantivos apropriados nas partes recém-identificadas (item 22, "c").
 * **(E) Incorreta:** Jamais se exclui um indício de risco ou fraude da análise do auditor!
 
+> **Fique Ligado:** Se o auditor identificar partes relacionadas não identificadas ou não divulgadas anteriormente pela gestão, deve comunicar imediatamente aos demais membros da equipe e requerer explicações da administração.
+
 ---
 
-> **🛡️ Regra de Ouro Inviolável:** Se o auditor identificar partes relacionadas não identificadas ou não divulgadas anteriormente pela gestão, deve comunicar imediatamente aos demais membros da equipe e requerer explicações da administração.
-
-### Questão 05 — [FGV — TCU / Auditor Federal de Controle Externo — 2024]
-**Identificador QC:** [Q2456790](https://www.qconcursos.com/questoes-de-concursos/questoes/0b245679-0c)
+### [Questão 05](https://www.qconcursos.com/questoes-de-concursos/questoes/0b245679-0c) — [FGV — TCU / Auditor Federal de Controle Externo — 2024]
 
 No âmbito da NBC TA 610 (Utilização do Trabalho de Auditoria Interna), o auditor independente pode planejar utilizar o trabalho já realizado pela função de auditoria interna ou utilizar auditores internos para a prestação de assistência direta. Sobre os requisitos e vedações estabelecidos nessa norma, assinale a afirmativa correta:
 * **A)** O auditor independente pode utilizar o trabalho da função de auditoria interna mesmo que esta não aplique uma abordagem sistemática e disciplinada, desde que os auditores internos possuam certificação profissional.
@@ -441,12 +436,11 @@ No âmbito da NBC TA 610 (Utilização do Trabalho de Auditoria Interna), o audi
 * **(D) Incorreta:** Conforme o item 11 da NBC TA 610, o auditor externo tem **responsabilidade única** pela opinião de auditoria expressa, e essa responsabilidade **não é reduzida** pela utilização do trabalho da função de auditoria interna ou de assistência direta, sendo vedado mencioná-los no relatório para dividir responsabilidade.
 * **(E) Incorreta:** O item 30(c) da NBC TA 610 **proíbe** designar auditores internos em assistência direta para procedimentos que se relacionem com trabalho com o qual os auditores internos estiveram envolvidos (violação da objetividade / autoavaliação).
 
+> **Fique Ligado:** O auditor independente jamais pode delegar a responsabilidade pela opinião ou a condução de julgamentos significativos à auditoria interna (NBC TA 610).
+
 ---
 
-> **🛡️ Regra de Ouro Inviolável:** O auditor independente jamais pode delegar a responsabilidade pela opinião ou a condução de julgamentos significativos à auditoria interna (NBC TA 610).
-
-### Questão 06 — [FCC — CGE-SP / Auditor Estadual de Controle — 2023]
-**Identificador QC:** [Q2214570](https://www.qconcursos.com/questoes-de-concursos/questoes/5e221457-0b)
+### [Questão 06](https://www.qconcursos.com/questoes-de-concursos/questoes/5e221457-0b) — [FCC — CGE-SP / Auditor Estadual de Controle — 2023]
 
 Ao auditar uma provisão para contingências ambientais de alta complexidade (NBC TA 540), o auditor independente decidiu desenvolver um intervalo do auditor para avaliar a estimativa pontual contabilizada pela administração no valor de R\$ 12.000.000,00. Com base nas evidências de auditoria apropriadas e suficientes obtidas com o auxílio de peritos ambientais, o auditor estabeleceu que o intervalo razoável de desfechos situa-se entre o limite mínimo de R\$ 15.000.000,00 e o limite máximo de R\$ 21.000.000,00. Nessa situação, segundo a NBC TA 540 e a NBC TA 450, o valor da distorção contábil identificada pelo auditor é de, no mínimo:
 * **A)** R\$ 0,00, pois ambas as estimativas tratam de eventos futuros incertos.
@@ -465,12 +459,11 @@ Ao auditar uma provisão para contingências ambientais de alta complexidade (NB
 * **(D) Incorreta:** Calculou a diferença até o ponto mais distante do intervalo ($\text{R\$ } 21\text{ milhões} - \text{R\$ } 12\text{ milhões} = \text{R\$ } 9\text{ milhões}$).
 * **(E) Incorreta:** Repetiu o próprio valor contábil registrado pela administração.
 
+> **Fique Ligado:** Para responder ao risco de estimativas complexas, o auditor pode testar como a administração fez a estimativa, desenvolver estimativa pontual independente ou testar a eficácia dos controles.
+
 ---
 
-> **🛡️ Regra de Ouro Inviolável:** Para responder ao risco de estimativas complexas, o auditor pode testar como a administração fez a estimativa, desenvolver estimativa pontual independente ou testar a eficácia dos controles.
-
-### Questão 07 — [FGV — SEFAZ-AM / Auditor Fiscal de Tributos Estaduais — 2022]
-**Identificador QC:** [Q1901260](https://www.qconcursos.com/questoes-de-concursos/questoes/4d190126-0c)
+### [Questão 07](https://www.qconcursos.com/questoes-de-concursos/questoes/4d190126-0c) — [FGV — SEFAZ-AM / Auditor Fiscal de Tributos Estaduais — 2022]
 
 Na auditoria das demonstrações contábeis consolidadas de uma *holding* industrial (NBC TA 600), a equipe de trabalho do grupo identificou que determinada controlada localizada no exterior representa 28% do ativo total consolidado e 35% do lucro antes dos impostos do grupo, sendo auditada por outra firma de auditoria local (auditor de componente). Acerca das regras da NBC TA 600 aplicáveis a esse trabalho, assinale a afirmativa correta:
 * **A)** O sócio do trabalho do grupo deve obrigatoriamente mencionar o nome da firma auditora da controlada no parágrafo de opinião das demonstrações consolidadas para eximir-se de responsabilidade pelos 28% dos ativos auditados por terceiros.
@@ -488,12 +481,11 @@ Na auditoria das demonstrações contábeis consolidadas de uma *holding* indust
 * **(D) Incorreta:** Conforme o item 20 da NBC TA 600, se o auditor do componente não cumpre as exigências de independência ou se a equipe do grupo tem reservas significativas quanto à sua competência ou ética, a equipe do grupo **deve obter evidência apropriada e suficiente sobre o componente sem utilizar o trabalho daquele auditor de componente**!
 * **(E) Incorreta:** Conforme o item 9(m) da NBC TA 600, um componente é significativo **ou** por sua importância financeira individual **ou** porque, devido à sua natureza ou circunstâncias específicas, provavelmente inclua **riscos significativos de distorção relevante** das demonstrações do grupo (como uma SPE pequena que concentra derivativos tóxicos).
 
+> **Fique Ligado:** Auditoria de Grupo (NBC TA 600): o sócio do trabalho do grupo é o único responsável pela opinião; não divide responsabilidade com os auditores dos componentes.
+
 ---
 
-> **🛡️ Regra de Ouro Inviolável:** Auditoria de Grupo (NBC TA 600): o sócio do trabalho do grupo é o único responsável pela opinião; não divide responsabilidade com os auditores dos componentes.
-
-### Questão 08 — [Cebraspe — TCE-RJ / Analista de Controle Externo — 2021]
-**Identificador QC:** [Q1756800](https://www.qconcursos.com/questoes-de-concursos/questoes/5e175680-0f)
+### [Questão 08](https://www.qconcursos.com/questoes-de-concursos/questoes/5e175680-0f) — [Cebraspe — TCE-RJ / Analista de Controle Externo — 2021]
 
 Julgue os itens a seguir com base nas disposições da NBC TA 540 (Auditoria de Estimativas Contábeis) acerca dos fatores de risco inerente e do viés da administração, e assinale a opção correta:
 * **A)** O viés da administração (*management bias*) é definido como a falta de neutralidade da administração na elaboração de informações contábeis e configura, em todos os casos e sem exceção, fraude intencional.
@@ -511,12 +503,11 @@ Julgue os itens a seguir com base nas disposições da NBC TA 540 (Auditoria de 
 * **(D) Incorreta:** Preços cotados publicamente em mercado ativo (Nível 1) possuem **baixa** incerteza de mensuração, baixa complexidade e baixa subjetividade.
 * **(E) Incorreta:** Quanto maior a incerteza de mensuração, **mais crítica e rigorosa** deve ser a avaliação do auditor sobre a adequação das divulgações em notas explicativas (análise de sensibilidade, premissas-chave e fontes de incerteza — itens 30 e 31 da NBC TA 540).
 
+> **Fique Ligado:** Fatores de incerteza da estimativa: sensibilidade das premissas a mudanças, complexidade do modelo de cálculo e subjetividade na mensuração do valor justo.
+
 ---
 
-> **🛡️ Regra de Ouro Inviolável:** Fatores de incerteza da estimativa: sensibilidade das premissas a mudanças, complexidade do modelo de cálculo e subjetividade na mensuração do valor justo.
-
-### Questão 09 — [FGV — SEFAZ-ES / Auditor Fiscal da Receita Estadual — 2021]
-**Identificador QC:** [Q1789050](https://www.qconcursos.com/questoes-de-concursos/questoes/3c178905-0e)
+### [Questão 09](https://www.qconcursos.com/questoes-de-concursos/questoes/3c178905-0e) — [FGV — SEFAZ-ES / Auditor Fiscal da Receita Estadual — 2021]
 
 Ao examinar um contrato de venda de um complexo industrial celebrado pela companhia auditada com uma empresa controlada pelo irmão do Diretor Presidente, o auditor constatou que a operação foi realizada fora do curso normal dos negócios. De acordo com o item 23 da NBC TA 550 (Partes Relacionadas), ao inspecionar o contrato subjacente a essa transação significativa fora do curso normal dos negócios, o auditor deve avaliar se:
 * **A)** a operação gerou recolhimento imediato de tributos federais, único requisito necessário para afastar o risco de fraude.
@@ -534,12 +525,11 @@ Ao examinar um contrato de venda de um complexo industrial celebrado pela compan
 * **(D) Incorreta:** O enquadramento como parte relacionada independe de um teto de 50% do patrimônio líquido; familiares próximos do pessoal-chave da administração e empresas por eles controladas são partes relacionadas por definição legal e contábil (CPC 05).
 * **(E) Incorreta:** O domicílio geográfico do familiar é irrelevante para a configuração de parte relacionada.
 
+> **Fique Ligado:** Transações entre partes relacionadas em condições que não seriam aceitas entre partes independentes indicam tentativa de ocultação de desvios patrimoniais ou manipulação tributária.
+
 ---
 
-> **🛡️ Regra de Ouro Inviolável:** Transações entre partes relacionadas em condições que não seriam aceitas entre partes independentes indicam tentativa de ocultação de desvios patrimoniais ou manipulação tributária.
-
-### Questão 10 — [FCC — SEFAZ-SC / Auditor Fiscal da Receita Estadual — 2021]
-**Identificador QC:** [Q1765430](https://www.qconcursos.com/questoes-de-concursos/questoes/6b176543-0d)
+### [Questão 10](https://www.qconcursos.com/questoes-de-concursos/questoes/6b176543-0d) — [FCC — SEFAZ-SC / Auditor Fiscal da Receita Estadual — 2021]
 
 Considere as distinções normativas entre o Especialista da Administração (NBC TA 500) e o Especialista do Auditor (NBC TA 620). A esse respeito, é correto afirmar que:
 * **A)** o especialista da administração é contratado pela firma de auditoria independente para auditar os cálculos atuariais elaborados pela própria administração.
@@ -558,15 +548,13 @@ Considere as distinções normativas entre o Especialista da Administração (NB
 * **(E) Incorreta:** O item 11 da NBC TA 620 determina que o auditor deve estabelecer acordo, **por escrito** quando apropriado, com o especialista do auditor sobre a natureza, o alcance e os objetivos do trabalho, os respectivos papéis e a necessidade de observar requisitos de confidencialidade.
 
 
----
-
-> **🛡️ Regra de Ouro Inviolável:** Especialista da administração (fonte de evidência - NBC TA 500) vs Especialista do auditor (assistência técnica ao auditor - NBC TA 620).
-
+> **Fique Ligado:** Especialista da administração (fonte de evidência - NBC TA 500) vs Especialista do auditor (assistência técnica ao auditor - NBC TA 620).
 
 ---
 
-### Questão 11 — [FGV — CFC / Exame de Qualificação Técnica Geral (QTG) — 2026]
-**Identificador QC:** [Q4368160](https://www.qconcursos.com/questoes-de-concursos/questoes/1d99cb60-e5)
+---
+
+### [Questão 11](https://www.qconcursos.com/questoes-de-concursos/questoes/1d99cb60-e5) — [FGV — CFC / Exame de Qualificação Técnica Geral (QTG) — 2026]
 
 A NBC TA 540 (R2) estabelece os requisitos para a auditoria de estimativas contábeis e respectivas divulgações. No tocante à avaliação da incerteza de estimativa e à existência de distorções nas estimativas contábeis da administração, assinale a afirmativa CORRETA:
 
@@ -585,12 +573,11 @@ A NBC TA 540 (R2) estabelece os requisitos para a auditoria de estimativas cont�
 * **(D) INCORRETA:** A avaliação de **indícios de viés da administração** (ex: otimismo sistemático em ativos ou pessimismo seletivo em provisões tributárias) é um requisito compulsório e universal na auditoria de estimativas (NBC TA 540, item 32).
 * **(E) INCORRETA:** O viés da administração é fator crítico de risco de fraude corporativa e distorção cumulativa relevante.
 
-> **🛡️ Regra de Ouro Inviolável:** A diferença entre o desfecho real e a estimativa contábil anterior decorre da incerteza inerente, não sendo necessariamente erro ou fraude. Quando a estimativa da gestão fica fora do intervalo do auditor, a distorção mínima é a distância até a fronteira mais próxima desse intervalo.
+> **Fique Ligado:** A diferença entre o desfecho real e a estimativa contábil anterior decorre da incerteza inerente, não sendo necessariamente erro ou fraude. Quando a estimativa da gestão fica fora do intervalo do auditor, a distorção mínima é a distância até a fronteira mais próxima desse intervalo.
 
 ---
 
-### Questão 12 — [Cebraspe — SEFAZ-CE / Auditor Fiscal da Receita Estadual — 2021]
-**Identificador QC:** [Q1789060](https://www.qconcursos.com/questoes-de-concursos/questoes/4d178906-0f)
+### [Questão 12](https://www.qconcursos.com/questoes-de-concursos/questoes/4d178906-0f) — [Cebraspe — SEFAZ-CE / Auditor Fiscal da Receita Estadual — 2021]
 
 A respeito da utilização do trabalho de Especialistas do Auditor (NBC TA 620) e da forma de apresentação do relatório de auditoria independente, assinale a opção CORRETA:
 
@@ -609,7 +596,7 @@ A respeito da utilização do trabalho de Especialistas do Auditor (NBC TA 620) 
 * **(D) INCORRETA:** O auditor deve obrigatoriamente avaliar a competência, habilidades e objetividade do especialista antes da contratação (item 9 da NBC TA 620).
 * **(E) INCORRETA:** O especialista do auditor atua justamente em áreas do conhecimento alheias à contabilidade e auditoria (como engenharia, atuária, avaliação imobiliária ou direito).
 
-> **🛡️ Regra de Ouro Inviolável:** Relatório SEM modificação (limpo) = PROIBIDO mencionar o especialista do auditor! Relatório COM modificação (ressalva/adversa/abstenção) = pode mencionar apenas se relevante para explicar a modificação, declarando expressamente que isso NÃO reduz a responsabilidade exclusiva do auditor.
+> **Fique Ligado:** Relatório SEM modificação (limpo) = PROIBIDO mencionar o especialista do auditor! Relatório COM modificação (ressalva/adversa/abstenção) = pode mencionar apenas se relevante para explicar a modificação, declarando expressamente que isso NÃO reduz a responsabilidade exclusiva do auditor.
 
 ## 7. Requisitos Específicos de Documentação e Comunicação com a Governança
 

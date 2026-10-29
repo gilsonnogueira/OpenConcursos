@@ -447,8 +447,7 @@ Para consolidar a aplicação prática da norma em questões discursivas e estud
 
 ## 9. Bateria de Questões Oficiais Comentadas Alternativa por Alternativa
 
-### Questão 01 — [FGV — ALESC / Auditor Interno — 2024]
-**Identificador QC:** [Q4368151](https://www.qconcursos.com/questoes-de-concursos/questoes/1f625ea5-c3)
+### [Questão 01](https://www.qconcursos.com/questoes-de-concursos/questoes/1f625ea5-c3) — [FGV — ALESC / Auditor Interno — 2024]
 
 De acordo com a NBC TI 01 – Da Auditoria Interna, os testes substantivos visam à obtenção de evidência quanto à suficiência, exatidão e validade dos dados produzidos pelos sistemas de informação da entidade. No processo de obtenção de informações sobre os assuntos relacionados aos objetivos e ao alcance da Auditoria Interna, devem ser observadas as características da informação, à exceção de uma. Assinale-a:
 
@@ -468,12 +467,11 @@ De acordo com a NBC TI 01 – Da Auditoria Interna, os testes substantivos visam
 * **(E) CORRETA (não é a resposta):** Reproduz literalmente o item 12.2.3.5, I, "b", da NBC TI 01 (Mnemônico `AME`: **A**dequada $\rightarrow$ confiável, **M**elhor **E**vidência alcançável).
 
 
-> **🛡️ Regra de Ouro Inviolável:** A informação da Auditoria Interna possui apenas 4 características: **SUFACO** (Suficiente = Factual e Convincente), **AME** (Adequada = Confiável, Melhor Evidência), **RECO** (Relevante = suporte a Conclusões) e **UM** (Útil = atingir Metas). 'Tempestiva' não integra esse rol!
+> **Fique Ligado:** A informação da Auditoria Interna possui apenas 4 características: **SUFACO** (Suficiente = Factual e Convincente), **AME** (Adequada = Confiável, Melhor Evidência), **RECO** (Relevante = suporte a Conclusões) e **UM** (Útil = atingir Metas). 'Tempestiva' não integra esse rol!
 
 ---
 
-### Questão 02 — [FGV — CGE-SC / Auditor do Estado — 2023]
-**Identificador QC:** [Q3894193](https://www.qconcursos.com/questoes-de-concursos/questoes/8ca27246-10)
+### [Questão 02](https://www.qconcursos.com/questoes-de-concursos/questoes/8ca27246-10) — [FGV — CGE-SC / Auditor do Estado — 2023]
 
 Conforme a atualização do Modelo das Três Linhas do *Institute of Internal Auditors* (IIA), a terceira linha de atuação distingue-se das demais por exercer função precípua de:
 
@@ -493,12 +491,11 @@ Conforme a atualização do Modelo das Três Linhas do *Institute of Internal Au
 * **(E) INCORRETA:** A elaboração de matrizes de riscos e a implementação de políticas de integridade pertencem à **Segunda Linha** (gestão de riscos e *compliance*).
 
 
-> **🛡️ Regra de Ouro Inviolável:** No Modelo das Três Linhas (IIA 2020), a **3ª Linha é privativa da Auditoria Interna** e presta avaliação (*assurance*) e assessoria independentes diretamente ao Órgão de Governança, enquanto conformidade (*compliance*) e gestão de riscos pertencem à **2ª Linha**.
+> **Fique Ligado:** No Modelo das Três Linhas (IIA 2020), a **3ª Linha é privativa da Auditoria Interna** e presta avaliação (*assurance*) e assessoria independentes diretamente ao Órgão de Governança, enquanto conformidade (*compliance*) e gestão de riscos pertencem à **2ª Linha**.
 
 ---
 
-### Questão 03 — [FCC — SEFAZ-PE / Auditor Fiscal do Tesouro Estadual — 2022]
-**Identificador QC:** [Q3765476](https://www.qconcursos.com/questoes-de-concursos/questoes/37fa319a-d5)
+### [Questão 03](https://www.qconcursos.com/questoes-de-concursos/questoes/37fa319a-d5) — [FCC — SEFAZ-PE / Auditor Fiscal do Tesouro Estadual — 2022]
 
 A atividade da auditoria interna está estruturada em procedimentos, com enfoque técnico, objetivo, sistemático e disciplinado, e tem por finalidade agregar valor ao resultado da organização, apresentando subsídios para o aperfeiçoamento dos processos, da gestão e dos controles internos, por meio da recomendação de soluções para as não-conformidades apontadas nos relatórios. No que tange à auditoria interna, assinale a afirmativa que está em DESACORDO com a Norma Brasileira de Contabilidade NBC TI 01:
 
@@ -518,12 +515,11 @@ A atividade da auditoria interna está estruturada em procedimentos, com enfoque
 * **(E) CORRETA (de acordo com a norma):** Literalidade do item 12.1.2.4 da NBC TI 01 quanto ao dever de verificar a integridade dos documentos anexados aos papéis de trabalho.
 
 
-> **🛡️ Regra de Ouro Inviolável:** A intenção é o divisor de águas: **Fraude é ato intencional** (dolo/adulteração); **Erro é ato involuntário/não intencional** (desatenção/omissão). Além disso, a comunicação de fraudes/erros pela Auditoria Interna deve ser **sempre por escrito e de maneira reservada**.
+> **Fique Ligado:** A intenção é o divisor de águas: **Fraude é ato intencional** (dolo/adulteração); **Erro é ato involuntário/não intencional** (desatenção/omissão). Além disso, a comunicação de fraudes/erros pela Auditoria Interna deve ser **sempre por escrito e de maneira reservada**.
 
 ---
 
-### Questão 04 — [Cebraspe — Telebras / Especialista em Gestão de Telecomunicações - Auditoria — 2022]
-**Identificador QC:** [Q3375894](https://www.qconcursos.com/questoes-de-concursos/questoes/8a62bbdd-3b)
+### [Questão 04](https://www.qconcursos.com/questoes-de-concursos/questoes/8a62bbdd-3b) — [Cebraspe — Telebras / Especialista em Gestão de Telecomunicações - Auditoria — 2022]
 
 Conforme a Norma Brasileira de Contabilidade de Auditoria Interna (NBC TI 01), julgue os itens seguintes e assinale a alternativa correta:
 
@@ -546,12 +542,11 @@ III. A análise dos riscos da auditoria interna deve ser realizada exclusivament
 * Portanto, apenas os itens **I e II** estão corretos, confirmando o gabarito na **alternativa B**.
 
 
-> **🛡️ Regra de Ouro Inviolável:** A análise de riscos da Auditoria Interna é realizada na **fase de planejamento**, não de execução. O relatório final é apresentado a quem solicitou os trabalhos e sob confidencialidade estrita.
+> **Fique Ligado:** A análise de riscos da Auditoria Interna é realizada na **fase de planejamento**, não de execução. O relatório final é apresentado a quem solicitou os trabalhos e sob confidencialidade estrita.
 
 ---
 
-### Questão 05 — [FGV — Prefeitura de São José dos Campos / Auditor Tributário Municipal — 2024]
-**Identificador QC:** [Q4375831](https://www.qconcursos.com/questoes-de-concursos/questoes/fcb11895-c7)
+### [Questão 05](https://www.qconcursos.com/questoes-de-concursos/questoes/fcb11895-c7) — [FGV — Prefeitura de São José dos Campos / Auditor Tributário Municipal — 2024]
 
 Na fase de execução de uma auditoria conduzida pela unidade de auditoria interna, os procedimentos aplicados e os registros produzidos cumprem funções específicas e não se substituem entre si. Associe cada elemento da Coluna I à descrição correspondente da Coluna II, segundo a NBC TI 01:
 
@@ -585,12 +580,11 @@ Assinale a alternativa que apresenta a associação correta, de cima para baixo:
 * A sequência exata é **3, 1, 4, 2**, o que torna correta a **alternativa D** e invalida as demais (A, B, C e E).
 
 
-> **🛡️ Regra de Ouro Inviolável:** Teste de observância avalia se o **controle interno funciona**; Teste substantivo avalia a **suficiência, exatidão e validade dos dados contábeis/operacionais**.
+> **Fique Ligado:** Teste de observância avalia se o **controle interno funciona**; Teste substantivo avalia a **suficiência, exatidão e validade dos dados contábeis/operacionais**.
 
 ---
 
-### Questão 06 — [FGV — CGU / Auditor Federal de Finanças e Controle — 2022]
-**Identificador QC:** [Q3335621](https://www.qconcursos.com/questoes-de-concursos/questoes/a3ad1ec4-2a)
+### [Questão 06](https://www.qconcursos.com/questoes-de-concursos/questoes/a3ad1ec4-2a) — [FGV — CGU / Auditor Federal de Finanças e Controle — 2022]
 
 As Normas Internacionais para o exercício profissional da Auditoria Interna, propostas pelo *Institute of Internal Auditors* (IIA), tratam especificamente de normas de atributos e de desempenho, que constituem referência para todos os serviços de auditoria interna. Nesse contexto, suponha que o gestor de uma entidade fez uma solicitação específica para a unidade de auditoria interna, requisitando assessoria para um plano de reorganização da estrutura de processos da entidade, visando à obtenção de maior eficiência na execução de projetos. O serviço de consultoria solicitado à instância de auditoria interna:
 
@@ -610,12 +604,11 @@ As Normas Internacionais para o exercício profissional da Auditoria Interna, pr
 * **(E) INCORRETA:** Serviços de consultoria interna não geram pareceres contábeis de auditoria financeira nem garantem metas futuras de desempenho.
 
 
-> **🛡️ Regra de Ouro Inviolável:** Nos serviços de **avaliação (*assurance*)**, o auditor define o escopo unilateralmente (relação tripartite); nos serviços de **consultoria (*consulting*)**, o escopo decorre de **acordo com o cliente** (relação bipartite), sem nunca assumir função gestora.
+> **Fique Ligado:** Nos serviços de **avaliação (*assurance*)**, o auditor define o escopo unilateralmente (relação tripartite); nos serviços de **consultoria (*consulting*)**, o escopo decorre de **acordo com o cliente** (relação bipartite), sem nunca assumir função gestora.
 
 ---
 
-### Questão 07 — [FCC — TRT-4 / Analista Judiciário - Contabilidade — 2022]
-**Identificador QC:** [Q3957778](https://www.qconcursos.com/questoes-de-concursos/questoes/1517f6e8-29)
+### [Questão 07](https://www.qconcursos.com/questoes-de-concursos/questoes/1517f6e8-29) — [FCC — TRT-4 / Analista Judiciário - Contabilidade — 2022]
 
 Em uma organização de médio porte, a auditoria interna foi incumbida de avaliar a adequação dos controles relacionados ao processo de compras. Durante o planejamento dos trabalhos, o auditor definiu procedimentos considerando riscos identificados, materialidade e necessidade de obter evidência apropriada e suficiente. À luz da NBC TI 01, a atuação da auditoria interna, nesse contexto, deve priorizar a:
 
@@ -635,12 +628,11 @@ Em uma organização de médio porte, a auditoria interna foi incumbida de avali
 * **(E) CORRETA:** Em perfeita harmonia com os itens 12.1.1.1 e 12.2.3 da NBC TI 01, a Auditoria Interna aplica procedimentos estruturados para avaliar a integridade, adequação e eficácia dos controles internos e do gerenciamento de riscos, assistindo a administração no alcance dos objetivos organizacionais.
 
 
-> **🛡️ Regra de Ouro Inviolável:** A Auditoria Interna atua baseada em riscos e amostragem (3ª linha) para assessorar a administração, jamais substituindo gestores nem conferindo 100% de transações.
+> **Fique Ligado:** A Auditoria Interna atua baseada em riscos e amostragem (3ª linha) para assessorar a administração, jamais substituindo gestores nem conferindo 100% de transações.
 
 ---
 
-### Questão 08 — [FGV — SEFAZ-MG / Auditor Fiscal da Receita Estadual — 2023]
-**Identificador QC:** [Q3335619](https://www.qconcursos.com/questoes-de-concursos/questoes/a3a7f4e6-2a)
+### [Questão 08](https://www.qconcursos.com/questoes-de-concursos/questoes/a3a7f4e6-2a) — [FGV — SEFAZ-MG / Auditor Fiscal da Receita Estadual — 2023]
 
 A adoção de modelos avançados de governança tem sido fortemente incentivada nas organizações públicas e privadas, a exemplo do Modelo das Três Linhas, desenvolvido pelo *Institute of Internal Auditors* (IIA). Esse modelo tem como objetivo auxiliar as organizações a identificar estruturas e processos que melhor auxiliam no atingimento dos objetivos e facilitam uma forte governança e gerenciamento de riscos. Nesse modelo, papéis focados em objetivos específicos do gerenciamento de riscos, a exemplo de monitoramento da conformidade com leis e regulamentos (*compliance*), comportamento ético aceitável, segurança da informação e avaliação da qualidade, fornecendo expertise complementar e suporte aos gestores operacionais, são associados a:
 
@@ -660,12 +652,11 @@ A adoção de modelos avançados de governança tem sido fortemente incentivada 
 * **(E) INCORRETA:** **Provedores externos** (auditores independentes e reguladores) atuam fora da estrutura da entidade.
 
 
-> **🛡️ Regra de Ouro Inviolável:** Monitoramento de *compliance*, segurança da informação e gestão de riscos são funções de suporte da **2ª Linha**. A **3ª Linha (Auditoria Interna)** avalia a 1ª e a 2ª linhas com independência absoluta face à gestão.
+> **Fique Ligado:** Monitoramento de *compliance*, segurança da informação e gestão de riscos são funções de suporte da **2ª Linha**. A **3ª Linha (Auditoria Interna)** avalia a 1ª e a 2ª linhas com independência absoluta face à gestão.
 
 ---
 
-### Questão 09 — [FCC — CGE-SP / Auditor Estadual de Controle — 2023]
-**Identificador QC:** [Q4369887](https://www.qconcursos.com/questoes-de-concursos/questoes/ab78b0bb-c4)
+### [Questão 09](https://www.qconcursos.com/questoes-de-concursos/questoes/ab78b0bb-c4) — [FCC — CGE-SP / Auditor Estadual de Controle — 2023]
 
 De acordo com as disposições da NBC TI 01 — Da Auditoria Interna, durante a execução de uma auditoria no departamento de logística e almoxarifado de uma companhia estadual, o auditor interno constatou a ocorrência de irregularidades gravíssimas no controle de combustíveis, com fortes evidências de desvio contínuo que exigiam providências urgentes da diretoria para estancar o prejuízo diário, não podendo aguardar o encerramento global dos exames previstos para dali a três meses. Diante dessa situação específica, a NBC TI 01 estabelece que a Auditoria Interna deve:
 
@@ -685,12 +676,11 @@ De acordo com as disposições da NBC TI 01 — Da Auditoria Interna, durante a 
 * **(E) INCORRETA:** Assumir a chefia operacional do setor auditado destrói a independência da Auditoria Interna, além de ser impossível reduzir o risco residual a zero absoluto.
 
 
-> **🛡️ Regra de Ouro Inviolável:** Diante de irregularidades que exijam providências imediatas da administração e não possam aguardar o final dos exames, a NBC TI 01 impõe a emissão de **Relatório Parcial**.
+> **Fique Ligado:** Diante de irregularidades que exijam providências imediatas da administração e não possam aguardar o final dos exames, a NBC TI 01 impõe a emissão de **Relatório Parcial**.
 
 ---
 
-### Questão 10 — [FGV — Receita Federal / Auditor-Fiscal (Simulado Oficial de Normas CFC) — 2024]
-**Identificador QC:** [Q4368144](https://www.qconcursos.com/questoes-de-concursos/questoes/1f51a7a6-c3)
+### [Questão 10](https://www.qconcursos.com/questoes-de-concursos/questoes/1f51a7a6-c3) — [FGV — Receita Federal / Auditor-Fiscal (Simulado Oficial de Normas CFC) — 2024]
 
 Na aplicação dos testes de observância previstos na NBC TI 01 (item 12.2.3.3), o auditor interno executa três procedimentos técnicos clássicos para verificar se os controles internos estão em efetivo funcionamento. Considere as três ações descritas a seguir:
 
@@ -715,7 +705,7 @@ Segundo a terminologia estrita da NBC TI 01, os procedimentos executados em I, I
 * Assim, a correlação exata é **Observação; Investigação e Confirmação; Inspeção**, cravando o gabarito na **alternativa B** e afastando as alternativas A, C, D e E.
 
 
-> **🛡️ Regra de Ouro Inviolável:** Os papéis de trabalho da Auditoria Interna são confidenciais, de custódia e propriedade exclusiva da entidade, e documentam fatos e provas que sustentam as recomendações emitidas.
+> **Fique Ligado:** Os papéis de trabalho da Auditoria Interna são confidenciais, de custódia e propriedade exclusiva da entidade, e documentam fatos e provas que sustentam as recomendações emitidas.
 
 ---
 
@@ -735,7 +725,7 @@ Segundo a terminologia estrita da NBC TI 01, os procedimentos executados em I, I
 
 
 
-> **🛡️ Regra de Ouro Inviolável:** Os papéis de trabalho da Auditoria Interna são confidenciais, de custódia e propriedade exclusiva da entidade, e documentam fatos e provas que sustentam as recomendações emitidas.
+> **Fique Ligado:** Os papéis de trabalho da Auditoria Interna são confidenciais, de custódia e propriedade exclusiva da entidade, e documentam fatos e provas que sustentam as recomendações emitidas.
 
 ---
 
@@ -785,12 +775,11 @@ Durante a execução dos **Testes de Observância (NBC TI 01, item 12.2.3.2)**, 
    * Nesses casos, a Auditoria Interna deve recomendar a implantação de **Controles Compensatórios (*Mitigating / Compensating Controls*)**, tais como a **supervisão direta mais rigorosa pelo gestor superior**, revisões independentes periódicas de lotes de transações e monitoramento eletrônico de trilhas de auditoria (*audit trails*).
 
 
-> **🛡️ Regra de Ouro Inviolável:** Os papéis de trabalho da Auditoria Interna são confidenciais, de custódia e propriedade exclusiva da entidade, e documentam fatos e provas que sustentam as recomendações emitidas.
+> **Fique Ligado:** Os papéis de trabalho da Auditoria Interna são confidenciais, de custódia e propriedade exclusiva da entidade, e documentam fatos e provas que sustentam as recomendações emitidas.
 
 ---
 
-### Questão 11 — [FGV — Prefeitura de Macaé / Auditor Municipal de Controle Interno — 2024]
-**Identificador QC:** [Q4369455](https://www.qconcursos.com/questoes-de-concursos/questoes/22d4367e-c4)
+### [Questão 11](https://www.qconcursos.com/questoes-de-concursos/questoes/22d4367e-c4) — [FGV — Prefeitura de Macaé / Auditor Municipal de Controle Interno — 2024]
 
 Uma auditoria interna identificou que o mesmo servidor de determinado órgão realizava, de forma habitual, as seguintes atividades: recebia fisicamente os bens adquiridos; confirmava sozinho sua conformidade definitiva; efetuava o registro no sistema patrimonial; emitia e alterava termos de responsabilidade; registrava transferências entre unidades; e realizava a conferência do inventário anual dos bens cuja movimentação havia sido por ele próprio registrada. Embora não tenha sido constatado desvio patrimonial até aquele momento, a auditoria interna classificou o desenho do controle como vulnerável. Considerando os princípios de controle interno e a NBC TI 01, assinale a alternativa que apresenta a avaliação mais adequada da situação:
 
@@ -810,12 +799,11 @@ Uma auditoria interna identificou que o mesmo servidor de determinado órgão re
 * **(E) INCORRETA:** Acumular a custódia física (recebimento), o atesto definitivo e o próprio lançamento no sistema patrimonial já configura concentração grave de funções incompatíveis, mesmo antes do inventário anual.
 
 
-> **🛡️ Regra de Ouro Inviolável:** O auditor interno não pode assumir responsabilidade de linha (co-gestão), sob pena de perda de objetividade e ameaça de autorrevisão em futuras auditorias.
+> **Fique Ligado:** O auditor interno não pode assumir responsabilidade de linha (co-gestão), sob pena de perda de objetividade e ameaça de autorrevisão em futuras auditorias.
 
 ---
 
-### Questão 12 — [Cebraspe — TCE-RJ / Analista de Controle Externo — 2023]
-**Identificador QC:** [Q4369893](https://www.qconcursos.com/questoes-de-concursos/questoes/ab862fdf-c4)
+### [Questão 12](https://www.qconcursos.com/questoes-de-concursos/questoes/ab862fdf-c4) — [Cebraspe — TCE-RJ / Analista de Controle Externo — 2023]
 
 Bruno, auditor interno de uma entidade fechada de previdência complementar (EFPC), extraiu a base integral de pagamentos de benefícios do exercício e, com o auxílio de *software* especializado de auditoria (Técnicas de Auditoria Assistidas por Computador — TAAC), recalculou, item a item, a totalidade dos 41.320 benefícios pagos no ano, confrontando os valores recalculados com os valores registrados na contabilidade. Acerca desse procedimento executado no âmbito da NBC TI 01, assinale a alternativa CORRETA:
 
@@ -836,7 +824,7 @@ Bruno, auditor interno de uma entidade fechada de previdência complementar (EFP
 
 
 
-> **🛡️ Regra de Ouro Inviolável:** O auditor independente pode utilizar o trabalho da auditoria interna como suporte, mas **a responsabilidade pela opinião final sobre as demonstrações é exclusiva e indelegável do auditor externo** (NBC TA 610).
+> **Fique Ligado:** O auditor independente pode utilizar o trabalho da auditoria interna como suporte, mas **a responsabilidade pela opinião final sobre as demonstrações é exclusiva e indelegável do auditor externo** (NBC TA 610).
 
 ---
 

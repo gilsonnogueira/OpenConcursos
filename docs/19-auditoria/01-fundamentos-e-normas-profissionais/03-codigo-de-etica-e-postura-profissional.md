@@ -246,8 +246,7 @@ Além da NBC PG 100 e da NBC PA 400, todo auditor independente no Brasil é um C
 
 ## 9. Bateria de Questões Oficiais Comentadas Alternativa por Alternativa
 
-### Questão 01 — [FGV — CFC / Exame de Qualificação Técnica Geral (QTG) — 2026]
-**Identificador QC:** [Q4368104](https://www.qconcursos.com/questoes-de-concursos/questoes/0b6f6897-c3)
+### [Questão 01](https://www.qconcursos.com/questoes-de-concursos/questoes/0b6f6897-c3) — [FGV — CFC / Exame de Qualificação Técnica Geral (QTG) — 2026]
 
 Além de ser de interesse público, exige-se que os contadores que prestam serviços, denominados contadores externos, atuem com independência ao realizar trabalhos de auditoria e revisão. A NBC PA 400 – INDEPENDÊNCIA PARA TRABALHO DE AUDITORIA E REVISÃO dispõe exaustivamente sobre o assunto.
 
@@ -271,12 +270,11 @@ As afirmativas são, respectivamente,
 * **3ª Afirmativa — VERDADEIRA (V):** Literalidade do item 400.5 A1 da NBC PA 400: a independência compreende **(a) Independência de pensamento** e **(b) Aparência de independência**.
 * **4ª Afirmativa — FALSA (F):** Segundo o item R400.30 da NBC PA 400, a independência deve ser mantida durante **dois** períodos: **(a) o período do trabalho** e **(b) o período coberto pelas demonstrações contábeis**. A norma não menciona "período de contratação". Portanto, a sequência correta é **V – F – V – F** (**Alternativa A**).
 
-> **🛡️ Regra de Ouro Inviolável:** A independência vincula-se aos princípios da objetividade e da integridade (não há impessoalidade na norma contábil); abrange independência de pensamento e aparência de independência.
+> **Fique Ligado:** A independência vincula-se aos princípios da objetividade e da integridade (não há impessoalidade na norma contábil); abrange independência de pensamento e aparência de independência.
 
 ---
 
-### Questão 02 — [FGV — CFC / Banco Central do Brasil (BCB) — 2026]
-**Identificador QC:** [Q4369448](https://www.qconcursos.com/questoes-de-concursos/questoes/22c4a4a2-c4)
+### [Questão 02](https://www.qconcursos.com/questoes-de-concursos/questoes/22c4a4a2-c4) — [FGV — CFC / Banco Central do Brasil (BCB) — 2026]
 
 A Resolução CMN nº 4.910/2021 e alterações, editada pelo Conselho Monetário Nacional e aplicada pelo Banco Central do Brasil, estabelece as regras sobre a prestação de serviços de auditoria independente para as instituições financeiras e demais entidades autorizadas a funcionar pelo Banco Central do Brasil.
 
@@ -298,12 +296,11 @@ As afirmativas são, respectivamente,
 * **2ª Afirmativa — VERDADEIRA (V):** Reproduz exatamente o art. 12, § 2º, da Resolução CMN nº 4.910/2021: o retorno dos profissionais substituídos exige o intervalo mínimo (*quarentena*) de **3 (três) exercícios sociais completos**, contados a partir da data da substituição.
 * **3ª Afirmativa — FALSA (F):** Invenção normativa da banca! Não existe qualquer exigência de aguardar 10 anos em caso de dispensa unilateral pela instituição financeira. Sequência correta: **V – V – F** (**Alternativa B**).
 
-> **🛡️ Regra de Ouro Inviolável:** Ameaças de familiaridade e interesse próprio surgem em relacionamentos pessoais ou comerciais de longo prazo com clientes de auditoria; devem ser tratadas por salvaguardas ou recusa do trabalho.
+> **Fique Ligado:** Ameaças de familiaridade e interesse próprio surgem em relacionamentos pessoais ou comerciais de longo prazo com clientes de auditoria; devem ser tratadas por salvaguardas ou recusa do trabalho.
 
 ---
 
-### Questão 03 — [FGV — CFC / Exame de Qualificação Técnica Geral (QTG) — 2026]
-**Identificador QC:** [Q4368112](https://www.qconcursos.com/questoes-de-concursos/questoes/0b823bbe-c3)
+### [Questão 03](https://www.qconcursos.com/questoes-de-concursos/questoes/0b823bbe-c3) — [FGV — CFC / Exame de Qualificação Técnica Geral (QTG) — 2026]
 
 A NBC PA 400 dispõe sobre a independência para trabalho de auditoria e revisão. A entidade pode se tornar entidade relacionada de cliente de auditoria em decorrência de fusão ou aquisição. A ameaça à independência e, portanto, à capacidade da firma de continuar o trabalho de auditoria, pode ser criada por interesses ou relacionamentos prévios ou atuais entre a firma ou a firma em rede e essa entidade relacionada.
 
@@ -323,12 +320,11 @@ Está correto o que se afirma em
 #### Gabarito Oficial e Dissecação Técnica: **Alternativa E**
 * **Análise dos Itens I, II e III (Todos Corretos):** Os três itens reproduzem com exatidão os dispositivos da **Seção 400.70 (R400.71 a R400.73) da NBC PA 400**: quando uma entidade passa a ser parte relacionada de um cliente de auditoria por fusão ou aquisição, a firma deve extinguir qualquer interesse ou relacionamento proibido até a data efetiva da operação (Item I). Se não for razoavelmente possível encerrá-lo até essa data, a firma deve avaliar a ameaça gerada (Item II) e discutir com os responsáveis pela governança as razões da impossibilidade de encerramento imediato e a avaliação do nível da ameaça (Item III), encerrando o vínculo no máximo em até 6 meses.
 
-> **🛡️ Regra de Ouro Inviolável:** O dever de sigilo profissional proíbe o uso de informações confidenciais para vantagem pessoal do auditor ou de terceiros; subsiste mesmo após o término do vínculo profissional.
+> **Fique Ligado:** O dever de sigilo profissional proíbe o uso de informações confidenciais para vantagem pessoal do auditor ou de terceiros; subsiste mesmo após o término do vínculo profissional.
 
 ---
 
-### Questão 04 — [FGV — CFC / Exame de Qualificação Técnica Geral (QTG) — 2026]
-**Identificador QC:** [Q4368113](https://www.qconcursos.com/questoes-de-concursos/questoes/0b844a41-c3)
+### [Questão 04](https://www.qconcursos.com/questoes-de-concursos/questoes/0b844a41-c3) — [FGV — CFC / Exame de Qualificação Técnica Geral (QTG) — 2026]
 
 A NBC PO 900 dispõe sobre a independência para trabalho de asseguração diferente de auditoria e revisão. A relação entre a administração do cliente e os membros da equipe de asseguração deve ser caracterizada pela transparência completa e pela divulgação integral de todos os aspectos das operações do cliente. Posições contrárias podem resultar de litígios reais ou ameaças de litígio entre cliente de asseguração e a firma ou membro da equipe de asseguração. Essas posições contrárias podem afetar a disposição da administração para fazer divulgações completas e criar ameaças de interesse próprio e de intimidação.
 
@@ -348,12 +344,11 @@ Está correto o que se apresenta em
 #### Gabarito Oficial e Dissecação Técnica: **Alternativa E**
 * **Análise dos Itens I, II e III (Todos Corretos):** De acordo com a Seção 930 da NBC PO 900 (e Seção 430 da NBC PA 400), quando há litígio ou ameaça de litígio entre o cliente e a firma/equipe, geram-se ameaças de **interesse próprio** e de **intimidação**. Os fatores expressamente previstos na norma para avaliar o nível dessas ameaças (e se uma salvaguarda como afastar um membro específico da equipe é suficiente) incluem: **(I) a materialidade do litígio**, **(II) se o litígio refere-se a um trabalho de asseguração/auditoria anterior**, e **(III) se o litígio envolve um membro específico da equipe**.
 
-> **🛡️ Regra de Ouro Inviolável:** Salvaguardas são ações ou medidas que reduzem as ameaças a um nível aceitável; caso nenhuma salvaguarda elimine ou reduza a ameaça, o auditor DEVE recusar ou renunciar ao trabalho.
+> **Fique Ligado:** Salvaguardas são ações ou medidas que reduzem as ameaças a um nível aceitável; caso nenhuma salvaguarda elimine ou reduza a ameaça, o auditor DEVE recusar ou renunciar ao trabalho.
 
 ---
 
-### Questão 05 — [FGV — CFC / Comissão de Valores Mobiliários (CVM) — 2026]
-**Identificador QC:** [Q4368129](https://www.qconcursos.com/questoes-de-concursos/questoes/1f2d2c0f-c3)
+### [Questão 05](https://www.qconcursos.com/questoes-de-concursos/questoes/1f2d2c0f-c3) — [FGV — CFC / Comissão de Valores Mobiliários (CVM) — 2026]
 
 Em relação aos trabalhos de asseguração diferentes de auditoria e revisão, que incluem auditoria de elementos, contas ou itens específicos das demonstrações contábeis e asseguração de desempenho com base nos principais indicadores de desempenho da empresa, analise os itens a seguir:
 
@@ -375,12 +370,11 @@ Estão corretos os itens
 * **Item III (Correto):** Atuação recente de membro da equipe como conselheiro, diretor ou empregado do cliente cria ameaças de **interesse próprio, autorrevisão e familiaridade** (NBC PO 900, Seção 922 / NBC PA 400, Seção 522).
 * **Item IV (Correto):** Distinção perfeita entre o **responsável pelo objeto** (a empresa, que executa as práticas de sustentabilidade) e o **mensurador/avaliador responsável pela informação sobre o objeto** (o consultor ambiental que preparou o relatório). Logo, apenas **III e IV** estão corretos (**Alternativa E**).
 
-> **🛡️ Regra de Ouro Inviolável:** Ameaça de autorrevisão: ocorre quando o auditor avalia resultados de julgamento ou serviço anterior prestado por ele mesmo ou por sua firma.
+> **Fique Ligado:** Ameaça de autorrevisão: ocorre quando o auditor avalia resultados de julgamento ou serviço anterior prestado por ele mesmo ou por sua firma.
 
 ---
 
-### Questão 06 — [FGV — CFC / Superintendência Nacional de Previdência Complementar (Previc) — 2026]
-**Identificador QC:** [Q4369893](https://www.qconcursos.com/questoes-de-concursos/questoes/ab862fdf-c4)
+### [Questão 06](https://www.qconcursos.com/questoes-de-concursos/questoes/ab862fdf-c4) — [FGV — CFC / Superintendência Nacional de Previdência Complementar (Previc) — 2026]
 
 Um auditor independente, responsável pelos trabalhos de auditoria das demonstrações contábeis de uma entidade fechada de previdência complementar (EFPC), foi procurado pela diretoria da entidade para discutir a renovação do contrato de prestação de serviços. Durante a reunião, alguns dirigentes sustentaram que, em razão do longo relacionamento profissional existente entre as partes, não haveria necessidade de observar requisitos específicos relativos à independência do auditor, à comunicação com os órgãos de governança ou à substituição periódica de determinados integrantes da equipe de auditoria.
 
@@ -399,12 +393,11 @@ Nesse contexto, à luz das disposições da Resolução CNPC nº 44/2021, que di
 * **Análise da Alternativa C (Incorreta):** O relacionamento prolongado **aumenta** a ameaça de familiaridade (exigindo rodízio da equipe em 5 exercícios), jamais afastando o dever de independência.
 * **Análise da Alternativa D (Correta):** Sintetiza perfeitamente os deveres de independência, avaliação de ameaças à objetividade e comunicação obrigatória à governança e ao órgão supervisor.
 
-> **🛡️ Regra de Ouro Inviolável:** Presentes e hospitalidade: o auditor NÃO deve aceitar presentes ou favores que possam influenciar ou aparentar influenciar o seu julgamento profissional, exceto se triviais e inconsequentes.
+> **Fique Ligado:** Presentes e hospitalidade: o auditor NÃO deve aceitar presentes ou favores que possam influenciar ou aparentar influenciar o seu julgamento profissional, exceto se triviais e inconsequentes.
 
 ---
 
-### Questão 07 — [Quadrix — CRP-SP / Especialista em Gestão - Contador — 2025]
-**Identificador QC:** [Q3606538](https://www.qconcursos.com/questoes-de-concursos/questoes/29bb14fa-93)
+### [Questão 07](https://www.qconcursos.com/questoes-de-concursos/questoes/29bb14fa-93) — [Quadrix — CRP-SP / Especialista em Gestão - Contador — 2025]
 
 Quanto aos objetivos e aos princípios da auditoria independente, julgue o item seguinte.
 
@@ -415,12 +408,11 @@ A prática de autorrevisão, quando adequadamente controlada e acompanhada por s
 #### Gabarito Oficial e Dissecação Técnica: **Errado (E)**
 * **Fundamentação Técnica:** De acordo com a NBC PG 100 (item 120.6 A3) e a NBC PA 400, a **autorrevisão** (avaliar os resultados de um julgamento ou serviço feito anteriormente pelo próprio profissional ou por sua firma) **é, por sua própria natureza normativa, uma das cinco categorias de ameaças à independência**! O uso de salvaguardas (quando cabível) serve para **tratar e reduzir a ameaça existente a um nível aceitável**, mas não faz com que a autorrevisão deixe de ser uma ameaça.
 
-> **🛡️ Regra de Ouro Inviolável:** Competência e zelo devido: o profissional deve manter conhecimento atualizado e agir com diligência de acordo com as normas técnicas e profissionais aplicáveis.
+> **Fique Ligado:** Competência e zelo devido: o profissional deve manter conhecimento atualizado e agir com diligência de acordo com as normas técnicas e profissionais aplicáveis.
 
 ---
 
-### Questão 08 — [Quadrix — CRP-SP / Especialista em Gestão - Contador — 2025]
-**Identificador QC:** [Q3606539](https://www.qconcursos.com/questoes-de-concursos/questoes/29bd9c92-93)
+### [Questão 08](https://www.qconcursos.com/questoes-de-concursos/questoes/29bd9c92-93) — [Quadrix — CRP-SP / Especialista em Gestão - Contador — 2025]
 
 Quanto aos objetivos e aos princípios da auditoria independente, julgue o item seguinte.
 
@@ -431,13 +423,12 @@ Ter ceticismo não é um dos princípios fundamentais de ética profissional rel
 #### Gabarito Oficial e Dissecação Técnica: **Certo (C)**
 * **Fundamentação Técnica:** Questão de altíssimo nível que separa quem decorou superficialmente de quem domina a literalidade da **NBC PG 100 (item 110.1 A1)** e da **NBC TA 200 (item A14)**! Os **cinco princípios fundamentais de ética profissional** são taxativamente: **(1) Integridade, (2) Objetividade, (3) Competência profissional e devido zelo, (4) Sigilo profissional (Confidencialidade) e (5) Comportamento profissional**. O **ceticismo profissional** é uma postura técnica exigida pela NBC TA 200 (sustentada pela integridade e objetividade), mas **não constitui um dos cinco princípios fundamentais de ética profissional** do Código de Ética! Por isso, a afirmação de que *"ter ceticismo não é um dos princípios fundamentais de ética profissional"* está **CERTA**.
 
-> **🛡️ Regra de Ouro Inviolável:** Comportamento profissional: o auditor deve cumprir leis e regulamentos e evitar qualquer conduta que possa desacreditar a profissão contábil.
+> **Fique Ligado:** Comportamento profissional: o auditor deve cumprir leis e regulamentos e evitar qualquer conduta que possa desacreditar a profissão contábil.
 
 
 ---
 
-### Questão 09 — [FGV — Receita Federal / Auditor-Fiscal — 2023]
-**Identificador QC:** [Q2118995](https://www.qconcursos.com/questoes-de-concursos/questoes/f1211899-5c)
+### [Questão 09](https://www.qconcursos.com/questoes-de-concursos/questoes/f1211899-5c) — [FGV — Receita Federal / Auditor-Fiscal — 2023]
 
 A NBC PG 100 (R1) — Diretrizes Gerais para o Exercício Profissional estabelece a estrutura conceitual que deve ser aplicada pelos contadores para identificar, avaliar e tratar ameaças ao cumprimento dos princípios fundamentais de ética profissional. Associe as categorias de ameaças da Coluna I às situações práticas descritas na Coluna II:
 
@@ -473,12 +464,11 @@ Assinale a opção que apresenta a sequência correta, de cima para baixo:
 * **(2) Autorrevisão:** Ocorre quando o auditor avalia resultados de julgamento ou serviço anterior prestado por ele mesmo ou por sua firma (auditar sistema de custos que a própria firma implementou).
 * A correspondência correta é: **3 — 4 — 5 — 1 — 2**, correspondendo à **Alternativa A**.
 
-> **🛡️ Regra de Ouro Inviolável:** As 5 Ameaças Éticas da NBC PG 100: **Interesse Próprio** (bolso/dinheiro), **Autorrevisão** (auditar o próprio trabalho), **Defesa de Interesses** (advogar pelo cliente), **Familiaridade** (parentesco/intimidade) e **Intimidação** (pressão/ameaças).
+> **Fique Ligado:** As 5 Ameaças Éticas da NBC PG 100: **Interesse Próprio** (bolso/dinheiro), **Autorrevisão** (auditar o próprio trabalho), **Defesa de Interesses** (advogar pelo cliente), **Familiaridade** (parentesco/intimidade) e **Intimidação** (pressão/ameaças).
 
 ---
 
-### Questão 10 — [Cebraspe — TCU / Auditor Federal de Controle Externo — 2022]
-**Identificador QC:** [Q1889790](https://www.qconcursos.com/questoes-de-concursos/questoes/7b188979-0b)
+### [Questão 10](https://www.qconcursos.com/questoes-de-concursos/questoes/7b188979-0b) — [Cebraspe — TCU / Auditor Federal de Controle Externo — 2022]
 
 De acordo com a NBC PA 400 (Independência para Trabalho de Auditoria e Revisão) e a NBC PG 100, no que concerne à fixação de honorários profissionais, assinale a opção CORRETA:
 
@@ -497,12 +487,11 @@ De acordo com a NBC PA 400 (Independência para Trabalho de Auditoria e Revisão
 * **(D) INCORRETA:** Honorários vencidos e não pagos geram ameaça grave de interesse próprio (equivalente a um empréstimo concedido ao cliente).
 * **(E) INCORRETA:** Honorários abaixo do custo (*lowballing*) criam ameaça à qualidade e ao zelo profissional, mas não configuram crime falimentar per se.
 
-> **🛡️ Regra de Ouro Inviolável:** Honorários Contingentes em Auditoria Independente são **TERMINANTEMENTE PROIBIDOS**! Criam ameaça de interesse próprio absoluta que NENHUMA salvaguarda pode mitigar.
+> **Fique Ligado:** Honorários Contingentes em Auditoria Independente são **TERMINANTEMENTE PROIBIDOS**! Criam ameaça de interesse próprio absoluta que NENHUMA salvaguarda pode mitigar.
 
 ---
 
-### Questão 11 — [FCC — SEFAZ-PE / Auditor Fiscal do Tesouro Estadual — 2022]
-**Identificador QC:** [Q1945680](https://www.qconcursos.com/questoes-de-concursos/questoes/e6194568-0c)
+### [Questão 11](https://www.qconcursos.com/questoes-de-concursos/questoes/e6194568-0c) — [FCC — SEFAZ-PE / Auditor Fiscal do Tesouro Estadual — 2022]
 
 A respeito da rotação obrigatória de auditores (*rotatividade de firmas e sócios*) em entidades de interesse público e companhias abertas fiscalizadas pela CVM, segundo as normas do CFC (NBC PA 400) e os regulamentos do mercado de capitais:
 
@@ -521,12 +510,11 @@ A respeito da rotação obrigatória de auditores (*rotatividade de firmas e só
 * **(D) INCORRETA:** A rotação incide justamente sobre o **sócio-chave da auditoria** e sobre o revisor de controle de qualidade do trabalho (quem toma as decisões substantivas).
 * **(E) INCORRETA:** O prazo geral da CVM para a firma de auditoria é de 5 anos (podendo estender-se a 10 anos apenas se a companhia mantiver Comitê de Auditoria Estatutário - CAE).
 
-> **🛡️ Regra de Ouro Inviolável:** Rotação do Sócio-Chave da Auditoria (CVM e NBC PA 400): atuação máxima de **5 anos consecutivos** + período de resfriamento (*cooling-off*) obrigatório de no mínimo **3 anos consecutivos**.
+> **Fique Ligado:** Rotação do Sócio-Chave da Auditoria (CVM e NBC PA 400): atuação máxima de **5 anos consecutivos** + período de resfriamento (*cooling-off*) obrigatório de no mínimo **3 anos consecutivos**.
 
 ---
 
-### Questão 12 — [FGV — SEFAZ-MG / Auditor Fiscal da Receita Estadual — 2023]
-**Identificador QC:** [Q2089510](https://www.qconcursos.com/questoes-de-concursos/questoes/1b208951-0d)
+### [Questão 12](https://www.qconcursos.com/questoes-de-concursos/questoes/1b208951-0d) — [FGV — SEFAZ-MG / Auditor Fiscal da Receita Estadual — 2023]
 
 Segundo a NBC PA 400, a prestação de serviços diferentes de auditoria (*non-audit services*) a uma entidade que é cliente de auditoria pode gerar ameaças graves à independência, especialmente a ameaça de autorrevisão e a ameaça de defesa de interesse do cliente. Em relação a entidades de interesse público (como companhias abertas, bancos e seguradoras), a firma de auditoria:
 
@@ -545,5 +533,5 @@ Segundo a NBC PA 400, a prestação de serviços diferentes de auditoria (*non-a
 * **(D) INCORRETA:** Serviços de avaliação que tenham efeito material nas demonstrações financeiras geram ameaça grave de autorrevisão e são expressamente proibidos para entidades de interesse público (seção 603 da NBC PA 400).
 * **(E) INCORRETA:** Serviços de recrutamento de pessoal executivo-chave geram ameaça de interesse próprio e familiaridade, sendo vedados (seção 609 da NBC PA 400).
 
-> **🛡️ Regra de Ouro Inviolável:** A firma de auditoria JAMAIS pode prestar serviços de escrituração contábil, preparação de demonstrações contábeis ou avaliações materiais para clientes que sejam entidades de interesse público (ameaça letal de AUTORREVISÃO).
+> **Fique Ligado:** A firma de auditoria JAMAIS pode prestar serviços de escrituração contábil, preparação de demonstrações contábeis ou avaliações materiais para clientes que sejam entidades de interesse público (ameaça letal de AUTORREVISÃO).
 

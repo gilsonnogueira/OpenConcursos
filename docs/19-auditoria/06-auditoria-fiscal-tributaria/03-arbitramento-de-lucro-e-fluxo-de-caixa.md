@@ -388,9 +388,9 @@ $$
 
 ## 11. Bateria de Questões Oficiais Comentadas (QConcursos)
 
-### Questão 01 — [FGV — SEFAZ-AM / Auditor Fiscal de Tributos Estaduais — 2022]
-**Identificador QC:** [Q2288322](https://www.qconcursos.com/questoes-de-concursos/questoes/c5cf679f-77)  
-**Enunciado:** O arbitramento do lucro aplica‑se quando:
+### [Questão 01](https://www.qconcursos.com/questoes-de-concursos/questoes/c5cf679f-77) — [FGV — SEFAZ-AM / Auditor Fiscal de Tributos Estaduais — 2022]
+
+O arbitramento do lucro aplica‑se quando:
 * **A)** a escrituração apresentar indícios de impropriedades formais.
 * **B)** houver opção pelo lucro presumido, sendo possível a apuração do resultado pelo lucro real.
 * **C)** o contribuinte adotar escrituração resumida nos livros principais.
@@ -405,12 +405,13 @@ $$
 * **Alternativa C (INCORRETA):** A escrituração resumida do Diário com apoio em livros auxiliares analíticos é expressamente respaldada pelo Código Civil (art. 1.184) e pelas normas do CFC.
 * **Alternativa E (INCORRETA):** O destaque de registros fiscais em livros auxiliares atende à boa técnica contábil e à legislação de regência.
 
----
-> **🛡️ Regra de Ouro Inviolável:** O art.
+> **Fique Ligado:** O art.
 
-### Questão 02 — [FCC — SEFAZ-SP / Agente Fiscal de Rendas — 2013]
-**Identificador QC:** [Q154757](https://www.qconcursos.com/questoes-de-concursos/questoes/b2fe79b2-ad)  
-**Enunciado:** Ao ocorrer o arbitramento do lucro, qualquer que seja a hipótese dentre as previstas no Regulamento do Imposto de Renda, e sendo conhecida a Receita Bruta da companhia, que opera exclusivamente no comércio atacadista de gêneros alimentícios, o percentual a ser aplicado sobre essa receita bruta para determinação do lucro arbitrado do período é de:
+---
+
+### [Questão 02](https://www.qconcursos.com/questoes-de-concursos/questoes/b2fe79b2-ad) — [FCC — SEFAZ-SP / Agente Fiscal de Rendas — 2013]
+
+Ao ocorrer o arbitramento do lucro, qualquer que seja a hipótese dentre as previstas no Regulamento do Imposto de Renda, e sendo conhecida a Receita Bruta da companhia, que opera exclusivamente no comércio atacadista de gêneros alimentícios, o percentual a ser aplicado sobre essa receita bruta para determinação do lucro arbitrado do período é de:
 * **A)** 1,6%.
 * **B)** 8,0%.
 * **C)** 9,6%.
@@ -426,12 +427,13 @@ $$\text{Coeficiente Arbitrado} = 8,0\% \times 1,20 = 9,60\%$$
 * **Alternativa D (INCORRETA):** 12,0% é o percentual básico da CSLL no lucro presumido para comércio.
 * **Alternativa E (INCORRETA):** 38,4% é a alíquota de lucro arbitrado com receita conhecida aplicável à prestação de serviços ($32\% \times 1,20$).
 
----
-> **🛡️ Regra de Ouro Inviolável:** Para o comércio atacadista, a alíquota base de presunção é de 8,0%.
+> **Fique Ligado:** Para o comércio atacadista, a alíquota base de presunção é de 8,0%.
 
-### Questão 03 — [CESPE / CEBRASPE — SEFAZ-CE / Auditor Fiscal da Receita Estadual — 2021]
-**Identificador QC:** [Q2238267](https://www.qconcursos.com/questoes-de-concursos/questoes/9b6bb79b-3b)  
-**Enunciado:** Tomando por base a legislação do imposto de renda (IR) das pessoas jurídicas, julgue o item seguinte:  
+---
+
+### [Questão 03](https://www.qconcursos.com/questoes-de-concursos/questoes/9b6bb79b-3b) — [CESPE / CEBRASPE — SEFAZ-CE / Auditor Fiscal da Receita Estadual — 2021]
+
+Tomando por base a legislação do imposto de renda (IR) das pessoas jurídicas, julgue o item seguinte:  
 *O arbitramento do lucro da pessoa jurídica é prerrogativa exclusiva da autoridade fiscal lançadora, sendo expressamente vedado ao contribuinte tributar-se pelo lucro arbitrado por iniciativa própria, sob pena de nulidade absoluta da apuração.*
 - ( ) Certo
 - ( ) Errado
@@ -440,12 +442,13 @@ $$\text{Coeficiente Arbitrado} = 8,0\% \times 1,20 = 9,60\%$$
 
 - **Justificativa:** O item está **ERRADO**. O art. 604 do RIR/2018 prevê expressamente que o contribuinte poderá efetuar o pagamento do imposto com base no lucro arbitrado por iniciativa própria quando, estando sujeito à tributação com base no lucro real, não mantiver escrituração na forma das leis fiscais ou comerciais, ou quando ocorrer a perda, extravio ou destruição de seus livros e documentos decorrente de caso fortuito ou força maior que impeça a reconstituição dos registros antes do vencimento do tributo.
 
----
-> **🛡️ Regra de Ouro Inviolável:** A assertiva correta consagra o dispositivo normativo estrito aplicável à matéria avaliada.
+> **Fique Ligado:** A assertiva correta consagra o dispositivo normativo estrito aplicável à matéria avaliada.
 
-### Questão 04 — [FCC — SEFAZ-AP / Auditor Fiscal da Receita Estadual — 2022]
-**Identificador QC:** [Q91439](https://www.qconcursos.com/questoes-de-concursos/questoes/4ed03665-68)  
-**Enunciado:** O arbitramento do lucro para fins de cálculo do imposto de renda pode ser feito pela autoridade fiscal ou pela própria empresa, sendo, nessa última hipótese, cabível quando:
+---
+
+### [Questão 04](https://www.qconcursos.com/questoes-de-concursos/questoes/4ed03665-68) — [FCC — SEFAZ-AP / Auditor Fiscal da Receita Estadual — 2022]
+
+O arbitramento do lucro para fins de cálculo do imposto de renda pode ser feito pela autoridade fiscal ou pela própria empresa, sendo, nessa última hipótese, cabível quando:
 * **A)** a empresa tiver faturamento anual superior ao limite do regime de tributação simplificada (Simples Nacional).
 * **B)** a empresa mantiver escrituração regular no LALUR, mas tiver prejuízos fiscais recorrentes.
 * **C)** o contribuinte, obrigado à tributação pelo lucro real, deixar de elaborar a escrituração na forma das leis comerciais e fiscais.
@@ -460,12 +463,13 @@ $$\text{Coeficiente Arbitrado} = 8,0\% \times 1,20 = 9,60\%$$
 * **Alternativa D (INCORRETA):** Não existe exigência de autorização judicial prévia no direito tributário material brasileiro para a apuração por lucro arbitrado.
 * **Alternativa E (INCORRETA):** Equiparação de serviços a comércio depende de requisitos objetivos de natureza da atividade (ex.: serviços hospitalares), não tendo relação com o Lucro Arbitrado.
 
----
-> **🛡️ Regra de Ouro Inviolável:** Reproduz com exatidão a literalidade do art.
+> **Fique Ligado:** Reproduz com exatidão a literalidade do art.
 
-### Questão 05 — [VUNESP — Prefeitura de Marília - SP / Auditor Fiscal Tributário — 2021]
-**Identificador QC:** [Q3601816](https://www.qconcursos.com/questoes-de-concursos/questoes/63df061e-92)  
-**Enunciado:** Realizada a verificação de determinado Contribuinte inscrito no cadastro fiscal do Município e identificada a omissão contábil e a ausência reiterada de emissão de notas fiscais, a Autoridade Fiscal utilizou o instituto do arbitramento da base de cálculo do ISSQN. Sobre o arbitramento no direito tributário brasileiro, nos termos do art. 148 do CTN:
+---
+
+### [Questão 05](https://www.qconcursos.com/questoes-de-concursos/questoes/63df061e-92) — [VUNESP — Prefeitura de Marília - SP / Auditor Fiscal Tributário — 2021]
+
+Realizada a verificação de determinado Contribuinte inscrito no cadastro fiscal do Município e identificada a omissão contábil e a ausência reiterada de emissão de notas fiscais, a Autoridade Fiscal utilizou o instituto do arbitramento da base de cálculo do ISSQN. Sobre o arbitramento no direito tributário brasileiro, nos termos do art. 148 do CTN:
 * **A)** decorre do poder discricionário pleno do auditor, sem necessidade de motivação em processo administrativo.
 * **B)** tem natureza estritamente punitiva, operando como penalidade ao sonegador.
 * **C)** somente pode ser efetuado mediante autorização prévia deferida pelo Poder Judiciário.
@@ -480,12 +484,13 @@ $$\text{Coeficiente Arbitrado} = 8,0\% \times 1,20 = 9,60\%$$
 * **Alternativa C (INCORRETA):** Trata-se de procedimento administrativo de competência privativa da autoridade fiscal tributária, sem reserva de jurisdição judicial para sua deflagração.
 * **Alternativa E (INCORRETA):** O art. 148 do CTN é norma geral cogente aplicável a impostos e taxas em todos os níveis federativos (União, Estados, DF e Municípios).
 
----
-> **🛡️ Regra de Ouro Inviolável:** O art.
+> **Fique Ligado:** O art.
 
-### Questão 06 — [CESPE / CEBRASPE — SEFAZ-RR / Auditor Fiscal de Tributos Estaduais — 2023]
-**Identificador QC:** [Q635292](https://www.qconcursos.com/questoes-de-concursos/questoes/8c0a375c-15)  
-**Enunciado:** Analise as assertivas abaixo relativas à tributação das pessoas jurídicas:  
+---
+
+### [Questão 06](https://www.qconcursos.com/questoes-de-concursos/questoes/8c0a375c-15) — [CESPE / CEBRASPE — SEFAZ-RR / Auditor Fiscal de Tributos Estaduais — 2023]
+
+Analise as assertivas abaixo relativas à tributação das pessoas jurídicas:  
 I. O Imposto de Renda Pessoa Jurídica possui base de cálculo diferente para cada método de tributação (lucro real, lucro presumido ou arbitramento), sendo incidente a mesma alíquota geral básica de 15%.  
 II. O contribuinte tem livre escolha do método de tributação do IRPJ entre lucro real, presumido e arbitrado, independentemente do ramo de atividade ou volume de faturamento.  
 III. A Autoridade Fiscal possui prerrogativa de proceder ao arbitramento do lucro quando não dispuser de elementos fidedignos nos registros contábeis do contribuinte.  
@@ -505,12 +510,13 @@ Estão corretas apenas as assertivas:
 - **Item III (CORRETO):** O art. 148 do CTN e os arts. 603 a 612 do RIR/2018 autorizam a apuração por arbitramento de ofício quando a contabilidade for inidônea ou omissa.
 - **Item IV (CORRETO):** O IRPJ submete-se ao modelo do art. 150 do CTN (lançamento por homologação), surgindo o lançamento de ofício (art. 149 do CTN) quando há infração à legislação tributária.
 
----
-> **🛡️ Regra de Ouro Inviolável:** A assertiva correta consagra o dispositivo normativo estrito aplicável à matéria avaliada.
+> **Fique Ligado:** A assertiva correta consagra o dispositivo normativo estrito aplicável à matéria avaliada.
 
-### Questão 07 — [ESAF — Receita Federal do Brasil / Auditor-Fiscal da Receita Federal — 2014]
-**Identificador QC:** [Q380324](https://www.qconcursos.com/questoes-de-concursos/questoes/776548b6-dc)  
-**Enunciado:** Em procedimento de auditoria fiscal em comércio exterior, o Auditor-Fiscal constatou que uma empresa importadora realizou operação de importação de maquinários industriais, com saída de mercadorias no exterior faturadas por empresa sediada em paraíso fiscal, apurando-se que o verdadeiro financiador e adquirente dos bens era terceiro não declarado nos registros aduaneiros (Siscomex). Configurada a interposição fraudulenta de terceiros sem a comprovação da origem dos recursos empregados, a penalidade prevista na legislação aduaneira federal (Decreto-Lei nº 1.455/1976) é:
+---
+
+### [Questão 07](https://www.qconcursos.com/questoes-de-concursos/questoes/776548b6-dc) — [ESAF — Receita Federal do Brasil / Auditor-Fiscal da Receita Federal — 2014]
+
+Em procedimento de auditoria fiscal em comércio exterior, o Auditor-Fiscal constatou que uma empresa importadora realizou operação de importação de maquinários industriais, com saída de mercadorias no exterior faturadas por empresa sediada em paraíso fiscal, apurando-se que o verdadeiro financiador e adquirente dos bens era terceiro não declarado nos registros aduaneiros (Siscomex). Configurada a interposição fraudulenta de terceiros sem a comprovação da origem dos recursos empregados, a penalidade prevista na legislação aduaneira federal (Decreto-Lei nº 1.455/1976) é:
 * **A)** advertência com prazo de 30 dias para regularização cambial.
 * **B)** pena de perdimento das mercadorias importadas.
 * **C)** multa punitiva simples de 2% do valor aduaneiro.
@@ -522,12 +528,13 @@ Estão corretas apenas as assertivas:
 * **Alternativa B (CORRETA):** O art. 23, inciso V, do Decreto-Lei nº 1.455/1976 (redação da Lei nº 10.637/2002) tipifica a interposição fraudulenta de terceiros como dano ao erário punível com a **pena de perdimento** das mercadorias, sempre que não for comprovada a origem dos recursos utilizados na transação de importação.
 - **Alternativas A, C, D e E (INCORRETAS):** A proteção do controle aduaneiro federal comina a perda definitiva da propriedade dos bens importados fraudulentamente, sanção incomparavelmente mais severa que advertências ou multas de baixo percentual.
 
----
-> **🛡️ Regra de Ouro Inviolável:** O art.
+> **Fique Ligado:** O art.
 
-### Questão 08 — [FGV — Receita Federal do Brasil / Auditor-Fiscal da Receita Federal — 2023]
-**Identificador QC:** [Q1921779](https://www.qconcursos.com/questoes-de-concursos/questoes/01ef4f8b-e6)  
-**Enunciado:** No que concerne aos regimes de tributação do imposto sobre a renda das pessoas jurídicas, assinale a opção correta a respeito do Lucro Arbitrado:
+---
+
+### [Questão 08](https://www.qconcursos.com/questoes-de-concursos/questoes/01ef4f8b-e6) — [FGV — Receita Federal do Brasil / Auditor-Fiscal da Receita Federal — 2023]
+
+No que concerne aos regimes de tributação do imposto sobre a renda das pessoas jurídicas, assinale a opção correta a respeito do Lucro Arbitrado:
 * **A)** A base de cálculo do lucro arbitrado para empresas comerciais, quando conhecida a receita bruta, é de 8%, idêntica à do lucro presumido.
 * **B)** Os rendimentos auferidos em aplicações financeiras de renda fixa são tributados à alíquota de presunção de 32% antes de sua integração à base de cálculo.
 * **C)** Na determinação do lucro arbitrado, quando a receita bruta não for conhecida, a autoridade fiscal poderá utilizar como parâmetro 16% do capital social integralizado.
@@ -541,12 +548,13 @@ Estão corretas apenas as assertivas:
 * **Alternativa B (INCORRETA):** Os rendimentos auferidos em aplicações financeiras não sofrem redução por presunção: entram na base de cálculo em sua totalidade (100%).
 - **Alternativas D e E (INCORRETAS):** Não há incentivos fiscais dobrados no lucro arbitrado, nem extinção de punibilidade em crimes contra a ordem tributária (Lei nº 8.137/1990).
 
----
-> **🛡️ Regra de Ouro Inviolável:** O art.
+> **Fique Ligado:** O art.
 
-### Questão 09 — [FCC — SEFAZ-BA / Auditor Fiscal — 2019]
-**Identificador QC:** [Q22723](https://www.qconcursos.com/questoes-de-concursos/questoes/25f4ec9e-f6)  
-**Enunciado:** A legislação do imposto de renda estabelece que a base de cálculo do imposto é o lucro real, presumido ou arbitrado, correspondente ao período de apuração. Quando a pessoa jurídica tiver sua receita bruta conhecida e apurar o imposto com base no lucro arbitrado, a determinação do lucro arbitrado:
+---
+
+### [Questão 09](https://www.qconcursos.com/questoes-de-concursos/questoes/25f4ec9e-f6) — [FCC — SEFAZ-BA / Auditor Fiscal — 2019]
+
+A legislação do imposto de renda estabelece que a base de cálculo do imposto é o lucro real, presumido ou arbitrado, correspondente ao período de apuração. Quando a pessoa jurídica tiver sua receita bruta conhecida e apurar o imposto com base no lucro arbitrado, a determinação do lucro arbitrado:
 * **A)** utilizará as alíquotas do lucro presumido sem qualquer modificação ou acréscimo.
 * **B)** aplicará sobre a receita bruta os coeficientes de presunção do lucro presumido acrescidos de 20%.
 * **C)** utilizará coeficientes fixados discricionariamente pelo auditor fiscal entre o mínimo de 10% e o máximo de 50%.
@@ -558,12 +566,13 @@ Estão corretas apenas as assertivas:
 * **Alternativa B (CORRETA):** Conforme mandamento expresso do art. 47 da Lei nº 8.981/1995 e art. 605 do RIR/2018, conhecendo-se a receita bruta auferida, o lucro arbitrado é apurado mediante a aplicação dos percentuais de presunção do Lucro Presumido acrescidos de 20% (vinte por cento).
 - **Alternativas A, C, D e E (INCORRETAS):** Sem o adicional de 20% teríamos o Lucro Presumido; não há fixação discricionária do auditor; não há intervenção do MPF no lançamento tributário; os ganhos de capital devem ser adicionados integralmente (100%).
 
----
-> **🛡️ Regra de Ouro Inviolável:** Conforme mandamento expresso do art.
+> **Fique Ligado:** Conforme mandamento expresso do art.
 
-### Questão 10 — [VUNESP — SEFAZ-SP / Julgador Tributário — 2014]
-**Identificador QC:** [Q3600965](https://www.qconcursos.com/questoes-de-concursos/questoes/40169410-92)  
-**Enunciado:** Na legislação tributária brasileira existem duas modalidades de quantificação para o arbitramento do lucro das pessoas jurídicas: com base na receita bruta conhecida ou com base em coeficientes sobre elementos patrimoniais/operacionais quando a receita for desconhecida. Caso a empresa exerça a atividade de prestação de serviços de consultoria contábil e de auditoria, e sua receita bruta tenha sido apurada em R\$ 2.000.000,00 no trimestre, o lucro arbitrado correspondente à receita operacional será de:
+---
+
+### [Questão 10](https://www.qconcursos.com/questoes-de-concursos/questoes/40169410-92) — [VUNESP — SEFAZ-SP / Julgador Tributário — 2014]
+
+Na legislação tributária brasileira existem duas modalidades de quantificação para o arbitramento do lucro das pessoas jurídicas: com base na receita bruta conhecida ou com base em coeficientes sobre elementos patrimoniais/operacionais quando a receita for desconhecida. Caso a empresa exerça a atividade de prestação de serviços de consultoria contábil e de auditoria, e sua receita bruta tenha sido apurada em R\$ 2.000.000,00 no trimestre, o lucro arbitrado correspondente à receita operacional será de:
 * **A)** R\$ 160.000,00.
 * **B)** R\$ 192.000,00.
 * **C)** R\$ 640.000,00.
@@ -577,12 +586,13 @@ $$\text{Coeficiente Arbitrado} = 32\% \times 1,20 = 38,40\%$$
 $$\text{Lucro Arbitrado Operacional} = R\$\ 2.000.000,00 \times 38,40\% = R\$\ 768.000,00$$
 - **Alternativas A, B, C e E (INCORRETAS):** R\$ 160.000,00 seria 8% (comércio presumido); R\$ 192.000,00 seria 9,6% (comércio arbitrado); R\$ 640.000,00 seria 32% (serviços presumido sem o acréscimo legal).
 
----
-> **🛡️ Regra de Ouro Inviolável:** A atividade de serviços profissionais (consultoria e auditoria) submete-se ao percentual base de 32% no Lucro Presumido.
+> **Fique Ligado:** A atividade de serviços profissionais (consultoria e auditoria) submete-se ao percentual base de 32% no Lucro Presumido.
 
-### Questão 11 — [FGV — SEFAZ-MG / Auditor Fiscal da Receita Estadual — 2023]
-**Identificador QC:** [Q287277](https://www.qconcursos.com/questoes-de-concursos/questoes/9cd67948-55)  
-**Enunciado:** Em relação à tributação sobre o resultado das pessoas jurídicas e ao instituto do arbitramento do lucro, assinale a afirmativa correta:
+---
+
+### [Questão 11](https://www.qconcursos.com/questoes-de-concursos/questoes/9cd67948-55) — [FGV — SEFAZ-MG / Auditor Fiscal da Receita Estadual — 2023]
+
+Em relação à tributação sobre o resultado das pessoas jurídicas e ao instituto do arbitramento do lucro, assinale a afirmativa correta:
 * **A)** À pessoa jurídica sujeita à apuração da CSLL com base no resultado arbitrado em determinado ano-calendário é vedada a utilização do percentual de presunção majorado em 20%.
 * **B)** O arbitramento do lucro desonera o sujeito passivo da retenção de tributos na fonte sobre pagamentos efetuados a prestadores de serviços.
 * **C)** Ocorrida a hipótese de arbitramento do lucro por desclassificação da escrita contábil, os lucros e dividendos distribuídos aos sócios que excederem o valor da base arbitrada líquida do imposto submetem-se à tributação com base na tabela progressiva do IRPF.
@@ -596,12 +606,13 @@ $$\text{Lucro Arbitrado Operacional} = R\$\ 2.000.000,00 \times 38,40\% = R\$\ 7
 * **Alternativa B (INCORRETA):** A condição de contribuinte no lucro arbitrado em nada altera o dever instrumental e a responsabilidade de retenção na fonte como fonte pagadora (art. 45 do CTN).
 - **Alternativas D e E (INCORRETAS):** O Fisco é sempre adstrito ao ônus de demonstrar o fato gerador e o lançamento de ofício impõe a aplicação de multa de ofício de 75% a 150%.
 
----
-> **🛡️ Regra de Ouro Inviolável:** Conforme art.
+> **Fique Ligado:** Conforme art.
 
-### Questão 12 — [FCC — SEFAZ-PE / Auditor Fiscal do Tesouro Estadual — 2014]
-**Identificador QC:** [Q1659503](https://www.qconcursos.com/questoes-de-concursos/questoes/e7d3a2e5-4c)  
-**Enunciado:** Em procedimento fiscalizatório de auditoria tributária estadual, a fiscalização apurou que uma sociedade comercial apresentava saldo credor sistemático em sua conta "Caixa Geral" durante o exercício de 2023, bem como suprimentos de caixa efetuados por sócios sem o trânsito dos recursos em contas bancárias formais. Diante desses fatos, a autoridade fiscal:
+---
+
+### [Questão 12](https://www.qconcursos.com/questoes-de-concursos/questoes/e7d3a2e5-4c) — [FCC — SEFAZ-PE / Auditor Fiscal do Tesouro Estadual — 2014]
+
+Em procedimento fiscalizatório de auditoria tributária estadual, a fiscalização apurou que uma sociedade comercial apresentava saldo credor sistemático em sua conta "Caixa Geral" durante o exercício de 2023, bem como suprimentos de caixa efetuados por sócios sem o trânsito dos recursos em contas bancárias formais. Diante desses fatos, a autoridade fiscal:
 * **A)** deve desconsiderar tais fatos por se tratarem de meras infrações societárias de competência privativa da Junta Comercial.
 * **B)** deve presumir a omissão de receitas operacionais tributáveis, efetuando o lançamento de ofício do imposto devido acrescido das penalidades legais cabíveis.
 * **C)** somente poderá arbitrar o imposto se houver confissão espontânea do administrador da empresa perante o Cartório de Títulos e Documentos.
@@ -612,4 +623,4 @@ $$\text{Lucro Arbitrado Operacional} = R\$\ 2.000.000,00 \times 38,40\% = R\$\ 7
 
 * **Alternativa B (CORRETA):** O saldo credor de caixa e os suprimentos fictícios de sócios sem comprovação de origem bancária configuram presunções legais absolutas e relativas de omissão de receita tributável (art. 293 do RIR/2018 e legislações estaduais do ICMS), determinando o lançamento de ofício com aplicação de multas punitivas qualificadas.
 - **Alternativas A, C, D e E (INCORRETAS):** O saldo credor de caixa é ilícito tributário grave que atinge a arrecadação; prescinde de confissão e de autorização judicial, sendo o lançamento de ofício dever vinculado e cogente da autoridade administrativa tributária (art. 142 do CTN).
-> **🛡️ Regra de Ouro Inviolável:** O saldo credor de caixa e os suprimentos fictícios de sócios sem comprovação de origem bancária configuram presunções legais absolutas e relativas de omissão de receita tributável (art.
+> **Fique Ligado:** O saldo credor de caixa e os suprimentos fictícios de sócios sem comprovação de origem bancária configuram presunções legais absolutas e relativas de omissão de receita tributável (art.

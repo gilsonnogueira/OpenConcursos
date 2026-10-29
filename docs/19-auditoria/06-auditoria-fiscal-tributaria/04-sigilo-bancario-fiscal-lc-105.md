@@ -319,9 +319,9 @@ graph TD
 
 ## 12. Bateria de Questões Oficiais Comentadas (QConcursos)
 
-### Questão 01 — [FEPESE — Prefeitura de Criciúma - SC / Auditor Fiscal da Receita Municipal — 2024]
-**Identificador QC:** [Q4371087](https://www.qconcursos.com/questoes-de-concursos/questoes/dde2b7ce-c6)  
-**Enunciado:** No cruzamento de informações fiscais com dados financeiros, os agentes fiscais tributários dos Municípios podem acessar registros bancários do contribuinte, mas esse acesso está sujeito a condições legais. Assim, tais agentes somente poderão examinar documentos, livros e registros de instituições financeiras, inclusive os referentes a contas de depósitos e aplicações financeiras, quando houver _______ ou procedimento fiscal em curso e tais exames sejam considerados _______ pela autoridade administrativa competente.  
+### [Questão 01](https://www.qconcursos.com/questoes-de-concursos/questoes/dde2b7ce-c6) — [FEPESE — Prefeitura de Criciúma - SC / Auditor Fiscal da Receita Municipal — 2024]
+
+No cruzamento de informações fiscais com dados financeiros, os agentes fiscais tributários dos Municípios podem acessar registros bancários do contribuinte, mas esse acesso está sujeito a condições legais. Assim, tais agentes somente poderão examinar documentos, livros e registros de instituições financeiras, inclusive os referentes a contas de depósitos e aplicações financeiras, quando houver _______ ou procedimento fiscal em curso e tais exames sejam considerados _______ pela autoridade administrativa competente.  
 Assinale a alternativa que preenche CORRETAMENTE as lacunas, na ordem em que aparecem:
 * **A)** processo administrativo instaurado — indispensáveis
 * **B)** prévia autorização judicial específica — indispensáveis
@@ -336,12 +336,13 @@ Assinale a alternativa que preenche CORRETAMENTE as lacunas, na ordem em que apa
 * **Alternativa C (INCORRETA):** A lei exige que os exames sejam "indispensáveis", e não meramente "pertinentes".
 * **Alternativa E (INCORRETA):** A inscrição em dívida ativa é fase posterior ao encerramento do processo administrativo de lançamento, e não condição para o exame de dados na fase de fiscalização.
 
----
-> **🛡️ Regra de Ouro Inviolável:** O art.
+> **Fique Ligado:** O art.
 
-### Questão 02 — [CESPE / CEBRASPE — Polícia Federal / Perito Criminal Federal — 2021]
-**Identificador QC:** [Q4174572](https://www.qconcursos.com/questoes-de-concursos/questoes/31ddf815-7f)  
-**Enunciado:** Em relação aos crimes contra a ordem tributária, bem como ao sigilo fiscal, julgue o seguinte item, considerando o entendimento do STF:  
+---
+
+### [Questão 02](https://www.qconcursos.com/questoes-de-concursos/questoes/31ddf815-7f) — [CESPE / CEBRASPE — Polícia Federal / Perito Criminal Federal — 2021]
+
+Em relação aos crimes contra a ordem tributária, bem como ao sigilo fiscal, julgue o seguinte item, considerando o entendimento do STF:  
 *O compartilhamento com o Ministério Público de relatórios de inteligência financeira elaborados pela Unidade de Inteligência Financeira (UIF) e de procedimentos fiscais da Receita Federal do Brasil que contenham dados bancários obtidos com base na Lei Complementar nº 105/2001 depende de prévia e indispensável autorização judicial, sob pena de ilicitude probatória por quebra inconstitucional de sigilo de dados.*
 - ( ) Certo
 - ( ) Errado
@@ -350,12 +351,13 @@ Assinale a alternativa que preenche CORRETAMENTE as lacunas, na ordem em que apa
 
 - **Justificativa:** O item está frontalmente **ERRADO**. O Plenário do STF, ao fixar tese no **Tema 990 de Repercussão Geral (RE 1.055.941)**, assentou que é constitucional e legítimo o compartilhamento de relatórios da UIF (COAF) e da íntegra de procedimentos fiscais instaurados pela Receita Federal com os órgãos de persecução penal (Ministério Público e Polícia Judiciária) **sem necessidade de prévia autorização judicial**. A remessa de tais elementos fundamenta-se no dever de cooperação interinstitucional e no dever de prestar Representação Fiscal para Fins Penais (art. 83 da Lei nº 9.430/1996).
 
----
-> **🛡️ Regra de Ouro Inviolável:** A assertiva correta consagra o dispositivo normativo estrito aplicável à matéria avaliada.
+> **Fique Ligado:** A assertiva correta consagra o dispositivo normativo estrito aplicável à matéria avaliada.
 
-### Questão 03 — [FGV — SEFAZ-MG / Auditor Fiscal da Receita Estadual — 2023]
-**Identificador QC:** [Q3947177](https://www.qconcursos.com/questoes-de-concursos/questoes/4a84b7e6-26)  
-**Enunciado:** De acordo com a Lei Complementar nº 105/2001, que dispõe sobre o sigilo das operações de instituições financeiras:  
+---
+
+### [Questão 03](https://www.qconcursos.com/questoes-de-concursos/questoes/4a84b7e6-26) — [FGV — SEFAZ-MG / Auditor Fiscal da Receita Estadual — 2023]
+
+De acordo com a Lei Complementar nº 105/2001, que dispõe sobre o sigilo das operações de instituições financeiras:  
 I. Constitui quebra ilegal de sigilo o fornecimento de informações cadastrais dos titulares de contas bancárias por parte dos bancos às autoridades fiscais.  
 II. As instituições financeiras prestarão informações periódicas à administração tributária da União sobre as operações financeiras efetuadas pelos usuários de seus serviços, na forma de regulamento.  
 III. O acesso a registros bancários pelas autoridades fiscais estaduais exige processo administrativo instaurado e indispensabilidade motivada.  
@@ -373,12 +375,13 @@ Estão corretas apenas as assertivas:
 - **Item II (CORRETO):** Expressa a previsão do art. 5º da LC 105/2001 (operacionalizado pela e-Financeira).
 - **Item III (CORRETO):** O art. 6º da LC 105/2001 estende expressamente aos agentes tributários estaduais e municipais o poder de exame de contas sob as condições de processo instaurado e indispensabilidade fundamentada.
 
----
-> **🛡️ Regra de Ouro Inviolável:** A assertiva correta consagra o dispositivo normativo estrito aplicável à matéria avaliada.
+> **Fique Ligado:** A assertiva correta consagra o dispositivo normativo estrito aplicável à matéria avaliada.
 
-### Questão 04 — [FCC — SEFAZ-SC / Auditor Fiscal da Receita Estadual — 2018]
-**Identificador QC:** [Q3202567](https://www.qconcursos.com/questoes-de-concursos/questoes/d71082ba-ec)  
-**Enunciado:** De acordo com a Lei Complementar nº 105/2001, **NÃO** constitui violação do dever de sigilo das instituições financeiras:
+---
+
+### [Questão 04](https://www.qconcursos.com/questoes-de-concursos/questoes/d71082ba-ec) — [FCC — SEFAZ-SC / Auditor Fiscal da Receita Estadual — 2018]
+
+De acordo com a Lei Complementar nº 105/2001, **NÃO** constitui violação do dever de sigilo das instituições financeiras:
 * **A)** a divulgação pública irrestrita na imprensa de relatórios de auditoria contábil interna contendo dados patrimoniais de clientes correntistas.
 * **B)** o compartilhamento de saldos bancários individuais de correntistas com empresas privadas de publicidade comercial sem autorização contratual.
 * **C)** a revelação de informações sigilosas com o consentimento expresso e formal dos respectivos titulares das contas.
@@ -390,12 +393,13 @@ Estão corretas apenas as assertivas:
 * **Alternativa C (CORRETA):** O art. 1º, § 3º, inciso V, da LC nº 105/2001 ressalva de forma explícita que não constitui violação do dever de sigilo a revelação de informações confidenciais com o **consentimento expresso dos interessados**.
 - **Alternativas A, B, D e E (INCORRETAS):** Todas essas hipóteses configuram quebra ilícita e criminosa de sigilo bancário, sujeitando os responsáveis às sanções de reclusão de um a quatro anos e multa (art. 10 da LC 105/2001).
 
----
-> **🛡️ Regra de Ouro Inviolável:** O art.
+> **Fique Ligado:** O art.
 
-### Questão 05 — [VUNESP — SEFAZ-SP / Julgador Tributário — 2014]
-**Identificador QC:** [Q3039639](https://www.qconcursos.com/questoes-de-concursos/questoes/70c8a6d9-8a)  
-**Enunciado:** Sobre o sigilo das operações de instituições financeiras previsto na Lei Complementar nº 105/2001 e a jurisprudência vinculante das Cortes Superiores, é correto afirmar:
+---
+
+### [Questão 05](https://www.qconcursos.com/questoes-de-concursos/questoes/70c8a6d9-8a) — [VUNESP — SEFAZ-SP / Julgador Tributário — 2014]
+
+Sobre o sigilo das operações de instituições financeiras previsto na Lei Complementar nº 105/2001 e a jurisprudência vinculante das Cortes Superiores, é correto afirmar:
 * **A)** As comissões parlamentares de inquérito municipais (CPIs das Câmaras de Vereadores) detêm poderes constitucionais plenos para decretar a quebra do sigilo bancário de contribuintes municipais.
 * **B)** O sigilo bancário possui natureza absoluta na ordem constitucional, não cedendo espaço nem mesmo mediante mandado judicial em processo criminal.
 * **C)** As autoridades fiscais da União, dos Estados, do DF e dos Municípios podem examinar diretamente registros de instituições financeiras mediante prévia instauração de procedimento fiscal e declaração motivada de indispensabilidade da medida.
@@ -410,12 +414,13 @@ Estão corretas apenas as assertivas:
 * **Alternativa D (INCORRETA):** O art. 1º, § 1º, inclui expressamente as cooperativas de crédito e administradoras de cartão no dever de sigilo.
 * **Alternativa E (INCORRETA):** O envio de dados do art. 5º decorre de decreto regulamentador do Poder Executivo, prescindindo de autorização legislativa casuística.
 
----
-> **🛡️ Regra de Ouro Inviolável:** Literalidade do art.
+> **Fique Ligado:** Literalidade do art.
 
-### Questão 06 — [CESPE / CEBRASPE — SEFAZ-AL / Auditor Fiscal da Receita Estadual — 2020]
-**Identificador QC:** [Q3048803](https://www.qconcursos.com/questoes-de-concursos/questoes/4f20483f-91)  
-**Enunciado:** A respeito do sigilo bancário e fiscal na ordem jurídica brasileira, assinale a opção correta:
+---
+
+### [Questão 06](https://www.qconcursos.com/questoes-de-concursos/questoes/4f20483f-91) — [CESPE / CEBRASPE — SEFAZ-AL / Auditor Fiscal da Receita Estadual — 2020]
+
+A respeito do sigilo bancário e fiscal na ordem jurídica brasileira, assinale a opção correta:
 * **A)** O auditor fiscal que divulga em rede social documentos bancários sigilosos apreendidos durante fiscalização comete mera infração administrativa leve.
 * **B)** A remessa regular de informações de movimentações bancárias globais pelas instituições financeiras à Receita Federal, sem identificação de credores ou pagadores específicos, viola a garantia fundamental da intimidade.
 * **C)** A quebra do sigilo das operações de instituições financeiras poderá ser decretada judicialmente em qualquer fase do inquérito policial ou do processo judicial, quando necessária para a apuração de ocorrência de qualquer ilícito penal.
@@ -430,12 +435,13 @@ Estão corretas apenas as assertivas:
 * **Alternativa D (INCORRETA):** Exceção expressa do art. 1º, § 3º, II, da LC 105/2001.
 * **Alternativa E (INCORRETA):** O dever de sigilo permanece hígido e vincula todos os servidores que tenham acesso funcional aos dados.
 
----
-> **🛡️ Regra de Ouro Inviolável:** O art.
+> **Fique Ligado:** O art.
 
-### Questão 07 — [ESAF — Receita Federal do Brasil / Auditor-Fiscal da Receita Federal — 2014]
-**Identificador QC:** [Q3048864](https://www.qconcursos.com/questoes-de-concursos/questoes/53c7a66f-91)  
-**Enunciado:** Em relação à presunção legal de omissão de receitas decorrente de créditos bancários prevista no art. 42 da Lei nº 9.430/1996, é correto afirmar:
+---
+
+### [Questão 07](https://www.qconcursos.com/questoes-de-concursos/questoes/53c7a66f-91) — [ESAF — Receita Federal do Brasil / Auditor-Fiscal da Receita Federal — 2014]
+
+Em relação à presunção legal de omissão de receitas decorrente de créditos bancários prevista no art. 42 da Lei nº 9.430/1996, é correto afirmar:
 * **A)** Para a caracterização da omissão de receita com base em depósitos bancários, é desnecessária a intimação prévia do contribuinte, podendo o lançamento ser efetuado de plano.
 * **B)** O contribuinte regularmente intimado deve comprovar a origem dos recursos creditados mediante documentação hábil e idônea, sob pena de incidência da presunção legal.
 * **C)** Os valores transferidos entre contas correntes mantidas no mesmo banco ou em bancos distintos pelo mesmo titular integram compulsoriamente a base tributável como receita nova omitida.
@@ -450,12 +456,13 @@ Estão corretas apenas as assertivas:
 * **Alternativa D (INCORRETA):** Em contas conjuntas sem comprovação individualizada de titularidade dos recursos, a apuração divide-se em partes iguais entre os correntistas (art. 42, § 6º).
 * **Alternativa E (INCORRETA):** A norma aplica-se indistintamente a pessoas físicas (IRPF) e a pessoas jurídicas (qualquer que seja o regime de tributação: Real, Presumido ou Simples Nacional).
 
----
-> **🛡️ Regra de Ouro Inviolável:** Conforme art.
+> **Fique Ligado:** Conforme art.
 
-### Questão 08 — [FGV — Receita Federal do Brasil / Auditor-Fiscal da Receita Federal — 2023]
-**Identificador QC:** [Q2486274](https://www.qconcursos.com/questoes-de-concursos/questoes/4b77518f-16)  
-**Enunciado:** Durante fiscalização tributária federal sobre uma sociedade empresária, a equipe de auditoria constatou a realização de depósitos bancários em dinheiro em valores vultosos que não constavam da contabilidade mercantil da pessoa jurídica. Intimado na forma do art. 42 da Lei nº 9.430/1996, o sujeito passivo alegou que os depósitos decorriam de "mútuos verbais" concedidos por sócios e terceiros, sem apresentar contratos com firmas reconhecidas em data contemporânea, nem comprovação de transferência bancária a partir das contas dos supostos mutuantes. Diante desse quadro probatório:
+---
+
+### [Questão 08](https://www.qconcursos.com/questoes-de-concursos/questoes/4b77518f-16) — [FGV — Receita Federal do Brasil / Auditor-Fiscal da Receita Federal — 2023]
+
+Durante fiscalização tributária federal sobre uma sociedade empresária, a equipe de auditoria constatou a realização de depósitos bancários em dinheiro em valores vultosos que não constavam da contabilidade mercantil da pessoa jurídica. Intimado na forma do art. 42 da Lei nº 9.430/1996, o sujeito passivo alegou que os depósitos decorriam de "mútuos verbais" concedidos por sócios e terceiros, sem apresentar contratos com firmas reconhecidas em data contemporânea, nem comprovação de transferência bancária a partir das contas dos supostos mutuantes. Diante desse quadro probatório:
 * **A)** a autoridade fiscalizadora deve aceitar a justificativa em razão da presunção de boa-fé que rege as relações mercantis privadas.
 * **B)** a presunção legal de omissão de receitas resta plenamente caracterizada, devendo o montante líquido não comprovado ser lançado de ofício com tributação sobre o resultado e multa de ofício.
 * **C)** a fiscalização fica impedida de cobrar tributos até a conclusão de perícia judicial requerida pelo contribuinte perante a Justiça Federal.
@@ -467,12 +474,13 @@ Estão corretas apenas as assertivas:
 * **Alternativa B (CORRETA):** A jurisprudência consolidada do CARF (Súmula CARF nº 107) e do STJ é pacífica no sentido de que a alegação genérica de mútuo ou entrega de dinheiro em espécie sem comprovação da origem e sem trânsito bancário prévio não constitui prova idônea para afastar a presunção legal do art. 42 da Lei nº 9.430/1996, consolidando-se a autuação por omissão de receita.
 - **Alternativas A, C, D e E (INCORRETAS):** A boa-fé não ilide a presunção legal objetiva estabelecida em lei; o processo administrativo fiscal é autônomo e não depende de crivo judicial prévio nem de anuência do BACEN; e recursos sem comprovação auferidos por pessoa jurídica caracterizam receita operacional omitida da tributação federal.
 
----
-> **🛡️ Regra de Ouro Inviolável:** A jurisprudência consolidada do CARF (Súmula CARF nº 107) e do STJ é pacífica no sentido de que a alegação genérica de mútuo ou entrega de dinheiro em espécie sem comprovação da origem e sem trânsito bancário prévio não constitui prova idônea para afastar a presunção legal do art.
+> **Fique Ligado:** A jurisprudência consolidada do CARF (Súmula CARF nº 107) e do STJ é pacífica no sentido de que a alegação genérica de mútuo ou entrega de dinheiro em espécie sem comprovação da origem e sem trânsito bancário prévio não constitui prova idônea para afastar a presunção legal do art.
 
-### Questão 09 — [FCC — SEFAZ-BA / Auditor Fiscal — 2019]
-**Identificador QC:** [Q2107088](https://www.qconcursos.com/questoes-de-concursos/questoes/7e4dd3c5-cf)  
-**Enunciado:** Para os efeitos da Lei Complementar nº 105/2001, que dispõe sobre o sigilo das operações de instituições financeiras, são consideradas instituições financeiras:
+---
+
+### [Questão 09](https://www.qconcursos.com/questoes-de-concursos/questoes/7e4dd3c5-cf) — [FCC — SEFAZ-BA / Auditor Fiscal — 2019]
+
+Para os efeitos da Lei Complementar nº 105/2001, que dispõe sobre o sigilo das operações de instituições financeiras, são consideradas instituições financeiras:
 * **A)** exclusivamente os bancos comerciais federais e estaduais constituídos sob a forma de empresa pública.
 * **B)** as pessoas jurídicas de direito público interno que exerçam atividade de fiscalização ambiental e urbanística.
 * **C)** as sociedades corretoras e distribuidoras de títulos e valores mobiliários, as sociedades de arrendamento mercantil e as cooperativas de crédito.
@@ -484,12 +492,13 @@ Estão corretas apenas as assertivas:
 * **Alternativa C (CORRETA):** O art. 1º, § 1º, da LC nº 105/2001 cataloga expressamente entre as instituições submetidas ao regime de sigilo as distribuidoras e corretoras de títulos e valores mobiliários, as companhias de leasing (arrendamento mercantil) e as cooperativas de crédito.
 - **Alternativas A, B, D e E (INCORRETAS):** O rol não se limita a bancos públicos; órgãos ambientais não são instituições financeiras; o porte do capital ou número de acionistas não é critério para a caracterização legal.
 
----
-> **🛡️ Regra de Ouro Inviolável:** O art.
+> **Fique Ligado:** O art.
 
-### Questão 10 — [CESPE / CEBRASPE — TCE-RO / Auditor de Controle Externo — 2019]
-**Identificador QC:** [Q3230801](https://www.qconcursos.com/questoes-de-concursos/questoes/adcedae5-fb)  
-**Enunciado:** O sigilo das informações contábeis e fiscais é tema nuclear na atuação das administrações tributárias e órgãos de controle. Conforme as normas do Código Tributário Nacional (art. 198) e da jurisprudência consolidada do Supremo Tribunal Federal sobre o sigilo fiscal:
+---
+
+### [Questão 10](https://www.qconcursos.com/questoes-de-concursos/questoes/adcedae5-fb) — [CESPE / CEBRASPE — TCE-RO / Auditor de Controle Externo — 2019]
+
+O sigilo das informações contábeis e fiscais é tema nuclear na atuação das administrações tributárias e órgãos de controle. Conforme as normas do Código Tributário Nacional (art. 198) e da jurisprudência consolidada do Supremo Tribunal Federal sobre o sigilo fiscal:
 * **A)** o servidor público fazendário que divulga extratos bancários de investigados responde exclusivamente na esfera civil, sendo atípica a conduta na esfera penal.
 * **B)** a inscrição de devedores na Dívida Ativa da Fazenda Pública e a divulgação de incentivos e renúncias fiscais usufruídos por pessoas jurídicas não configuram violação do sigilo fiscal.
 * **C)** é vedada a permuta de informações cadastrais e fiscais entre o Fisco Federal e os Fiscos Estaduais, ainda que prevista em convênio administrativo.
@@ -504,12 +513,13 @@ Estão corretas apenas as assertivas:
 * **Alternativa D (INCORRETA):** Autoridades policiais dependem de autorização judicial ou de inquérito instaurado com observância dos requisitos de cooperação institucional.
 * **Alternativa E (INCORRETA):** O dever funcional de confidencialidade e sigilo é perpétuo, não cessando com a extinção do crédito pelo decurso do tempo.
 
----
-> **🛡️ Regra de Ouro Inviolável:** O art.
+> **Fique Ligado:** O art.
 
-### Questão 11 — [FCC — SEFAZ-PE / Auditor Fiscal do Tesouro Estadual — 2014]
-**Identificador QC:** [Q2128634](https://www.qconcursos.com/questoes-de-concursos/questoes/67f204ac-e2)  
-**Enunciado:** Um Auditor Fiscal estadual teve acesso, em razão de procedimento de fiscalização tributária formalmente instaurado, a relatórios e extratos bancários de uma sociedade empresária obtidos diretamente de instituição bancária após expedição de Requisição de Movimentação Financeira (RMF). Concluída a ação fiscal com a lavratura do auto de infração, o auditor repassou cópias integrais dos extratos bancários a um amigo pessoal que pretendia adquirir cotas societárias da empresa fiscalizada, com o intuito de alertá-lo sobre a fragilidade financeira do negócio. Diante dessa conduta:
+---
+
+### [Questão 11](https://www.qconcursos.com/questoes-de-concursos/questoes/67f204ac-e2) — [FCC — SEFAZ-PE / Auditor Fiscal do Tesouro Estadual — 2014]
+
+Um Auditor Fiscal estadual teve acesso, em razão de procedimento de fiscalização tributária formalmente instaurado, a relatórios e extratos bancários de uma sociedade empresária obtidos diretamente de instituição bancária após expedição de Requisição de Movimentação Financeira (RMF). Concluída a ação fiscal com a lavratura do auto de infração, o auditor repassou cópias integrais dos extratos bancários a um amigo pessoal que pretendia adquirir cotas societárias da empresa fiscalizada, com o intuito de alertá-lo sobre a fragilidade financeira do negócio. Diante dessa conduta:
 * **A)** o auditor atuou no estrito cumprimento do dever legal de transparência e cidadania.
 * **B)** a conduta é atípica se o amigo pessoal se comprometer a não divulgar publicamente os documentos recebidos.
 * **C)** o auditor cometeu o crime de quebra indevida de sigilo financeiro previsto no art. 10 da Lei Complementar nº 105/2001 e crime funcional de violação de sigilo (art. 325 do Código Penal), sujeitando-se à pena de reclusão e perda do cargo público.
@@ -521,12 +531,13 @@ Estão corretas apenas as assertivas:
 * **Alternativa C (CORRETA):** A transferência de sigilo autorizada pela LC nº 105/2001 e chancelada pelo STF impõe ao auditor fiscal o dever indeclinável de custódia e sigilo absoluto. A revelação ou entrega indevida de dados fiscais/bancários a terceiros constitui crime tipificado no art. 10 da própria LC 105/2001 (reclusão de 1 a 4 anos e multa) e no art. 325 do Código Penal, acarretando responsabilidade penal, civil e disciplinar gravíssima (demissão do serviço público).
 - **Alternativas A, B, D e E (INCORRETAS):** Não há amparo em dever legal; o sigilo bancário-fiscal é bem indisponível tutelado pela ordem jurídica; o banco cumpriu ordem legal da RMF; e a sanção legal comina pena privativa de liberdade e demissão.
 
----
-> **🛡️ Regra de Ouro Inviolável:** A transferência de sigilo autorizada pela LC nº 105/2001 e chancelada pelo STF impõe ao auditor fiscal o dever indeclinável de custódia e sigilo absoluto.
+> **Fique Ligado:** A transferência de sigilo autorizada pela LC nº 105/2001 e chancelada pelo STF impõe ao auditor fiscal o dever indeclinável de custódia e sigilo absoluto.
 
-### Questão 12 — [FGV — OAB / Exame de Ordem Unificado — 2022]
-**Identificador QC:** [Q2217937](https://www.qconcursos.com/questoes-de-concursos/questoes/29ffa344-25)  
-**Enunciado:** Em relação à disciplina legal e jurisprudencial do sigilo fiscal e da quebra de sigilo bancário pelas autoridades administrativas tributárias, assinale a afirmativa correta:
+---
+
+### [Questão 12](https://www.qconcursos.com/questoes-de-concursos/questoes/29ffa344-25) — [FGV — OAB / Exame de Ordem Unificado — 2022]
+
+Em relação à disciplina legal e jurisprudencial do sigilo fiscal e da quebra de sigilo bancário pelas autoridades administrativas tributárias, assinale a afirmativa correta:
 * **A)** A declaração de inconstitucionalidade do art. 6º da LC nº 105/2001 pelo Plenário do STF impede em caráter absoluto o acesso direto do Fisco aos extratos bancários sem chancela judicial.
 * **B)** O STF fixou a tese de que o acesso direto da administração tributária a dados bancários não consubstancia quebra de sigilo, mas sim transferência legal do dever de sigilo, desde que garantida a confidencialidade e motivada a indispensabilidade em processo administrativo regular.
 * **C)** Os agentes de fiscalização tributária de Municípios de pequeno porte não podem exercer os poderes do art. 6º da LC 105/2001, prerrogativa restrita à União e aos Estados.
@@ -540,4 +551,4 @@ Estão corretas apenas as assertivas:
 * **Alternativa C (INCORRETA):** O art. 6º aplica-se a todos os Municípios, desde que haja regulamentação local contendo garantias correlatas às do Decreto Federal nº 3.724/2001.
 * **Alternativa D (INCORRETA):** O Fisco acessa via procedimento administrativo direto, sem autorização judicial prévia.
 * **Alternativa E (INCORRETA):** O Tema 990 do STF reconhece a constitucionalidade do compartilhamento direto da íntegra dos autos de fiscalização com o MP para apuração de ilícitos penais.
-> **🛡️ Regra de Ouro Inviolável:** Síntese impecável da tese fixada pelo Supremo Tribunal Federal no RE 601.
+> **Fique Ligado:** Síntese impecável da tese fixada pelo Supremo Tribunal Federal no RE 601.

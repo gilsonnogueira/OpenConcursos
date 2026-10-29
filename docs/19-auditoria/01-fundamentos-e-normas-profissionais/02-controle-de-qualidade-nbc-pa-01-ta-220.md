@@ -255,8 +255,8 @@ A firma *Alfa Auditores Independentes* audita as demonstrações financeiras da 
 
 ## 10. Bateria de Questões Oficiais Comentadas Alternativa por Alternativa
 
-### Questão 01 — [FGV — Receita Federal do Brasil / Auditor-Fiscal da Receita Federal — 2023]
-**Identificador QC:** [Q4368123](https://www.qconcursos.com/questoes-de-concursos/questoes/0b97cb23-c3)
+### [Questão 01](https://www.qconcursos.com/questoes-de-concursos/questoes/0b97cb23-c3) — [FGV — Receita Federal do Brasil / Auditor-Fiscal da Receita Federal — 2023]
+
 De acordo com a NBC TA 220 (Controle de Qualidade da Auditoria de Demonstrações Contábeis) e a NBC PA 01, em relação à Revisão do Controle de Qualidade do Trabalho (EQCR), é correto afirmar que:
 
 * **A)** É obrigatória para todos os trabalhos de auditoria independente, independentemente do porte ou da natureza societária da entidade auditada.
@@ -272,12 +272,12 @@ De acordo com a NBC TA 220 (Controle de Qualidade da Auditoria de Demonstraçõe
 * **Análise da Alternativa D (Incorreta):** Havendo diferença de opinião, o relatório **não deve ser datado nem emitido** até que a divergência seja formalmente resolvida segundo as políticas da firma (NBC TA 220, item 22).
 * **Análise da Alternativa E (Incorreta):** A revisão do controle de qualidade do trabalho **não reduz nem divide** as responsabilidades do sócio do trabalho (NBC PA 01, item A49).
 
+> **Fique Ligado:** Reproduz literalmente o comando imperativo do item 19(c) da NBC TA 220 (e item 36 da NBC PA 01): o relatório do auditor **não deve ser datado** até a conclusão da revisão do controle de qualidade do trabalho.
+
 ---
 
-> **🛡️ Regra de Ouro Inviolável:** Reproduz literalmente o comando imperativo do item 19(c) da NBC TA 220 (e item 36 da NBC PA 01): o relatório do auditor **não deve ser datado** até a conclusão da revisão do controle de qualidade do trabalho.
+### [Questão 02](https://www.qconcursos.com/questoes-de-concursos/questoes/0b90336c-c3) — [CESPE / CEBRASPE — TCU / Auditor Federal de Controle Externo — 2022]
 
-### Questão 02 — [CESPE / CEBRASPE — TCU / Auditor Federal de Controle Externo — 2022]
-**Identificador QC:** [Q4368119](https://www.qconcursos.com/questoes-de-concursos/questoes/0b90336c-c3)
 No que concerne ao sistema de controle de qualidade de uma firma de auditoria independente (NBC PA 01 / NBC QM 01), assinale a opção correta.
 
 * **A)** A confirmação do cumprimento das políticas e procedimentos sobre independência pelo pessoal da firma pode ser obtida de forma meramente verbal a cada triênio.
@@ -293,12 +293,12 @@ No que concerne ao sistema de controle de qualidade de uma firma de auditoria in
 * **Análise da Alternativa D (Correta):** Literalidade do item 24(b) da NBC PA 01: confirmação **por escrito**, no mínimo **anualmente**, de todo o pessoal sujeito aos requisitos de independência.
 * **Análise da Alternativa E (Incorreta):** Firmas de pequeno porte **não estão dispensadas**; elas devem contratar **pessoas externas adequadamente qualificadas** ou usar outras firmas para realizar revisões de qualidade (EQCR), consultas ou inspeções de monitoramento (NBC PA 01, itens A40, A50 e A67).
 
+> **Fique Ligado:** Literalidade do item 24(b) da NBC PA 01: confirmação **por escrito**, no mínimo **anualmente**, de todo o pessoal sujeito aos requisitos de independência.
+
 ---
 
-> **🛡️ Regra de Ouro Inviolável:** Literalidade do item 24(b) da NBC PA 01: confirmação **por escrito**, no mínimo **anualmente**, de todo o pessoal sujeito aos requisitos de independência.
+### [Questão 03](https://www.qconcursos.com/questoes-de-concursos/questoes/0b844a41-c3) — [FGV — SEFAZ-BA / Auditor Fiscal — 2022]
 
-### Questão 03 — [FGV — SEFAZ-BA / Auditor Fiscal — 2022]
-**Identificador QC:** [Q4368113](https://www.qconcursos.com/questoes-de-concursos/questoes/0b844a41-c3)
 Sobre a responsabilidade de revisão da documentação de auditoria pelo Sócio do Trabalho, nos termos da NBC TA 220, assinale a afirmativa correta:
 
 * **A)** O sócio do trabalho deve revisar integralmente todos os papéis de trabalho produzidos pelos assistentes e seniores antes da montagem do arquivo final, no prazo de até 60 dias após a data do relatório.
@@ -314,12 +314,12 @@ Sobre a responsabilidade de revisão da documentação de auditoria pelo Sócio 
 * **Análise da Alternativa D (Incorreta):** O sócio do trabalho mantém responsabilidade integral e deve avaliar a adequação do trabalho do especialista como evidência de auditoria.
 * **Análise da Alternativa E (Incorreta):** Conforme o item A20 da NBC TA 220, o novo sócio do trabalho que assume durante a auditoria deve aplicar os procedimentos de revisão **como se tivesse assumido a responsabilidade pelo trabalho desde o início** (revisando todo o trabalho realizado até a data da mudança)!
 
+> **Fique Ligado:** Combina com perfeição o requisito do item 17 com a aplicação explicativa do item A18 da NBC TA 220.
+
 ---
 
-> **🛡️ Regra de Ouro Inviolável:** Combina com perfeição o requisito do item 17 com a aplicação explicativa do item A18 da NBC TA 220.
+### [Questão 04](https://www.qconcursos.com/questoes-de-concursos/questoes/0b6f6897-c3) — [FCC — TCE-GO / Analista de Controle Externo — 2022]
 
-### Questão 04 — [FCC — TCE-GO / Analista de Controle Externo — 2022]
-**Identificador QC:** [Q4368104](https://www.qconcursos.com/questoes-de-concursos/questoes/0b6f6897-c3)
 De acordo com a NBC PA 01, em relação aos prazos de montagem do arquivo final, retenção da documentação e ciclo de monitoramento por inspeção nas auditorias de demonstrações contábeis, os parâmetros normativos de referência são, respectivamente:
 
 * **A)** Montagem do arquivo final em até 30 dias; retenção por no mínimo 3 anos; e ciclo de inspeção de 5 anos.
@@ -335,12 +335,12 @@ De acordo com a NBC PA 01, em relação aos prazos de montagem do arquivo final,
   2. **Retenção/Guarda da documentação (Item A61):** não inferior a **5 anos** a contar da data do relatório do auditor (ou do relatório do auditor do grupo, se posterior);
   3. **Ciclo de inspeção de monitoramento (Item A66):** pelo menos um trabalho concluído para cada sócio do trabalho em um ciclo que pode abranger, por exemplo, **3 anos**.
 
+> **Fique Ligado:** A assertiva correta consagra o comando literal da NBC TA 200.
+
 ---
 
-> **🛡️ Regra de Ouro Inviolável:** A assertiva correta consagra o comando literal da NBC TA 200.
+### [Questão 05](https://www.qconcursos.com/questoes-de-concursos/questoes/22cfc945-c4) — [FGV — CGE-SC / Auditor Interno do Poder Executivo — 2023]
 
-### Questão 05 — [FGV — CGE-SC / Auditor Interno do Poder Executivo — 2023]
-**Identificador QC:** [Q4369453](https://www.qconcursos.com/questoes-de-concursos/questoes/22cfc945-c4)
 A nova norma brasileira de gestão da qualidade para firmas de auditoria (NBC QM 01), convergente com a ISQM 1 da IFAC, aprimorou a antiga estrutura da NBC PA 01 ao introduzir uma abordagem baseada em riscos. Assinale a alternativa que apresenta uma inovação estrutural trazida pela NBC QM 01 e pela NBC QM 02:
 
 * **A)** Eliminação da necessidade de confirmação anual de independência por escrito pelo pessoal da firma.
@@ -353,12 +353,12 @@ A nova norma brasileira de gestão da qualidade para firmas de auditoria (NBC QM
 * **Análise das Alternativas A, B, D e E (Incorretas):** Violam frontalmente os pilares da NBC QM 01 e da NBC QM 02.
 * **Análise da Alternativa C (Correta):** Destaca exatamente duas das mais importantes inovações das normas NBC QM 01 e NBC QM 02: (1) a ampliação do antigo elemento "Recursos Humanos" para o componente **Recursos** (que agora engloba **Recursos Humanos, Recursos Tecnológicos e Recursos Intelectuais**, além da gestão de provedores de serviços externos), e (2) a exigência expressa na NBC QM 02 de um período de resfriamento (*cooling-off period*) de **2 anos** antes que um ex-sócio do trabalho possa assumir a função de Revisor da Qualidade do Trabalho (EQCR) naquele mesmo cliente.
 
+> **Fique Ligado:** Destaca exatamente duas das mais importantes inovações das normas NBC QM 01 e NBC QM 02: (1) a ampliação do antigo elemento "Recursos Humanos" para o componente **Recursos** (que agora engloba **Recursos Humanos, Recursos Tecnológicos e Recursos Intelectuais**, além da gestão de provedores de serviços externos), e (2) a exigência expressa na NBC QM 02 de um período de resfriamento (*cooling-off period*) de **2 anos** antes que um ex-sócio do trabalho possa assumir a função de Revisor da Qualidade do Trabalho (EQCR) naquele mesmo cliente.
+
 ---
 
-> **🛡️ Regra de Ouro Inviolável:** Destaca exatamente duas das mais importantes inovações das normas NBC QM 01 e NBC QM 02: (1) a ampliação do antigo elemento "Recursos Humanos" para o componente **Recursos** (que agora engloba **Recursos Humanos, Recursos Tecnológicos e Recursos Intelectuais**, além da gestão de provedores de serviços externos), e (2) a exigência expressa na NBC QM 02 de um período de resfriamento (*cooling-off period*) de **2 anos** antes que um ex-sócio do trabalho possa assumir a função de Revisor da Qualidade do Trabalho (EQCR) naquele mesmo cliente.
+### [Questão 06](https://www.qconcursos.com/questoes-de-concursos/questoes/ab7ab51a-c4) — [CESPE / CEBRASPE — SEFAZ-RS / Auditor-Fiscal da Receita Estadual — 2019]
 
-### Questão 06 — [CESPE / CEBRASPE — SEFAZ-RS / Auditor-Fiscal da Receita Estadual — 2019]
-**Identificador QC:** [Q4369888](https://www.qconcursos.com/questoes-de-concursos/questoes/ab7ab51a-c4)
 A firma de auditoria independente *Delta S/S* concluiu a auditoria das demonstrações contábeis da *Companhia Beta* e emitiu dois relatórios distintos sobre a mesma informação contábil na mesma data: um destinado ao cumprimento das exigências societárias brasileiras e outro destinado à bolsa de valores estrangeira onde a companhia possui recibos de ações negociados. Nessa hipótese, segundo a NBC PA 01, para fins de montagem dos arquivos finais do trabalho:
 
 * **A)** A firma deve unificar ambos os relatórios em um único arquivo físico, dispondo do prazo dobrado de 120 dias para encerrar a montagem.
@@ -371,12 +371,12 @@ A firma de auditoria independente *Delta S/S* concluiu a auditoria das demonstra
 * **Análise das Alternativas A, C, D e E (Incorretas):** Inventam regras inexistentes na norma.
 * **Análise da Alternativa B (Correta):** Reproduz literalmente o **item 45 (parte final) da NBC PA 01**: *"No caso de dois ou mais diferentes relatórios serem emitidos com relação à mesma informação sobre o objeto de uma entidade, as políticas e os procedimentos da firma relativos aos limites de tempo para a montagem dos arquivos finais devem tratar cada relatório como se fosse para um trabalho separado."*
 
+> **Fique Ligado:** Reproduz literalmente o **item 45 (parte final) da NBC PA 01**: *"No caso de dois ou mais diferentes relatórios serem emitidos com relação à mesma informação sobre o objeto de uma entidade, as políticas e os procedimentos da firma relativos aos limites de tempo para a montagem dos arquivos finais devem tratar cada relatório como se fosse para um trabalho separado.
+
 ---
 
-> **🛡️ Regra de Ouro Inviolável:** Reproduz literalmente o **item 45 (parte final) da NBC PA 01**: *"No caso de dois ou mais diferentes relatórios serem emitidos com relação à mesma informação sobre o objeto de uma entidade, as políticas e os procedimentos da firma relativos aos limites de tempo para a montagem dos arquivos finais devem tratar cada relatório como se fosse para um trabalho separado.
+### [Questão 07](https://www.qconcursos.com/questoes-de-concursos/questoes/ab862fdf-c4) — [FCC — SEFAZ-SC / Auditor Fiscal da Receita Estadual — 2018]
 
-### Questão 07 — [FCC — SEFAZ-SC / Auditor Fiscal da Receita Estadual — 2018]
-**Identificador QC:** [Q4369893](https://www.qconcursos.com/questoes-de-concursos/questoes/ab862fdf-c4)
 Ao considerar a aceitação de um novo cliente de auditoria ou a decisão de continuar um trabalho existente, a NBC PA 01 e a NBC TA 220 exigem que a firma e o sócio do trabalho obtenham informações consideradas necessárias nas circunstâncias. Caso a firma obtenha informações, **após** a aceitação do trabalho, que teriam levado à sua recusa se fossem conhecidas anteriormente (por exemplo, evidências de que os principais proprietários estão envolvidos em lavagem de dinheiro e práticas contábeis fraudulentas reiteradas), as políticas da firma devem incluir a consideração sobre:
 
 * **A)** A cobrança imediata de um adicional de periculosidade nos honorários de auditoria para compensar o risco reputacional.
@@ -389,12 +389,12 @@ Ao considerar a aceitação de um novo cliente de auditoria ou a decisão de con
 * **Análise das Alternativas A, B, D e E (Incorretas):** Condutas antiéticas e ilegais que violam a NBC PA 01 e o Código de Ética.
 * **Análise da Alternativa C (Correta):** Corresponde ipsis litteris ao **item 28 da NBC PA 01** (e item A9 da NBC TA 220): quando a firma obtém informações que teriam levado à recusa do trabalho se fossem conhecidas antes, deve considerar as responsabilidades profissionais e legais aplicáveis (incluindo se há exigência de informar à pessoa que contratou a firma ou às autoridades reguladoras) e **a possibilidade de se retirar do trabalho ou de ambos, do trabalho e do relacionamento com o cliente**.
 
+> **Fique Ligado:** Corresponde ipsis litteris ao **item 28 da NBC PA 01** (e item A9 da NBC TA 220): quando a firma obtém informações que teriam levado à recusa do trabalho se fossem conhecidas antes, deve considerar as responsabilidades profissionais e legais aplicáveis (incluindo se há exigência de informar à pessoa que contratou a firma ou às autoridades reguladoras) e **a possibilidade de se retirar do trabalho ou de ambos, do trabalho e do relacionamento com o cliente**.
+
 ---
 
-> **🛡️ Regra de Ouro Inviolável:** Corresponde ipsis litteris ao **item 28 da NBC PA 01** (e item A9 da NBC TA 220): quando a firma obtém informações que teriam levado à recusa do trabalho se fossem conhecidas antes, deve considerar as responsabilidades profissionais e legais aplicáveis (incluindo se há exigência de informar à pessoa que contratou a firma ou às autoridades reguladoras) e **a possibilidade de se retirar do trabalho ou de ambos, do trabalho e do relacionamento com o cliente**.
+### [Questão 08](https://www.qconcursos.com/questoes-de-concursos/questoes/22c4a4a2-c4) — [FGV — ISS Rio de Janeiro / Fiscal de Rendas — 2023]
 
-### Questão 08 — [FGV — ISS Rio de Janeiro / Fiscal de Rendas — 2023]
-**Identificador QC:** [Q4369448](https://www.qconcursos.com/questoes-de-concursos/questoes/22c4a4a2-c4)
 Durante uma auditoria de demonstrações financeiras, a equipe de trabalho deparou-se com uma questão contábil altamente complexa envolvendo instrumentos financeiros derivativos exóticos, decidindo realizar uma consulta técnica a um especialista externo à firma. De acordo com a NBC TA 220, sobre o procedimento de consulta, cabe ao sócio do trabalho:
 
 * **A)** Proibir consultas a profissionais externos à firma, visto que isso configuraria quebra automática de sigilo profissional.
@@ -408,4 +408,4 @@ Durante uma auditoria de demonstrações financeiras, a equipe de trabalho depar
 * **Análise da Alternativa B (Correta):** Reproduz fielmente o **item 18(b), (c) e (d) da NBC TA 220**: o sócio do trabalho deve estar satisfeito de que a natureza, o alcance e as conclusões resultantes das consultas foram acordados com o profissional consultado e documentados, e determinar que as conclusões resultantes foram implementadas.
 * **Análise das Alternativas C, D e E (Incorretas):** A documentação é obrigatória, a responsabilidade pela opinião no relatório é exclusiva e indivisível do sócio do trabalho/firma, e a realização de consulta técnica aprimora a qualidade da auditoria, não gerando modificação de opinião.
 
-> **🛡️ Regra de Ouro Inviolável:** Reproduz fielmente o **item 18(b), (c) e (d) da NBC TA 220**: o sócio do trabalho deve estar satisfeito de que a natureza, o alcance e as conclusões resultantes das consultas foram acordados com o profissional consultado e documentados, e determinar que as conclusões resultantes foram implementadas.
+> **Fique Ligado:** Reproduz fielmente o **item 18(b), (c) e (d) da NBC TA 220**: o sócio do trabalho deve estar satisfeito de que a natureza, o alcance e as conclusões resultantes das consultas foram acordados com o profissional consultado e documentados, e determinar que as conclusões resultantes foram implementadas.

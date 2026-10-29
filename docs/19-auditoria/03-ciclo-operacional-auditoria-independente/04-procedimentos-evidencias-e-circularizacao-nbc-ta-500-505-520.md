@@ -230,8 +230,7 @@ O auditor deve desenhar procedimentos para identificar litígios e reclamações
 
 ## 9. Bateria de Questões Oficiais Comentadas Alternativa por Alternativa
 
-### Questão 01 — [FCC — SEFAZ-CE / Auditor Fiscal da Receita Estadual — 2026]
-**Identificador QC:** [Q4221421](https://www.qconcursos.com/questoes-de-concursos/questoes/78970081-91)
+### [Questão 01](https://www.qconcursos.com/questoes-de-concursos/questoes/78970081-91) — [FCC — SEFAZ-CE / Auditor Fiscal da Receita Estadual — 2026]
 
 Durante a auditoria das demonstrações contábeis de uma indústria sujeita à apuração do ICMS, o auditor independente selecionou amostra de notas fiscais eletrônicas de saída para verificar:
 • a correta aplicação das alíquotas interestaduais;
@@ -253,12 +252,11 @@ De acordo com a NBC TA 530,
 * **Análise da Alternativa D (Correta):** Definição literal de **Risco de Amostragem** prevista no item 5(c) da NBC TA 530: o risco de que a conclusão do auditor baseada em amostra seja diferente daquela que seria alcançada se toda a população fosse submetida ao mesmo procedimento.
 * **Análise da Alternativa E (Incorreta):** A existência de ERP não elimina o risco de amostragem quando o auditor opta por testar menos de 100% dos itens da população.
 
-> **🛡️ Regra de Ouro Inviolável:** Risco de amostragem é o risco de a conclusão com base na amostra diferir da que seria obtida se 100% da população fosse examinada; pode ser de eficácia (risco beta) ou de eficiência (risco alfa).
+> **Fique Ligado:** Risco de amostragem é o risco de a conclusão com base na amostra diferir da que seria obtida se 100% da população fosse examinada; pode ser de eficácia (risco beta) ou de eficiência (risco alfa).
 
 ---
 
-### Questão 02 — [FGV — CFC / Exame de Qualificação Técnica Geral (QTG) — 2026]
-**Identificador QC:** [Q4368114](https://www.qconcursos.com/questoes-de-concursos/questoes/0b86a87e-c3)
+### [Questão 02](https://www.qconcursos.com/questoes-de-concursos/questoes/0b86a87e-c3) — [FGV — CFC / Exame de Qualificação Técnica Geral (QTG) — 2026]
 
 De acordo com a NBC TA 500 – Evidência de Auditoria, o auditor independente deve planejar e executar procedimentos de auditoria apropriados nas circunstâncias com o objetivo de obter evidência de auditoria suficiente e apropriada.
 
@@ -276,12 +274,11 @@ Sobre os procedimentos de obtenção de evidência de auditoria, assinale a afir
 * **Análise da Alternativa D (Incorreta):** O recálculo consiste na verificação da **exatidão matemática** de documentos ou registros (item A19 da NBC TA 500).
 * **Análise da Alternativa E (Correta):** Sintetiza perfeitamente as regras de ouro da hierarquia de confiabilidade da NBC TA 500: prova direta, documental e de fonte externa independente é o padrão mais alto de confiabilidade probatória.
 
-> **🛡️ Regra de Ouro Inviolável:** Na circularização positiva, a resposta do terceiro é indispensável; caso não haja resposta após insistência, o auditor DEVE aplicar procedimentos alternativos de auditoria.
+> **Fique Ligado:** Na circularização positiva, a resposta do terceiro é indispensável; caso não haja resposta após insistência, o auditor DEVE aplicar procedimentos alternativos de auditoria.
 
 ---
 
-### Questão 03 — [Quadrix — CREF - 11ª Região (MS-MT) / Analista Contábil — 2026]
-**Identificador QC:** [Q4146446](https://www.qconcursos.com/questoes-de-concursos/questoes/74fe27c3-74)
+### [Questão 03](https://www.qconcursos.com/questoes-de-concursos/questoes/74fe27c3-74) — [Quadrix — CREF - 11ª Região (MS-MT) / Analista Contábil — 2026]
 
 Suponha‑se que, durante o planejamento de um trabalho de auditoria, o auditor tenha identificado deficiências relevantes nos controles internos relacionados à autorização de compras e ao registro de fornecedores, avaliando como elevado o risco de controle nessa área. Nesse caso, é correto afirmar que, em razão dessa avaliação, decidiu‑se aumentar o tamanho da amostra e ampliar os testes substantivos aplicados às transações e aos saldos correspondentes, sob o entendimento de que essa ampliação reduziria o risco de controle identificado.
 * **C)** Certo
@@ -290,12 +287,11 @@ Suponha‑se que, durante o planejamento de um trabalho de auditoria, o auditor 
 #### Gabarito Oficial e Dissecação Técnica: **Errado (E)**
 * **Fundamentação Técnica:** Pegadinha clássica e interdisciplinar sobre o modelo de riscos da NBC TA 200 e NBC TA 330! O auditor amplia os testes substantivos para **reduzir o RISCO DE DETECÇÃO ($RD$)**, e **NÃO para reduzir o Risco de Controle ($RC$)**! O Risco de Controle é uma característica inerente ao sistema de controles mantido pela Administração da entidade auditada; os procedimentos substantivos executados pelo auditor não têm o condão de alterar ou consertar os controles internos deficientes da empresa. Portanto, o item está **ERRADO**.
 
-> **🛡️ Regra de Ouro Inviolável:** Na inspeção física de ativos tangíveis, o auditor obtém evidência sobre a EXISTÊNCIA do bem, mas NÃO comprova a propriedade (direitos) nem a correta valoração.
+> **Fique Ligado:** Na inspeção física de ativos tangíveis, o auditor obtém evidência sobre a EXISTÊNCIA do bem, mas NÃO comprova a propriedade (direitos) nem a correta valoração.
 
 ---
 
-### Questão 04 — [FGV / Ibrafc — Auditoria Fiscal]
-**Identificador QC:** [Q4371091](https://www.qconcursos.com/questoes-de-concursos/questoes/ddeb1c2d-c6)
+### [Questão 04](https://www.qconcursos.com/questoes-de-concursos/questoes/ddeb1c2d-c6) — [FGV / Ibrafc — Auditoria Fiscal]
 
 Em auditoria numa clínica de fisioterapia, o fiscal suspeita que parte das sessões realizadas não foi faturada nem escriturada como receita. Para que a evidência obtida responda a esse risco, o fiscal precisa definir de onde parte a seleção dos itens a examinar. Nesse caso, assinale a alternativa que descreve o procedimento CORRETO.
 * **A)** Partir das fichas de atendimento e das agendas de sessões e rastrear cada registro até a nota fiscal emitida e o correspondente lançamento de receita.
@@ -309,12 +305,11 @@ Em auditoria numa clínica de fisioterapia, o fiscal suspeita que parte das sess
 * **Análise da Alternativa E (Incorreta):** Tomar os lançamentos de receita do Razão e buscar os documentos (Vouching) serve apenas para testar a **existência/superavaliação**. Se a clínica atendeu 1.000 pacientes no "caixa dois" e só lançou 200 no Razão, todos os 200 do Razão terão fichas perfeitas, e o auditor que parte do Razão jamais descobrirá os 800 pacientes omitidos!
 * **Análise das Alternativas B, C e D (Incorretas):** A circularização do contas a receber examina saldos já contabilizados, o recálculo sobre notas já emitidas não detecta serviços sem nota, e conciliar notas com o Razão só pega divergências de escrituração entre documentos fiscais emitidos e a contabilidade.
 
-> **🛡️ Regra de Ouro Inviolável:** Procedimentos analíticos são obrigatórios no planejamento e na revisão final global; durante a fase de execução substantiva, seu uso é facultativo.
+> **Fique Ligado:** Procedimentos analíticos são obrigatórios no planejamento e na revisão final global; durante a fase de execução substantiva, seu uso é facultativo.
 
 ---
 
-### Questão 05 — [FGV — CFC / Exame de Qualificação Técnica Geral (QTG) — 2026]
-**Identificador QC:** [Q4368126](https://www.qconcursos.com/questoes-de-concursos/questoes/0b9e2ca4-c3)
+### [Questão 05](https://www.qconcursos.com/questoes-de-concursos/questoes/0b9e2ca4-c3) — [FGV — CFC / Exame de Qualificação Técnica Geral (QTG) — 2026]
 
 A Companhia Beta S.A. solicita a contratação de auditor independente para auditar suas demonstrações contábeis. Na reunião prévia, a administração informa que:
 • A auditoria será feita conforme a estrutura de relatório financeiro exigida por lei/regulamento aplicável.
@@ -338,12 +333,11 @@ Com base exclusivamente na NBC TA 210 (R1) - CONCORDÂNCIA COM OS TERMOS DO TRAB
   2. **Condições Prévias (Item 6):** A administração recusa-se a reconhecer suas responsabilidades básicas (controle interno e fornecimento irrestrito de informações e acesso a pessoas);
   3. **Mudança de Termos do Trabalho (Item 14):** Se, antes da conclusão do trabalho de auditoria, o auditor for solicitado a mudar o trabalho para um que forneça menor nível de asseguração (revisão), o auditor deve determinar se há **justificativa razoável** para isso. Evitar impacto no relatório por causa de limitações ilegítimas de escopo **não é justificativa razoável**! Logo, a conduta correta é a **recusa imediata** do trabalho.
 
-> **🛡️ Regra de Ouro Inviolável:** A confirmação negativa fornece evidência menos persuasiva que a positiva e exige cumulativamente: baixo risco de distorção relevante, população grande e homogênea, taxa de exceção esperada baixa e expectativa de que o destinatário responderá se discordar.
+> **Fique Ligado:** A confirmação negativa fornece evidência menos persuasiva que a positiva e exige cumulativamente: baixo risco de distorção relevante, população grande e homogênea, taxa de exceção esperada baixa e expectativa de que o destinatário responderá se discordar.
 
 ---
 
-### Questão 06 — [FGV — CFC / Exame de Qualificação Técnica Geral (QTG) — 2026]
-**Identificador QC:** [Q4368116](https://www.qconcursos.com/questoes-de-concursos/questoes/0b8a86c6-c3)
+### [Questão 06](https://www.qconcursos.com/questoes-de-concursos/questoes/0b8a86c6-c3) — [FGV — CFC / Exame de Qualificação Técnica Geral (QTG) — 2026]
 
 No processo de auditoria, o auditor independente pode recorrer ao trabalho de um especialista para obter evidências apropriadas em áreas que exigem conhecimentos técnicos específicos que vão além da contabilidade e auditoria. Esse especialista pode ser um profissional ou uma organização com expertise em assuntos como avaliação de ativos, cálculos atuariais, estimativas de passivos ambientais, entre outros.
 
@@ -358,12 +352,11 @@ Dessa forma, de acordo com a NBC TA 620 – UTILIZAÇÃO DO TRABALHO DE ESPECIAL
 * **Análise das Alternativas B e E (Incorretas):** O auditor tem responsabilidade **única e exclusiva** pela opinião expressa, e essa responsabilidade **não é reduzida nem transferida** pela utilização do trabalho de um especialista (item 3 da NBC TA 620).
 * **Análise da Alternativa D (Correta):** Conforme o item 12 da NBC TA 620, o auditor deve avaliar a **adequação do trabalho do especialista** como evidência de auditoria para a afirmação relevante, incluindo: (1) a relevância e razoabilidade das constatações ou conclusões do especialista e sua **consistência com outras evidências de auditoria**; e (2) a relevância e razoabilidade de premissas e métodos significativos utilizados pelo especialista.
 
-> **🛡️ Regra de Ouro Inviolável:** A recusa injustificada da administração em permitir a circularização configura limitação de escopo, ensejando comunicação à governança e possível modificação de opinião no relatório.
+> **Fique Ligado:** A recusa injustificada da administração em permitir a circularização configura limitação de escopo, ensejando comunicação à governança e possível modificação de opinião no relatório.
 
 ---
 
-### Questão 07 — [FGV — CFC / Comissão de Valores Mobiliários (CVM) — 2026]
-**Identificador QC:** [Q4368140](https://www.qconcursos.com/questoes-de-concursos/questoes/1f48d994-c3)
+### [Questão 07](https://www.qconcursos.com/questoes-de-concursos/questoes/1f48d994-c3) — [FGV — CFC / Comissão de Valores Mobiliários (CVM) — 2026]
 
 A NBC TA 540 (R2) trata das responsabilidades do auditor na auditoria de estimativas contábeis, inclusive as de valor justo, requerendo respostas proporcionais aos riscos avaliados no nível de afirmações, com foco nas razões do risco, no ceticismo profissional e na documentação.
 
@@ -391,12 +384,11 @@ Estão corretas as afirmativas
 * **Assertiva III (Incorreta):** Quando o auditor desenvolve estimativa pontual ou por intervalo, o item 29 da norma exige expressamente que ele **avalie a adequação dos métodos, premissas e dados utilizados**!
 * **Assertiva IV (Correta):** Exigência documental imperativa da NBC TA 540 (item 39). Logo, estão corretas apenas **I, II e IV** (**Alternativa C**).
 
-> **🛡️ Regra de Ouro Inviolável:** Confiabilidade da evidência: fonte externa > interna; controles eficazes > ineficazes; obtenção direta > indireta; documentos originais > cópias.
+> **Fique Ligado:** Confiabilidade da evidência: fonte externa > interna; controles eficazes > ineficazes; obtenção direta > indireta; documentos originais > cópias.
 
 ---
 
-### Questão 08 — [QConcursos / Banca Oficial — Auditoria — 2026]
-**Identificador QC:** [Q4375831](https://www.qconcursos.com/questoes-de-concursos/questoes/fcb11895-c7)
+### [Questão 08](https://www.qconcursos.com/questoes-de-concursos/questoes/fcb11895-c7) — [QConcursos / Banca Oficial — Auditoria — 2026]
 
 Na fase de execução de uma auditoria conduzida pela unidade de controle interno, os procedimentos aplicados e os registros produzidos cumprem funções específicas e não se substituem entre si. Associe cada elemento da Coluna I à descrição correspondente da Coluna II:
 
@@ -424,13 +416,12 @@ Assinale a alternativa que apresenta a associação correta, de cima para baixo:
 * **3º Parêntese (4 - Amostragem):** Aplicação de procedimentos a menos de 100% dos itens da população para permitir conclusões sobre o todo.
 * **4º Parêntese (2 - Testes de Observância):** Procedimentos voltados a obter segurança razoável de que os controles internos estão em efetivo funcionamento e cumprimento operacional. A sequência correta é **3, 1, 4, 2** (**Alternativa D**).
 
-> **🛡️ Regra de Ouro Inviolável:** Indagação isolada à administração NÃO fornece evidência hábil e suficiente de auditoria; deve ser corroborada por outros procedimentos comprobatórios.
+> **Fique Ligado:** Indagação isolada à administração NÃO fornece evidência hábil e suficiente de auditoria; deve ser corroborada por outros procedimentos comprobatórios.
 
 
 ---
 
-### Questão 09 — [FGV — Receita Federal / Auditor-Fiscal — 2023]
-**Identificador QC:** [Q2118970](https://www.qconcursos.com/questoes-de-concursos/questoes/c3211897-0d)
+### [Questão 09](https://www.qconcursos.com/questoes-de-concursos/questoes/c3211897-0d) — [FGV — Receita Federal / Auditor-Fiscal — 2023]
 
 Em relação aos Procedimentos de Confirmação Externa (Circularização), disciplinados pela NBC TA 505, assinale a opção que indica a conduta correta do auditor independente quando a administração da entidade auditada se recusa a permitir o envio de pedidos de confirmação a determinados fornecedores:
 
@@ -449,12 +440,11 @@ Em relação aos Procedimentos de Confirmação Externa (Circularização), disc
 * **(D) INCORRETA:** O auditor só modifica a opinião após constatar que a recusa foi desarrazoada ou que não foi possível obter evidência hábil por procedimentos alternativos (item 9 da NBC TA 505).
 * **(E) INCORRETA:** A circularização requer autorização da administração para que terceiros quebrem o sigilo de dados em relação à entidade auditada; o envio clandestino viola a ética profissional.
 
-> **🛡️ Regra de Ouro Inviolável:** Recusa da administração em permitir circularização = Indagar as razões + Avaliar razoabilidade e risco de fraude + Executar procedimentos alternativos. Se injustificada ou sem evidência alternativa = comunicar à governança e modificar o relatório por limitação de escopo.
+> **Fique Ligado:** Recusa da administração em permitir circularização = Indagar as razões + Avaliar razoabilidade e risco de fraude + Executar procedimentos alternativos. Se injustificada ou sem evidência alternativa = comunicar à governança e modificar o relatório por limitação de escopo.
 
 ---
 
-### Questão 10 — [FCC — SEFAZ-PE / Auditor Fiscal do Tesouro Estadual — 2022]
-**Identificador QC:** [Q1945640](https://www.qconcursos.com/questoes-de-concursos/questoes/a2194564-0d)
+### [Questão 10](https://www.qconcursos.com/questoes-de-concursos/questoes/a2194564-0d) — [FCC — SEFAZ-PE / Auditor Fiscal do Tesouro Estadual — 2022]
 
 Sobre a aplicabilidade e as fases de utilização dos **Procedimentos Analíticos** previstos nas normas brasileiras de auditoria (NBC TA 315, NBC TA 520 e NBC TA 700), assinale a afirmativa CORRETA:
 
@@ -476,12 +466,11 @@ Sobre a aplicabilidade e as fases de utilização dos **Procedimentos Analítico
 * **(D) INCORRETA:** O item 5 da NBC TA 520 determina expressamente que o auditor deve avaliar a confiabilidade dos dados utilizados na expectativa.
 * **(E) INCORRETA:** Flutuações inconsistentes devem ser obrigatoriamente investigadas por meio de indagações à administração e procedimentos adicionais (item 7 da NBC TA 520).
 
-> **🛡️ Regra de Ouro Inviolável:** Procedimentos Analíticos são OBRIGATÓRIOS em duas fases: no **Planejamento** (avaliação de riscos) e na **Conclusão Geral** (revisão final). Na fase de **Execução Substantiva**, seu uso é FACULTATIVO.
+> **Fique Ligado:** Procedimentos Analíticos são OBRIGATÓRIOS em duas fases: no **Planejamento** (avaliação de riscos) e na **Conclusão Geral** (revisão final). Na fase de **Execução Substantiva**, seu uso é FACULTATIVO.
 
 ---
 
-### Questão 11 — [Cebraspe — CGU / Auditor Federal de Finanças e Controle — 2022]
-**Identificador QC:** [Q1889760](https://www.qconcursos.com/questoes-de-concursos/questoes/4e188976-0e)
+### [Questão 11](https://www.qconcursos.com/questoes-de-concursos/questoes/4e188976-0e) — [Cebraspe — CGU / Auditor Federal de Finanças e Controle — 2022]
 
 Em relação à suficiência e à adequação da evidência de auditoria e à hierarquia de confiabilidade das fontes comprobatórias regulamentada na NBC TA 500, assinale a opção CORRETA:
 
@@ -500,12 +489,11 @@ Em relação à suficiência e à adequação da evidência de auditoria e à hi
 * **(D) INCORRETA:** O auditor deve avaliar a confiabilidade dos documentos, especialmente quando apresentados em fotocópias ou formatos sujeitos a adulteração.
 * **(E) INCORRETA:** Conforme o item 8 da NBC TA 500, ao usar informações elaboradas por especialista da administração, o auditor deve avaliar a competência, habilidades e objetividade do especialista, obter entendimento do seu trabalho e avaliar a adequação do seu trabalho como evidência.
 
-> **🛡️ Regra de Ouro Inviolável:** Confiabilidade da Evidência: Externa > Interna; Controles fortes > Controles fracos; Obtenção direta pelo auditor > Indireta; Documental > Verbal; Original > Cópia/Digitalizada.
+> **Fique Ligado:** Confiabilidade da Evidência: Externa > Interna; Controles fortes > Controles fracos; Obtenção direta pelo auditor > Indireta; Documental > Verbal; Original > Cópia/Digitalizada.
 
 ---
 
-### Questão 12 — [FGV — CFC / Exame de Qualificação Técnica (QTG) — 2026]
-**Identificador QC:** [Q4368150](https://www.qconcursos.com/questoes-de-concursos/questoes/0c98cb50-d4)
+### [Questão 12](https://www.qconcursos.com/questoes-de-concursos/questoes/0c98cb50-d4) — [FGV — CFC / Exame de Qualificação Técnica (QTG) — 2026]
 
 Na realização de testes substantivos sobre a conta de Clientes e Contas a Receber, o auditor independente decide aplicar pedidos de confirmação externa (NBC TA 505). Ao classificar as solicitações de confirmação em positivas e negativas, é correto afirmar que:
 
@@ -524,5 +512,5 @@ Na realização de testes substantivos sobre a conta de Clientes e Contas a Rece
 * **(D) INCORRETA:** Na confirmação positiva, a falta de resposta NÃO significa concordância! É considerada "não resposta" e exige a aplicação compulsória de **procedimentos alternativos de auditoria** (item 12 da NBC TA 505).
 * **(E) INCORRETA:** Todas as confirmações e resultados de procedimentos alternativos devem constar detalhadamente na documentação de auditoria (NBC TA 230).
 
-> **🛡️ Regra de Ouro Inviolável:** Confirmação Positiva: o terceiro responde em qualquer caso (se em branco = maior esforço e mais confiável; se preenchida = risco de aceite passivo sem checagem). Confirmação Negativa: o terceiro SÓ responde se DISCORDAR (menos persuasiva). Ausência de resposta na positiva = procedimento alternativo obrigatório!
+> **Fique Ligado:** Confirmação Positiva: o terceiro responde em qualquer caso (se em branco = maior esforço e mais confiável; se preenchida = risco de aceite passivo sem checagem). Confirmação Negativa: o terceiro SÓ responde se DISCORDAR (menos persuasiva). Ausência de resposta na positiva = procedimento alternativo obrigatório!
 

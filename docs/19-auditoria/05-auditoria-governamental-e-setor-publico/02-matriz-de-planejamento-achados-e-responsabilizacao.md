@@ -236,9 +236,9 @@ Determinação para instauração imediata de Tomada de Contas Especial (TCE); c
 
 ## 9. Bateria de Questões Oficiais Comentadas (QConcursos)
 
-### Questão 01 — [CESPE / CEBRASPE — Auditor Federal de Controle Externo / TCU — 2022]
-**Identificador QC:** [Q4375829](https://www.qconcursos.com/questoes-de-concursos/questoes/5cf3d9ca-92)  
-**Enunciado:** No processo de auditoria governamental executado sob os padrões das Normas de Auditoria do TCU (NAT), a ferramenta metodológica elaborada na fase de planejamento que sintetiza as questões de auditoria, as informações requeridas, as fontes de dados, os procedimentos de campo e o que a análise permitirá dizer denomina-se:
+### [Questão 01](https://www.qconcursos.com/questoes-de-concursos/questoes/5cf3d9ca-92) — [CESPE / CEBRASPE — Auditor Federal de Controle Externo / TCU — 2022]
+
+No processo de auditoria governamental executado sob os padrões das Normas de Auditoria do TCU (NAT), a ferramenta metodológica elaborada na fase de planejamento que sintetiza as questões de auditoria, as informações requeridas, as fontes de dados, os procedimentos de campo e o que a análise permitirá dizer denomina-se:
 * **A)** Matriz de Responsabilização.
 * **B)** Matriz de Planejamento.
 * **C)** Matriz de Achados.
@@ -252,12 +252,13 @@ Determinação para instauração imediata de Tomada de Contas Especial (TCE); c
 * **Alternativa C (INCORRETA):** A Matriz de Achados registra as irregularidades e constatações fáticas apuradas durante a execução.
 - **Alternativas D e E (INCORRETAS):** TAG é instrumento consensual e o Relatório Preliminar é documento de conclusão de equipe.
 
----
-> **🛡️ Regra de Ouro Inviolável:** A **Matriz de Planejamento** é o instrumento estruturador elaborado na fase preliminar da fiscalização pelo TCU, organizando o trabalho em torno das Questões de Auditoria (QA), procedimentos e critérios.
+> **Fique Ligado:** A **Matriz de Planejamento** é o instrumento estruturador elaborado na fase preliminar da fiscalização pelo TCU, organizando o trabalho em torno das Questões de Auditoria (QA), procedimentos e critérios.
 
-### Questão 02 — [CESPE / CEBRASPE — Auditor Federal de Controle Externo / TCU — 2022]
-**Identificador QC:** [Q4283080](https://www.qconcursos.com/questoes-de-concursos/questoes/5cf5d761-92)  
-**Enunciado:** Os achados de auditoria constituem a essência dos relatórios de controle externo. De acordo com os padrões internacionais da INTOSAI e as normas do TCU, o atributo do achado de auditoria que descreve o que o auditor constatou in loco, refletindo a situação fática real existente no órgão auditado, é denominado:
+---
+
+### [Questão 02](https://www.qconcursos.com/questoes-de-concursos/questoes/5cf5d761-92) — [CESPE / CEBRASPE — Auditor Federal de Controle Externo / TCU — 2022]
+
+Os achados de auditoria constituem a essência dos relatórios de controle externo. De acordo com os padrões internacionais da INTOSAI e as normas do TCU, o atributo do achado de auditoria que descreve o que o auditor constatou in loco, refletindo a situação fática real existente no órgão auditado, é denominado:
 * **A)** Critério.
 * **B)** Causa.
 * **C)** Condição.
@@ -272,12 +273,13 @@ Determinação para instauração imediata de Tomada de Contas Especial (TCE); c
 * **Alternativa D (INCORRETA):** O Efeito é a consequência material ou risco produzido ("qual o impacto").
 * **Alternativa E (INCORRETA):** Recomendação é a proposta de encaminhamento corretivo.
 
----
-> **🛡️ Regra de Ouro Inviolável:** A **Condição** é a situação fática encontrada ("o que é"), apurada e comprovada documentalmente pelo auditor de controle externo.
+> **Fique Ligado:** A **Condição** é a situação fática encontrada ("o que é"), apurada e comprovada documentalmente pelo auditor de controle externo.
 
-### Questão 03 — [FGV — Auditor Federal de Finanças e Controle / CGU — 2022]
-**Identificador QC:** [Q4202926](https://www.qconcursos.com/questoes-de-concursos/questoes/0c2f82ba-c8)  
-**Enunciado:** Nos termos do art. 28 da Lei de Introdução às Normas do Direito Brasileiro (LINDB — Decreto-Lei nº 4.657/1942), o agente público responderá pessoalmente por suas decisões ou opiniões técnicas perante os órgãos de controle em caso de:
+---
+
+### [Questão 03](https://www.qconcursos.com/questoes-de-concursos/questoes/0c2f82ba-c8) — [FGV — Auditor Federal de Finanças e Controle / CGU — 2022]
+
+Nos termos do art. 28 da Lei de Introdução às Normas do Direito Brasileiro (LINDB — Decreto-Lei nº 4.657/1942), o agente público responderá pessoalmente por suas decisões ou opiniões técnicas perante os órgãos de controle em caso de:
 * **A)** culpa levíssima ou mero erro material de cálculo.
 * **B)** dolo ou erro grosseiro.
 * **C)** qualquer prejuízo financeiro causado ao erário, independentemente da verificação de culpa do agente.
@@ -290,12 +292,13 @@ Determinação para instauração imediata de Tomada de Contas Especial (TCE); c
 - **Alternativas A e C (INCORRETAS):** Culpa leve e responsabilidade objetiva sem culpa são rechaçadas na esfera pessoal punitiva sancionadora do direito administrativo.
 - **Alternativas D e E (INCORRETAS):** O art. 24 da LINDB e jurisprudência vinculante vedam punição quando a decisão baseou-se em jurisprudência ou parecer jurídico fundamentado da advocacia pública.
 
----
-> **🛡️ Regra de Ouro Inviolável:** O art.
+> **Fique Ligado:** O art.
 
-### Questão 04 — [FCC — TCE-GO / Analista de Controle Externo — 2022]
-**Identificador QC:** [Q4335619](https://www.qconcursos.com/questoes-de-concursos/questoes/9e8b62ba-c2)  
-**Enunciado:** Em relação às propostas de deliberação a serem formuladas pelas equipes de auditoria do Tribunal de Contas, assinale a opção que diferencia corretamente uma determinação de uma recomendação:
+---
+
+### [Questão 04](https://www.qconcursos.com/questoes-de-concursos/questoes/9e8b62ba-c2) — [FCC — TCE-GO / Analista de Controle Externo — 2022]
+
+Em relação às propostas de deliberação a serem formuladas pelas equipes de auditoria do Tribunal de Contas, assinale a opção que diferencia corretamente uma determinação de uma recomendação:
 * **A)** A determinação é de adoção discricionária pelo gestor, enquanto a recomendação é de cumprimento compulsório e coercitivo sob pena de demissão do servidor.
 * **B)** A determinação consubstancia ordem cogente para cumprimento em prazo fixado quando houver descumprimento de lei ou norma imperativa, enquanto a recomendação constitui proposta orientativa de melhoria gerencial que faculta ao gestor demonstrar a inviabilidade de sua adoção.
 * **C)** A determinação aplica-se exclusivamente a empresas privadas contratadas, enquanto a recomendação é privativa de órgãos da administração direta.
@@ -307,12 +310,13 @@ Determinação para instauração imediata de Tomada de Contas Especial (TCE); c
 * **Alternativa B (CORRETA):** A distinção doutrinária e normativa é clássica no regimento interno do TCU: **Determinação** possui caráter mandamental e vinculante para sanar ilegalidade constatada em prazo estrito (seu descumprimento enseja multa do art. 58 da Lei 8.443/92); **Recomendação** tem natureza colaborativa e propositiva, permitindo ao gestor justificar alternativas viáveis.
 - **Alternativas A, C, D e E (INCORRETAS):** Invertem os conceitos, inexiste prisão administrativa por recomendação e não são instrumentos sinônimos.
 
----
-> **🛡️ Regra de Ouro Inviolável:** A distinção doutrinária e normativa é clássica no regimento interno do TCU: **Determinação** possui caráter mandamental e vinculante para sanar ilegalidade constatada em prazo estrito (seu descumprimento enseja multa do art.
+> **Fique Ligado:** A distinção doutrinária e normativa é clássica no regimento interno do TCU: **Determinação** possui caráter mandamental e vinculante para sanar ilegalidade constatada em prazo estrito (seu descumprimento enseja multa do art.
 
-### Questão 05 — [CESPE / CEBRASPE — TCE-RO / Auditor de Controle Externo — 2019]
-**Identificador QC:** [Q4232833](https://www.qconcursos.com/questoes-de-concursos/questoes/5cf3d9ca-92)  
-**Enunciado:** Ao estruturar a Matriz de Responsabilização em uma auditoria de obras públicas que constatou pagamento antecipado sem a execução do serviço, a equipe de auditoria deve analisar a culpabilidade do agente público. À luz da LINDB (art. 22), essa análise exige:
+---
+
+### [Questão 05](https://www.qconcursos.com/questoes-de-concursos/questoes/5cf3d9ca-92) — [CESPE / CEBRASPE — TCE-RO / Auditor de Controle Externo — 2019]
+
+Ao estruturar a Matriz de Responsabilização em uma auditoria de obras públicas que constatou pagamento antecipado sem a execução do serviço, a equipe de auditoria deve analisar a culpabilidade do agente público. À luz da LINDB (art. 22), essa análise exige:
 * **A)** Desconsiderar as dificuldades reais do gestor e presumir o dolo em qualquer situação de dano ao erário.
 * **B)** Considerar os obstáculos e as dificuldades reais do gestor e as exigências das políticas públicas a seu cargo, avaliando se era razoável exigir do agente conduta diversa da praticada.
 * **C)** Condicionar a análise de culpabilidade ao depoimento de testemunhas oculares juramentadas.
@@ -324,12 +328,13 @@ Determinação para instauração imediata de Tomada de Contas Especial (TCE); c
 * **Alternativa B (CORRETA):** O art. 22 da LINDB impõe que na interpretação de normas sobre gestão pública sejam considerados os obstáculos e as dificuldades reais do gestor, avaliando a culpabilidade sob a ótica da **exigibilidade de conduta diversa** nas circunstâncias fáticas reais em que o agente atuou.
 - **Alternativas A, C, D e E (INCORRETAS):** A LINDB veda presunção cega de dolo sem considerar as circunstâncias práticas; não há prova tarifada testemunhal; afiliação partidária é juridicamente irrelevante; e a responsabilidade funcional é personalíssima.
 
----
-> **🛡️ Regra de Ouro Inviolável:** O art.
+> **Fique Ligado:** O art.
 
-### Questão 06 — [FGV — TCE-BA / Auditor Estadual de Controle Externo — 2022]
-**Identificador QC:** [Q4382269](https://www.qconcursos.com/questoes-de-concursos/questoes/0c2f82ba-c8)  
-**Enunciado:** Em uma auditoria de conformidade sobre a execução de um convênio federal, o auditor do Tribunal de Contas constatou que o fiscal do contrato atestou fraudulentamente medições de serviços de terraplenagem que jamais foram executados pela empreiteira, gerando desvio de recursos públicos. Na elaboração da Matriz de Responsabilização:
+---
+
+### [Questão 06](https://www.qconcursos.com/questoes-de-concursos/questoes/0c2f82ba-c8) — [FGV — TCE-BA / Auditor Estadual de Controle Externo — 2022]
+
+Em uma auditoria de conformidade sobre a execução de um convênio federal, o auditor do Tribunal de Contas constatou que o fiscal do contrato atestou fraudulentamente medições de serviços de terraplenagem que jamais foram executados pela empreiteira, gerando desvio de recursos públicos. Na elaboração da Matriz de Responsabilização:
 * **A)** A conduta do fiscal deve ser descrita de forma genérica como "má gestão do convênio".
 * **B)** O auditor deve individualizar a conduta comissiva do fiscal (ateste ideologicamente falso de medições sem execução), o nexo causal com o pagamento indevido e demonstrar a existência de dolo ou culpa grave inescusável (erro grosseiro).
 * **C)** O fiscal do contrato fica imune à fiscalização do Tribunal de Contas por ser mero servidor de nível médio.
@@ -341,12 +346,13 @@ Determinação para instauração imediata de Tomada de Contas Especial (TCE); c
 * **Alternativa B (CORRETA):** A Matriz de Responsabilização exige o preenchimento rigoroso dos 4 atributos: individualização da conduta específica, demonstração do nexo de causalidade direto com a liberação dos recursos públicos e demonstração inequívoca de dolo ou erro grosseiro sob o art. 28 da LINDB.
 - **Alternativas A, C, D e E (INCORRETAS):** Condutas genéricas violam a ampla defesa e o devido processo legal; fiscais de contrato respondem pessoalmente pelo ateste falso; o nexo causal é pressuposto obrigatório; e o Presidente não responde por desvios pontuais de fiscais de campo.
 
----
-> **🛡️ Regra de Ouro Inviolável:** A Matriz de Responsabilização exige o preenchimento rigoroso dos 4 atributos: individualização da conduta específica, demonstração do nexo de causalidade direto com a liberação dos recursos públicos e demonstração inequívoca de dolo ou erro grosseiro sob o art.
+> **Fique Ligado:** A Matriz de Responsabilização exige o preenchimento rigoroso dos 4 atributos: individualização da conduta específica, demonstração do nexo de causalidade direto com a liberação dos recursos públicos e demonstração inequívoca de dolo ou erro grosseiro sob o art.
 
-### Questão 07 — [FCC — SEFAZ-PE / Auditor Fiscal do Tesouro Estadual — 2014]
-**Identificador QC:** [Q4368143](https://www.qconcursos.com/questoes-de-concursos/questoes/1f4f7fb8-c3)  
-**Enunciado:** No âmbito do controle externo exercido pelos Tribunais de Contas, a comunicação formal de deliberação expedida aos jurisdicionados que tem por finalidade dar ciência sobre falhas formais ou descumprimento de menor gravidade de normas legais, com efeito pedagógico para evitar a reincidência futura em atos análogos, denomina-se:
+---
+
+### [Questão 07](https://www.qconcursos.com/questoes-de-concursos/questoes/1f4f7fb8-c3) — [FCC — SEFAZ-PE / Auditor Fiscal do Tesouro Estadual — 2014]
+
+No âmbito do controle externo exercido pelos Tribunais de Contas, a comunicação formal de deliberação expedida aos jurisdicionados que tem por finalidade dar ciência sobre falhas formais ou descumprimento de menor gravidade de normas legais, com efeito pedagógico para evitar a reincidência futura em atos análogos, denomina-se:
 * **A)** Determinação mandamental.
 * **B)** Imputação de débito solidário.
 * **C)** Ciência (ou Dar Ciência).
@@ -360,12 +366,13 @@ Determinação para instauração imediata de Tomada de Contas Especial (TCE); c
 * **Alternativa B (INCORRETA):** Imputação de débito exige dano material comprovado ao erário.
 - **Alternativas D e E (INCORRETAS):** Inidoneidade é sanção a licitantes e intervenção federal é ato privativo do Presidente da República.
 
----
-> **🛡️ Regra de Ouro Inviolável:** A **Ciência** é a deliberação utilizada pelo Tribunal de Contas para comunicar ao órgão jurisdicionado a ocorrência de impropriedade formal de menor potencial ofensivo, alertando sobre a desconformidade para que o gestor adote providências preventivas e não reincida na falha em exercícios futuros.
+> **Fique Ligado:** A **Ciência** é a deliberação utilizada pelo Tribunal de Contas para comunicar ao órgão jurisdicionado a ocorrência de impropriedade formal de menor potencial ofensivo, alertando sobre a desconformidade para que o gestor adote providências preventivas e não reincida na falha em exercícios futuros.
 
-### Questão 08 — [CESPE / CEBRASPE — Auditor Federal de Finanças e Controle / CGU — 2022]
-**Identificador QC:** [Q4232834](https://www.qconcursos.com/questoes-de-concursos/questoes/5cf5d761-92)  
-**Enunciado:** O Decreto nº 9.830/2019, que regulamentou as alterações da LINDB na esfera administrativa federal, estabelece que se considera **erro grosseiro** aquele:
+---
+
+### [Questão 08](https://www.qconcursos.com/questoes-de-concursos/questoes/5cf5d761-92) — [CESPE / CEBRASPE — Auditor Federal de Finanças e Controle / CGU — 2022]
+
+O Decreto nº 9.830/2019, que regulamentou as alterações da LINDB na esfera administrativa federal, estabelece que se considera **erro grosseiro** aquele:
 * **A)** Decorrente de divergência hermenêutica razoável na interpretação de lei nova.
 * **B)** Praticado com culpa grave, caracterizado por ação ou omissão com elevado grau de negligência, imprudência ou imperícia.
 * **C)** Resultante de erro de digitação de centavos na nota de empenho.
@@ -377,12 +384,13 @@ Determinação para instauração imediata de Tomada de Contas Especial (TCE); c
 * **Alternativa B (CORRETA):** O art. 12 do Decreto nº 9.830/2019 e a jurisprudência pacificada do TCU (Acórdãos 2.391/2018 e 1.628/2020 do Plenário) definem o erro grosseiro do art. 28 da LINDB como a **culpa grave**, consubstanciada na conduta praticada com manifesto e elevado grau de negligência, imprudência ou imperícia, distanciando-se substancialmente do padrão médio de diligência exigível do administrador público.
 - **Alternativas A, C, D e E (INCORRETAS):** Divergência plausível e erro material leve não são erro grosseiro; e estrita observância de manuais oficiais exclui a culpabilidade.
 
----
-> **🛡️ Regra de Ouro Inviolável:** O art.
+> **Fique Ligado:** O art.
 
-### Questão 09 — [CESPE / CEBRASPE — Auditor Federal de Controle Externo / TCU — 2022]
-**Identificador QC:** [Q4221422](https://www.qconcursos.com/questoes-de-concursos/questoes/78999538-91)  
-**Enunciado:** Em relação à elaboração da Matriz de Achados de auditoria e à definição do atributo "Critério", é correto afirmar que:
+---
+
+### [Questão 09](https://www.qconcursos.com/questoes-de-concursos/questoes/78999538-91) — [CESPE / CEBRASPE — Auditor Federal de Controle Externo / TCU — 2022]
+
+Em relação à elaboração da Matriz de Achados de auditoria e à definição do atributo "Critério", é correto afirmar que:
 * **A)** O critério pode ser fundamentado exclusivamente no sentimento pessoal de justiça ou intuição do auditor independente.
 * **B)** O critério deve ser razoável, confiável e relevante para o assunto auditado, correspondendo ao padrão legal, regulamentar, contratual ou de boas práticas com base no qual a situação fática é avaliada.
 * **C)** Os critérios de auditoria são imutáveis e devem ser extraídos unicamente da Constituição Federal de 1988, sendo vedado o uso de normas infralegais.
@@ -394,12 +402,13 @@ Determinação para instauração imediata de Tomada de Contas Especial (TCE); c
 * **Alternativa B (CORRETA):** A NBASP 100 e os Manuais de Auditoria do TCU estabelecem que o **Critério** é o padrão contra o qual a condição é comparada, devendo decorrer de normas jurídicas (leis, decretos), termos de contratos, metas de planos governamentais ou parâmetros técnicos e de boas práticas reconhecidas.
 - **Alternativas A, C, D e E (INCORRETAS):** A auditoria é estritamente técnica e veda subjetivismos; critérios podem advir de normas infralegais e manuais técnicos; todo achado exige critério obrigatório; e o critério é definido pela equipe técnica desde a fase de planejamento.
 
----
-> **🛡️ Regra de Ouro Inviolável:** A NBASP 100 e os Manuais de Auditoria do TCU estabelecem que o **Critério** é o padrão contra o qual a condição é comparada, devendo decorrer de normas jurídicas (leis, decretos), termos de contratos, metas de planos governamentais ou parâmetros técnicos e de boas práticas reconhecidas.
+> **Fique Ligado:** A NBASP 100 e os Manuais de Auditoria do TCU estabelecem que o **Critério** é o padrão contra o qual a condição é comparada, devendo decorrer de normas jurídicas (leis, decretos), termos de contratos, metas de planos governamentais ou parâmetros técnicos e de boas práticas reconhecidas.
 
-### Questão 10 — [FGV — Auditor Federal de Finanças e Controle / CGU — 2022]
-**Identificador QC:** [Q4368148](https://www.qconcursos.com/questoes-de-concursos/questoes/1f5b7033-c3)  
-**Enunciado:** A respeito da relação entre a Matriz de Achados e a Matriz de Responsabilização no processo de auditoria de controle externo, assinale a opção correta:
+---
+
+### [Questão 10](https://www.qconcursos.com/questoes-de-concursos/questoes/1f5b7033-c3) — [FGV — Auditor Federal de Finanças e Controle / CGU — 2022]
+
+A respeito da relação entre a Matriz de Achados e a Matriz de Responsabilização no processo de auditoria de controle externo, assinale a opção correta:
 * **A)** Toda e qualquer constatação registrada na Matriz de Achados gera obrigatoriamente uma linha correspondente na Matriz de Responsabilização para aplicação de multa.
 * **B)** A Matriz de Responsabilização é elaborada apenas quando os achados de auditoria apontarem irregularidades graves, fraudes ou atos de gestão ilegítimos com dano ao erário que ensejem a responsabilização pessoal de agentes públicos ou privados.
 * **C)** As duas matrizes são idênticas e intercambiáveis, diferenciando-se apenas quanto ao software em que são processadas.
@@ -412,12 +421,13 @@ Determinação para instauração imediata de Tomada de Contas Especial (TCE); c
 - **Alternativas A e C (INCORRETAS):** Achados com propostas de recomendação não geram responsabilização pessoal punitiva; e os dois instrumentos possuem finalidades totalmente distintas.
 - **Alternativas D e E (INCORRETAS):** O nexo causal é pressuposto irrenunciável da responsabilidade pessoal e a matriz é instrumento interno da equipe de auditoria do Tribunal.
 
----
-> **🛡️ Regra de Ouro Inviolável:** A Matriz de Responsabilização não é gerada para simples oportunidades de melhoria ou recomendações; sua elaboração é acionada especificamente quando o achado de auditoria envolve conduta reprovável (comissiva ou omissiva) passível de cominação de penalidades legais (multas, inabilitação) ou instauração de Tomada de Contas Especial (TCE) para reparação de dano ao erário.
+> **Fique Ligado:** A Matriz de Responsabilização não é gerada para simples oportunidades de melhoria ou recomendações; sua elaboração é acionada especificamente quando o achado de auditoria envolve conduta reprovável (comissiva ou omissiva) passível de cominação de penalidades legais (multas, inabilitação) ou instauração de Tomada de Contas Especial (TCE) para reparação de dano ao erário.
 
-### Questão 11 — [FCC — TCE-GO / Analista de Controle Externo — 2022]
-**Identificador QC:** [Q4368105](https://www.qconcursos.com/questoes-de-concursos/questoes/0b7523a1-c3)  
-**Enunciado:** Ao concluir a auditoria sobre um programa de erradicação do analfabetismo infantil, a equipe de auditoria do Tribunal de Contas constatou que o programa atingiu plenamente a meta de matricular 100.000 crianças, mas verificou que 40% das escolas rurais não possuíam energia elétrica nem material didático apropriado, comprometendo o aprendizado. A proposta de deliberação adequada para determinar que a Secretaria de Educação apresente um plano de ação estruturado para equipar as escolas rurais no prazo de 90 dias classifica-se como:
+---
+
+### [Questão 11](https://www.qconcursos.com/questoes-de-concursos/questoes/0b7523a1-c3) — [FCC — TCE-GO / Analista de Controle Externo — 2022]
+
+Ao concluir a auditoria sobre um programa de erradicação do analfabetismo infantil, a equipe de auditoria do Tribunal de Contas constatou que o programa atingiu plenamente a meta de matricular 100.000 crianças, mas verificou que 40% das escolas rurais não possuíam energia elétrica nem material didático apropriado, comprometendo o aprendizado. A proposta de deliberação adequada para determinar que a Secretaria de Educação apresente um plano de ação estruturado para equipar as escolas rurais no prazo de 90 dias classifica-se como:
 * **A)** Imputação de débito ao secretário por crime de responsabilidade.
 * **B)** Determinação mandatória com fixação de prazo para cumprimento.
 * **C)** Declaração de inidoneidade do Fundo Nacional de Desenvolvimento da Educação.
@@ -432,12 +442,13 @@ Determinação para instauração imediata de Tomada de Contas Especial (TCE); c
 * **Alternativa D (INCORRETA):** Quando o Tribunal fixa prazo cogente de cumprimento, trata-se de determinação, e não mera recomendação.
 * **Alternativa E (INCORRETA):** Inexiste anistia administrativa sumária em controle externo.
 
----
-> **🛡️ Regra de Ouro Inviolável:** Para sanar falhas estruturais com prazo fixado e obrigatoriedade de apresentação de plano corretivo, o Tribunal de Contas utiliza a **Determinação**, fixando o prazo regulamentar (ex.
+> **Fique Ligado:** Para sanar falhas estruturais com prazo fixado e obrigatoriedade de apresentação de plano corretivo, o Tribunal de Contas utiliza a **Determinação**, fixando o prazo regulamentar (ex.
 
-### Questão 12 — [FGV — CFC / Qualificação Técnica Geral (QTG) — 2026]
-**Identificador QC:** [Q4368143](https://www.qconcursos.com/questoes-de-concursos/questoes/1f4f7fb8-c3)  
-**Enunciado:** Em relação à análise da "Causa" em um achado de auditoria governamental:
+---
+
+### [Questão 12](https://www.qconcursos.com/questoes-de-concursos/questoes/1f4f7fb8-c3) — [FGV — CFC / Qualificação Técnica Geral (QTG) — 2026]
+
+Em relação à análise da "Causa" em um achado de auditoria governamental:
 * **A)** A causa limita-se à identificação do nome civil e número de matrícula do servidor público envolvido no processo.
 * **B)** A identificação correta da causa raiz é fundamental porque é sobre a causa que incidem as recomendações e determinações da auditoria, visando impedir a repetição do problema.
 * **C)** A causa é elemento facultativo do achado, devendo ser descrita apenas em auditorias de privatização de empresas estatais.
@@ -451,4 +462,4 @@ Determinação para instauração imediata de Tomada de Contas Especial (TCE); c
 * **Alternativa C (INCORRETA):** A causa é atributo cardeal e obrigatório em todo achado de auditoria.
 * **Alternativa D (INCORRETA):** Valor do superfaturamento é dimensão do Efeito (dano ao erário).
 * **Alternativa E (INCORRETA):** A causa deve ser investigada com rigor técnico e evidência empírica, sem presunções simplistas.
-> **🛡️ Regra de Ouro Inviolável:** Na metodologia dos Manuais do TCU e da INTOSAI, a **Causa** representa a raiz do problema (falha de supervisão, ausência de normativo interno, sistema de TI inadequado, conluio fraudulento).
+> **Fique Ligado:** Na metodologia dos Manuais do TCU e da INTOSAI, a **Causa** representa a raiz do problema (falha de supervisão, ausência de normativo interno, sistema de TI inadequado, conluio fraudulento).

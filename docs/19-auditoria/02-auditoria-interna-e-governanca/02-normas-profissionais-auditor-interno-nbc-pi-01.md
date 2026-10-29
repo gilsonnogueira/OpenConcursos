@@ -317,9 +317,7 @@ Acompanhe o diagnóstico técnico de três incidentes reais de governança sob a
 
 ## 8. Bateria de Questões Oficiais Comentadas Alternativa por Alternativa
 
-### Questão 01 — [FGV — CGE-SC / Auditor Interno — 2023]
-**Identificador QC:** [Q2117565](https://www.qconcursos.com/questoes-de-concursos/questoes/d15e2117-56)
-
+### [Questão 01](https://www.qconcursos.com/questoes-de-concursos/questoes/d15e2117-56) — [FGV — CGE-SC / Auditor Interno — 2023]
 
 A adoção do Código de Ética recomendado pelo *The Institute of Internal Auditors* (IIA) é parte integrante da Estrutura Internacional de Práticas Profissionais (IPPF) e estabelece princípios e expectativas que governam o comportamento dos auditores internos. O Código exige que os profissionais mantenham uma postura de confiança, com avaliação objetiva da governança, do gerenciamento de riscos e do controle. Considerando os princípios fundamentais e suas respectivas regras de conduta, assinale a afirmativa correta:
 
@@ -338,13 +336,11 @@ A adoção do Código de Ética recomendado pelo *The Institute of Internal Audi
 * **(D) INCORRETA:** O auditor interno não exerce poder disciplinar punitivo nem aplica demissões (atos privativos da gestão executiva).
 * **(E) CORRETA:** Traduz com perfeição a Regra de Conduta 2.2 do Princípio da **Objetividade** do Código de Ética do IIA: os auditores internos não devem aceitar nada que possa prejudicar ou que se presuma que prejudique seu julgamento profissional.
 
+> **Fique Ligado:** A Objetividade é salvaguardada pela recusa a qualquer vantagem ou conflito que comprometa o julgamento imparcial; o período de carência presumido para atividades anteriores é de 12 meses (não 18).
+
 ---
 
-> **🛡️ Regra de Ouro Inviolável:** A Objetividade é salvaguardada pela recusa a qualquer vantagem ou conflito que comprometa o julgamento imparcial; o período de carência presumido para atividades anteriores é de 12 meses (não 18).
-
-### Questão 02 — [FGV — Câmara Municipal de São Paulo / Consultor Técnico Legislativo - Contador — 2024]
-**Identificador QC:** [Q2411984](https://www.qconcursos.com/questoes-de-concursos/questoes/8f241198-4c)
-
+### [Questão 02](https://www.qconcursos.com/questoes-de-concursos/questoes/8f241198-4c) — [FGV — Câmara Municipal de São Paulo / Consultor Técnico Legislativo - Contador — 2024]
 
 Na controladoria municipal, o titular da unidade de auditoria interna assumiu temporariamente a aprovação de controles operacionais e a aceitação de riscos de um sistema de folha de pagamento. A instância de governança pretende obter asseguração (*assurance*) sobre essa área de folha de pagamento enquanto a responsabilidade operacional ainda está sendo transferida de volta à gestão. Segundo os padrões profissionais de auditoria interna (NBC PI 01 e Normas do IIA), qual é a providência que preserva a independência e a objetividade da função?
 
@@ -363,13 +359,11 @@ Na controladoria municipal, o titular da unidade de auditoria interna assumiu te
 * **(D) INCORRETA:** Permitir que o próprio gestor auditado escolha quem irá auditá-lo fere de morte a autonomia profissional da auditoria.
 * **(E) INCORRETA:** Usar um terceiro como mero "laranja" signatário de um trabalho integralmente conduzido por equipe impedida configura fraude ética e violação da independência real e aparente.
 
+> **Fique Ligado:** Se o executivo-chefe da auditoria interna assumiu funções de gestão/aceitação de risco, a avaliação de asseguração dessa área deve ser segregada e reportada diretamente à governança por prestador independente.
+
 ---
 
-> **🛡️ Regra de Ouro Inviolável:** Se o executivo-chefe da auditoria interna assumiu funções de gestão/aceitação de risco, a avaliação de asseguração dessa área deve ser segregada e reportada diretamente à governança por prestador independente.
-
-### Questão 03 — [Cebraspe — Comando da Aeronáutica (CENCIAR) / Auditoria — 2024]
-**Identificador QC:** [Q2398412](https://www.qconcursos.com/questoes-de-concursos/questoes/c7239841-2a)
-
+### [Questão 03](https://www.qconcursos.com/questoes-de-concursos/questoes/c7239841-2a) — [Cebraspe — Comando da Aeronáutica (CENCIAR) / Auditoria — 2024]
 
 No âmbito do Comando da Aeronáutica, o Centro de Controle Interno da Aeronáutica (CENCIAR) desempenha papel fundamental na fiscalização e no assessoramento da gestão. Durante a realização de uma auditoria financeira externa nas demonstrações contábeis de uma unidade gestora, o auditor independente decide avaliar a possibilidade de utilizar os trabalhos realizados pelos auditores internos para fins de otimização de recursos e profundidade de testes. Considerando as disposições da NBC TA 610 – Utilização do Trabalho de Auditoria Interna e da NBC PI 01, assinale a alternativa que apresenta corretamente as responsabilidades e os requisitos para essa interação:
 
@@ -388,13 +382,11 @@ No âmbito do Comando da Aeronáutica, o Centro de Controle Interno da Aeronáut
 * **(D) CORRETA:** Reproduz com exatidão os pilares da NBC TA 610 (itens 11, 15 e 16): responsabilidade exclusiva do auditor externo pela opinião e proibição de utilizar o trabalho da auditoria interna caso falte qualquer um dos três requisitos (objetividade, competência ou abordagem sistemática e disciplinada com controle de qualidade).
 * **(E) INCORRETA:** Conforme a NBC PI 01 (item 3.5.2) e a NBC TI 01, os papéis de trabalho da auditoria interna permanecem sob **controle exclusivo do auditor interno** (e propriedade da entidade auditada), cabendo apenas o fornecimento de cópias mediante prévio entendimento com a administração.
 
+> **Fique Ligado:** A responsabilidade do auditor independente pela opinião é exclusiva e indelegável; é terminantemente proibido utilizar a auditoria interna se faltar objetividade, competência ou controle de qualidade.
+
 ---
 
-> **🛡️ Regra de Ouro Inviolável:** A responsabilidade do auditor independente pela opinião é exclusiva e indelegável; é terminantemente proibido utilizar a auditoria interna se faltar objetividade, competência ou controle de qualidade.
-
-### Questão 04 — [FCC — SEFAZ-BA / Auditor Fiscal — 2022]
-**Identificador QC:** [Q1934521](https://www.qconcursos.com/questoes-de-concursos/questoes/e5193452-1b)
-
+### [Questão 04](https://www.qconcursos.com/questoes-de-concursos/questoes/e5193452-1b) — [FCC — SEFAZ-BA / Auditor Fiscal — 2022]
 
 Com relação às Normas Profissionais do Auditor Interno (NBC PI 01 — Resolução CFC nº 781/1995), no que tange à competência técnico-profissional, à autonomia, ao sigilo e à cooperação com o auditor independente, é CORRETO afirmar que:
 
@@ -413,13 +405,11 @@ Com relação às Normas Profissionais do Auditor Interno (NBC PI 01 — Resolu�
 * **(D) INCORRETA:** Pelo item 3.4.3 da NBC PI 01, o prazo de guarda e conservação dos papéis de trabalho e documentos da auditoria interna é de **5 (cinco) anos** a partir da data de emissão do relatório (ou prazo superior se exigido por lei), e não 2 anos.
 * **(E) INCORRETA:** Pelos itens 3.1.3 e 3.1.4 da NBC PI 01, os especialistas de outras áreas atuam sob orientação e supervisão do auditor interno, que **mantém a responsabilidade integral** pelo conjunto do trabalho de auditoria interna.
 
+> **Fique Ligado:** O auditor interno fornece papéis de trabalho ao auditor externo mediante prévio entendimento com a administração; o sigilo subsiste após a rescisão contratual e o prazo de guarda é de 5 anos.
+
 ---
 
-> **🛡️ Regra de Ouro Inviolável:** O auditor interno fornece papéis de trabalho ao auditor externo mediante prévio entendimento com a administração; o sigilo subsiste após a rescisão contratual e o prazo de guarda é de 5 anos.
-
-### Questão 05 — [Cebraspe — Petrobras / Auditoria Interna — 2023]
-**Identificador QC:** [Q2165432](https://www.qconcursos.com/questoes-de-concursos/questoes/a3216543-2d)
-
+### [Questão 05](https://www.qconcursos.com/questoes-de-concursos/questoes/a3216543-2d) — [Cebraspe — Petrobras / Auditoria Interna — 2023]
 
 Quanto à auditoria interna, às Normas Profissionais do Auditor Interno (NBC PI 01) e às Normas Internacionais para o Exercício Profissional da Auditoria Interna (IIA), julgue as afirmativas a seguir:
 
@@ -443,13 +433,11 @@ Assinale a opção correta:
 * **Análise do Item III (CORRETO):** Descreve exatamente o modelo de **Duplo Reporte (*Dual Reporting*)** consagrado pela Norma 1110 do IIA e pelas diretrizes de governança: subordinação **funcional** ao Conselho (governança) e vinculação **administrativa** ao CEO (gestão).
 * Logo, apenas os itens **II e III** estão corretos, confirmando o gabarito na **alternativa D**.
 
+> **Fique Ligado:** Duplo Reporte do Auditor Interno: vinculação funcional ao Conselho de Administração (ou Comitê de Auditoria) e vinculação administrativa ao Diretor-Presidente (CEO).
+
 ---
 
-> **🛡️ Regra de Ouro Inviolável:** Duplo Reporte do Auditor Interno: vinculação funcional ao Conselho de Administração (ou Comitê de Auditoria) e vinculação administrativa ao Diretor-Presidente (CEO).
-
-### Questão 06 — [FGV — Banrisul / Auditoria Interna — 2023]
-**Identificador QC:** [Q2087654](https://www.qconcursos.com/questoes-de-concursos/questoes/6b208765-4e)
-
+### [Questão 06](https://www.qconcursos.com/questoes-de-concursos/questoes/6b208765-4e) — [FGV — Banrisul / Auditoria Interna — 2023]
 
 “Especificamente, descrevem normas do comportamento esperado de auditores internos, também ajudam a interpretar os princípios em aplicações práticas e têm o objetivo de orientar a conduta ética dos profissionais de auditoria interna.” Acerca do tema Ética do profissional de auditoria interna no âmbito do IPPF (IIA), o texto acima faz referência direta às (aos):
 
@@ -468,13 +456,11 @@ Assinale a opção correta:
 * **(D) INCORRETA:** Guias de orientação suplementar (*Practice Guides*) são recomendações não obrigatórias sobre procedimentos operacionais.
 * **(E) INCORRETA:** Normas de implantação referem-se à aplicação das normas de atributos e desempenho a trabalhos de avaliação (.A) ou consultoria (.C).
 
+> **Fique Ligado:** No Código de Ética do IIA, os Princípios estabelecem os ideais éticos gerais, enquanto as Regras de Conduta descrevem o comportamento esperado e orientam a aplicação prática.
+
 ---
 
-> **🛡️ Regra de Ouro Inviolável:** No Código de Ética do IIA, os Princípios estabelecem os ideais éticos gerais, enquanto as Regras de Conduta descrevem o comportamento esperado e orientam a aplicação prática.
-
-### Questão 07 — [FGV — SEFAZ-AM / Auditor Fiscal de Tributos Estaduais — 2022]
-**Identificador QC:** [Q1901234](https://www.qconcursos.com/questoes-de-concursos/questoes/1a190123-4f)
-
+### [Questão 07](https://www.qconcursos.com/questoes-de-concursos/questoes/1a190123-4f) — [FGV — SEFAZ-AM / Auditor Fiscal de Tributos Estaduais — 2022]
 
 Durante o planejamento da auditoria independente das demonstrações contábeis de uma companhia aberta de capital misto, o sócio do trabalho decide verificar se poderá utilizar auditores internos da própria companhia para prestar **assistência direta** na execução de determinados procedimentos de auditoria, sob a direção, supervisão e revisão do auditor externo. À luz da NBC TA 610 (R2) — Utilização do Trabalho de Auditoria Interna, assinale a afirmativa CORRETA:
 
@@ -493,13 +479,11 @@ Durante o planejamento da auditoria independente das demonstrações contábeis 
 * **(D) INCORRETA:** Pela NBC TA 610 (item 34), a direção, supervisão e **revisão** do trabalho executado pelos auditores internos em assistência direta devem ser feitas pelo **próprio auditor externo** de forma mais extensa do que se o trabalho tivesse sido feito por membros da própria equipe de auditoria externa, incluindo a verificação da evidência subjacente!
 * **(E) INCORRETA:** É terminantemente vedado mencionar a auditoria interna no relatório do auditor independente (NBC TA 610, item 11).
 
+> **Fique Ligado:** Na assistência direta (NBC TA 610), o auditor externo JAMAIS pode utilizar auditores internos em procedimentos com julgamento significativo, continuidade operacional ou riscos elevados de distorção relevante.
+
 ---
 
-> **🛡️ Regra de Ouro Inviolável:** Na assistência direta (NBC TA 610), o auditor externo JAMAIS pode utilizar auditores internos em procedimentos com julgamento significativo, continuidade operacional ou riscos elevados de distorção relevante.
-
-### Questão 08 — [FCC — TRT-15 / Analista Judiciário - Área Contábil — 2023]
-**Identificador QC:** [Q2214567](https://www.qconcursos.com/questoes-de-concursos/questoes/4d221456-7a)
-
+### [Questão 08](https://www.qconcursos.com/questoes-de-concursos/questoes/4d221456-7a) — [FCC — TRT-15 / Analista Judiciário - Área Contábil — 2023]
 
 Em relação às normas aplicáveis ao exercício profissional da auditoria interna (NBC PI 01 e Normas Internacionais do IIA), considere as afirmativas abaixo e assinale a INCORRETA:
 
@@ -518,9 +502,9 @@ Em relação às normas aplicáveis ao exercício profissional da auditoria inte
 * **(D) CORRETA (não é a resposta):** Descreve com precisão a relação tripartite dos trabalhos de asseguração/avaliação.
 * **(E) CORRETA (não é a resposta):** Reflete fielmente os itens 3.3.2 e 3.4.3 da NBC PI 01.
 
----
+> **Fique Ligado:** O devido zelo profissional do auditor interno NÃO implica infalibilidade nem segurança absoluta; a asseguração é razoável e fundamentada em evidências suficientes.
 
-> **🛡️ Regra de Ouro Inviolável:** O devido zelo profissional do auditor interno NÃO implica infalibilidade nem segurança absoluta; a asseguração é razoável e fundamentada em evidências suficientes.
+---
 
 ## 9. Quadro Sinóptico Comparativo: Auditor Interno vs. Auditor Independente vs. Perito Contábil
 
@@ -608,9 +592,7 @@ A **Norma 2600 do IIA** traça o protocolo exato em duas etapas:
 
 ---
 
-### Questão 09 — [FGV — CGE-PB / Auditor de Contas Públicas — 2024]
-**Identificador QC:** [Q2456789](https://www.qconcursos.com/questoes-de-concursos/questoes/9e245678-9b)
-
+### [Questão 09](https://www.qconcursos.com/questoes-de-concursos/questoes/9e245678-9b) — [FGV — CGE-PB / Auditor de Contas Públicas — 2024]
 
 De acordo com a Estrutura Internacional de Práticas Profissionais de Auditoria Interna (IPPF) do *Institute of Internal Auditors* (IIA) e o Referencial Técnico da Atividade de Auditoria Interna Governamental (IN SFC/CGU nº 3/2017), o executivo-chefe de auditoria deve desenvolver e manter um Programa de Garantia e Melhoria da Qualidade (QAIP) que abranja todos os aspectos da atividade de auditoria interna. A respeito das avaliações que integram obrigatoriamente esse programa, assinale a alternativa CORRETA:
 
@@ -629,13 +611,11 @@ De acordo com a Estrutura Internacional de Práticas Profissionais de Auditoria 
 * **(D) INCORRETA:** Pela Norma 1321 do IIA, o uso da declaração *"Realizado em conformidade com as Normas Internacionais"* só é permitido se os resultados do QAIP (avaliações internas e externas) sustentarem efetivamente essa declaração.
 * **(E) INCORRETA:** Pela Norma 1311 do IIA, as avaliações internas incluem obrigatoriamente o **monitoramento contínuo** do desempenho da atividade de auditoria interna (parte integrante da supervisão rotineira) somado às autoavaliações periódicas.
 
+> **Fique Ligado:** No Programa de Garantia e Melhoria da Qualidade (QAIP), as avaliações externas devem ocorrer obrigatoriamente pelo menos uma vez a cada 5 (cinco) anos por avaliador independente qualificado.
+
 ---
 
-> **🛡️ Regra de Ouro Inviolável:** No Programa de Garantia e Melhoria da Qualidade (QAIP), as avaliações externas devem ocorrer obrigatoriamente pelo menos uma vez a cada 5 (cinco) anos por avaliador independente qualificado.
-
-### Questão 10 — [Cebraspe — CGU / Auditor Federal de Finanças e Controle — 2022]
-**Identificador QC:** [Q1889745](https://www.qconcursos.com/questoes-de-concursos/questoes/2c188974-5c)
-
+### [Questão 10](https://www.qconcursos.com/questoes-de-concursos/questoes/2c188974-5c) — [Cebraspe — CGU / Auditor Federal de Finanças e Controle — 2022]
 
 Durante o monitoramento das recomendações emitidas em um trabalho de avaliação sobre o sistema de concessão de benefícios e licenças de uma empresa estatal, o executivo-chefe da unidade de auditoria interna constatou que a Diretoria Executiva decidiu não implementar os controles recomendados, assumindo um nível de risco residual que, no julgamento técnico do auditor-chefe, extrapola o apetite a risco da estatal e é inaceitável para a organização. À luz das Normas Internacionais de Auditoria Interna (Norma 2600 do IIA) e das normas profissionais aplicáveis, assinale a conduta CORRETA que deve ser adotada pelo executivo-chefe de auditoria:
 
@@ -655,9 +635,9 @@ Durante o monitoramento das recomendações emitidas em um trabalho de avaliaç�
 * **(E) INCORRETA:** Parecer de abstenção de opinião contábil perante o mercado é instituto privativo da Auditoria Independente (NBC TA 705), não cabendo ao auditor interno.
 
 
----
+> **Fique Ligado:** Rito da Norma 2600 do IIA quando a gestão aceita risco inaceitável: 1º discutir com a alta administração executiva; 2º se não resolvido, escalonar imediatamente ao Conselho de Administração.
 
-> **🛡️ Regra de Ouro Inviolável:** Rito da Norma 2600 do IIA quando a gestão aceita risco inaceitável: 1º discutir com a alta administração executiva; 2º se não resolvido, escalonar imediatamente ao Conselho de Administração.
+---
 
 ## 11. O Estatuto da Auditoria Interna (*Internal Audit Charter*) e os Deveres do Executivo-Chefe (CAE)
 
@@ -685,9 +665,7 @@ Conforme a Série 2000 das Normas do IIA e os normativos brasileiros de governan
 
 ---
 
-### Questão 11 — [FGV — SEFAZ-MT / Fiscal de Tributos Estaduais — 2023]
-**Identificador QC:** [Q2145678](https://www.qconcursos.com/questoes-de-concursos/questoes/7e214567-8d)
-
+### [Questão 11](https://www.qconcursos.com/questoes-de-concursos/questoes/7e214567-8d) — [FGV — SEFAZ-MT / Fiscal de Tributos Estaduais — 2023]
 
 A definição do escopo e da interação entre a Auditoria Interna (NBC PI 01 / NBC TI 01) e a Auditoria Independente (NBC TA 610) exige a observância estrita das fronteiras de responsabilidade de cada profissional. Considere as assertivas a seguir sobre a cooperação entre auditores internos e externos:
 
@@ -713,13 +691,11 @@ Estão CORRETAS apenas as assertivas:
 * **Análise do Item IV (CORRETO):** Reflete fielmente o item 18 da NBC TA 610: quanto maior o julgamento envolvido e maior o risco avaliado de distorção relevante, **menos** trabalho da função de auditoria interna pode ser utilizado e **mais** procedimentos o auditor externo deve executar diretamente.
 * Portanto, estão corretas apenas as assertivas **I, II e IV**, confirmando o gabarito na **alternativa C**.
 
+> **Fique Ligado:** Quanto maior o julgamento subjetivo e maior o risco de distorção, menor é o uso do trabalho da auditoria interna e maior deve ser a execução direta pelo auditor externo, sem dividir responsabilidade.
+
 ---
 
-> **🛡️ Regra de Ouro Inviolável:** Quanto maior o julgamento subjetivo e maior o risco de distorção, menor é o uso do trabalho da auditoria interna e maior deve ser a execução direta pelo auditor externo, sem dividir responsabilidade.
-
-### Questão 12 — [Cebraspe — SERPRO / Analista - Especialização: Auditoria e Controle — 2023]
-**Identificador QC:** [Q2234567](https://www.qconcursos.com/questoes-de-concursos/questoes/5b223456-7e)
-
+### [Questão 12](https://www.qconcursos.com/questoes-de-concursos/questoes/5b223456-7e) — [Cebraspe — SERPRO / Analista - Especialização: Auditoria e Controle — 2023]
 
 No que concerne ao Estatuto de Auditoria Interna (*Internal Audit Charter*), à independência organizacional e às normas profissionais do auditor interno (NBC PI 01 e IPPF/IIA), assinale a opção CORRETA:
 
@@ -738,4 +714,4 @@ No que concerne ao Estatuto de Auditoria Interna (*Internal Audit Charter*), à 
 * **(D) INCORRETA:** Os auditores internos são, em regra, empregados ou servidores remunerados pela própria entidade. Sua independência organizacional decorre do seu posicionamento estrutural (reporte funcional ao Conselho e ausência de funções executivas de gestão), e não da ausência de vínculo trabalhista.
 * **(E) INCORRETA:** Conforme o item 3.1.2 da NBC PI 01, o auditor interno deve **abster-se** de realizar exames sobre matérias para as quais não esteja tecnicamente habilitado, devendo indicar à administração a necessidade de participação de **profissionais especializados** (neste caso, um atuário).
 
-> **🛡️ Regra de Ouro Inviolável:** O executivo-chefe da auditoria interna deve confirmar formalmente ao Conselho de Administração, pelo menos uma vez ao ano, a independência organizacional da atividade.
+> **Fique Ligado:** O executivo-chefe da auditoria interna deve confirmar formalmente ao Conselho de Administração, pelo menos uma vez ao ano, a independência organizacional da atividade.

@@ -396,8 +396,8 @@ A firma de auditoria independente *Vértice Auditores S/S* foi contratada para a
 
 ## 10. Bateria de Questões Oficiais Comentadas Alternativa por Alternativa
 
-### Questão 01 — [FGV — Receita Federal do Brasil / Auditor-Fiscal da Receita Federal — 2023]
-**Identificador QC:** [Q4368115](https://www.qconcursos.com/questoes-de-concursos/questoes/0b87fc6b-c3)  
+### [Questão 01](https://www.qconcursos.com/questoes-de-concursos/questoes/0b87fc6b-c3) — [FGV — Receita Federal do Brasil / Auditor-Fiscal da Receita Federal — 2023]
+
 A auditoria independente, a auditoria interna e a perícia contábil diferenciam-se pelo vínculo do profissional, pelo escopo dos procedimentos e pela finalidade do trabalho. Considerando essas distinções técnicas e normativas, assinale a alternativa correta.
 
 * **A)** A perícia contábil destina-se à emissão de opinião de asseguração razoável sobre a fidedignidade das demonstrações contábeis da entidade como um todo.
@@ -413,12 +413,12 @@ A auditoria independente, a auditoria interna e a perícia contábil diferenciam
 * **Análise da Alternativa D (Incorreta):** O destinatário dos relatórios da Auditoria Interna é exclusivamente a **Administração / Governança** (usuário interno). Seus relatórios são confidenciais e só podem ser entregues a terceiros mediante autorização expressa da entidade.
 * **Análise da Alternativa E (Correta):** Perfeita definição doutrinária e normativa. O auditor independente mantém independência absoluta (de pensamento e de aparência), não possui vínculo empregatício com a auditada e tem por finalidade aumentar o grau de confiança dos usuários previstos mediante emissão de opinião sobre as demonstrações contábeis.
 
+> **Fique Ligado:** Perfeita definição doutrinária e normativa.
+
 ---
 
-> **🛡️ Regra de Ouro Inviolável:** Perfeita definição doutrinária e normativa.
+### [Questão 02](https://www.qconcursos.com/questoes-de-concursos/questoes/1f2d2c0f-c3) — [CESPE / CEBRASPE — TCU / Auditor Federal de Controle Externo — 2022]
 
-### Questão 02 — [CESPE / CEBRASPE — TCU / Auditor Federal de Controle Externo — 2022]
-**Identificador QC:** [Q4368129](https://www.qconcursos.com/questoes-de-concursos/questoes/1f2d2c0f-c3)
 Acerca da Estrutura Conceitual para Trabalhos de Asseguração (NBC TA Estrutura Conceitual) e dos objetivos gerais do auditor independente (NBC TA 200), assinale a opção correta.
 
 * **A)** Nos trabalhos de procedimentos previamente acordados (NBC TSC 4400), o auditor independente expressa uma conclusão de asseguração limitada na forma negativa.
@@ -434,12 +434,12 @@ Acerca da Estrutura Conceitual para Trabalhos de Asseguração (NBC TA Estrutura
 * **Análise da Alternativa D (Incorreta):** Critérios adequados exigem **relevância, integralidade, confiabilidade, neutralidade e compreensibilidade**, além de estarem disponíveis aos usuários previstos. Critérios internos arbitrários e não divulgados não atendem aos requisitos de uma estrutura de propósito geral.
 * **Análise da Alternativa E (Incorreta):** Conforme o item A54 da NBC TA 200, em virtude das limitações inerentes da auditoria, a descoberta posterior de distorção relevante resultante de fraude ou erro **não indica, por si só**, falha na condução da auditoria de acordo com as NBC TAs.
 
+> **Fique Ligado:** Reproduz com exatidão a NBC TA Estrutura Conceitual: na asseguração razoável (como a auditoria), o risco é reduzido a um nível aceitavelmente baixo e a conclusão é expressa na **forma positiva** (*"Em nossa opinião, as demonstrações contábeis apresentam adequadamente.
+
 ---
 
-> **🛡️ Regra de Ouro Inviolável:** Reproduz com exatidão a NBC TA Estrutura Conceitual: na asseguração razoável (como a auditoria), o risco é reduzido a um nível aceitavelmente baixo e a conclusão é expressa na **forma positiva** (*"Em nossa opinião, as demonstrações contábeis apresentam adequadamente.
+### [Questão 03](https://www.qconcursos.com/questoes-de-concursos/questoes/78999538-91) — [FGV — SEFAZ-MG / Auditor Fiscal da Receita Estadual — 2023]
 
-### Questão 03 — [FGV — SEFAZ-MG / Auditor Fiscal da Receita Estadual — 2023]
-**Identificador QC:** [Q4221422](https://www.qconcursos.com/questoes-de-concursos/questoes/78999538-91)
 Ao planejar a auditoria das demonstrações financeiras de uma companhia varejista, o auditor independente constatou que a empresa implementou um novo sistema de faturamento sem segregação de funções adequada e sem conciliação automática com a expedição de mercadorias. Considerando o modelo de Risco de Auditoria previsto na NBC TA 200, é correto afirmar que:
 
 * **A)** O risco inerente da rubrica de receitas foi reduzido a zero em função da informatização do sistema, permitindo ao auditor elevar o risco de detecção.
@@ -455,12 +455,12 @@ Ao planejar a auditoria das demonstrações financeiras de uma companhia varejis
 * **Análise da Alternativa D (Incorreta):** Para um nível fixo de Risco de Auditoria, a relação entre o $RDR$ e o nível aceitável de $RD$ é **inversamente proporcional** (item A44 da NBC TA 200).
 * **Análise da Alternativa E (Incorreta):** O risco de litígio judicial ou perda reputacional constitui **risco do negócio do auditor**, que é expressamente excluído do conceito técnico de Risco de Auditoria (item A33 da NBC TA 200).
 
+> **Fique Ligado:** A ausência de segregação de funções e de conciliação faz com que o **Risco de Controle ($RC$)** seja avaliado como **alto**.
+
 ---
 
-> **🛡️ Regra de Ouro Inviolável:** A ausência de segregação de funções e de conciliação faz com que o **Risco de Controle ($RC$)** seja avaliado como **alto**.
+### [Questão 04](https://www.qconcursos.com/questoes-de-concursos/questoes/1f4f7fb8-c3) — [FCC — SEFAZ-PE / Auditor Fiscal do Tesouro Estadual — 2014]
 
-### Questão 04 — [FCC — SEFAZ-PE / Auditor Fiscal do Tesouro Estadual — 2014]
-**Identificador QC:** [Q4368143](https://www.qconcursos.com/questoes-de-concursos/questoes/1f4f7fb8-c3)
 Nos termos da Lei nº 11.638/2007 e da Lei nº 6.404/1976, uma sociedade empresária constituída sob a forma de Sociedade Limitada (LTDA), que não emite valores mobiliários no mercado de capitais, apresentou no encerramento do exercício social anterior um Ativo Total de R\$ 195.000.000,00 e uma Receita Bruta Anual de R\$ 315.000.000,00. Diante desses dados, a referida sociedade:
 
 * **A)** Está dispensada de submeter suas demonstrações financeiras à auditoria independente, pois não é constituída sob a forma de sociedade por ações.
@@ -476,12 +476,12 @@ Nos termos da Lei nº 11.638/2007 e da Lei nº 6.404/1976, uma sociedade empres�
 * **Análise da Alternativa D (Incorreta):** O art. 3º exige expressamente que a auditoria independente seja realizada por auditor **registrado na Comissão de Valores Mobiliários (CVM)**.
 * **Análise da Alternativa E (Incorreta):** A aferição legal considera apenas o **exercício social imediatamente anterior**, inexistindo exigência de triênio consecutivo.
 
+> **Fique Ligado:** Ao superar o limite de R\$ 300 milhões de Receita Bruta Anual no exercício social anterior, a LTDA enquadra-se como **Sociedade de Grande Porte** e fica obrigada às regras da Lei nº 6.
+
 ---
 
-> **🛡️ Regra de Ouro Inviolável:** Ao superar o limite de R\$ 300 milhões de Receita Bruta Anual no exercício social anterior, a LTDA enquadra-se como **Sociedade de Grande Porte** e fica obrigada às regras da Lei nº 6.
+### [Questão 05](https://www.qconcursos.com/questoes-de-concursos/questoes/0b7523a1-c3) — [FGV — CGU / Auditor Federal de Finanças e Controle — 2022]
 
-### Questão 05 — [FGV — CGU / Auditor Federal de Finanças e Controle — 2022]
-**Identificador QC:** [Q4368105](https://www.qconcursos.com/questoes-de-concursos/questoes/0b7523a1-c3)
 De acordo com a NBC TA 200, as limitações inerentes da auditoria impedem que o auditor obtenha segurança absoluta de que as demonstrações contábeis estão livres de distorção relevante. Assinale a alternativa que apresenta corretamente um fator que dá origem às limitações inerentes da auditoria:
 
 * **A)** A decisão do auditor de omitir a confirmação externa de contas a receber em razão do elevado custo postal e do tempo reduzido imposto pelo cliente.
@@ -497,12 +497,12 @@ De acordo com a NBC TA 200, as limitações inerentes da auditoria impedem que o
 * **Análise da Alternativa D (Correta):** Reflete exatamente o item A49 da NBC TA 200: entre as limitações práticas e legais da natureza dos procedimentos de auditoria estão a possibilidade de omissão intencional ou não intencional de informações pela administração, a sofisticação de fraudes com conluio e a ausência de poderes legais específicos de investigação criminal (como busca e apreensão).
 * **Análise da Alternativa E (Incorreta):** O afastamento de um requisito relevante (item 23 da NBC TA 200) só é admitido em circunstâncias excepcionais quando o procedimento exigido for ineficaz para atingir o objetivo do requisito, exigindo a execução de procedimentos alternativos.
 
+> **Fique Ligado:** Reflete exatamente o item A49 da NBC TA 200: entre as limitações práticas e legais da natureza dos procedimentos de auditoria estão a possibilidade de omissão intencional ou não intencional de informações pela administração, a sofisticação de fraudes com conluio e a ausência de poderes legais específicos de investigação criminal (como busca e apreensão).
+
 ---
 
-> **🛡️ Regra de Ouro Inviolável:** Reflete exatamente o item A49 da NBC TA 200: entre as limitações práticas e legais da natureza dos procedimentos de auditoria estão a possibilidade de omissão intencional ou não intencional de informações pela administração, a sofisticação de fraudes com conluio e a ausência de poderes legais específicos de investigação criminal (como busca e apreensão).
+### [Questão 06](https://www.qconcursos.com/questoes-de-concursos/questoes/1f5b7033-c3) — [CESPE / CEBRASPE — SEFAZ-CE / Auditor Fiscal da Receita Estadual — 2021]
 
-### Questão 06 — [CESPE / CEBRASPE — SEFAZ-CE / Auditor Fiscal da Receita Estadual — 2021]
-**Identificador QC:** [Q4368148](https://www.qconcursos.com/questoes-de-concursos/questoes/1f5b7033-c3)
 A respeito do julgamento profissional, do ceticismo profissional e da condução da auditoria conforme a NBC TA 200, assinale a opção correta.
 
 * **A)** O julgamento profissional pode ser invocado pelo auditor nos papéis de trabalho como justificativa autônoma para embasar conclusões para as quais não foi possível obter evidência de auditoria apropriada e suficiente.
@@ -518,12 +518,12 @@ A respeito do julgamento profissional, do ceticismo profissional e da condução
 * **Análise da Alternativa D (Incorreta):** Quando não é possível obter segurança razoável (limitação de escopo) e a opinião com ressalva é insuficiente, o item 12 da NBC TA 200 determina que o auditor **se abstenha de emitir opinião (Abstenção)** ou **renuncie ao trabalho** (jamais opinião adversa, pois a opinião adversa exige evidência suficiente e apropriada de distorção relevante e generalizada!).
 * **Análise da Alternativa E (Incorreta):** Conforme o item A44 da NBC TA 200, o risco de detecção relaciona-se diretamente com a natureza, a época e a extensão dos procedimentos determinados pelo auditor e é uma função da **eficácia do procedimento de auditoria e de sua aplicação pelo auditor** (incluindo planejamento adequado, designação de pessoal apropriado, aplicação de ceticismo e supervisão).
 
+> **Fique Ligado:** De acordo com o item 22(b) da NBC TA 200, o auditor deve cumprir cada requisito de uma NBC TA, a menos que o requisito não seja relevante porque é **condicional e a condição não existe** (ex.
+
 ---
 
-> **🛡️ Regra de Ouro Inviolável:** De acordo com o item 22(b) da NBC TA 200, o auditor deve cumprir cada requisito de uma NBC TA, a menos que o requisito não seja relevante porque é **condicional e a condição não existe** (ex.
+### [Questão 07](https://www.qconcursos.com/questoes-de-concursos/questoes/82aad190-c7) — [FCC — ISS São Paulo / Auditor-Fiscal Tributário Municipal — 2023]
 
-### Questão 07 — [FCC — ISS São Paulo / Auditor-Fiscal Tributário Municipal — 2023]
-**Identificador QC:** [Q4374188](https://www.qconcursos.com/questoes-de-concursos/questoes/82aad190-c7)
 Durante a execução da auditoria de uma indústria química, o auditor independente verificou que um requisito específico de uma NBC TA exigia determinado procedimento que, dadas as peculiaridades tecnológicas únicas da planta industrial da auditada, mostrar-se-ia totalmente ineficaz para atingir o objetivo daquele requisito. Nessa situação, segundo a NBC TA 200:
 
 * **A)** O auditor é obrigado a executar o procedimento ineficaz, pois os requisitos das NBC TAs expressos pelo verbo "deve" não comportam exceção sob nenhuma hipótese.
@@ -536,12 +536,12 @@ Durante a execução da auditoria de uma indústria química, o auditor independ
 * **Análise das Alternativas A, B, D e E (Incorretas):** Negam ou distorcem a regra de afastamento excepcional prevista no item 23 da NBC TA 200 (c/c item 12 da NBC TA 230).
 * **Análise da Alternativa C (Correta):** Retrata exatamente o item 23 da NBC TA 200: em circunstâncias excepcionais, o auditor pode julgar necessário afastar-se de um requisito relevante quando o procedimento exigido for **ineficaz** para alcançar o objetivo do requisito, devendo obrigatoriamente **executar procedimentos alternativos** para alcançar esse objetivo e **documentar nos papéis de trabalho** os motivos do afastamento e a eficácia dos procedimentos alternativos.
 
+> **Fique Ligado:** Retrata exatamente o item 23 da NBC TA 200: em circunstâncias excepcionais, o auditor pode julgar necessário afastar-se de um requisito relevante quando o procedimento exigido for **ineficaz** para alcançar o objetivo do requisito, devendo obrigatoriamente **executar procedimentos alternativos** para alcançar esse objetivo e **documentar nos papéis de trabalho** os motivos do afastamento e a eficácia dos procedimentos alternativos.
+
 ---
 
-> **🛡️ Regra de Ouro Inviolável:** Retrata exatamente o item 23 da NBC TA 200: em circunstâncias excepcionais, o auditor pode julgar necessário afastar-se de um requisito relevante quando o procedimento exigido for **ineficaz** para alcançar o objetivo do requisito, devendo obrigatoriamente **executar procedimentos alternativos** para alcançar esse objetivo e **documentar nos papéis de trabalho** os motivos do afastamento e a eficácia dos procedimentos alternativos.
+### [Questão 08](https://www.qconcursos.com/questoes-de-concursos/questoes/1f3cf5d3-c3) — [FGV — TCE-BA / Auditor Estadual de Controle Externo — 2022]
 
-### Questão 08 — [FGV — TCE-BA / Auditor Estadual de Controle Externo — 2022]
-**Identificador QC:** [Q4368135](https://www.qconcursos.com/questoes-de-concursos/questoes/1f3cf5d3-c3)
 Em relação aos trabalhos de revisão de informações contábeis intermediárias (NBC TR 2410) e aos trabalhos de auditoria de demonstrações contábeis (NBC TA 200), assinale a afirmativa correta:
 
 * **A)** Ambos são trabalhos de asseguração razoável, diferindo apenas quanto ao período abrangido pelas demonstrações (trimestral versus anual).
@@ -557,12 +557,12 @@ Em relação aos trabalhos de revisão de informações contábeis intermediári
 * **Análise da Alternativa D (Incorreta):** A auditoria de demonstrações contábeis é um **trabalho de atribuição (certificação)**, quem elabora o balanço é a Administração, e a opinião do auditor jamais assegura a viabilidade futura da entidade (item A1 da NBC TA 200).
 * **Análise da Alternativa E (Incorreta):** Na asseguração limitada, o risco do trabalho é **maior** (e não menor) do que na asseguração razoável, e os requisitos éticos de independência e ceticismo profissional são obrigatórios em **todos** os trabalhos de asseguração.
 
+> **Fique Ligado:** Síntese perfeita da NBC TA Estrutura Conceitual e da NBC TR 2410: a revisão proporciona asseguração limitada (moderada), apoia-se em indagações e procedimentos analíticos e expressa conclusão negativa (*"não temos conhecimento de nenhum fato que nos leve a acreditar.
+
 ---
 
-> **🛡️ Regra de Ouro Inviolável:** Síntese perfeita da NBC TA Estrutura Conceitual e da NBC TR 2410: a revisão proporciona asseguração limitada (moderada), apoia-se em indagações e procedimentos analíticos e expressa conclusão negativa (*"não temos conhecimento de nenhum fato que nos leve a acreditar.
+### [Questão 09](https://www.qconcursos.com/questoes-de-concursos/questoes/0b9e2ca4-c3) — [FGV — SEFAZ-AM / Auditor Fiscal de Tributos Estaduais — 2022]
 
-### Questão 09 — [FGV — SEFAZ-AM / Auditor Fiscal de Tributos Estaduais — 2022]
-**Identificador QC:** [Q4368126](https://www.qconcursos.com/questoes-de-concursos/questoes/0b9e2ca4-c3)
 De acordo com a NBC TA 200, a estrutura de relatório financeiro adotada pela administração para elaborar as demonstrações contábeis pode ser classificada como uma estrutura de apresentação adequada ou uma estrutura de conformidade. Sobre essa distinção, é correto afirmar que:
 
 * **A)** A estrutura de conformidade exige que a administração forneça divulgações além daquelas especificamente exigidas pela estrutura ou se afaste de um requisito da estrutura para alcançar a apresentação adequada.
@@ -578,12 +578,12 @@ De acordo com a NBC TA 200, a estrutura de relatório financeiro adotada pela ad
 * **Análise da Alternativa D (Incorreta):** A escolha e aplicação da estrutura de relatório financeiro (dentro dos ditames legais) compete à **Administração** (Parte Responsável), cabendo ao auditor avaliar sua aceitabilidade (NBC TA 210).
 * **Análise da Alternativa E (Incorreta):** O auditor emite opinião normal (NBC TA 700) tanto sobre demonstrações elaboradas segundo estrutura de apresentação adequada quanto segundo estrutura de conformidade (mudando apenas a fraseologia da opinião: *"apresentam adequadamente, em todos os aspectos relevantes..."* versus *"foram elaboradas, em todos os aspectos relevantes, de acordo com..."*).
 
+> **Fique Ligado:** Reproduz literalmente a definição normativa de **Estrutura de Apresentação Adequada** (*fair presentation framework*) contida no item 13(a)(i) e (ii) da NBC TA 200.
+
 ---
 
-> **🛡️ Regra de Ouro Inviolável:** Reproduz literalmente a definição normativa de **Estrutura de Apresentação Adequada** (*fair presentation framework*) contida no item 13(a)(i) e (ii) da NBC TA 200.
+### [Questão 10](https://www.qconcursos.com/questoes-de-concursos/questoes/14a466da-94) — [CESPE / CEBRASPE — CGU / Auditor Federal de Finanças e Controle — 2022]
 
-### Questão 10 — [CESPE / CEBRASPE — CGU / Auditor Federal de Finanças e Controle — 2022]
-**Identificador QC:** [Q4227346](https://www.qconcursos.com/questoes-de-concursos/questoes/14a466da-94)
 Em auditoria de demonstrações financeiras conduzida segundo as NBC TAs, o componente do risco de auditoria que reflete a suscetibilidade de uma afirmação a respeito de uma transação, saldo contábil ou divulgação a uma distorção que possa ser relevante, individualmente ou em conjunto com outras distorções, antes da consideração de quaisquer controles relacionados, denomina-se:
 
 * **A)** risco de controle.
@@ -599,9 +599,9 @@ Em auditoria de demonstrações financeiras conduzida segundo as NBC TAs, o comp
 * **Análise da Alternativa D (Correta):** Definição literal de **Risco Inerente ($RI$)** prevista no item 13(n)(i) da NBC TA 200: suscetibilidade de uma afirmação a uma distorção relevante **antes da consideração de quaisquer controles relacionados**.
 * **Análise da Alternativa E (Incorreta):** Risco de negócio (NBC TA 315) é o risco que resulta de condições, eventos, circunstâncias ou ações significativas que possam afetar adversamente a capacidade da entidade de alcançar seus objetivos e executar suas estratégias.
 
----
+> **Fique Ligado:** Definição literal de **Risco Inerente ($RI$)** prevista no item 13(n)(i) da NBC TA 200: suscetibilidade de uma afirmação a uma distorção relevante **antes da consideração de quaisquer controles relacionados**.
 
-> **🛡️ Regra de Ouro Inviolável:** Definição literal de **Risco Inerente ($RI$)** prevista no item 13(n)(i) da NBC TA 200: suscetibilidade de uma afirmação a uma distorção relevante **antes da consideração de quaisquer controles relacionados**.
+---
 
 ## 11. Quadro Sinóptico de Fechamento: Estrutura de Relatório Financeiro (Item 13(a) da NBC TA 200)
 
