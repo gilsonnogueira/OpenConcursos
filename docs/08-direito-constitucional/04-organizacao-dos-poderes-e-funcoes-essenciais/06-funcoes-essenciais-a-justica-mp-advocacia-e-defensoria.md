@@ -189,71 +189,83 @@ flowchart LR
 
 ## 6. Questões Paradigmáticas Aplicadas
 
-### [Questão 01](https://www.qconcursos.com/questoes-de-concursos/questoes/4395490) — [Gama Consult — Câmara de São Miguel do Guaporé - RO / Procurador Jurídico — 2026] • [Nível: Difícil (Acertos: 48,0%)]
+### [Questão 01](https://www.qconcursos.com/questoes-de-concursos/questoes/4395490) — [Gama Consult — Câmara de São Miguel do Guaporé - RO / Procurador Jurídico — 2026]
 
 À luz dos arts. 132 e 134, § 1º, da Constituição Federal, a garantia expressamente assegurada aos defensores públicos, mas não aos procuradores estaduais, é a:
 
+* **A)** Inamovibilidade.
+* **B)** Vitaliciedade.
+* **C)** Irredutibilidade remuneratória.
+* **D)** Estabilidade bienal.
+
+#### Gabarito: **A**
 * **A (Certa):** Inamovibilidade. O art. 134, § 1º, da CF/88 outorga expressamente aos membros da Defensoria Pública as garantias da estabilidade funcional e da inamovibilidade ("São princípios institucionais da Defensoria Pública a unidade, a indivisibilidade e a independência funcional, aplicando-se também, no que couber, o disposto no art. 93 e no inciso II do art. 96 desta Constituição, sendo assegurada a seus membros a inamovibilidade"). Em contraste cirúrgico, o art. 132 da CF/88, que disciplina os Procuradores dos Estados e do Distrito Federal, prevê apenas o ingresso por concurso de provas e títulos com a participação da OAB e a estabilidade após três anos de efetivo exercício, não contemplando a prerrogativa constitucional da inamovibilidade para a Advocacia Pública.
 * **B (Errada):** Vitaliciedade. A vitaliciedade é garantia privativa de magistrados (art. 95, I) e membros do Ministério Público (art. 128, § 5º, I, "a"). Nem defensores públicos nem procuradores gozam de vitaliciedade, sujeitando-se à estabilidade do art. 41.
 * **C (Errada):** Irredutibilidade remuneratória. A irredutibilidade de vencimentos/subsídio é garantia geral assegurada a todos os servidores públicos efetivos (art. 37, XV da CF).
 * **D (Errada):** Estabilidade bienal. A estabilidade de todos os servidores públicos civis efetivos é adquirida após três anos de efetivo exercício após a EC nº 19/1998 (art. 41).
 
-#### Gabarito: **A**
-
 ---
 
-### [Questão 02](https://www.qconcursos.com/questoes-de-concursos/questoes/4343984) — [CESPE / CEBRASPE — PGE-AL / Procurador do Estado — 2026] • [Nível: Difícil (Acertos: 45,3%)]
+### [Questão 02](https://www.qconcursos.com/questoes-de-concursos/questoes/4343984) — [CESPE / CEBRASPE — PGE-AL / Procurador do Estado — 2026]
 
 Conforme o disposto na CF e o entendimento do STF, a escolha e a nomeação do procurador-geral dos estados e do Distrito Federal:
 
-* **A (Errada):** Devem recair sobre advogado inscrito na Ordem dos Advogados do Brasil há pelo menos dez anos, requisito de observância obrigatória por simetria ao modelo da AGU.
-* **B (Errada):** Devem observar os mesmos requisitos constitucionais previstos para a nomeação do advogado-geral da União, por se tratar de norma de reprodução obrigatória.
-* **C (Errada):** Devem recair sobre integrante da carreira de procurador do estado ou do Distrito Federal, escolhido dentre os membros mais antigos.
-* **D (Errada):** Devem ser precedidas da formação de lista tríplice elaborada pelos membros da carreira, a partir da qual o chefe do Poder Executivo estadual deve obrigatoriamente fazer a escolha. A formação de lista tríplice é regra constitucional impositiva apenas para a chefia do Ministério Público Estadual (art. 128, § 3º), não se aplicando à chefia da Advocacia Pública estadual.
-* **E (Certa):** Devem ser disciplinadas por cada estado e pelo Distrito Federal, no exercício de sua autonomia política e organizacional. O Supremo Tribunal Federal fixou jurisprudência pacífica no sentido de que a Carta Magna de 1988 não estabeleceu requisitos uniformes e obrigatórios para o provimento do cargo de Procurador-Geral do Estado, competindo à Constituição Estadual e à lei local dispor sobre as regras de escolha, podendo o Estado-membro condicionar a nomeação a integrantes da própria carreira ou permitir a livre escolha pelo Governador dentre advogados de reputação ilibada e notável saber jurídico (ADI 2.581).
+* **A)** Devem recair sobre advogado inscrito na Ordem dos Advogados do Brasil há pelo menos dez anos, requisito de observância obrigatória por simetria ao modelo da AGU.
+* **B)** Devem observar os mesmos requisitos constitucionais previstos para a nomeação do advogado-geral da União, por se tratar de norma de reprodução obrigatória.
+* **C)** Devem recair sobre integrante da carreira de procurador do estado ou do Distrito Federal, escolhido dentre os membros mais antigos.
+* **D)** Devem ser precedidas da formação de lista tríplice elaborada pelos membros da carreira, a partir da qual o chefe do Poder Executivo estadual deve obrigatoriamente fazer a escolha.
+* **E)** Devem ser disciplinadas por cada estado e pelo Distrito Federal, no exercício de sua autonomia política e organizacional.
 
 #### Gabarito: **E**
+* **A (Errada):** A simetria ao modelo da AGU (art. 131, § 1º) não é obrigatória para os Estados federados quanto ao tempo de advocacia para o cargo de chefia da procuradoria estadual.
+* **B (Errada):** Não se trata de norma de reprodução obrigatória; os Estados possuem autonomia conformadora quanto à disciplina do Procurador-Geral do Estado.
+* **C (Errada):** A vinculação obrigatória a membros mais antigos não é regra constitucional nem exigida pelo STF.
+* **D (Errada):** A formação de lista tríplice é regra constitucional impositiva apenas para a chefia do Ministério Público Estadual (art. 128, § 3º), não se aplicando à chefia da Advocacia Pública estadual.
+* **E (Certa):** O Supremo Tribunal Federal fixou jurisprudência pacífica no sentido de que a Carta Magna de 1988 não estabeleceu requisitos uniformes e obrigatórios para o provimento do cargo de Procurador-Geral do Estado, competindo à Constituição Estadual e à lei local dispor sobre as regras de escolha, podendo o Estado-membro condicionar a nomeação a integrantes da própria carreira ou permitir a livre escolha pelo Governador dentre advogados de reputação ilibada e notável saber jurídico (ADI 2.581).
 
 ---
 
-### [Questão 03](https://www.qconcursos.com/questoes-de-concursos/questoes/4350596) — [CESPE / CEBRASPE — DETRAN-AL / Analista de Trânsito — Especialidade: Direito — 2026] • [Nível: Fácil (Acertos: 68,0%)]
+### [Questão 03](https://www.qconcursos.com/questoes-de-concursos/questoes/4350596) — [CESPE / CEBRASPE — DETRAN-AL / Analista de Trânsito — Especialidade: Direito — 2026]
 
 A Constituição permite que o Ministério Público exerça a representação judicial e a consultoria jurídica de entidade pública, desde que essas atribuições sejam compatíveis com as finalidades institucionais do órgão.
 
-* **Certo:** Assertiva patentemente errada, desconsiderando a proibição expressa do art. 129, IX.
-* **Errado:** O art. 129, inciso IX, da Constituição Federal estabelece com clareza categórica que é função institucional do Ministério Público "exercer outras funções que lhe forem conferidas, desde que compatíveis com sua finalidade, sendo-lhe vedada, a representação judicial e a consultoria jurídica de entidades públicas". A representação e a consultoria do Estado competem com exclusividade à Advocacia Pública (AGU, Procuradorias Estaduais e Municipais).
+* **C)** Certo
+* **E)** Errado
 
 #### Gabarito: **Errado**
+* **Fundamentação Técnica:** O art. 129, inciso IX, da Constituição Federal estabelece com clareza categórica que é função institucional do Ministério Público "exercer outras funções que lhe forem conferidas, desde que compatíveis com sua finalidade, sendo-lhe vedada, a representação judicial e a consultoria jurídica de entidades públicas". A representação e a consultoria do Estado competem com exclusividade à Advocacia Pública (AGU, Procuradorias Estaduais e Municipais).
 
 ---
 
-### [Questão 04](https://www.qconcursos.com/questoes-de-concursos/questoes/4370282) — [CESPE / CEBRASPE — SEPLAG-AL / Analista Previdenciário — Área: Jurídica — 2026] • [Nível: Fácil (Acertos: 74,8%)]
+### [Questão 04](https://www.qconcursos.com/questoes-de-concursos/questoes/4370282) — [CESPE / CEBRASPE — SEPLAG-AL / Analista Previdenciário — Área: Jurídica — 2026]
 
 Acerca das funções essenciais à justiça disciplinadas na Constituição Federal de 1988 (CF), julgue o item que se segue:
 
 É função institucional do Ministério Público exercer atribuições que lhe forem conferidas, desde que compatíveis com sua finalidade, sendo-lhe, contudo, constitucionalmente vedada a representação judicial e a consultoria jurídica de entidades públicas.
 
-* **Certo:** O item reproduz a literalidade cogente do art. 129, inciso IX, da CF/88, positivando o princípio da incompatibilidade entre as atribuições de custos juris/órgão acusador do Ministério Público e as atividades de representação e consultoria contenciosa ou graciosa do Poder Executivo.
-* **Errado:** A assertiva reflete com exatidão a norma constitucional proibitiva.
+* **C)** Certo
+* **E)** Errado
 
 #### Gabarito: **Certo**
+* **Fundamentação Técnica:** O item reproduz a literalidade cogente do art. 129, inciso IX, da CF/88, positivando o princípio da incompatibilidade entre as atribuições de custos juris/órgão acusador do Ministério Público e as atividades de representação e consultoria contenciosa ou graciosa do Poder Executivo.
 
 ---
 
-### [Questão 05](https://www.qconcursos.com/questoes-de-concursos/questoes/4370283) — [CESPE / CEBRASPE — SEPLAG-AL / Analista Previdenciário — Área: Jurídica — 2026] • [Nível: Muito Fácil (Acertos: 90,9%)]
+### [Questão 05](https://www.qconcursos.com/questoes-de-concursos/questoes/4370283) — [CESPE / CEBRASPE — SEPLAG-AL / Analista Previdenciário — Área: Jurídica — 2026]
 
 Acerca das funções essenciais à justiça disciplinadas na Constituição Federal de 1988 (CF), julgue o item que se segue:
 
 As defensorias públicas estaduais são subordinadas hierarquicamente ao Poder Executivo estadual, inclusive no que se refere à elaboração de sua proposta orçamentária, a qual deve ser consolidada e alterada discricionariamente pelo governador do estado.
 
-* **Certo:** Assertiva frontalmente inconstitucional que nega as autonomias outorgadas pela EC nº 45/2004 e EC nº 80/2014.
-* **Errado:** Conforme dispõe expressamente o art. 134, §§ 2º e 3º, da Carta Magna, às Defensorias Públicas Estaduais e da União são asseguradas autonomias funcional e administrativa e a iniciativa de sua proposta orçamentária dentro dos limites da Lei de Diretrizes Orçamentárias. O Chefe do Poder Executivo não detém qualquer relação de subordinação hierárquica sobre a Defensoria Pública, sendo-lhe terminantemente vedado alterar discricionariamente a proposta orçamentária da instituição enviada em consonância com a LDO.
+* **C)** Certo
+* **E)** Errado
 
 #### Gabarito: **Errado**
+* **Fundamentação Técnica:** Conforme dispõe expressamente o art. 134, §§ 2º e 3º, da Carta Magna, às Defensorias Públicas Estaduais e da União são asseguradas autonomias funcional e administrativa e a iniciativa de sua proposta orçamentária dentro dos limites da Lei de Diretrizes Orçamentárias. O Chefe do Poder Executivo não detém qualquer relação de subordinação hierárquica sobre a Defensoria Pública, sendo-lhe terminantemente vedado alterar discricionariamente a proposta orçamentária da instituição enviada em consonância com a LDO.
 
 ---
 
-### [Questão 06](https://www.qconcursos.com/questoes-de-concursos/questoes/4215814) — [FGV — MPE-ES / Agente de Apoio — Área Administrativa — 2026] • [Nível: Média (Acertos: 54,8%)]
+### [Questão 06](https://www.qconcursos.com/questoes-de-concursos/questoes/4215814) — [FGV — MPE-ES / Agente de Apoio — Área Administrativa — 2026]
 
 O Ministério Público do Estado Beta, por seu órgão de execução com atribuição, recebeu a informação de que determinado serviço de relevância pública vinha sendo prestado com inobservância dos direitos assegurados pela ordem constitucional.
 
@@ -261,38 +273,53 @@ Por essa razão, instaurou inquérito civil e, no curso de sua condução, exped
 
 Em relação a essas prerrogativas ministeriais, assinale a afirmativa correta:
 
-* **A (Errada):** A notificação para comparecimento perante o Ministério Público é de atendimento puramente facultativo pelas partes e testemunhas. A notificação expedida pelo MP no bojo do inquérito civil ostenta natureza compulsória, acarretando responsabilidade legal e condução sob auxílio policial em caso de descumprimento injustificado.
-* **B (Errada):** A matéria deveria ser apurada exclusivamente em inquérito policial, não sendo cabível o inquérito civil. O inquérito civil é procedimento investigatório administrativo próprio e privativo do Ministério Público destinado a amparar a tutela de direitos difusos, coletivos e serviços de relevância pública (art. 129, III).
-* **C (Certa):** As requisições e notificações devem ser expedidas na forma da lei complementar disciplinadora do Ministério Público. Em perfeita subsunção ao art. 129, inciso VI, da CF/88, compete privativamente ao Ministério Público "expedir notificações nos procedimentos administrativos de sua competência, requisitando informações e documentos para instruí-los, na forma da lei complementar respectiva" (LOMPU e Lei Orgânica Nacional do MP - Lei nº 8.625/1993).
-* **D (Errada):** O usuário do serviço lesado deve adotar individualmente as medidas necessárias à observância dos seus direitos, sendo vedada a atuação do Ministério Público. O art. 129, II, confere ao MP atribuição para zelar pelos serviços de relevância pública, protegendo os cidadãos indistintamente.
-* **E (Errada):** A supervisão do inquérito civil é de competência originária do Poder Judiciário, que deve analisar previamente a licitude de todas as notificações e requisições ministeriais. O inquérito civil é procedimento de natureza puramente administrativa interna, não dependendo de prévia autorização judicial para requisição de documentos ou ouvida de depoentes.
+* **A)** A notificação para comparecimento perante o Ministério Público é de atendimento puramente facultativo pelas partes e testemunhas.
+* **B)** A matéria deveria ser apurada exclusivamente em inquérito policial, não sendo cabível o inquérito civil.
+* **C)** As requisições e notificações devem ser expedidas na forma da lei complementar disciplinadora do Ministério Público.
+* **D)** O usuário do serviço lesado deve adotar individualmente as medidas necessárias à observância dos seus direitos, sendo vedada a atuação do Ministério Público.
+* **E)** A supervisão do inquérito civil é de competência originária do Poder Judiciário, que deve analisar previamente a licitude de todas as notificações e requisições ministeriais.
 
 #### Gabarito: **C**
+* **A (Errada):** A notificação expedida pelo MP no bojo do inquérito civil ostenta natureza compulsória, acarretando responsabilidade legal e condução sob auxílio policial em caso de descumprimento injustificado.
+* **B (Errada):** O inquérito civil é procedimento investigatório administrativo próprio e privativo do Ministério Público destinado a amparar a tutela de direitos difusos, coletivos e serviços de relevância pública (art. 129, III).
+* **C (Certa):** Em perfeita subsunção ao art. 129, inciso VI, da CF/88, compete privativamente ao Ministério Público "expedir notificações nos procedimentos administrativos de sua competência, requisitando informações e documentos para instruí-los, na forma da lei complementar respectiva" (LOMPU e Lei Orgânica Nacional do MP - Lei nº 8.625/1993).
+* **D (Errada):** O art. 129, II, confere ao MP atribuição para zelar pelos serviços de relevância pública, protegendo os cidadãos indistintamente.
+* **E (Errada):** O inquérito civil é procedimento de natureza puramente administrativa interna, não dependendo de prévia autorização judicial para requisição de documentos ou ouvida de depoentes.
 
 ---
 
-### [Questão 07](https://www.qconcursos.com/questoes-de-concursos/questoes/4324000) — [FEPESE — Prefeitura de Itajaí - SC / Procurador do Município — 2026] • [Nível: Média (Acertos: 63,6%)]
+### [Questão 07](https://www.qconcursos.com/questoes-de-concursos/questoes/4324000) — [FEPESE — Prefeitura de Itajaí - SC / Procurador do Município — 2026]
 
 Sobre as funções essenciais à justiça e a jurisprudência dominante dos Tribunais Superiores, assinale a alternativa correta:
 
-* **A (Certa):** Os Ministérios Públicos dos Estados e do Distrito Federal têm legitimidade para propor e atuar em recursos e meios de impugnação de decisões perante o Supremo Tribunal Federal e o Superior Tribunal de Justiça nas causas em que atuarem na origem. O STF fixou a higidez da atuação direta dos Ministérios Públicos estaduais em sede recursal extraordinária e especial perante os Tribunais Superiores (art. 128 da CF).
-* **B (Errada):** É vedado em qualquer circunstância o recebimento de honorários sucumbenciais por advogados públicos por afronta ao regime de subsídio único. O STF julgou constitucional a percepção de honorários sucumbenciais por advogados públicos, desde que respeitado o teto constitucional (ADI 6053).
-* **C (Errada):** A inscrição na Ordem dos Advogados do Brasil é requisito indeclinável e condição permanente para a atuação dos Defensores Públicos da União e dos Estados. O STF julgou inconstitucional a exigência de inscrição e fiscalização da OAB sobre os Defensores Públicos na ADI 4636 e no Tema 1070 de Repercussão Geral.
-* **D (Errada):** É vedado o pagamento de honorários sucumbenciais à Defensoria Pública quando atuar contra a pessoa jurídica de direito público que a remunera. O STF pacificou no Tema 1002 que são devidos honorários de sucumbência à Defensoria Pública mesmo nas causas contra o próprio ente federado ao qual pertence.
-* **E (Errada):** É constitucional a lei estadual que condiciona a posse do Defensor Público à homologação do Conselho Seccional da OAB. A matéria foi rechaçada pelo STF na ADI 4636 em homenagem à autonomia institucional da Defensoria Pública.
+* **A)** Os Ministérios Públicos dos Estados e do Distrito Federal têm legitimidade para propor e atuar em recursos e meios de impugnação de decisões perante o Supremo Tribunal Federal e o Superior Tribunal de Justiça nas causas em que atuarem na origem.
+* **B)** É vedado em qualquer circunstância o recebimento de honorários sucumbenciais por advogados públicos por afronta ao regime de subsídio único.
+* **C)** A inscrição na Ordem dos Advogados do Brasil é requisito indeclinável e condição permanente para a atuação dos Defensores Públicos da União e dos Estados.
+* **D)** É vedado o pagamento de honorários sucumbenciais à Defensoria Pública quando atuar contra a pessoa jurídica de direito público que a remunera.
+* **E)** É constitucional a lei estadual que condiciona a posse do Defensor Público à homologação do Conselho Seccional da OAB.
 
 #### Gabarito: **A**
+* **A (Certa):** O STF fixou a higidez da atuação direta dos Ministérios Públicos estaduais em sede recursal extraordinária e especial perante os Tribunais Superiores (art. 128 da CF).
+* **B (Errada):** O STF julgou constitucional a percepção de honorários sucumbenciais por advogados públicos, desde que respeitado o teto constitucional (ADI 6053).
+* **C (Errada):** O STF julgou inconstitucional a exigência de inscrição e fiscalização da OAB sobre os Defensores Públicos na ADI 4636 e no Tema 1070 de Repercussão Geral.
+* **D (Errada):** O STF pacificou no Tema 1002 que são devidos honorários de sucumbência à Defensoria Pública mesmo nas causas contra o próprio ente federado ao qual pertence.
+* **E (Errada):** A matéria foi rechaçada pelo STF na ADI 4636 em homenagem à autonomia institucional da Defensoria Pública.
 
 ---
 
-### [Questão 08](https://www.qconcursos.com/questoes-de-concursos/questoes/4304854) — [CESPE / CEBRASPE — TJ-MT / Notário e Registrador — 2026] • [Nível: Média (Acertos: 54,4%)]
+### [Questão 08](https://www.qconcursos.com/questoes-de-concursos/questoes/4304854) — [CESPE / CEBRASPE — TJ-MT / Notário e Registrador — 2026]
 
 A respeito do Poder Judiciário e das funções essenciais à justiça, assinale a opção correta:
 
-* **A (Errada):** Os membros da Defensoria Pública e da Advocacia Pública não têm vitaliciedade, porém gozam de irredutibilidade de subsídios e inamovibilidade constitucional expressa. A inamovibilidade é assegurada expressamente aos Defensores Públicos (art. 134, § 1º), mas não aos integrantes da Advocacia Pública (art. 131 e 132).
-* **B (Errada):** O Procurador-Geral da República é nomeado pelo Presidente da República entre integrantes da carreira do Ministério Público Federal, com mais de trinta e cinco anos de idade, após a aprovação de seu nome pela maioria absoluta dos membros do Senado Federal, para mandato de quatro anos, permitida a recondução. O mandato constitucional do PGR é de **dois anos**, e não de quatro anos (art. 128, § 1º).
-* **C (Errada):** Nos tribunais de justiça compostos de mais de 170 desembargadores, a eleição para cargos diretivos é realizada obrigatoriamente entre membros do órgão especial por voto secreto para mandato de dois anos, vedada mais de uma recondução. O art. 102 da LOMAN prevê a eleição dentre os membros mais antigos do Tribunal Pleno.
-* **D (Certa):** A Constituição Federal prevê a promoção obrigatória de juiz que figure por três vezes consecutivas ou cinco alternadas em lista de merecimento. A alternativa reproduz literalmente a regra cogente do art. 93, inciso II, alínea "a", da CF/88, aplicável também subsidiariamente aos membros do Ministério Público (art. 129, § 4º).
-* **E (Errada):** A justiça de paz é composta de cidadãos com mandato de quatro anos, indicados discricionariamente pela maioria absoluta do tribunal respectivo. A justiça de paz é composta por cidadãos eleitos pelo voto direto, universal e secreto, com mandato de quatro anos (art. 98, II da CF).
+* **A)** Os membros da Defensoria Pública e da Advocacia Pública não têm vitaliciedade, porém gozam de irredutibilidade de subsídios e inamovibilidade constitucional expressa.
+* **B)** O Procurador-Geral da República é nomeado pelo Presidente da República entre integrantes da carreira do Ministério Público Federal, com mais de trinta e cinco anos de idade, após a aprovação de seu nome pela maioria absoluta dos membros do Senado Federal, para mandato de quatro anos, permitida a recondução.
+* **C)** Nos tribunais de justiça compostos de mais de 170 desembargadores, a eleição para cargos diretivos é realizada obrigatoriamente entre membros do órgão especial por voto secreto para mandato de dois anos, vedada mais de uma recondução.
+* **D)** A Constituição Federal prevê a promoção obrigatória de juiz que figure por três vezes consecutivas ou cinco alternadas em lista de merecimento.
+* **E)** A justiça de paz é composta de cidadãos com mandato de quatro anos, indicados discricionariamente pela maioria absoluta do tribunal respectivo.
 
 #### Gabarito: **D**
+* **A (Errada):** A inamovibilidade é assegurada expressamente aos Defensores Públicos (art. 134, § 1º), mas não aos integrantes da Advocacia Pública (art. 131 e 132).
+* **B (Errada):** O mandato constitucional do PGR é de **dois anos**, e não de quatro anos (art. 128, § 1º).
+* **C (Errada):** O art. 102 da LOMAN prevê a eleição dentre os membros mais antigos do Tribunal Pleno.
+* **D (Certa):** A alternativa reproduz literalmente a regra cogente do art. 93, inciso II, alínea "a", da CF/88, aplicável também subsidiariamente aos membros do Ministério Público (art. 129, § 4º).
+* **E (Errada):** A justiça de paz é composta por cidadãos eleitos pelo voto direto, universal e secreto, com mandato de quatro anos (art. 98, II da CF).
