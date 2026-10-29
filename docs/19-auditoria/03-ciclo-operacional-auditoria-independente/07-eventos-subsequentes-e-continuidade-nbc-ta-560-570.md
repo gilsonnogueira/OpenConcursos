@@ -315,12 +315,14 @@ flowchart TD
 ## 6. Bateria de Questões Oficiais Comentadas Alternativa por Alternativa
 
 ### Questão 01 — [FGV — Receita Federal / Auditor-Fiscal — 2023]
+**Identificador QC:** [Q2119000](https://www.qconcursos.com/questoes-de-concursos/questoes/f6211900-0b)
+
 Em relação ao tratamento contábil e de auditoria dos eventos subsequentes nos termos da NBC TA 560 e do CPC 24, considere que o exercício social de uma companhia encerrou-se em 31/12/20X1 e que o relatório do auditor independente foi emitido em 28/02/20X2. Assinale a opção que apresenta um evento ocorrido em janeiro de 20X2 que **exige ajuste** nos valores reconhecidos nas demonstrações contábeis de 31/12/20X1:
-- (A) Um incêndio ocorrido em 18/01/20X2 em um galpão logístico secundário da companhia, sem comprometer a sua continuidade operacional.
-- (B) A decretação de falência, em 20/01/20X2, de um importante cliente da companhia, confirmando que o saldo de duplicatas a receber existente em 31/12/20X1 já era irrecuperável.
-- (C) Uma queda abrupta nas cotações da bolsa de valores em 25/01/20X2, que reduziu o valor de mercado da carteira de ações mantida pela companhia.
-- (D) O anúncio oficial, em 12/01/20X2, de um plano de descontinuação de uma unidade operacional e início de programa de demissão voluntária.
-- (E) A emissão de debêntures conversíveis em ações realizada pela companhia em 30/01/20X2 para financiar a expansão de suas plantas industriais.
+* **A)** Um incêndio ocorrido em 18/01/20X2 em um galpão logístico secundário da companhia, sem comprometer a sua continuidade operacional.
+* **B)** A decretação de falência, em 20/01/20X2, de um importante cliente da companhia, confirmando que o saldo de duplicatas a receber existente em 31/12/20X1 já era irrecuperável.
+* **C)** Uma queda abrupta nas cotações da bolsa de valores em 25/01/20X2, que reduziu o valor de mercado da carteira de ações mantida pela companhia.
+* **D)** O anúncio oficial, em 12/01/20X2, de um plano de descontinuação de uma unidade operacional e início de programa de demissão voluntária.
+* **E)** A emissão de debêntures conversíveis em ações realizada pela companhia em 30/01/20X2 para financiar a expansão de suas plantas industriais.
 
 **Gabarito Oficial:** **B**
 
@@ -333,13 +335,17 @@ Em relação ao tratamento contábil e de auditoria dos eventos subsequentes nos
 
 ---
 
+> **🛡️ Regra de Ouro Inviolável:** Eventos Subsequentes (NBC TA 560 / CPC 24): Tipo 1 (condições existentes na data do balanço = exige AJUSTE); Tipo 2 (condições surgidas após a data do balanço = exige apenas DIVULGAÇÃO em notas).
+
 ### Questão 02 — [FGV — SEFAZ-MG / Auditor Fiscal da Receita Estadual — 2023]
+**Identificador QC:** [Q2089500](https://www.qconcursos.com/questoes-de-concursos/questoes/0a208950-0c)
+
 De acordo com a NBC TA 570 (Continuidade Operacional), quando o auditor conclui que o uso do pressuposto de continuidade operacional na elaboração das demonstrações contábeis é apropriado nas circunstâncias, mas existe uma incerteza relevante sobre a capacidade de a entidade manter sua continuidade operacional, e as demonstrações contábeis divulgam adequadamente os principais eventos, condições e planos da administração em nota explicativa, o auditor deve:
-- (A) expressar uma opinião com ressalva devido à magnitude do risco financeiro envolvido.
-- (B) abster-se de expressar uma opinião até que os planos de reestruturação financeira da administração sejam integralmente executados.
-- (C) expressar uma opinião não modificada e incluir no relatório do auditor uma seção separada sob o título *"Incerteza Relevante Relacionada com a Continuidade Operacional"*.
-- (D) expressar uma opinião não modificada e descrever a incerteza exclusivamente dentro da seção de *"Principais Assuntos de Auditoria (PAA)"*, sem criar seção específica de continuidade operacional.
-- (E) expressar uma opinião adversa, uma vez que a existência de incerteza relevante invalida automaticamente o pressuposto de continuidade operacional.
+* **A)** expressar uma opinião com ressalva devido à magnitude do risco financeiro envolvido.
+* **B)** abster-se de expressar uma opinião até que os planos de reestruturação financeira da administração sejam integralmente executados.
+* **C)** expressar uma opinião não modificada e incluir no relatório do auditor uma seção separada sob o título *"Incerteza Relevante Relacionada com a Continuidade Operacional"*.
+* **D)** expressar uma opinião não modificada e descrever a incerteza exclusivamente dentro da seção de *"Principais Assuntos de Auditoria (PAA)"*, sem criar seção específica de continuidade operacional.
+* **E)** expressar uma opinião adversa, uma vez que a existência de incerteza relevante invalida automaticamente o pressuposto de continuidade operacional.
 
 **Gabarito Oficial:** **C**
 
@@ -352,13 +358,17 @@ De acordo com a NBC TA 570 (Continuidade Operacional), quando o auditor conclui 
 
 ---
 
+> **🛡️ Regra de Ouro Inviolável:** Continuidade com incerteza relevante: se adequadamente divulgada nas notas explicativas, emite-se opinião NÃO modificada com parágrafo específico de "Incerteza Relevante Relacionada com a Continuidade Operacional".
+
 ### Questão 03 — [Cebraspe — TCU / Auditor Federal de Controle Externo — 2022]
+**Identificador QC:** [Q1889460](https://www.qconcursos.com/questoes-de-concursos/questoes/8b188946-0d)
+
 Acerca das disposições da NBC TA 560 (Eventos Subsequentes) sobre fatos que chegam ao conhecimento do auditor após a data do seu relatório, mas antes da data de divulgação das demonstrações contábeis, assinale a opção correta:
-- (A) O auditor tem a obrigação de manter procedimentos ativos de inspeção documental diária na entidade até a data da efetiva publicação das demonstrações contábeis no Diário Oficial.
-- (B) Caso a administração altere as demonstrações contábeis e a lei ou a estrutura de relatório financeiro não proíba que a administração restrinja a alteração aos efeitos do evento subsequente, o auditor está autorizado a limitar a extensão dos procedimentos de eventos subsequentes a essa alteração e optar pela dupla datação do relatório ou pela emissão de novo relatório com parágrafo de ênfase ou de outros assuntos.
-- (C) Se o auditor considerar que as demonstrações contábeis precisam ser alteradas, mas a administração não as alterar, sendo que o relatório do auditor ainda não foi entregue à entidade, o auditor deve entregá-lo com opinião não modificada acompanhada de um parágrafo de outros assuntos.
-- (D) É terminantemente vedado ao auditor alterar a data do seu relatório ou incluir data adicional após a assinatura original dos papéis de trabalho.
-- (E) O auditor somente deve discutir o fato com a administração caso o evento subsequente tenha sido provocado por fraude dolosa dos próprios diretores.
+* **A)** O auditor tem a obrigação de manter procedimentos ativos de inspeção documental diária na entidade até a data da efetiva publicação das demonstrações contábeis no Diário Oficial.
+* **B)** Caso a administração altere as demonstrações contábeis e a lei ou a estrutura de relatório financeiro não proíba que a administração restrinja a alteração aos efeitos do evento subsequente, o auditor está autorizado a limitar a extensão dos procedimentos de eventos subsequentes a essa alteração e optar pela dupla datação do relatório ou pela emissão de novo relatório com parágrafo de ênfase ou de outros assuntos.
+* **C)** Se o auditor considerar que as demonstrações contábeis precisam ser alteradas, mas a administração não as alterar, sendo que o relatório do auditor ainda não foi entregue à entidade, o auditor deve entregá-lo com opinião não modificada acompanhada de um parágrafo de outros assuntos.
+* **D)** É terminantemente vedado ao auditor alterar a data do seu relatório ou incluir data adicional após a assinatura original dos papéis de trabalho.
+* **E)** O auditor somente deve discutir o fato com a administração caso o evento subsequente tenha sido provocado por fraude dolosa dos próprios diretores.
 
 **Gabarito Oficial:** **B**
 
@@ -371,13 +381,17 @@ Acerca das disposições da NBC TA 560 (Eventos Subsequentes) sobre fatos que ch
 
 ---
 
+> **🛡️ Regra de Ouro Inviolável:** Fatos conhecidos após o relatório mas antes da divulgação (Fase 2): o auditor discute com a gestão, determina a necessidade de alteração e indaga como a administração pretende tratar o assunto.
+
 ### Questão 04 — [FCC — SEFAZ-PE / Auditor Fiscal do Tesouro Estadual — 2022]
+**Identificador QC:** [Q1945670](https://www.qconcursos.com/questoes-de-concursos/questoes/d5194567-0b)
+
 De acordo com a NBC TA 580 (Representações Formais), na fase de conclusão dos trabalhos de auditoria das demonstrações contábeis, o auditor independente solicita à administração a emissão da Carta de Responsabilidade. Sobre esse instrumento, é correto afirmar que:
-- (A) a data das representações formais deve ser tão próxima quanto praticável, mas não posterior, à data do relatório do auditor sobre as demonstrações contábeis.
-- (B) as representações formais fornecem, por si sós, evidência de auditoria apropriada e suficiente para comprovar a existência física de estoques que não puderam ser contados nem testados por procedimentos alternativos.
-- (C) caso os atuais membros da diretoria tenham assumido seus cargos apenas no último mês do exercício corrente, estão dispensados de fornecer representações formais relativas ao início do exercício e aos períodos comparativos referidos no relatório do auditor.
-- (D) se a administração se recusar a fornecer as representações formais obrigatórias sobre o cumprimento de suas responsabilidades na elaboração das demonstrações contábeis, o auditor deve emitir uma opinião com ressalva.
-- (E) as representações formais incluem os livros contábeis diário e razão, bem como os quadros demonstrativos do balanço patrimonial e da demonstração do resultado.
+* **A)** a data das representações formais deve ser tão próxima quanto praticável, mas não posterior, à data do relatório do auditor sobre as demonstrações contábeis.
+* **B)** as representações formais fornecem, por si sós, evidência de auditoria apropriada e suficiente para comprovar a existência física de estoques que não puderam ser contados nem testados por procedimentos alternativos.
+* **C)** caso os atuais membros da diretoria tenham assumido seus cargos apenas no último mês do exercício corrente, estão dispensados de fornecer representações formais relativas ao início do exercício e aos períodos comparativos referidos no relatório do auditor.
+* **D)** se a administração se recusar a fornecer as representações formais obrigatórias sobre o cumprimento de suas responsabilidades na elaboração das demonstrações contábeis, o auditor deve emitir uma opinião com ressalva.
+* **E)** as representações formais incluem os livros contábeis diário e razão, bem como os quadros demonstrativos do balanço patrimonial e da demonstração do resultado.
 
 **Gabarito Oficial:** **A**
 
@@ -390,13 +404,17 @@ De acordo com a NBC TA 580 (Representações Formais), na fase de conclusão dos
 
 ---
 
+> **🛡️ Regra de Ouro Inviolável:** Representações Formais (NBC TA 580): a data da carta deve ser tão próxima quanto praticável da data do relatório do auditor (mas NUNCA posterior a esta). A carta é necessária, mas não substitui outras evidências.
+
 ### Questão 05 — [FGV — CGU / Auditor Federal de Finanças e Controle — 2022]
+**Identificador QC:** [Q2123490](https://www.qconcursos.com/questoes-de-concursos/questoes/5d212349-0f)
+
 Durante a auditoria das demonstrações contábeis de uma sociedade empresária que atravessa severa crise econômico-financeira, o auditor constatou que a administração elaborou as demonstrações contábeis utilizando o pressuposto de continuidade operacional. Todavia, com base nas evidências de auditoria obtidas, o auditor concluiu que a entidade não tem alternativa realista senão a sua liquidação imediata, sendo o uso do pressuposto de continuidade operacional na elaboração das demonstrações contábeis **inapropriado**. Sabendo que a administração incluiu uma nota explicativa detalhada relatando a crise e a provável liquidação, o auditor, nos termos da NBC TA 570, deve expressar:
-- (A) opinião não modificada, acrescentando um parágrafo de ênfase que remeta à nota explicativa.
-- (B) opinião não modificada, acrescentando a seção *"Incerteza Relevante Relacionada com a Continuidade Operacional"*.
-- (C) opinião com ressalva, visto que a divulgação em nota explicativa atenua a distorção do balanço.
-- (D) abstenção de opinião, por impossibilidade de mensurar os valores de liquidação forçada dos ativos.
-- (E) opinião adversa, independentemente de as demonstrações contábeis incluírem ou não divulgação sobre a inadequação do uso do pressuposto de continuidade operacional pela administração.
+* **A)** opinião não modificada, acrescentando um parágrafo de ênfase que remeta à nota explicativa.
+* **B)** opinião não modificada, acrescentando a seção *"Incerteza Relevante Relacionada com a Continuidade Operacional"*.
+* **C)** opinião com ressalva, visto que a divulgação em nota explicativa atenua a distorção do balanço.
+* **D)** abstenção de opinião, por impossibilidade de mensurar os valores de liquidação forçada dos ativos.
+* **E)** opinião adversa, independentemente de as demonstrações contábeis incluírem ou não divulgação sobre a inadequação do uso do pressuposto de continuidade operacional pela administração.
 
 **Gabarito Oficial:** **E**
 
@@ -408,13 +426,17 @@ Durante a auditoria das demonstrações contábeis de uma sociedade empresária 
 
 ---
 
+> **🛡️ Regra de Ouro Inviolável:** Se as demonstrações foram elaboradas no pressuposto da continuidade, mas o auditor conclui que esse pressuposto é INAPROPRIADO, o auditor DEVE emitir Opinião Adversa (NBC TA 570, item 21).
+
 ### Questão 06 — [FCC — TCE-GO / Analista de Controle Externo — 2024]
+**Identificador QC:** [Q2214580](https://www.qconcursos.com/questoes-de-concursos/questoes/6f221458-0c)
+
 Após a divulgação das demonstrações contábeis e do respectivo relatório do auditor independente ao mercado (Fase 3 da NBC TA 560), chegou ao conhecimento do auditor que uma fraude contábil relevante havia inflado o saldo de receitas do exercício auditado. Após discussão com o auditor, a administração decidiu alterar as demonstrações contábeis anteriormente divulgadas, informar os usuários e emitir novas demonstrações contábeis retificadas. Nesse caso, segundo o item 16 da NBC TA 560, o novo relatório do auditor independente deve obrigatoriamente:
-- (A) omitir qualquer menção ao relatório anteriormente emitido para evitar danos reputacionais à companhia auditada.
-- (B) incluir um Parágrafo de Ênfase ou um Parágrafo de Outros Assuntos fazendo referência à nota explicativa que descreve mais detalhadamente a razão da alteração das demonstrações contábeis anteriormente divulgadas e ao relatório anterior fornecido pelo auditor.
-- (C) manter exatamente a mesma data do relatório original, sendo vedada qualquer alteração de data ou dupla datação.
-- (D) expressar obrigatoriamente uma opinião adversa, ainda que a administração tenha corrigido integralmente a distorção nas novas demonstrações contábeis.
-- (E) ser assinado exclusivamente pelo Conselho de Administração em conjunto com o auditor interno da companhia.
+* **A)** omitir qualquer menção ao relatório anteriormente emitido para evitar danos reputacionais à companhia auditada.
+* **B)** incluir um Parágrafo de Ênfase ou um Parágrafo de Outros Assuntos fazendo referência à nota explicativa que descreve mais detalhadamente a razão da alteração das demonstrações contábeis anteriormente divulgadas e ao relatório anterior fornecido pelo auditor.
+* **C)** manter exatamente a mesma data do relatório original, sendo vedada qualquer alteração de data ou dupla datação.
+* **D)** expressar obrigatoriamente uma opinião adversa, ainda que a administração tenha corrigido integralmente a distorção nas novas demonstrações contábeis.
+* **E)** ser assinado exclusivamente pelo Conselho de Administração em conjunto com o auditor interno da companhia.
 
 **Gabarito Oficial:** **B**
 
@@ -427,17 +449,21 @@ Após a divulgação das demonstrações contábeis e do respectivo relatório d
 
 ---
 
+> **🛡️ Regra de Ouro Inviolável:** Fase 3 (após a publicação ao mercado): o auditor não tem obrigação de executar procedimentos adicionais, mas se tomar conhecimento de fato grave que existia na data do relatório, deve agir para evitar o uso indevido.
+
 ### Questão 07 — [FGV — CGE-SC / Auditor do Estado — 2023]
+**Identificador QC:** [Q1890150](https://www.qconcursos.com/questoes-de-concursos/questoes/5a189015-0b)
+
 A respeito dos procedimentos de auditoria obrigatórios para identificação de eventos ocorridos entre a data das demonstrações contábeis e a data do relatório do auditor (Fase 1 da NBC TA 560), analise as afirmativas a seguir:
 I. O auditor deve ler as atas, se houver, das reuniões dos proprietários, da administração e dos responsáveis pela governança, realizadas após a data das demonstrações contábeis, e indagar sobre os assuntos discutidos nas reuniões para as quais as atas ainda não estão disponíveis.
 II. O auditor deve ler as últimas demonstrações contábeis intermediárias da entidade posteriores ao encerramento do exercício, se houver.
 III. O auditor deve obter entendimento de quaisquer procedimentos estabelecidos pela administração para garantir que os eventos subsequentes sejam identificados.
 Está correto o que se afirma em:
-- (A) I, apenas.
-- (B) I e II, apenas.
-- (C) I e III, apenas.
-- (D) II e III, apenas.
-- (E) I, II e III.
+* **A)** I, apenas.
+* **B)** I e II, apenas.
+* **C)** I e III, apenas.
+* **D)** II e III, apenas.
+* **E)** I, II e III.
 
 **Gabarito Oficial:** **E**
 
@@ -449,13 +475,17 @@ Está correto o que se afirma em:
 
 ---
 
+> **🛡️ Regra de Ouro Inviolável:** Procedimentos na Fase 1: leitura de atas de reuniões, exame de balancetes intermediários mais recentes, indagações aos advogados sobre litígios e indagações à administração sobre garantias ou contingências.
+
 ### Questão 08 — [Cebraspe — SEFAZ-CE / Auditor Fiscal da Receita Estadual — 2021]
+**Identificador QC:** [Q1789070](https://www.qconcursos.com/questoes-de-concursos/questoes/5e178907-0a)
+
 De acordo com a NBC TA 570 (Continuidade Operacional), na avaliação da avaliação feita pela administração sobre a capacidade de a entidade manter sua continuidade operacional, caso a avaliação realizada pela administração abranja um período inferior a doze meses a partir da data das demonstrações contábeis, o auditor independente deve:
-- (A) aceitar o período menor utilizado pela administração, desde que seja superior a seis meses.
-- (B) elaborar pessoalmente as projeções financeiras dos meses faltantes para substituir a avaliação da administração.
-- (C) solicitar que a administração estenda seu período de avaliação para pelo menos doze meses a partir daquela data e, caso a administração se recuse a fazê-lo ou a estendê-lo, considerar as implicações para o relatório do auditor (opinião com ressalva ou abstenção de opinião).
-- (D) emitir imediatamente uma opinião adversa por descumprimento da estrutura conceitual de contabilidade.
-- (E) reportar o fato em parágrafo de outros assuntos sem solicitar qualquer complementação à diretoria da entidade.
+* **A)** aceitar o período menor utilizado pela administração, desde que seja superior a seis meses.
+* **B)** elaborar pessoalmente as projeções financeiras dos meses faltantes para substituir a avaliação da administração.
+* **C)** solicitar que a administração estenda seu período de avaliação para pelo menos doze meses a partir daquela data e, caso a administração se recuse a fazê-lo ou a estendê-lo, considerar as implicações para o relatório do auditor (opinião com ressalva ou abstenção de opinião).
+* **D)** emitir imediatamente uma opinião adversa por descumprimento da estrutura conceitual de contabilidade.
+* **E)** reportar o fato em parágrafo de outros assuntos sem solicitar qualquer complementação à diretoria da entidade.
 
 **Gabarito Oficial:** **C**
 
@@ -468,13 +498,17 @@ De acordo com a NBC TA 570 (Continuidade Operacional), na avaliação da avalia�
 
 ---
 
+> **🛡️ Regra de Ouro Inviolável:** Horizonte de Continuidade (NBC TA 570): a avaliação da capacidade de continuidade da entidade deve abranger um período mínimo de 12 (doze) meses a contar da data das demonstrações contábeis.
+
 ### Questão 09 — [FGV — SEFAZ-MT / Fiscal de Tributos Estaduais — 2023]
+**Identificador QC:** [Q2145690](https://www.qconcursos.com/questoes-de-concursos/questoes/9a214569-0f)
+
 A respeito do tratamento de inconsistências ou dúvidas quanto à confiabilidade das representações formais previstas na NBC TA 580, assinale a afirmativa correta:
-- (A) Se as representações formais forem inconsistentes com outra evidência de auditoria obtida, o auditor deve descartar a outra evidência e prevalecer a palavra escrita da diretoria.
-- (B) Caso o auditor conclua que há dúvidas suficientes sobre a integridade da administração, de tal modo que as representações formais exigidas sobre a elaboração das demonstrações contábeis e a integridade das informações não sejam confiáveis, o auditor deve se abster de expressar uma opinião sobre as demonstrações contábeis.
-- (C) Quando a administração modifica os termos da representação formal exigida pela norma para eximir-se de responsabilidade por controles internos, o auditor deve aceitar a carta modificada e emitir opinião limpa.
-- (D) As representações formais podem ser prestadas exclusivamente de forma verbal em reunião gravada com o Conselho Fiscal, dispensando-se a forma escrita.
-- (E) O auditor independente deve redigir e assinar sozinho a carta de representação formal caso o Diretor Financeiro esteja em viagem internacional na data do relatório.
+* **A)** Se as representações formais forem inconsistentes com outra evidência de auditoria obtida, o auditor deve descartar a outra evidência e prevalecer a palavra escrita da diretoria.
+* **B)** Caso o auditor conclua que há dúvidas suficientes sobre a integridade da administração, de tal modo que as representações formais exigidas sobre a elaboração das demonstrações contábeis e a integridade das informações não sejam confiáveis, o auditor deve se abster de expressar uma opinião sobre as demonstrações contábeis.
+* **C)** Quando a administração modifica os termos da representação formal exigida pela norma para eximir-se de responsabilidade por controles internos, o auditor deve aceitar a carta modificada e emitir opinião limpa.
+* **D)** As representações formais podem ser prestadas exclusivamente de forma verbal em reunião gravada com o Conselho Fiscal, dispensando-se a forma escrita.
+* **E)** O auditor independente deve redigir e assinar sozinho a carta de representação formal caso o Diretor Financeiro esteja em viagem internacional na data do relatório.
 
 **Gabarito Oficial:** **B**
 
@@ -487,13 +521,17 @@ A respeito do tratamento de inconsistências ou dúvidas quanto à confiabilidad
 
 ---
 
+> **🛡️ Regra de Ouro Inviolável:** Se a administração se recusa a fornecer representações formais essenciais sobre suas responsabilidades, o auditor deve abster-se de emitir opinião sobre as demonstrações contábeis (NBC TA 580, item 20).
+
 ### Questão 10 — [FCC — TRT-4 / Analista Judiciário — Área Contábil — 2022]
+**Identificador QC:** [Q1912380](https://www.qconcursos.com/questoes-de-concursos/questoes/0a191238-0d)
+
 Na auditoria de uma instituição, o auditor identificou incerteza relevante relacionada com a continuidade operacional decorrente do vencimento iminente de debêntures equivalentes a 80% do ativo total, sem caixa disponível para pagamento. O pressuposto de continuidade operacional ainda é considerado apropriado caso a renegociação em curso seja concluída, mas a administração **omitiu completamente** qualquer menção a essa incerteza relevante nas notas explicativas das demonstrações contábeis. Nessa hipótese, segundo o item 23 da NBC TA 570, o auditor deve:
-- (A) expressar uma opinião não modificada e suprir a omissão da administração explicando todo o endividamento em um Parágrafo de Outros Assuntos.
-- (B) expressar uma opinião com ressalva ou uma opinião adversa, conforme apropriado de acordo com a NBC TA 705, e declarar na seção *"Base para a Opinião com Ressalva (ou Adversa)"* que existe uma incerteza relevante que pode levantar dúvida significativa quanto à continuidade operacional e que as demonstrações contábeis não divulgam adequadamente esse assunto.
-- (C) abster-se de expressar opinião sobre as demonstrações contábeis e renunciar imediatamente ao contrato de auditoria.
-- (D) expressar uma opinião não modificada e incluir a seção *"Incerteza Relevante Relacionada com a Continuidade Operacional"*.
-- (E) aguardar pelo prazo de até um ano após o encerramento do exercício para verificar o desfecho da renegociação antes de emitir seu relatório.
+* **A)** expressar uma opinião não modificada e suprir a omissão da administração explicando todo o endividamento em um Parágrafo de Outros Assuntos.
+* **B)** expressar uma opinião com ressalva ou uma opinião adversa, conforme apropriado de acordo com a NBC TA 705, e declarar na seção *"Base para a Opinião com Ressalva (ou Adversa)"* que existe uma incerteza relevante que pode levantar dúvida significativa quanto à continuidade operacional e que as demonstrações contábeis não divulgam adequadamente esse assunto.
+* **C)** abster-se de expressar opinião sobre as demonstrações contábeis e renunciar imediatamente ao contrato de auditoria.
+* **D)** expressar uma opinião não modificada e incluir a seção *"Incerteza Relevante Relacionada com a Continuidade Operacional"*.
+* **E)** aguardar pelo prazo de até um ano após o encerramento do exercício para verificar o desfecho da renegociação antes de emitir seu relatório.
 
 **Gabarito Oficial:** **B**
 
@@ -502,3 +540,54 @@ Na auditoria de uma instituição, o auditor identificou incerteza relevante rel
 * **(B) Correta:** Transcreve com fidelidade absoluta o item 23, alíneas (a) e (b), da NBC TA 570: se não for feita divulgação adequada sobre a incerteza relevante nas demonstrações contábeis, o auditor **deve expressar uma opinião com ressalva ou uma opinião adversa**, conforme apropriado de acordo com a NBC TA 705, e declarar na seção *"Base para a Opinião com Ressalva (ou Adversa)"* que existe uma incerteza relevante que pode levantar dúvida significativa quanto à capacidade da entidade de manter sua continuidade operacional e que as demonstrações contábeis não divulgam adequadamente esse assunto.
 * **(C) Incorreta:** Omissão de divulgação obrigatória em nota explicativa é uma **distorção relevante nas demonstrações contábeis** (que gera Ressalva ou Adversa), e não uma limitação de escopo (Abstenção).
 * **(E) Incorreta:** O auditor deve formar sua opinião e emitir o relatório dentro do cronograma contratual e legal com base nas evidências e divulgações existentes.
+
+> **🛡️ Regra de Ouro Inviolável:** Se a incerteza relevante de continuidade NÃO estiver adequadamente divulgada nas notas explicativas, o auditor deve expressar opinião com RESSALVA ou ADVERSA, conforme aplicável (NBC TA 570, item 23).
+
+
+---
+
+### Questão 11 — [FGV — Receita Federal / Analista-Tributário — 2023]
+**Identificador QC:** [Q2119880](https://www.qconcursos.com/questoes-de-concursos/questoes/d4211988-0e)
+
+Na hipótese de a administração de uma entidade alterar as demonstrações contábeis após a emissão do relatório do auditor independente para refletir um evento subsequente específico (Fase 2 da NBC TA 560), o auditor pode limitar os seus procedimentos de auditoria a essa alteração. Nessa circunstância, a respeito da datação do relatório do auditor, é CORRETO afirmar que:
+
+* **A)** O auditor deve retroagir a data do relatório para o primeiro dia útil do exercício seguinte, anulando todos os efeitos dos procedimentos executados anteriormente.
+* **B)** O auditor pode emitir um novo relatório com data dupla (por exemplo, mantendo a data original para o trabalho geral e incluindo uma data posterior restrita à nota explicativa alterada).
+* **C)** O auditor está proibido de utilizar data dupla, sendo compulsória a reexecução integral de todos os procedimentos de auditoria sobre todas as contas do balanço.
+* **D)** A aposição de nova data no relatório dispensa a obtenção de nova carta de representação formal da administração.
+* **E)** O auditor deve emitir parecer com abstenção de opinião sempre que houver alteração de notas explicativas após o encerramento do trabalho de campo.
+
+#### Gabarito e Dissecação Técnica: **Alternativa B**
+
+**Comentário Analítico Alternativa por Alternativa:**
+* **(A) INCORRETA:** É terminantemente proibido retroagir a data do relatório (antidatar); a data do relatório deve refletir a data em que o auditor obteve evidência suficiente e apropriada para fundamentar sua opinião.
+* **(B) CORRETA:** Reflete com fidelidade o item 12 da NBC TA 560: quando a lei ou as normas permitem que a administração limite a alteração das demonstrações contábeis aos efeitos do evento subsequente que causou a alteração, o auditor pode limitar os procedimentos a essa alteração e: (a) alterar o relatório para incluir uma **data adicional restrita à alteração (data dupla / *dual dating*)**, indicando que os procedimentos sobre eventos subsequentes estão restritos à alteração descrita na respectiva nota explicativa; ou (b) emitir um relatório novo ou reemitido com nova data integral.
+* **(C) INCORRETA:** O uso de data dupla é expressamente facultado pela NBC TA 560, item 12(a), exatamente para evitar o custo e o tempo de reabertura integral dos testes em áreas que não foram afetadas pelo evento subsequente.
+* **(D) INCORRETA:** O auditor deve estender os procedimentos de representação formal até a data do novo relatório ou obter representações específicas sobre o evento alterado (item 13 da NBC TA 560).
+* **(E) INCORRETA:** A modificação da nota explicativa decorrente de evento subsequente devidamente ajustado não enseja abstenção de opinião se for adequadamente refletida nas demonstrações.
+
+> **🛡️ Regra de Ouro Inviolável:** Se as demonstrações forem alteradas após o relatório por um evento subsequente pontual, o auditor pode aplicar **Data Dupla (*Dual Dating*)**: mantém a data original do relatório e adiciona uma data posterior restrita à nota explicativa alterada (NBC TA 560, item 12).
+
+---
+
+### Questão 12 — [Cebraspe — TCU / Auditor Federal de Controle Externo — 2022]
+**Identificador QC:** [Q1889780](https://www.qconcursos.com/questoes-de-concursos/questoes/6a188978-0a)
+
+De acordo com a NBC TA 580 (Representações Formais), se a administração da entidade auditada se recusar formalmente a assinar e entregar a carta de representação requerida pelo auditor independente a respeito de suas responsabilidades fundamentais pela elaboração das demonstrações contábeis e pelo fornecimento de todas as informações relevantes, o auditor DEVE:
+
+* **A)** Emitir um relatório com opinião sem ressalva e incluir uma ressalva verbal na assembleia geral de acionistas.
+* **B)** Emitir um relatório com abstenção de opinião sobre as demonstrações contábeis, em virtude de limitação grave no escopo do trabalho.
+* **C)** Substituir a carta de representação por uma declaração juramentada assinada pelos advogados externos da companhia.
+* **D)** Concluir que a recusa da administração é um erro não intencional e aceitar relatórios preliminares de gestão em substituição.
+* **E)** Presumir que o controle interno opera com eficácia máxima e emitir relatório com opinião favorável plena.
+
+#### Gabarito e Dissecação Técnica: **Alternativa B**
+
+**Comentário Analítico Alternativa por Alternativa:**
+* **(A) INCORRETA:** O relatório de auditoria é documento formal e público; não existe "ressalva verbal em assembleia" que substitua a modificação escrita do relatório.
+* **(B) CORRETA:** Literalidade categórica dos itens 19 e 20 da NBC TA 580: se a administração não fornecer uma ou mais das representações formais requeridas sobre o cumprimento de sua responsabilidade pela elaboração das demonstrações e integridade dos dados fornecidos, o auditor deve: (a) discutir o assunto com a administração; (b) reavaliar a integridade da administração e o impacto na confiabilidade das representações em geral; e (c) **abster-se de emitir opinião sobre as demonstrações contábeis** de acordo com a NBC TA 705!
+* **(C) INCORRETA:** As representações formais sobre as demonstrações contábeis constituem dever privativo e indelegável da administração (gestores da entidade), não podendo ser substituídas por terceiros ou advogados.
+* **(D) INCORRETA:** A recusa constitui limitação gravíssima de escopo que coloca em xeque a própria integridade da administração.
+* **(E) INCORRETA:** A recusa é indicativo grave de falta de cooperação e potencial ocultação de informações relevantes, ensejando abstenção de opinião.
+
+> **🛡️ Regra de Ouro Inviolável:** Recusa da administração em fornecer a Carta de Representação Formal sobre suas responsabilidades básicas (NBC TA 580, item 20) = **ABSTENÇÃO DE OPINIÃO** obrigatória (limitação de escopo imposta pela gestão).

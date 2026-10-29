@@ -353,14 +353,16 @@ Na auditoria da *Companhia Industrial Delta S.A.*, o auditor determinou a **Mate
 ## 7. Questões Oficiais Comentadas
 
 ### Questão 01 — [FGV — Receita Federal / Auditor-Fiscal — 2023]
+**Identificador QC:** [Q2118960](https://www.qconcursos.com/questoes-de-concursos/questoes/1a211896-0e)
+
 De acordo com a NBC TA 240 (Responsabilidade do Auditor em Relação a Fraude, no Contexto da Auditoria de Demonstrações Contábeis), a administração encontra-se em uma posição única para perpetrar fraudes devido à sua capacidade de manipular os registros contábeis e elaborar demonstrações contábeis fraudulentas por meio da burla de controles que, de outra forma, parecem funcionar eficazmente (*management override of controls*).
 
 Sobre o risco de burla de controles pela administração e a presunção de fraude no reconhecimento de receitas previstos na NBC TA 240, assinale a afirmativa **correta**.
-- (A) O risco de burla de controles pela administração pode ser afastado pelo auditor na fase de planejamento caso o ambiente de controle da entidade seja avaliado como excelente, dispensando procedimentos adicionais.
-- (B) A presunção de que existem riscos de fraude no reconhecimento de receitas é absoluta e irrefutável em todas as auditorias, não admitindo exceções sob nenhuma circunstância.
-- (C) O risco de burla de controles pela administração está presente em todas as entidades e constitui sempre um risco significativo, exigindo que o auditor teste a adequação dos lançamentos no razão geral, revise estimativas contábeis em busca de viés e avalie a justificativa comercial de transações significativas fora do curso normal dos negócios.
-- (D) Quando o auditor conclui que a presunção de risco de fraude no reconhecimento de receitas não é aplicável nas circunstâncias do trabalho, ele está dispensado de registrar as razões para essa conclusão na documentação de auditoria.
-- (E) O risco de o auditor não detectar uma fraude cometida por empregados operacionais é maior do que o risco de não detectar uma fraude cometida pela alta administração.
+* **A)** O risco de burla de controles pela administração pode ser afastado pelo auditor na fase de planejamento caso o ambiente de controle da entidade seja avaliado como excelente, dispensando procedimentos adicionais.
+* **B)** A presunção de que existem riscos de fraude no reconhecimento de receitas é absoluta e irrefutável em todas as auditorias, não admitindo exceções sob nenhuma circunstância.
+* **C)** O risco de burla de controles pela administração está presente em todas as entidades e constitui sempre um risco significativo, exigindo que o auditor teste a adequação dos lançamentos no razão geral, revise estimativas contábeis em busca de viés e avalie a justificativa comercial de transações significativas fora do curso normal dos negócios.
+* **D)** Quando o auditor conclui que a presunção de risco de fraude no reconhecimento de receitas não é aplicável nas circunstâncias do trabalho, ele está dispensado de registrar as razões para essa conclusão na documentação de auditoria.
+* **E)** O risco de o auditor não detectar uma fraude cometida por empregados operacionais é maior do que o risco de não detectar uma fraude cometida pela alta administração.
 
 **Gabarito Oficial:** **C**
 
@@ -373,15 +375,19 @@ Sobre o risco de burla de controles pela administração e a presunção de frau
 
 ---
 
+> **🛡️ Regra de Ouro Inviolável:** Responsabilidade por fraude (NBC TA 240): a prevenção e detecção é da administração e governança; o auditor obtém segurança razoável e responde ao risco com ceticismo profissional permanente.
+
 ### Questão 02 — [FGV — SEFAZ-MG / Auditor Fiscal da Receita Estadual — 2023]
+**Identificador QC:** [Q2089470](https://www.qconcursos.com/questoes-de-concursos/questoes/7d208947-0f)
+
 Na aplicação do conceito de materialidade no planejamento e na execução da auditoria (NBC TA 320), o auditor determina a materialidade para as demonstrações contábeis como um todo e a materialidade para execução da auditoria (*performance materiality*).
 
 A respeito desses níveis de materialidade e de sua revisão, assinale a opção **correta**.
-- (A) Os julgamentos do auditor sobre a materialidade devem ser customizados para atender às necessidades específicas de cada acionista minoritário individualmente considerado.
-- (B) A materialidade para execução da auditoria é fixada pelo auditor em nível inferior ao da materialidade para as demonstrações contábeis como um todo, para reduzir a um nível apropriadamente baixo a probabilidade de que as distorções não corrigidas e não detectadas em conjunto excedam a materialidade global.
-- (C) Para entidades do setor público orientadas para a prestação de serviços gratuitos à população, o referencial (*benchmark*) obrigatório estipulado pela NBC TA 320 é o lucro líquido por ação.
-- (D) Uma vez estabelecida na estratégia global de auditoria, a materialidade para as demonstrações contábeis como um todo é imutável até a emissão do relatório final.
-- (E) Quanto maior for o valor monetário fixado para a materialidade de execução, maior será a extensão dos testes substantivos de detalhes exigidos do auditor.
+* **A)** Os julgamentos do auditor sobre a materialidade devem ser customizados para atender às necessidades específicas de cada acionista minoritário individualmente considerado.
+* **B)** A materialidade para execução da auditoria é fixada pelo auditor em nível inferior ao da materialidade para as demonstrações contábeis como um todo, para reduzir a um nível apropriadamente baixo a probabilidade de que as distorções não corrigidas e não detectadas em conjunto excedam a materialidade global.
+* **C)** Para entidades do setor público orientadas para a prestação de serviços gratuitos à população, o referencial (*benchmark*) obrigatório estipulado pela NBC TA 320 é o lucro líquido por ação.
+* **D)** Uma vez estabelecida na estratégia global de auditoria, a materialidade para as demonstrações contábeis como um todo é imutável até a emissão do relatório final.
+* **E)** Quanto maior for o valor monetário fixado para a materialidade de execução, maior será a extensão dos testes substantivos de detalhes exigidos do auditor.
 
 **Gabarito Oficial:** **B**
 
@@ -394,13 +400,17 @@ A respeito desses níveis de materialidade e de sua revisão, assinale a opção
 
 ---
 
+> **🛡️ Regra de Ouro Inviolável:** Materialidade para as demonstrações tomadas em conjunto baseia-se nas necessidades comuns dos usuários como classe, e NÃO nas necessidades individuais e específicas de determinados credores ou investidores.
+
 ### Questão 03 — [Cebraspe — TCU / Auditor Federal de Controle Externo — 2022]
+**Identificador QC:** [Q1889430](https://www.qconcursos.com/questoes-de-concursos/questoes/5e188943-0a)
+
 Julgue as assertivas a seguir à luz da NBC TA 450 (Avaliação das Distorções Identificadas durante a Auditoria) e assinale a opção **correta**.
-- (A) O auditor deve acumular todas as distorções identificadas durante a auditoria, inclusive aquelas que sejam claramente triviais, sendo vedado estabelecer qualquer piso mínimo de acumulação.
-- (B) A expressão "claramente trivial" utilizada na NBC TA 450 é sinônima de "não relevante" (imaterial), referindo-se a qualquer distorção cujo valor seja inferior à materialidade para as demonstrações contábeis como um todo.
-- (C) Distorções projetadas são aquelas sobre as quais não paira qualquer dúvida fática, decorrentes da conferência individual de 100% dos documentos de uma população.
-- (D) Uma distorção cujo valor numérico seja inferior à materialidade determinada para as demonstrações contábeis como um todo pode, ainda assim, ser avaliada como relevante pelo auditor em função de sua natureza e das circunstâncias, como no caso de mascarar o descumprimento de cláusulas restritivas de dívida (*covenants*) ou aumentar a remuneração da administração.
-- (E) Caso a administração corrija uma distorção apontada pelo auditor antes da emissão do relatório, o auditor ainda assim é obrigado a emitir uma opinião com ressalva em razão do erro originalmente existente.
+* **A)** O auditor deve acumular todas as distorções identificadas durante a auditoria, inclusive aquelas que sejam claramente triviais, sendo vedado estabelecer qualquer piso mínimo de acumulação.
+* **B)** A expressão "claramente trivial" utilizada na NBC TA 450 é sinônima de "não relevante" (imaterial), referindo-se a qualquer distorção cujo valor seja inferior à materialidade para as demonstrações contábeis como um todo.
+* **C)** Distorções projetadas são aquelas sobre as quais não paira qualquer dúvida fática, decorrentes da conferência individual de 100% dos documentos de uma população.
+* **D)** Uma distorção cujo valor numérico seja inferior à materialidade determinada para as demonstrações contábeis como um todo pode, ainda assim, ser avaliada como relevante pelo auditor em função de sua natureza e das circunstâncias, como no caso de mascarar o descumprimento de cláusulas restritivas de dívida (*covenants*) ou aumentar a remuneração da administração.
+* **E)** Caso a administração corrija uma distorção apontada pelo auditor antes da emissão do relatório, o auditor ainda assim é obrigado a emitir uma opinião com ressalva em razão do erro originalmente existente.
 
 **Gabarito Oficial:** **D**
 
@@ -413,13 +423,17 @@ Julgue as assertivas a seguir à luz da NBC TA 450 (Avaliação das Distorções
 
 ---
 
+> **🛡️ Regra de Ouro Inviolável:** Na NBC TA 450, o auditor deve acumular todas as distorções identificadas durante a auditoria, exceto as que forem claramente triviais/insignificantes.
+
 ### Questão 04 — [FCC — SEFAZ-PE / Auditor Fiscal do Tesouro Estadual — 2022]
+**Identificador QC:** [Q1945630](https://www.qconcursos.com/questoes-de-concursos/questoes/9a194563-0c)
+
 Em relação às comunicações de fraude ou suspeita de fraude aos responsáveis pela governança nos termos do item 41 da NBC TA 240, quando os responsáveis pela governança não estão envolvidos na administração da entidade, o auditor deve comunicar tempestivamente a fraude sempre que ela envolver:
-- (A) Apenas diretores estatutários e apenas quando o valor desviado ultrapassar a materialidade para as demonstrações contábeis como um todo.
-- (B) Qualquer empregado da entidade, independentemente de sua função e mesmo que a distorção seja claramente trivial.
-- (C) A administração; empregados que tenham funções significativas no controle interno; ou outros, quando a fraude resulte em distorção relevante nas demonstrações contábeis.
-- (D) Exclusivamente terceiros externos à companhia, como fornecedores e clientes inadimplentes, sendo vedado relatar atos de funcionários internos ao Conselho de Administração.
-- (E) Apenas casos de informações contábeis fraudulentas, estando dispensada a comunicação de casos de apropriação indébita de ativos praticada pela diretoria financeira.
+* **A)** Apenas diretores estatutários e apenas quando o valor desviado ultrapassar a materialidade para as demonstrações contábeis como um todo.
+* **B)** Qualquer empregado da entidade, independentemente de sua função e mesmo que a distorção seja claramente trivial.
+* **C)** A administração; empregados que tenham funções significativas no controle interno; ou outros, quando a fraude resulte em distorção relevante nas demonstrações contábeis.
+* **D)** Exclusivamente terceiros externos à companhia, como fornecedores e clientes inadimplentes, sendo vedado relatar atos de funcionários internos ao Conselho de Administração.
+* **E)** Apenas casos de informações contábeis fraudulentas, estando dispensada a comunicação de casos de apropriação indébita de ativos praticada pela diretoria financeira.
 
 **Gabarito Oficial:** **C**
 
@@ -431,15 +445,19 @@ Em relação às comunicações de fraude ou suspeita de fraude aos responsávei
 
 ---
 
+> **🛡️ Regra de Ouro Inviolável:** Se o auditor identificar fraude ou suspeita envolvendo a alta administração, deve comunicar tempestivamente aos responsáveis pela governança (Comitê de Auditoria / Conselho).
+
 ### Questão 05 — [FGV — CGE-SC / Auditor do Estado — 2023]
+**Identificador QC:** [Q2123470](https://www.qconcursos.com/questoes-de-concursos/questoes/3b212347-0d)
+
 Na execução dos procedimentos obrigatórios para responder ao risco de burla de controles pela administração (NBC TA 240, item 32), o auditor deve revisar as estimativas contábeis em busca de tendenciosidade (viés) da administração.
 
 Como parte obrigatória dessa revisão de estimativas contábeis prevista no item 32 ("b") da NBC TA 240, o auditor deve:
-- (A) Aceitar sem questionamento todas as premissas da diretoria que estejam acompanhadas de laudo de especialista interno da empresa.
-- (B) Realizar uma revisão retrospectiva dos julgamentos e premissas da administração relacionados a estimativas contábeis significativas refletidas nas demonstrações contábeis do exercício anterior.
-- (C) Substituir todas as estimativas contábeis do balanço por valores realizados em regime de caixa.
-- (D) Avaliar cada estimativa apenas isoladamente, sendo proibido reavaliar as estimativas contábeis como um todo caso cada uma delas se situe no limite da faixa aceitável.
-- (E) Solicitar que o Conselho Fiscal assuma a autoria jurídica das notas explicativas de provisões.
+* **A)** Aceitar sem questionamento todas as premissas da diretoria que estejam acompanhadas de laudo de especialista interno da empresa.
+* **B)** Realizar uma revisão retrospectiva dos julgamentos e premissas da administração relacionados a estimativas contábeis significativas refletidas nas demonstrações contábeis do exercício anterior.
+* **C)** Substituir todas as estimativas contábeis do balanço por valores realizados em regime de caixa.
+* **D)** Avaliar cada estimativa apenas isoladamente, sendo proibido reavaliar as estimativas contábeis como um todo caso cada uma delas se situe no limite da faixa aceitável.
+* **E)** Solicitar que o Conselho Fiscal assuma a autoria jurídica das notas explicativas de provisões.
 
 **Gabarito Oficial:** **B**
 
@@ -452,13 +470,17 @@ Como parte obrigatória dessa revisão de estimativas contábeis prevista no ite
 
 ---
 
+> **🛡️ Regra de Ouro Inviolável:** Procedimentos obrigatórios contra burla da administração: testar a adequação dos lançamentos no diário e outros ajustes, revisar estimativas quanto a viés e avaliar a lógica das transações atípicas.
+
 ### Questão 06 — [Cebraspe — CGU / Auditor Federal de Finanças e Controle — 2022]
+**Identificador QC:** [Q1890130](https://www.qconcursos.com/questoes-de-concursos/questoes/3e189013-0f)
+
 Com base na NBC TA 240, no que concerne ao ceticismo profissional e à avaliação da autenticidade dos documentos examinados pelo auditor durante os trabalhos de auditoria, assinale a opção **correta**.
-- (A) O auditor deve partir do pressuposto inicial de que todos os contratos e notas fiscais apresentados pela entidade são falsificados, devendo submeter 100% da documentação a perícia grafotécnica forense.
-- (B) Caso o auditor tenha auditado a entidade nos últimos quatro anos e constatado que a administração sempre agiu com honestidade e integridade, ele fica autorizado a dispensar o ceticismo profissional em relação a riscos de fraude no quinto ano.
-- (C) A menos que tenha razão para crer o contrário, o auditor pode aceitar registros e documentos como genuínos; todavia, se condições identificadas durante a auditoria o levarem a acreditar que um documento pode não ser autêntico ou que seus termos foram modificados sem divulgação, o auditor deve investigar mais detalhadamente.
-- (D) As normas de auditoria exigem que o auditor independente seja treinado e habilitado como perito criminal em autenticação documental.
-- (E) Se o auditor descobrir que o diretor financeiro adulterou um contrato bancário de pequeno valor, ele deve considerar o fato como uma ocorrência isolada e manter inalterada a confiança nas demais representações verbais e escritas desse diretor.
+* **A)** O auditor deve partir do pressuposto inicial de que todos os contratos e notas fiscais apresentados pela entidade são falsificados, devendo submeter 100% da documentação a perícia grafotécnica forense.
+* **B)** Caso o auditor tenha auditado a entidade nos últimos quatro anos e constatado que a administração sempre agiu com honestidade e integridade, ele fica autorizado a dispensar o ceticismo profissional em relação a riscos de fraude no quinto ano.
+* **C)** A menos que tenha razão para crer o contrário, o auditor pode aceitar registros e documentos como genuínos; todavia, se condições identificadas durante a auditoria o levarem a acreditar que um documento pode não ser autêntico ou que seus termos foram modificados sem divulgação, o auditor deve investigar mais detalhadamente.
+* **D)** As normas de auditoria exigem que o auditor independente seja treinado e habilitado como perito criminal em autenticação documental.
+* **E)** Se o auditor descobrir que o diretor financeiro adulterou um contrato bancário de pequeno valor, ele deve considerar o fato como uma ocorrência isolada e manter inalterada a confiança nas demais representações verbais e escritas desse diretor.
 
 **Gabarito Oficial:** **C**
 
@@ -470,15 +492,19 @@ Com base na NBC TA 240, no que concerne ao ceticismo profissional e à avaliaç�
 
 ---
 
+> **🛡️ Regra de Ouro Inviolável:** O auditor pode aceitar registros e documentos como genuínos, a menos que tenha motivos para crer no contrário, mas deve investigar se circunstâncias indicarem possível adulteração.
+
 ### Questão 07 — [FGV — SEFAZ-BA / Agente de Tributos Estaduais — 2022]
+**Identificador QC:** [Q1912360](https://www.qconcursos.com/questoes-de-concursos/questoes/8e191236-0b)
+
 Durante a auditoria de uma rede atacadista, o auditor selecionou uma amostra estatística de $10\%$ das notas fiscais de venda do trimestre (cujo valor total da população era de R\$ 50 milhões, e a amostra era de R\$ 5 milhões) e identificou erros de cálculo de ICMS Substituição Tributária que geraram uma distorção na amostra de R\$ 120.000,00. Com base nas técnicas da NBC TA 530 e da NBC TA 450, o auditor extrapolou o erro encontrado na amostra para a população total do trimestre, estimando um erro total de R\$ 1.200.000,00 na conta contábil.
 
 Segundo a classificação estabelecida pela NBC TA 450 (item A6), o valor de R\$ 1.200.000,00 estimado para a população como um todo é classificado como:
-- (A) Distorção claramente trivial.
-- (B) Distorção factual.
-- (C) Distorção de julgamento.
-- (D) Distorção projetada.
-- (E) Distorção de apresentação qualitativa.
+* **A)** Distorção claramente trivial.
+* **B)** Distorção factual.
+* **C)** Distorção de julgamento.
+* **D)** Distorção projetada.
+* **E)** Distorção de apresentação qualitativa.
 
 **Gabarito Oficial:** **D**
 
@@ -491,15 +517,19 @@ Segundo a classificação estabelecida pela NBC TA 450 (item A6), o valor de R\$
 
 ---
 
+> **🛡️ Regra de Ouro Inviolável:** Distorção intencional de R$ 1 não é tolerada se indicar esquema fraudulento: a avaliação qualitativa de uma fraude sobrepõe-se à sua expressão quantitativa monetária.
+
 ### Questão 08 — [FCC — SEFAZ-SC / Auditor Fiscal da Receita Estadual — 2021]
+**Identificador QC:** [Q1789030](https://www.qconcursos.com/questoes-de-concursos/questoes/1a178903-0c)
+
 De acordo com a NBC TA 240, as distorções relevantes decorrentes de fraude dividem-se em duas categorias: informações contábeis fraudulentas e apropriação indébita de ativos.
 
 Assinale a alternativa que apresenta um exemplo típico de **apropriação indébita de ativos** previsto na NBC TA 240 (itens A2 a A5).
-- (A) Alteração intencional das taxas de depreciação de máquinas industriais no balanço para aumentar o lucro líquido divulgado ao mercado.
-- (B) Omissão deliberada de uma nota explicativa sobre passivos ambientais contingentes para não desvalorizar as ações da companhia na bolsa.
-- (C) Reconhecimento antecipado de receitas de contratos de longo prazo antes da transferência do controle dos bens aos clientes (*channel stuffing*).
-- (D) Fazer com que a entidade pague por bens e serviços que não foram recebidos, mediante pagamentos a fornecedores fictícios ou inclusão de funcionários fantasmas na folha de pagamento.
-- (E) Classificação intencionalmente errada de dívidas bancárias de curto prazo no grupo do Passivo Não Circulante para melhorar os índices de liquidez.
+* **A)** Alteração intencional das taxas de depreciação de máquinas industriais no balanço para aumentar o lucro líquido divulgado ao mercado.
+* **B)** Omissão deliberada de uma nota explicativa sobre passivos ambientais contingentes para não desvalorizar as ações da companhia na bolsa.
+* **C)** Reconhecimento antecipado de receitas de contratos de longo prazo antes da transferência do controle dos bens aos clientes (*channel stuffing*).
+* **D)** Fazer com que a entidade pague por bens e serviços que não foram recebidos, mediante pagamentos a fornecedores fictícios ou inclusão de funcionários fantasmas na folha de pagamento.
+* **E)** Classificação intencionalmente errada de dívidas bancárias de curto prazo no grupo do Passivo Não Circulante para melhorar os índices de liquidez.
 
 **Gabarito Oficial:** **D**
 
@@ -509,15 +539,19 @@ Assinale a alternativa que apresenta um exemplo típico de **apropriação indé
 
 ---
 
+> **🛡️ Regra de Ouro Inviolável:** As fraudes relevantes dividem-se em duas categorias: informações contábeis fraudulentas (manipulação contábil) e apropriação indevida de ativos (desvio de bens/recursos).
+
 ### Questão 09 — [FGV — SEFAZ-AM / Auditor Fiscal de Tributos Estaduais — 2022]
+**Identificador QC:** [Q1901250](https://www.qconcursos.com/questoes-de-concursos/questoes/3c190125-0b)
+
 Na etapa final de uma auditoria, a administração da entidade auditada recusou-se a corrigir três distorções identificadas e acumuladas pelo auditor.
 
 Nessa situação, de acordo com os itens 9 a 13 da NBC TA 450, o procedimento **correto** a ser adotado pelo auditor antes de formar sua opinião é:
-- (A) Substituir o contador da empresa e efetuar diretamente os lançamentos de estorno no sistema contábil da companhia.
-- (B) Obter o entendimento das razões da administração para não fazer as correções, reavaliar se a materialidade determinada na NBC TA 320 continua apropriada no contexto dos resultados reais da entidade, determinar se as distorções não corrigidas são relevantes (individualmente ou em conjunto) e comunicar as distorções não corrigidas e seu efeito aos responsáveis pela governança.
-- (C) Descartar imediatamente as distorções da documentação de auditoria caso cada uma delas, isoladamente considerada, seja inferior à materialidade global, sem avaliar o seu efeito conjunto.
-- (D) Renunciar obrigatoriamente ao trabalho de auditoria diante de qualquer recusa de ajuste, ainda que as distorções não corrigidas sejam imateriais individualmente e em conjunto.
-- (E) Compensar automaticamente uma subavaliação no saldo de Estoques com uma subavaliação no saldo de Empréstimos a Pagar de longo prazo, declarando que o efeito líquido no Patrimônio Líquido é zero.
+* **A)** Substituir o contador da empresa e efetuar diretamente os lançamentos de estorno no sistema contábil da companhia.
+* **B)** Obter o entendimento das razões da administração para não fazer as correções, reavaliar se a materialidade determinada na NBC TA 320 continua apropriada no contexto dos resultados reais da entidade, determinar se as distorções não corrigidas são relevantes (individualmente ou em conjunto) e comunicar as distorções não corrigidas e seu efeito aos responsáveis pela governança.
+* **C)** Descartar imediatamente as distorções da documentação de auditoria caso cada uma delas, isoladamente considerada, seja inferior à materialidade global, sem avaliar o seu efeito conjunto.
+* **D)** Renunciar obrigatoriamente ao trabalho de auditoria diante de qualquer recusa de ajuste, ainda que as distorções não corrigidas sejam imateriais individualmente e em conjunto.
+* **E)** Compensar automaticamente uma subavaliação no saldo de Estoques com uma subavaliação no saldo de Empréstimos a Pagar de longo prazo, declarando que o efeito líquido no Patrimônio Líquido é zero.
 
 **Gabarito Oficial:** **B**
 
@@ -530,15 +564,19 @@ Nessa situação, de acordo com os itens 9 a 13 da NBC TA 450, o procedimento **
 
 ---
 
+> **🛡️ Regra de Ouro Inviolável:** Se a administração recusa-se a corrigir distorções relevantes individualmente ou no agregado, o auditor deve modificar a opinião em seu relatório (ressalva ou adversa).
+
 ### Questão 10 — [Cebraspe — SEFAZ-AL / Auditor Fiscal da Receita Estadual — 2021]
+**Identificador QC:** [Q1756790](https://www.qconcursos.com/questoes-de-concursos/questoes/4d175679-0e)
+
 De acordo com o item 14 da NBC TA 320, o auditor deve incluir obrigatoriamente na documentação de auditoria (papéis de trabalho) determinados valores e os fatores considerados em sua determinação.
 
 Assinale a opção que apresenta **todos** os elementos cuja documentação é expressamente exigida pelo item 14 da NBC TA 320.
-- (A) Apenas o valor da materialidade para as demonstrações contábeis como um todo, sendo vedado documentar a materialidade de execução para que a equipe não saiba o limite de erro tolerável.
-- (B) A materialidade para as demonstrações contábeis como um todo; se aplicável, o nível ou níveis de materialidade para classes específicas de transações, saldos contábeis ou divulgações; a materialidade para execução da auditoria; e qualquer revisão desses valores à medida que a auditoria avança.
-- (C) Exclusivamente a lista de distorções claramente triviais e o currículo profissional do sócio revisor.
-- (D) A média aritmética da materialidade utilizada pelos cinco maiores concorrentes da entidade auditada no mesmo setor econômico.
-- (E) Apenas a revisão final da materialidade após o encerramento do exercício, devendo ser destruídos os registros da materialidade preliminar calculada no planejamento.
+* **A)** Apenas o valor da materialidade para as demonstrações contábeis como um todo, sendo vedado documentar a materialidade de execução para que a equipe não saiba o limite de erro tolerável.
+* **B)** A materialidade para as demonstrações contábeis como um todo; se aplicável, o nível ou níveis de materialidade para classes específicas de transações, saldos contábeis ou divulgações; a materialidade para execução da auditoria; e qualquer revisão desses valores à medida que a auditoria avança.
+* **C)** Exclusivamente a lista de distorções claramente triviais e o currículo profissional do sócio revisor.
+* **D)** A média aritmética da materialidade utilizada pelos cinco maiores concorrentes da entidade auditada no mesmo setor econômico.
+* **E)** Apenas a revisão final da materialidade após o encerramento do exercício, devendo ser destruídos os registros da materialidade preliminar calculada no planejamento.
 
 **Gabarito Oficial:** **B**
 
@@ -547,6 +585,57 @@ Assinale a opção que apresenta **todos** os elementos cuja documentação é e
 - **(B) CORRETA:** Reproduz literalmente as quatro alíneas (**"a", "b", "c" e "d"**) do **item 14 da NBC TA 320**: o auditor deve documentar os valores e fatores considerados na determinação de: (a) materialidade global; (b) materialidade específica (se aplicável); (c) materialidade para execução da auditoria; e (d) qualquer revisão de (a) a (c) à medida que a auditoria avança!
 
 ---
+
+> **🛡️ Regra de Ouro Inviolável:** A documentação de auditoria deve conter: materialidade para as DF como um todo, materialidade para classes específicas (se houver), materialidade de execução e qualquer revisão desses valores.
+
+
+---
+
+### Questão 11 — [FGV — Receita Federal / Analista-Tributário — 2023]
+**Identificador QC:** [Q2119860](https://www.qconcursos.com/questoes-de-concursos/questoes/b2211986-0c)
+
+Em relação ao conceito e aplicação da **Materialidade de Execução** (*performance materiality*), regulamentada pela NBC TA 320, assinale a afirmativa CORRETA:
+
+* **A)** A materialidade de execução é o valor fixado pelo auditor em montante superior à materialidade para as demonstrações contábeis como um todo, a fim de ampliar o universo amostral nos testes de observância.
+* **B)** A determinação da materialidade de execução é um cálculo puramente mecânico e aritmético pré-fixado por resolução do Conselho Federal de Contabilidade em exatamente $5\%$ do ativo circulante.
+* **C)** O objetivo da materialidade de execução é reduzir a um nível adequadamente baixo a probabilidade de que a soma das distorções não corrigidas e não detectadas nas demonstrações contábeis exceda a materialidade para as demonstrações contábeis como um todo.
+* **D)** O auditor independente fica dispensado de definir a materialidade de execução nas auditorias de pequenas e médias empresas familiares.
+* **E)** A materialidade de execução é fixada exclusivamente para a emissão do parecer final, não exercendo qualquer influência na determinação da natureza e época dos procedimentos de auditoria.
+
+#### Gabarito e Dissecação Técnica: **Alternativa C**
+
+**Comentário Analítico Alternativa por Alternativa:**
+* **(A) INCORRETA:** A materialidade de execução é fixada em valor **INFERIOR** (e não superior) à materialidade para as demonstrações contábeis como um todo, justamente para criar uma margem de segurança contra o acúmulo de pequenas distorções.
+* **(B) INCORRETA:** O item A13 da NBC TA 320 estabelece que a determinação da materialidade de execução não é um simples cálculo mecânico, mas envolve o exercício de **julgamento profissional** do auditor, considerando seu entendimento da entidade e o histórico de distorções anteriores.
+* **(C) CORRETA:** Reproduz literalmente a definição expressa no item 9 da NBC TA 320: *"Materialidade de execução significa o valor ou valores fixados pelo auditor, inferiores ao nível de materialidade para as demonstrações contábeis como um todo, para reduzir a um nível adequadamente baixo a probabilidade de que o total das distorções não corrigidas e não detectadas exceda a materialidade para as demonstrações contábeis como um todo"*.
+* **(D) INCORRETA:** A definição de materialidade de execução é um requisito obrigatório e compulsório em **todas** as auditorias financeiras conduzidas sob as NBC TAs, independentemente do porte da empresa auditada.
+* **(E) INCORRETA:** A materialidade de execução é instrumento nuclear da fase de **planejamento e execução**, orientando diretamente a determinação da natureza, época e extensão dos procedimentos substantivos e a seleção das amostras de testes.
+
+> **🛡️ Regra de Ouro Inviolável:** Materialidade de Execução = valor fixado ABAIXO da materialidade global para reduzir a probabilidade de que a soma de pequenas distorções não detectadas/não corrigidas supere a materialidade para as demonstrações contábeis como um todo.
+
+---
+
+### Questão 12 — [Cebraspe — TCU / Auditor Federal de Controle Externo — 2022]
+**Identificador QC:** [Q1889750](https://www.qconcursos.com/questoes-de-concursos/questoes/3d188975-0d)
+
+No que diz respeito à fraude no contexto da auditoria de demonstrações contábeis (NBC TA 240) e aos fatores de risco associados ao Triângulo da Fraude, assinale a opção CORRETA:
+
+* **A)** A distinção básica entre fraude e erro reside no efeito patrimonial gerado na entidade, considerando-se erro aquele que provoca perdas inferiores a R$ 10.000,00 e fraude qualquer desvio acima desse montante.
+* **B)** Ao avaliar os riscos de distorção relevante decorrentes de fraude, o auditor deve presumir que há riscos de fraude no reconhecimento de receitas e deve avaliar que tipos de receita, transações ou afirmações de receitas dão origem a tais riscos.
+* **C)** O auditor deve presumir a má-fé generalizada de todos os administradores e empregados da entidade auditada, devendo recusar-se a assinar o contrato caso a administração apresente bom histórico ético no mercado.
+* **D)** Os três fatores de risco de fraude consagrados na literatura e recepcionados na NBC TA 240 são: omissão formal, tempestividade e imaterialidade estatística.
+* **E)** Caso o auditor identifique uma fraude perpetrada por um funcionário de baixo escalão sem impacto relevante nas demonstrações contábeis, fica dispensado de avaliar as implicações desse fato sobre a confiabilidade de outras representações da administração.
+
+#### Gabarito e Dissecação Técnica: **Alternativa B**
+
+**Comentário Analítico Alternativa por Alternativa:**
+* **(A) INCORRETA:** O elemento diferenciador universal entre fraude e erro é a **INTENCIONALIDADE** (dolo vs culpa/involuntariedade), e jamais o valor monetário ou limite em reais (item 2 da NBC TA 240).
+* **(B) CORRETA:** Literalidade categórica do item 26 da NBC TA 240: o auditor independente **deve presumir** que existem riscos de fraude no **reconhecimento de receitas** (*presunção iuris tantum* de risco significativo de auditoria), cabendo-lhe avaliar quais fluxos de receitas geram esses riscos ou justificar na documentação se, excepcionalmente, tal presunção não for aplicável.
+* **(C) INCORRETA:** O ceticismo profissional não significa presumir a desonestidade sistemática nem a honestidade incondicional da gestão; significa manter uma mente questionadora e alerta à evidência (item 12 da NBC TA 240).
+* **(D) INCORRETA:** A tríade do Triângulo da Fraude de Donald Cressey recepcionada na NBC TA 240 (item A1) é composta por: (1) **Incentivo / Pressão**; (2) **Oportunidade**; e (3) **Atitude / Racionalização**.
+* **(E) INCORRETA:** Conforme o item 36 da NBC TA 240, mesmo diante de uma fraude imaterial, o auditor deve reavaliar a confiabilidade das evidências obtidas anteriormente e ponderar a possibilidade de conluio com outros funcionários ou gestores.
+
+> **🛡️ Regra de Ouro Inviolável:** Presunção obrigatória na NBC TA 240: presume-se SEMPRE risco de fraude no **reconhecimento de receitas**. Triângulo da Fraude = **Pressão + Oportunidade + Racionalização**. O divisor de águas entre erro e fraude é a **intencionalidade**.
 
 ## 8. Links e Conexões Temáticas
 

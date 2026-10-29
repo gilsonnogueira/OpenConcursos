@@ -419,12 +419,14 @@ Se o auditor concluir que a amostragem em auditoria **não forneceu uma base raz
 ## 13. Bateria de Questões Oficiais Comentadas Alternativa por Alternativa
 
 ### Questão 01 — [FGV — Receita Federal / Auditor-Fiscal — 2023]
+**Identificador QC:** [Q2118980](https://www.qconcursos.com/questoes-de-concursos/questoes/d4211898-0e)
+
 De acordo com a NBC TA 530 (Amostragem em Auditoria), o risco de amostragem pode levar a dois tipos de conclusões errôneas. Assinale a opção que apresenta corretamente uma conclusão errônea que afeta a **eficácia** da auditoria e tem maior probabilidade de conduzir a uma opinião de auditoria não apropriada:
-- (A) No caso de teste de controle, concluir que os controles são menos eficazes do que realmente são.
-- (B) No caso de teste de detalhes, concluir que há distorção relevante quando, na verdade, ela não existe.
-- (C) Interpretar erroneamente uma evidência de auditoria obtida na inspeção documental da amostra.
-- (D) No caso de teste de controle, concluir que os controles são mais eficazes do que realmente são.
-- (E) Utilizar um procedimento de auditoria inapropriado para o objetivo específico do teste amostral.
+* **A)** No caso de teste de controle, concluir que os controles são menos eficazes do que realmente são.
+* **B)** No caso de teste de detalhes, concluir que há distorção relevante quando, na verdade, ela não existe.
+* **C)** Interpretar erroneamente uma evidência de auditoria obtida na inspeção documental da amostra.
+* **D)** No caso de teste de controle, concluir que os controles são mais eficazes do que realmente são.
+* **E)** Utilizar um procedimento de auditoria inapropriado para o objetivo específico do teste amostral.
 
 **Gabarito Oficial:** **D**
 
@@ -437,13 +439,17 @@ De acordo com a NBC TA 530 (Amostragem em Auditoria), o risco de amostragem pode
 
 ---
 
+> **🛡️ Regra de Ouro Inviolável:** Risco de Amostragem: Risco Beta afeta a EFICÁCIA (opinião inadequada / mais perigoso); Risco Alfa afeta a EFICIÊNCIA (trabalho adicional desnecessário).
+
 ### Questão 02 — [FGV — SEFAZ-MG / Auditor Fiscal da Receita Estadual — 2023]
+**Identificador QC:** [Q2089480](https://www.qconcursos.com/questoes-de-concursos/questoes/8e208948-0a)
+
 Durante a auditoria das demonstrações contábeis de uma companhia comercial, o auditor decidiu selecionar os itens para testes de detalhes na conta de *Contas a Receber*. A respeito dos requisitos da NBC TA 530 para a caracterização da amostragem estatística e dos métodos de seleção, assinale a afirmativa correta:
-- (A) A seleção de todas as duplicatas de clientes com saldo superior a R\$ 200.000,00 constitui uma amostragem não estatística válida para projetar distorções para toda a carteira de recebíveis.
-- (B) Caso o auditor selecione a amostra mediante gerador computadorizado de números aleatórios, mas avalie os resultados exclusivamente por meio de seu julgamento profissional sem empregar a teoria das probabilidades, a amostragem é classificada como não estatística.
-- (C) A seleção ao acaso (*haphazard*) é um método probabilístico aceito para a realização de amostragem estatística, desde que o auditor evite qualquer viés consciente.
-- (D) Na seleção sistemática, dispensa-se a aleatoriedade na escolha do ponto de início, bastando que o intervalo de amostragem seja constante em toda a população.
-- (E) A seleção em bloco é o método estatístico mais recomendado pela NBC TA 530 quando os itens em sequência na população apresentam características fortemente correlacionadas.
+* **A)** A seleção de todas as duplicatas de clientes com saldo superior a R\$ 200.000,00 constitui uma amostragem não estatística válida para projetar distorções para toda a carteira de recebíveis.
+* **B)** Caso o auditor selecione a amostra mediante gerador computadorizado de números aleatórios, mas avalie os resultados exclusivamente por meio de seu julgamento profissional sem empregar a teoria das probabilidades, a amostragem é classificada como não estatística.
+* **C)** A seleção ao acaso (*haphazard*) é um método probabilístico aceito para a realização de amostragem estatística, desde que o auditor evite qualquer viés consciente.
+* **D)** Na seleção sistemática, dispensa-se a aleatoriedade na escolha do ponto de início, bastando que o intervalo de amostragem seja constante em toda a população.
+* **E)** A seleção em bloco é o método estatístico mais recomendado pela NBC TA 530 quando os itens em sequência na população apresentam características fortemente correlacionadas.
 
 **Gabarito Oficial:** **B**
 
@@ -456,13 +462,17 @@ Durante a auditoria das demonstrações contábeis de uma companhia comercial, o
 
 ---
 
+> **🛡️ Regra de Ouro Inviolável:** Métodos de seleção (NBC TA 530, Apêndice 4): aleatória, sistemática (intervalo fixo com início aleatório), unidade monetária (MUS), ao acaso (haphazard) e em bloco (não recomendada em regra).
+
 ### Questão 03 — [Cebraspe — TCU / Auditor Federal de Controle Externo — 2022]
+**Identificador QC:** [Q1889440](https://www.qconcursos.com/questoes-de-concursos/questoes/6f188944-0b)
+
 No planejamento de uma amostragem para testes substantivos de detalhes sobre o saldo de estoques de uma estatal, o auditor observou os parâmetros do Apêndice 3 da NBC TA 530. Mantidos constantes todos os demais fatores, o tamanho da amostra necessária para os testes de detalhes **diminuirá** caso ocorra:
-- (A) aumento na avaliação do risco de distorção relevante feita pelo auditor para a afirmação de existência dos estoques.
-- (B) aumento no valor da distorção que o auditor espera encontrar na população.
-- (C) aumento no nível de segurança desejado pelo auditor de que a distorção tolerável não é excedida pela distorção real na população.
-- (D) aumento no uso de outros procedimentos substantivos dirigidos à mesma afirmação e aumento na distorção tolerável.
-- (E) redução expressiva da distorção tolerável definida no planejamento da auditoria.
+* **A)** aumento na avaliação do risco de distorção relevante feita pelo auditor para a afirmação de existência dos estoques.
+* **B)** aumento no valor da distorção que o auditor espera encontrar na população.
+* **C)** aumento no nível de segurança desejado pelo auditor de que a distorção tolerável não é excedida pela distorção real na população.
+* **D)** aumento no uso de outros procedimentos substantivos dirigidos à mesma afirmação e aumento na distorção tolerável.
+* **E)** redução expressiva da distorção tolerável definida no planejamento da auditoria.
 
 **Gabarito Oficial:** **D**
 
@@ -475,13 +485,17 @@ No planejamento de uma amostragem para testes substantivos de detalhes sobre o s
 
 ---
 
+> **🛡️ Regra de Ouro Inviolável:** Fatores do tamanho da amostra em testes de detalhes: relação DIRETA com risco de distorção avaliado e distorção esperada; relação INVERSA com distorção tolerável e risco aceitável.
+
 ### Questão 04 — [FCC — SEFAZ-PE / Auditor Fiscal do Tesouro Estadual — 2022]
+**Identificador QC:** [Q1945650](https://www.qconcursos.com/questoes-de-concursos/questoes/b3194565-0e)
+
 Um auditor independente aplicou amostragem em auditoria em um teste de detalhes sobre uma população de contas a receber cujo valor contábil total era de R\$ 8.000.000,00, tendo fixado a Distorção Tolerável em R\$ 300.000,00. O valor contábil dos itens selecionados na amostra somou R\$ 800.000,00 (10% da população). Durante os exames, o auditor identificou distorções na amostra no montante total de R\$ 38.000,00. Após executar procedimentos adicionais de auditoria, obteve alto grau de certeza de que uma distorção específica de R\$ 14.000,00 constituía uma anomalia isolada (não corrigida pela administração), sendo os restantes R\$ 24.000,00 distorções recorrentes não anômalas. Com base na NBC TA 530, para fins de avaliação dos resultados da amostragem perante a Distorção Tolerável, o valor da distorção projetada e o valor total a ser confrontado com a Distorção Tolerável são, respectivamente:
-- (A) R\$ 380.000,00 e R\$ 380.000,00.
-- (B) R\$ 240.000,00 e R\$ 240.000,00.
-- (C) R\$ 240.000,00 e R\$ 254.000,00.
-- (D) R\$ 380.000,00 e R\$ 394.000,00.
-- (E) R\$ 140.000,00 e R\$ 164.000,00.
+* **A)** R\$ 380.000,00 e R\$ 380.000,00.
+* **B)** R\$ 240.000,00 e R\$ 240.000,00.
+* **C)** R\$ 240.000,00 e R\$ 254.000,00.
+* **D)** R\$ 380.000,00 e R\$ 394.000,00.
+* **E)** R\$ 140.000,00 e R\$ 164.000,00.
 
 **Gabarito Oficial:** **C**
 
@@ -498,13 +512,17 @@ Um auditor independente aplicou amostragem em auditoria em um teste de detalhes 
 
 ---
 
+> **🛡️ Regra de Ouro Inviolável:** Distorção anômala é aquela que não é representativa da população; o auditor deve obter alto grau de certeza de que é anômala e excluí-la da projeção, somando-a ao final.
+
 ### Questão 05 — [FGV — CGU / Auditor Federal de Finanças e Controle — 2022]
+**Identificador QC:** [Q1923470](https://www.qconcursos.com/questoes-de-concursos/questoes/6d192347-0a)
+
 Na execução de testes de controle por amostragem sobre o processo de aprovação de compras de uma entidade, o auditor selecionou uma amostra de 60 processos físicos. Ao solicitar os processos à administração, constatou que: (i) o processo nº 14 referia-se a uma requisição que havia sido legitimamente cancelada antes da cotação de preços, conforme regras internas; e (ii) o processo nº 42 referia-se a uma compra efetivamente realizada e paga, mas cuja pasta física foi extraviada pelo setor de arquivo, inviabilizando qualquer procedimento alternativo de verificação da autorização. Diante dessas duas situações, segundo a NBC TA 530, o auditor deve:
-- (A) substituir ambos os processos nº 14 e nº 42 por novos itens sorteados aleatoriamente na população.
-- (B) tratar ambos os processos nº 14 e nº 42 como desvios de controle na avaliação da amostra.
-- (C) substituir o processo nº 14 por um item substituto e tratar o processo nº 42 como um desvio do controle previsto.
-- (D) tratar o processo nº 14 como um desvio de controle e substituir o processo nº 42 por um item de mesmo valor monetário.
-- (E) excluir ambos os itens da amostra sem substituí-los, reduzindo a base da amostra para 58 itens.
+* **A)** substituir ambos os processos nº 14 e nº 42 por novos itens sorteados aleatoriamente na população.
+* **B)** tratar ambos os processos nº 14 e nº 42 como desvios de controle na avaliação da amostra.
+* **C)** substituir o processo nº 14 por um item substituto e tratar o processo nº 42 como um desvio do controle previsto.
+* **D)** tratar o processo nº 14 como um desvio de controle e substituir o processo nº 42 por um item de mesmo valor monetário.
+* **E)** excluir ambos os itens da amostra sem substituí-los, reduzindo a base da amostra para 58 itens.
 
 **Gabarito Oficial:** **C**
 
@@ -519,13 +537,17 @@ Na execução de testes de controle por amostragem sobre o processo de aprovaç�
 
 ---
 
+> **🛡️ Regra de Ouro Inviolável:** Testes de controle: se a taxa de desvio da amostra exceder a taxa tolerável de desvio, o auditor não pode confiar no controle da forma planejada, devendo ampliar testes substantivos.
+
 ### Questão 06 — [FCC — TCE-GO / Analista de Controle Externo — 2024]
+**Identificador QC:** [Q2123480](https://www.qconcursos.com/questoes-de-concursos/questoes/4c212348-0e)
+
 De acordo com as disposições da NBC TA 530 sobre estratificação e projeção de resultados em amostragem de auditoria, é correto afirmar que:
-- (A) nos testes de controle, o auditor deve obrigatoriamente estratificar a população por faixas de valor monetário e projetar a distorção financeira encontrada na amostra para toda a população.
-- (B) os resultados dos procedimentos de auditoria aplicados a uma amostra de itens dentro de um estrato podem ser livremente projetados para os demais estratos da mesma conta contábil.
-- (C) a estratificação de uma população aumenta a variabilidade dos itens dentro de cada estrato, exigindo um aumento proporcional no tamanho total da amostra.
-- (D) para testes de controle, não é necessária projeção explícita de desvios, uma vez que a taxa de desvio da amostra é também a taxa projetada de desvio para a população como um todo.
-- (E) cada unidade de amostragem pode pertencer simultaneamente a dois ou mais estratos, desde que o auditor pondere a probabilidade de seleção na avaliação final.
+* **A)** nos testes de controle, o auditor deve obrigatoriamente estratificar a população por faixas de valor monetário e projetar a distorção financeira encontrada na amostra para toda a população.
+* **B)** os resultados dos procedimentos de auditoria aplicados a uma amostra de itens dentro de um estrato podem ser livremente projetados para os demais estratos da mesma conta contábil.
+* **C)** a estratificação de uma população aumenta a variabilidade dos itens dentro de cada estrato, exigindo um aumento proporcional no tamanho total da amostra.
+* **D)** para testes de controle, não é necessária projeção explícita de desvios, uma vez que a taxa de desvio da amostra é também a taxa projetada de desvio para a população como um todo.
+* **E)** cada unidade de amostragem pode pertencer simultaneamente a dois ou mais estratos, desde que o auditor pondere a probabilidade de seleção na avaliação final.
 
 **Gabarito Oficial:** **D**
 
@@ -538,13 +560,17 @@ De acordo com as disposições da NBC TA 530 sobre estratificação e projeção
 
 ---
 
+> **🛡️ Regra de Ouro Inviolável:** Estratificação: divisão da população em subpopulações homogêneas para reduzir a variabilidade dos itens e permitir a redução do tamanho total da amostra sem perda de segurança.
+
 ### Questão 07 — [FGV — CGE-SC / Auditor do Estado — 2023]
+**Identificador QC:** [Q1890140](https://www.qconcursos.com/questoes-de-concursos/questoes/4f189014-0a)
+
 Ao planejar testes de controle mediante amostragem de atributos em uma população composta por 80.000 notas de empenho emitidas no exercício, o auditor avalia os fatores descritos no Apêndice 2 da NBC TA 530. Assinale a opção que apresenta corretamente o efeito de cada fator sobre o tamanho da amostra de testes de controle:
-- (A) O aumento na taxa tolerável de desvio provoca um aumento no tamanho da amostra.
-- (B) O aumento na taxa esperada de desvio da população a ser testada provoca uma diminuição no tamanho da amostra.
-- (C) O aumento no número de unidades de amostragem na população (por exemplo, de 80.000 para 120.000 notas) tem efeito negligenciável sobre o tamanho da amostra.
-- (D) O aumento da extensão em que a avaliação de risco do auditor leva em consideração os controles relevantes provoca uma diminuição no tamanho da amostra.
-- (E) O aumento no nível de segurança desejado pelo auditor provoca uma diminuição no tamanho da amostra.
+* **A)** O aumento na taxa tolerável de desvio provoca um aumento no tamanho da amostra.
+* **B)** O aumento na taxa esperada de desvio da população a ser testada provoca uma diminuição no tamanho da amostra.
+* **C)** O aumento no número de unidades de amostragem na população (por exemplo, de 80.000 para 120.000 notas) tem efeito negligenciável sobre o tamanho da amostra.
+* **D)** O aumento da extensão em que a avaliação de risco do auditor leva em consideração os controles relevantes provoca uma diminuição no tamanho da amostra.
+* **E)** O aumento no nível de segurança desejado pelo auditor provoca uma diminuição no tamanho da amostra.
 
 **Gabarito Oficial:** **C**
 
@@ -557,13 +583,17 @@ Ao planejar testes de controle mediante amostragem de atributos em uma populaç�
 
 ---
 
+> **🛡️ Regra de Ouro Inviolável:** O tamanho da população tem efeito insignificante ou quase nulo sobre o tamanho da amostra para populações grandes (acima de alguns milhares de itens).
+
 ### Questão 08 — [Cebraspe — SEFAZ-CE / Auditor Fiscal da Receita Estadual — 2021]
+**Identificador QC:** [Q1789040](https://www.qconcursos.com/questoes-de-concursos/questoes/2b178904-0d)
+
 Na aplicação da Amostragem por Unidade Monetária (MUS — *Monetary Unit Sampling*) em testes de detalhes, cada unidade monetária individual ($\text{R\$ } 1,00$) que compõe o saldo da conta representa uma unidade de amostragem. Acerca desse método de seleção previsto na NBC TA 530, assinale a opção correta:
-- (A) É uma modalidade de amostragem não estatística na qual todos os itens físicos da população, independentemente de seu valor contábil, possuem exatamente a mesma probabilidade de seleção.
-- (B) É particularmente eficaz para detectar subavaliações de passivos e contas com saldo contábil registrado igual a zero.
-- (C) Resulta no direcionamento natural do esforço de auditoria para os itens de maior valor, visto que itens físicos com valores monetários maiores têm maior chance de serem selecionados.
-- (D) Dispensa o auditor de projetar as distorções encontradas na amostra, uma vez que a seleção é ponderada pelo valor.
-- (E) Só pode ser utilizada em testes de controle que envolvam alçadas financeiras, sendo vedada sua aplicação em testes substantivos de detalhes.
+* **A)** É uma modalidade de amostragem não estatística na qual todos os itens físicos da população, independentemente de seu valor contábil, possuem exatamente a mesma probabilidade de seleção.
+* **B)** É particularmente eficaz para detectar subavaliações de passivos e contas com saldo contábil registrado igual a zero.
+* **C)** Resulta no direcionamento natural do esforço de auditoria para os itens de maior valor, visto que itens físicos com valores monetários maiores têm maior chance de serem selecionados.
+* **D)** Dispensa o auditor de projetar as distorções encontradas na amostra, uma vez que a seleção é ponderada pelo valor.
+* **E)** Só pode ser utilizada em testes de controle que envolvam alçadas financeiras, sendo vedada sua aplicação em testes substantivos de detalhes.
 
 **Gabarito Oficial:** **C**
 
@@ -576,17 +606,21 @@ Na aplicação da Amostragem por Unidade Monetária (MUS — *Monetary Unit Samp
 
 ---
 
+> **🛡️ Regra de Ouro Inviolável:** Na Amostragem por Unidade Monetária (MUS), a probabilidade de seleção de um item é diretamente proporcional ao seu valor monetário, focando naturalmente nos itens de maior valor.
+
 ### Questão 09 — [FGV — SEFAZ-MT / Fiscal de Tributos Estaduais — 2023]
+**Identificador QC:** [Q2145680](https://www.qconcursos.com/questoes-de-concursos/questoes/8f214568-0e)
+
 A respeito da distinção entre risco de amostragem e risco não resultante da amostragem, bem como das formas de mitigação previstas na NBC TA 530, analise as afirmativas a seguir:
 I. O risco não resultante da amostragem é o risco de que o auditor chegue a uma conclusão errônea por qualquer razão que não seja relacionada ao risco de amostragem, como o uso de procedimentos de auditoria inapropriados.
 II. O aumento do tamanho da amostra reduz proporcionalmente tanto o risco de amostragem quanto o risco não resultante da amostragem.
 III. O risco de rejeição incorreta em testes de detalhes e o risco de subavaliação da confiabilidade em testes de controle afetam a eficiência da auditoria e frequentemente levam a trabalho adicional.
 Está correto o que se afirma em:
-- (A) I, apenas.
-- (B) I e II, apenas.
-- (C) I e III, apenas.
-- (D) II e III, apenas.
-- (E) I, II e III.
+* **A)** I, apenas.
+* **B)** I e II, apenas.
+* **C)** I e III, apenas.
+* **D)** II e III, apenas.
+* **E)** I, II e III.
 
 **Gabarito Oficial:** **C**
 
@@ -598,13 +632,17 @@ Está correto o que se afirma em:
 
 ---
 
+> **🛡️ Regra de Ouro Inviolável:** Risco não resultante da amostragem decorre de fatores humanos/metodológicos (ex: procedimentos inadequados, interpretação errônea de evidências, falha em reconhecer distorções).
+
 ### Questão 10 — [FCC — TRT-4 / Analista Judiciário — Área Contábil — 2022]
+**Identificador QC:** [Q1912370](https://www.qconcursos.com/questoes-de-concursos/questoes/9f191237-0c)
+
 Em relação à avaliação dos resultados da amostragem em auditoria nos termos da NBC TA 530, quando o auditor conclui que a distorção projetada somada à distorção anômala excede a distorção tolerável definida para um teste de detalhes, é correto afirmar que:
-- (A) a amostra fornece base razoável para concluir que a população está livre de distorção relevante, desde que a anomalia seja inferior à materialidade global.
-- (B) a amostra não fornece uma base razoável para conclusões sobre a população que foi testada, devendo o auditor solicitar que a administração investigue as distorções e faça os ajustes necessários e/ou adaptar a natureza, época e extensão de procedimentos adicionais.
-- (C) o auditor deve emitir imediatamente uma abstenção de opinião, sendo vedada a ampliação do tamanho da amostra ou a realização de novos procedimentos substantivos.
-- (D) a distorção tolerável deve ser automaticamente elevada pelo auditor na fase de conclusão para acomodar o erro projetado sem necessidade de novos testes.
-- (E) o auditor deve desconsiderar o valor projetado e solicitar à administração apenas o ajuste contábil do valor exato encontrado nos itens físicos da amostra.
+* **A)** a amostra fornece base razoável para concluir que a população está livre de distorção relevante, desde que a anomalia seja inferior à materialidade global.
+* **B)** a amostra não fornece uma base razoável para conclusões sobre a população que foi testada, devendo o auditor solicitar que a administração investigue as distorções e faça os ajustes necessários e/ou adaptar a natureza, época e extensão de procedimentos adicionais.
+* **C)** o auditor deve emitir imediatamente uma abstenção de opinião, sendo vedada a ampliação do tamanho da amostra ou a realização de novos procedimentos substantivos.
+* **D)** a distorção tolerável deve ser automaticamente elevada pelo auditor na fase de conclusão para acomodar o erro projetado sem necessidade de novos testes.
+* **E)** o auditor deve desconsiderar o valor projetado e solicitar à administração apenas o ajuste contábil do valor exato encontrado nos itens físicos da amostra.
 
 **Gabarito Oficial:** **B**
 
@@ -614,3 +652,54 @@ Em relação à avaliação dos resultados da amostragem em auditoria nos termos
 * **(C) Incorreta:** O auditor não emite abstenção de opinião de imediato; ele aplica procedimentos adicionais e solicita investigação/ajustes à administração. Além disso, se ao final restar comprovada distorção relevante não corrigida na conta, a opinião será modificada para **Ressalva** ou **Adversa** (e não Abstenção, que decorre de limitação de escopo).
 * **(D) Incorreta:** Aumentar artificialmente a distorção tolerável ao final do trabalho para "esconder" um erro projetado viola frontalmente a NBC TA 320 e a NBC TA 530.
 * **(E) Incorreta:** Ajustar apenas os erros pontuais achados nos itens da amostra sem corrigir ou investigar o erro projetado no restante da população não reduz a distorção projetada abaixo da distorção tolerável.
+
+> **🛡️ Regra de Ouro Inviolável:** Se a distorção projetada mais a distorção anômala se aproximar da distorção tolerável, a amostra não fornece base razoável para conclusão, exigindo extensão dos testes ou solicitação de ajustes.
+
+
+---
+
+### Questão 11 — [FGV — Receita Federal / Analista-Tributário — 2023]
+**Identificador QC:** [Q2119870](https://www.qconcursos.com/questoes-de-concursos/questoes/c3211987-0d)
+
+Segundo a NBC TA 530, para que uma abordagem de amostragem em auditoria seja formalmente classificada como **amostragem estatística**, ela deve apresentar simultaneamente duas características fundamentais. Assinale a alternativa que indica corretamente essas duas características:
+
+* **A)** Seleção por conveniência do auditor e ausência de risco de amostragem.
+* **B)** Seleção aleatória dos itens da amostra e uso da teoria das probabilidades para avaliar os resultados da amostra, incluindo a mensuração do risco de amostragem.
+* **C)** Exame de 100% dos itens cujo valor individual exceda o dobro da materialidade de execução e projeção linear das distorções encontradas.
+* **D)** Seleção estratificada obrigatória por ordem alfabética de fornecedores e dispensa de avaliação qualitativa dos desvios.
+* **E)** Uso de amostragem não probabilística ao acaso (*haphazard*) conjugada com software de auditoria contábil.
+
+#### Gabarito e Dissecação Técnica: **Alternativa B**
+
+**Comentário Analítico Alternativa por Alternativa:**
+* **(A) INCORRETA:** Seleção por conveniência não é aleatória e nenhuma amostragem elimina o risco de amostragem.
+* **(B) CORRETA:** Transcreve a literalidade cumulativa do item 5(g) da NBC TA 530: a amostragem é **estatística** se apresentar: (1) **seleção aleatória** dos itens da amostra; E (2) **uso da teoria das probabilidades** para avaliar os resultados da amostra, incluindo a mensuração do risco de amostragem. Uma abordagem de amostragem que não possua ambas as características é considerada **não estatística**.
+* **(C) INCORRETA:** O exame de 100% dos itens de alto valor não é amostragem, mas seleção de itens específicos (teste de itens-chave).
+* **(D) INCORRETA:** Ordem alfabética não constitui critério de amostragem estatística e a avaliação qualitativa dos desvios jamais pode ser dispensada.
+* **(E) INCORRETA:** A seleção ao acaso (*haphazard selection*) é método típico de amostragem **não estatística**, pois não utiliza gerador probabilístico nem atribui chances conhecidas a cada unidade.
+
+> **🛡️ Regra de Ouro Inviolável:** Amostragem Estatística = Seleção Aleatória + Teoria das Probabilidades (mensuração matemática do risco de amostragem). Se faltar qualquer um dos dois requisitos = Amostragem Não Estatística!
+
+---
+
+### Questão 12 — [Cebraspe — TCU / Auditor Federal de Controle Externo — 2022]
+**Identificador QC:** [Q1889770](https://www.qconcursos.com/questoes-de-concursos/questoes/5f188977-0f)
+
+No planejamento da amostragem para a realização de testes de controle e testes substantivos de detalhes (NBC TA 530), a definição do tamanho da amostra depende de fatores qualitativos e quantitativos. A esse respeito, assinale a opção CORRETA:
+
+* **A)** Quanto menor for a distorção tolerável fixada pelo auditor para um teste de detalhes, menor será o tamanho da amostra exigido.
+* **B)** Quanto maior for a taxa de desvio tolerável estabelecida pelo auditor para um teste de controle interno, menor será o tamanho da amostra necessário.
+* **C)** O aumento do risco de distorção relevante avaliado pelo auditor reduz o tamanho da amostra requerida nos procedimentos substantivos de detalhes.
+* **D)** A redução do nível de segurança desejado pelo auditor em relação aos controles internos exige o aumento substancial do tamanho da amostra.
+* **E)** Em testes de detalhes, a existência de distorções esperadas na população permite ao auditor reduzir o tamanho da amostra em comparação com uma população sem distorções esperadas.
+
+#### Gabarito e Dissecação Técnica: **Alternativa B**
+
+**Comentário Analítico Alternativa por Alternativa:**
+* **(A) INCORRETA:** A relação é **INVERSA**: quanto **menor** for a distorção tolerável (auditor mais rigoroso, menor margem de erro aceita), **maior** deve ser o tamanho da amostra para garantir a detecção de pequenos desvios.
+* **(B) CORRETA:** Conforme o Apêndice 2 da NBC TA 530: a relação entre a taxa de desvio tolerável e o tamanho da amostra em testes de controle é **INVERSA**. Quanto **maior** for a taxa de desvio que o auditor tolera (auditor mais tolerante a falhas do controle), **menor** será o tamanho da amostra necessário!
+* **(C) INCORRETA:** A relação é **DIRETA**: quanto maior for o risco de distorção relevante avaliado, maior deverá ser o tamanho da amostra nos testes substantivos para reduzir o risco de detecção.
+* **(D) INCORRETA:** Reduzir o nível de segurança desejado permite reduzir o tamanho da amostra, e não aumentar.
+* **(E) INCORRETA:** Quanto maior a distorção esperada na população, maior deve ser a amostra para permitir uma estimativa confiável do montante total de distorções.
+
+> **🛡️ Regra de Ouro Inviolável:** Relação no tamanho da amostra: **DIRETA** com o Risco de Distorção Relevante, a Distorção Esperada e o Nível de Confiança; **INVERSA** com a Distorção Tolerável, a Taxa de Desvio Tolerável e o Risco de Amostragem Aceitável.

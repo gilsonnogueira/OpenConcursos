@@ -133,27 +133,26 @@ A norma inaugura seu texto com dois parágrafos definidores que resumem a essên
    Na redação histórica da NBC T 12 e na NBC PI 01, o CFC firma que a execução da auditoria interna contábil é prerrogativa de **Contador devidamente registrado no Conselho Regional de Contabilidade (CRC)**.
 
 ```mermaid
-mindmap
-  root((NBC TI 01<br/>Item 12.1.1))
-    O que faz?
-      Exames e Análises
-      Avaliações e Levantamentos
-      Comprovações Metodológicas
-    O que avalia? (Atributos)
-      Integridade
-      Adequação
-      Eficácia
-      Eficiência
-      Economicidade
-    Sobre qual Objeto?
-      Processos Operacionais
-      Sistemas de Informações
-      Controles Internos Integrados
-      Gerenciamento de Riscos
-    Para qual Finalidade?
-      Assistir a Administração
-      Agregar Valor ao Resultado
-      Recomendar Soluções para Não-Conformidades
+flowchart TD
+    ROOT["O que faz?"]
+    ROOT --> node_2["Exames e Análises"]
+    ROOT --> node_3["Avaliações e Levantamentos"]
+    ROOT --> node_4["Comprovações Metodológicas"]
+    ROOT["O que avalia?  Atributos "]
+    ROOT --> node_6["Integridade"]
+    ROOT --> node_7["Adequação"]
+    ROOT --> node_8["Eficácia"]
+    ROOT --> node_9["Eficiência"]
+    ROOT --> node_10["Economicidade"]
+    ROOT["Sobre qual Objeto?"]
+    ROOT --> node_12["Processos Operacionais"]
+    ROOT --> node_13["Sistemas de Informações"]
+    ROOT --> node_14["Controles Internos Integrados"]
+    ROOT --> node_15["Gerenciamento de Riscos"]
+    ROOT["Para qual Finalidade?"]
+    ROOT --> node_17["Assistir a Administração"]
+    ROOT --> node_18["Agregar Valor ao Resultado"]
+    ROOT --> node_19["Recomendar Soluções para Não-Conformidades"]
 ```
 
 > [!TIP]
@@ -449,16 +448,17 @@ Para consolidar a aplicação prática da norma em questões discursivas e estud
 ## 9. Bateria de Questões Oficiais Comentadas Alternativa por Alternativa
 
 ### Questão 01 — [FGV — ALESC / Auditor Interno — 2024]
+**Identificador QC:** [Q4368151](https://www.qconcursos.com/questoes-de-concursos/questoes/1f625ea5-c3)
 
 De acordo com a NBC TI 01 – Da Auditoria Interna, os testes substantivos visam à obtenção de evidência quanto à suficiência, exatidão e validade dos dados produzidos pelos sistemas de informação da entidade. No processo de obtenção de informações sobre os assuntos relacionados aos objetivos e ao alcance da Auditoria Interna, devem ser observadas as características da informação, à exceção de uma. Assinale-a:
 
-- (A) A informação útil auxilia a entidade a atingir as suas metas.
-- (B) A informação relevante dá suporte às conclusões e às recomendações da Auditoria Interna.
-- (C) A informação tempestiva é conservadora e livre de erros materiais.
-- (D) A informação suficiente é factual e convincente, de tal forma que uma pessoa prudente e informada possa entendê-la da mesma forma que o auditor interno.
-- (E) A informação adequada, sendo confiável, propicia a melhor evidência alcançável, por meio do uso apropriado das técnicas de Auditoria Interna.
+* **A)** A informação útil auxilia a entidade a atingir as suas metas.
+* **B)** A informação relevante dá suporte às conclusões e às recomendações da Auditoria Interna.
+* **C)** A informação tempestiva é conservadora e livre de erros materiais.
+* **D)** A informação suficiente é factual e convincente, de tal forma que uma pessoa prudente e informada possa entendê-la da mesma forma que o auditor interno.
+* **E)** A informação adequada, sendo confiável, propicia a melhor evidência alcançável, por meio do uso apropriado das técnicas de Auditoria Interna.
 
-**Gabarito Oficial: C**
+#### Gabarito e Dissecação Técnica: **Alternativa C**
 
 **Comentário Analítico Alternativa por Alternativa:**
 * **(A) CORRETA (não é a resposta):** Reproduz literalmente o item 12.2.3.5, I, "d", da NBC TI 01 (Mnemônico `UM`: **Ú**til $\rightarrow$ atingir **M**etas).
@@ -467,19 +467,23 @@ De acordo com a NBC TI 01 – Da Auditoria Interna, os testes substantivos visam
 * **(D) CORRETA (não é a resposta):** Reproduz literalmente o item 12.2.3.5, I, "a", da NBC TI 01 (Mnemônico `SUFACO`: **SU**ficiente $\rightarrow$ **FA**ctual e **CO**nvincente).
 * **(E) CORRETA (não é a resposta):** Reproduz literalmente o item 12.2.3.5, I, "b", da NBC TI 01 (Mnemônico `AME`: **A**dequada $\rightarrow$ confiável, **M**elhor **E**vidência alcançável).
 
+
+> **🛡️ Regra de Ouro Inviolável:** A informação da Auditoria Interna possui apenas 4 características: **SUFACO** (Suficiente = Factual e Convincente), **AME** (Adequada = Confiável, Melhor Evidência), **RECO** (Relevante = suporte a Conclusões) e **UM** (Útil = atingir Metas). 'Tempestiva' não integra esse rol!
+
 ---
 
 ### Questão 02 — [FGV — CGE-SC / Auditor do Estado — 2023]
+**Identificador QC:** [Q3894193](https://www.qconcursos.com/questoes-de-concursos/questoes/8ca27246-10)
 
 Conforme a atualização do Modelo das Três Linhas do *Institute of Internal Auditors* (IIA), a terceira linha de atuação distingue-se das demais por exercer função precípua de:
 
-- (A) Prestação de avaliação independente, objetiva e assessoria sobre a adequação e eficácia da governança e da gestão de riscos.
-- (B) Monitoramento contínuo da conformidade regulatória e gestão do risco concorrencial integrada à alta administração.
-- (C) Aprovação final do plano estratégico plurianual e definição do apetite a risco do órgão governamental.
-- (D) Execução direta dos controles operacionais cotidianos e entrega final dos produtos e serviços aos usuários.
-- (E) Elaboração das matrizes de riscos corporativos e implementação direta de políticas de *compliance* e integridade.
+* **A)** Prestação de avaliação independente, objetiva e assessoria sobre a adequação e eficácia da governança e da gestão de riscos.
+* **B)** Monitoramento contínuo da conformidade regulatória e gestão do risco concorrencial integrada à alta administração.
+* **C)** Aprovação final do plano estratégico plurianual e definição do apetite a risco do órgão governamental.
+* **D)** Execução direta dos controles operacionais cotidianos e entrega final dos produtos e serviços aos usuários.
+* **E)** Elaboração das matrizes de riscos corporativos e implementação direta de políticas de *compliance* e integridade.
 
-**Gabarito Oficial: A**
+#### Gabarito e Dissecação Técnica: **Alternativa A**
 
 **Comentário Analítico Alternativa por Alternativa:**
 * **(A) CORRETA:** No Modelo das Três Linhas do IIA (2020), a **Terceira Linha** corresponde à **Auditoria Interna**, cuja missão primordial é fornecer avaliação (*assurance*) e assessoria independentes e objetivas ao Órgão de Governança e à Alta Administração sobre a adequação e a eficácia da governança e do gerenciamento de riscos (abrangendo a 1ª e a 2ª linhas).
@@ -488,19 +492,23 @@ Conforme a atualização do Modelo das Três Linhas do *Institute of Internal Au
 * **(D) INCORRETA:** A execução direta dos controles operacionais cotidianos e a entrega de produtos/serviços na ponta constituem atribuições da **Primeira Linha** (gestão operacional).
 * **(E) INCORRETA:** A elaboração de matrizes de riscos e a implementação de políticas de integridade pertencem à **Segunda Linha** (gestão de riscos e *compliance*).
 
+
+> **🛡️ Regra de Ouro Inviolável:** No Modelo das Três Linhas (IIA 2020), a **3ª Linha é privativa da Auditoria Interna** e presta avaliação (*assurance*) e assessoria independentes diretamente ao Órgão de Governança, enquanto conformidade (*compliance*) e gestão de riscos pertencem à **2ª Linha**.
+
 ---
 
 ### Questão 03 — [FCC — SEFAZ-PE / Auditor Fiscal do Tesouro Estadual — 2022]
+**Identificador QC:** [Q3765476](https://www.qconcursos.com/questoes-de-concursos/questoes/37fa319a-d5)
 
 A atividade da auditoria interna está estruturada em procedimentos, com enfoque técnico, objetivo, sistemático e disciplinado, e tem por finalidade agregar valor ao resultado da organização, apresentando subsídios para o aperfeiçoamento dos processos, da gestão e dos controles internos, por meio da recomendação de soluções para as não-conformidades apontadas nos relatórios. No que tange à auditoria interna, assinale a afirmativa que está em DESACORDO com a Norma Brasileira de Contabilidade NBC TI 01:
 
-- (A) Os testes substantivos visam à obtenção de evidência quanto à suficiência, exatidão e validade dos dados produzidos pelos sistemas de informação da entidade.
-- (B) A análise dos riscos da auditoria interna deve ser feita na fase de planejamento dos trabalhos, considerando a possibilidade de não atingir, de forma satisfatória, o objetivo dos trabalhos.
-- (C) A auditoria interna deve ser documentada por meio de papéis de trabalho, elaborados em meio físico ou eletrônico, que devem ser organizados e arquivados de forma sistemática e racional.
-- (D) O termo "erro" se aplica ao ato intencional de omissão e/ou manipulação de transações e operações, adulteração de documentos, registros, relatórios, informações e demonstrações contábeis, tanto em termos físicos quanto monetários.
-- (E) Análises, demonstrações ou quaisquer outros documentos devem ter sua integridade verificada sempre que forem anexados aos papéis de trabalho.
+* **A)** Os testes substantivos visam à obtenção de evidência quanto à suficiência, exatidão e validade dos dados produzidos pelos sistemas de informação da entidade.
+* **B)** A análise dos riscos da auditoria interna deve ser feita na fase de planejamento dos trabalhos, considerando a possibilidade de não atingir, de forma satisfatória, o objetivo dos trabalhos.
+* **C)** A auditoria interna deve ser documentada por meio de papéis de trabalho, elaborados em meio físico ou eletrônico, que devem ser organizados e arquivados de forma sistemática e racional.
+* **D)** O termo "erro" se aplica ao ato intencional de omissão e/ou manipulação de transações e operações, adulteração de documentos, registros, relatórios, informações e demonstrações contábeis, tanto em termos físicos quanto monetários.
+* **E)** Análises, demonstrações ou quaisquer outros documentos devem ter sua integridade verificada sempre que forem anexados aos papéis de trabalho.
 
-**Gabarito Oficial: D**
+#### Gabarito e Dissecação Técnica: **Alternativa D**
 
 **Comentário Analítico Alternativa por Alternativa:**
 * **(A) CORRETA (de acordo com a norma):** Literalidade do item 12.2.3.4 da NBC TI 01 sobre os testes substantivos.
@@ -509,9 +517,13 @@ A atividade da auditoria interna está estruturada em procedimentos, com enfoque
 * **(D) INCORRETA (em desacordo — Gabarito):** A banca inverteu os conceitos dos itens 12.1.3.2 e 12.1.3.3. O ato **intencional** de omissão, manipulação ou adulteração de documentos denomina-se **FRAUDE**. O **ERRO** aplica-se exclusivamente a ato **não-intencional** resultante de omissão, desatenção, desconhecimento ou má interpretação de fatos.
 * **(E) CORRETA (de acordo com a norma):** Literalidade do item 12.1.2.4 da NBC TI 01 quanto ao dever de verificar a integridade dos documentos anexados aos papéis de trabalho.
 
+
+> **🛡️ Regra de Ouro Inviolável:** A intenção é o divisor de águas: **Fraude é ato intencional** (dolo/adulteração); **Erro é ato involuntário/não intencional** (desatenção/omissão). Além disso, a comunicação de fraudes/erros pela Auditoria Interna deve ser **sempre por escrito e de maneira reservada**.
+
 ---
 
 ### Questão 04 — [Cebraspe — Telebras / Especialista em Gestão de Telecomunicações - Auditoria — 2022]
+**Identificador QC:** [Q3375894](https://www.qconcursos.com/questoes-de-concursos/questoes/8a62bbdd-3b)
 
 Conforme a Norma Brasileira de Contabilidade de Auditoria Interna (NBC TI 01), julgue os itens seguintes e assinale a alternativa correta:
 
@@ -519,13 +531,13 @@ I. A auditoria interna deve assessorar a administração da entidade no trabalho
 II. O relatório da auditoria interna deve ser apresentado a quem tenha solicitado o trabalho ou a quem este autorizar, devendo ser preservada a confidencialidade do seu conteúdo.
 III. A análise dos riscos da auditoria interna deve ser realizada exclusivamente na fase de execução dos trabalhos de auditoria.
 
-- (A) Apenas o item I está correto.
-- (B) Apenas os itens I e II estão corretos.
-- (C) Apenas os itens I e III estão corretos.
-- (D) Apenas os itens II e III estão corretos.
-- (E) Todos os itens estão corretos.
+* **A)** Apenas o item I está correto.
+* **B)** Apenas os itens I e II estão corretos.
+* **C)** Apenas os itens I e III estão corretos.
+* **D)** Apenas os itens II e III estão corretos.
+* **E)** Todos os itens estão corretos.
 
-**Gabarito Oficial: B**
+#### Gabarito e Dissecação Técnica: **Alternativa B**
 
 **Comentário Analítico Alternativa por Alternativa:**
 * **Análise do Item I (CORRETO):** Transcreve fielmente o item 12.1.3.1 da NBC TI 01. Note os três elementos essenciais: (1) assessorar na prevenção; (2) informar **sempre por escrito** e de **maneira reservada**; (3) sobre quaisquer **indícios ou confirmações**.
@@ -533,9 +545,13 @@ III. A análise dos riscos da auditoria interna deve ser realizada exclusivament
 * **Análise do Item III (INCORRETO):** Segundo o item 12.2.2.1 da NBC TI 01, a análise dos riscos da Auditoria Interna deve ser feita na **fase de planejamento** dos trabalhos (e não exclusivamente na fase de execução).
 * Portanto, apenas os itens **I e II** estão corretos, confirmando o gabarito na **alternativa B**.
 
+
+> **🛡️ Regra de Ouro Inviolável:** A análise de riscos da Auditoria Interna é realizada na **fase de planejamento**, não de execução. O relatório final é apresentado a quem solicitou os trabalhos e sob confidencialidade estrita.
+
 ---
 
 ### Questão 05 — [FGV — Prefeitura de São José dos Campos / Auditor Tributário Municipal — 2024]
+**Identificador QC:** [Q4375831](https://www.qconcursos.com/questoes-de-concursos/questoes/fcb11895-c7)
 
 Na fase de execução de uma auditoria conduzida pela unidade de auditoria interna, os procedimentos aplicados e os registros produzidos cumprem funções específicas e não se substituem entre si. Associe cada elemento da Coluna I à descrição correspondente da Coluna II, segundo a NBC TI 01:
 
@@ -553,13 +569,13 @@ Na fase de execução de uma auditoria conduzida pela unidade de auditoria inter
 
 Assinale a alternativa que apresenta a associação correta, de cima para baixo:
 
-- (A) 4, 2, 3, 1.
-- (B) 1, 4, 2, 3.
-- (C) 2, 3, 1, 4.
-- (D) 3, 1, 4, 2.
-- (E) 3, 2, 4, 1.
+* **A)** 4, 2, 3, 1.
+* **B)** 1, 4, 2, 3.
+* **C)** 2, 3, 1, 4.
+* **D)** 3, 1, 4, 2.
+* **E)** 3, 2, 4, 1.
 
-**Gabarito Oficial: D**
+#### Gabarito e Dissecação Técnica: **Alternativa D**
 
 **Comentário Analítico Alternativa por Alternativa:**
 * **1º Parêntese $\rightarrow$ (3) Testes substantivos:** Visam obter evidência quanto à **suficiência, exatidão e validade dos dados** (NBC TI 01, item 12.2.3.4).
@@ -568,19 +584,23 @@ Assinale a alternativa que apresenta a associação correta, de cima para baixo:
 * **4º Parêntese $\rightarrow$ (2) Testes de observância:** Visam obter razoável segurança de que os **controles internos** estabelecidos pela administração estão em **efetivo funcionamento** (NBC TI 01, item 12.2.3.2).
 * A sequência exata é **3, 1, 4, 2**, o que torna correta a **alternativa D** e invalida as demais (A, B, C e E).
 
+
+> **🛡️ Regra de Ouro Inviolável:** Teste de observância avalia se o **controle interno funciona**; Teste substantivo avalia a **suficiência, exatidão e validade dos dados contábeis/operacionais**.
+
 ---
 
 ### Questão 06 — [FGV — CGU / Auditor Federal de Finanças e Controle — 2022]
+**Identificador QC:** [Q3335621](https://www.qconcursos.com/questoes-de-concursos/questoes/a3ad1ec4-2a)
 
 As Normas Internacionais para o exercício profissional da Auditoria Interna, propostas pelo *Institute of Internal Auditors* (IIA), tratam especificamente de normas de atributos e de desempenho, que constituem referência para todos os serviços de auditoria interna. Nesse contexto, suponha que o gestor de uma entidade fez uma solicitação específica para a unidade de auditoria interna, requisitando assessoria para um plano de reorganização da estrutura de processos da entidade, visando à obtenção de maior eficiência na execução de projetos. O serviço de consultoria solicitado à instância de auditoria interna:
 
-- (A) compreende uma avaliação objetiva das evidências a partir de critérios definidos unilateralmente pelo auditor interno.
-- (B) demanda um acordo com o cliente do trabalho para definição da natureza e do escopo do trabalho.
-- (C) envolve necessariamente três partes distintas: o proprietário do processo, o auditor interno e o terceiro usuário que utiliza a avaliação.
-- (D) implica o compartilhamento de responsabilidades decisórias da administração com a equipe de auditoria interna.
-- (E) obriga o auditor interno a emitir parecer contábil com ressalva caso o plano de reorganização não atinja a meta financeira no trimestre seguinte.
+* **A)** compreende uma avaliação objetiva das evidências a partir de critérios definidos unilateralmente pelo auditor interno.
+* **B)** demanda um acordo com o cliente do trabalho para definição da natureza e do escopo do trabalho.
+* **C)** envolve necessariamente três partes distintas: o proprietário do processo, o auditor interno e o terceiro usuário que utiliza a avaliação.
+* **D)** implica o compartilhamento de responsabilidades decisórias da administração com a equipe de auditoria interna.
+* **E)** obriga o auditor interno a emitir parecer contábil com ressalva caso o plano de reorganização não atinja a meta financeira no trimestre seguinte.
 
-**Gabarito Oficial: B**
+#### Gabarito e Dissecação Técnica: **Alternativa B**
 
 **Comentário Analítico Alternativa por Alternativa:**
 * **(A) INCORRETA:** A avaliação objetiva de evidências com escopo e critérios definidos pelo auditor interno caracteriza os serviços de **avaliação (*assurance*)**, e não os serviços de consultoria.
@@ -589,19 +609,23 @@ As Normas Internacionais para o exercício profissional da Auditoria Interna, pr
 * **(D) INCORRETA:** A equipe de auditoria interna **jamais compartilha nem assume responsabilidades de gestão**; a decisão final de implementar ou não as sugestões cabe exclusivamente ao administrador.
 * **(E) INCORRETA:** Serviços de consultoria interna não geram pareceres contábeis de auditoria financeira nem garantem metas futuras de desempenho.
 
+
+> **🛡️ Regra de Ouro Inviolável:** Nos serviços de **avaliação (*assurance*)**, o auditor define o escopo unilateralmente (relação tripartite); nos serviços de **consultoria (*consulting*)**, o escopo decorre de **acordo com o cliente** (relação bipartite), sem nunca assumir função gestora.
+
 ---
 
 ### Questão 07 — [FCC — TRT-4 / Analista Judiciário - Contabilidade — 2022]
+**Identificador QC:** [Q3957778](https://www.qconcursos.com/questoes-de-concursos/questoes/1517f6e8-29)
 
 Em uma organização de médio porte, a auditoria interna foi incumbida de avaliar a adequação dos controles relacionados ao processo de compras. Durante o planejamento dos trabalhos, o auditor definiu procedimentos considerando riscos identificados, materialidade e necessidade de obter evidência apropriada e suficiente. À luz da NBC TI 01, a atuação da auditoria interna, nesse contexto, deve priorizar a:
 
-- (A) emissão de opinião sobre as demonstrações contábeis perante acionistas externos, com base na revisão dos registros do setor de compras.
-- (B) verificação detalhada da totalidade (100%) das transações realizadas no exercício, independentemente da relevância dos riscos associados ao processo.
-- (C) substituição das atividades de controle executadas pelos gestores operacionais, garantindo maior confiabilidade nas operações analisadas.
-- (D) validação prévia e integral das decisões administrativas de compra, assegurando coautoria nas políticas internas previamente estabelecidas.
-- (E) aplicação de procedimentos que permitam avaliar a eficácia dos controles internos, com foco nos riscos que possam impactar os objetivos organizacionais.
+* **A)** emissão de opinião sobre as demonstrações contábeis perante acionistas externos, com base na revisão dos registros do setor de compras.
+* **B)** verificação detalhada da totalidade (100%) das transações realizadas no exercício, independentemente da relevância dos riscos associados ao processo.
+* **C)** substituição das atividades de controle executadas pelos gestores operacionais, garantindo maior confiabilidade nas operações analisadas.
+* **D)** validação prévia e integral das decisões administrativas de compra, assegurando coautoria nas políticas internas previamente estabelecidas.
+* **E)** aplicação de procedimentos que permitam avaliar a eficácia dos controles internos, com foco nos riscos que possam impactar os objetivos organizacionais.
 
-**Gabarito Oficial: E**
+#### Gabarito e Dissecação Técnica: **Alternativa E**
 
 **Comentário Analítico Alternativa por Alternativa:**
 * **(A) INCORRETA:** Quem emite opinião sobre as demonstrações contábeis para acionistas e usuários externos é a **Auditoria Independente (Externa)**, regida pela NBC TA 200/700.
@@ -610,19 +634,23 @@ Em uma organização de médio porte, a auditoria interna foi incumbida de avali
 * **(D) INCORRETA:** A coadministração ou validação prévia vinculante de atos de gestão fere a autonomia e a objetividade do auditor interno, criando risco de autorrevisão.
 * **(E) CORRETA:** Em perfeita harmonia com os itens 12.1.1.1 e 12.2.3 da NBC TI 01, a Auditoria Interna aplica procedimentos estruturados para avaliar a integridade, adequação e eficácia dos controles internos e do gerenciamento de riscos, assistindo a administração no alcance dos objetivos organizacionais.
 
+
+> **🛡️ Regra de Ouro Inviolável:** A Auditoria Interna atua baseada em riscos e amostragem (3ª linha) para assessorar a administração, jamais substituindo gestores nem conferindo 100% de transações.
+
 ---
 
 ### Questão 08 — [FGV — SEFAZ-MG / Auditor Fiscal da Receita Estadual — 2023]
+**Identificador QC:** [Q3335619](https://www.qconcursos.com/questoes-de-concursos/questoes/a3a7f4e6-2a)
 
 A adoção de modelos avançados de governança tem sido fortemente incentivada nas organizações públicas e privadas, a exemplo do Modelo das Três Linhas, desenvolvido pelo *Institute of Internal Auditors* (IIA). Esse modelo tem como objetivo auxiliar as organizações a identificar estruturas e processos que melhor auxiliam no atingimento dos objetivos e facilitam uma forte governança e gerenciamento de riscos. Nesse modelo, papéis focados em objetivos específicos do gerenciamento de riscos, a exemplo de monitoramento da conformidade com leis e regulamentos (*compliance*), comportamento ético aceitável, segurança da informação e avaliação da qualidade, fornecendo expertise complementar e suporte aos gestores operacionais, são associados a:
 
-- (A) primeira linha.
-- (B) segunda linha.
-- (C) terceira linha.
-- (D) órgão de governança.
-- (E) provedores externos de asseguração.
+* **A)** primeira linha.
+* **B)** segunda linha.
+* **C)** terceira linha.
+* **D)** órgão de governança.
+* **E)** provedores externos de asseguração.
 
-**Gabarito Oficial: B**
+#### Gabarito e Dissecação Técnica: **Alternativa B**
 
 **Comentário Analítico Alternativa por Alternativa:**
 * **(A) INCORRETA:** A **primeira linha** compreende os papéis diretamente voltados à entrega de produtos ou serviços aos clientes da organização (gestão operacional na ponta).
@@ -631,19 +659,23 @@ A adoção de modelos avançados de governança tem sido fortemente incentivada 
 * **(D) INCORRETA:** O **órgão de governança** (Conselho de Administração) supervisiona a organização como um todo e presta contas aos *stakeholders*, não executando funções gerenciais de *compliance* de 2ª linha.
 * **(E) INCORRETA:** **Provedores externos** (auditores independentes e reguladores) atuam fora da estrutura da entidade.
 
+
+> **🛡️ Regra de Ouro Inviolável:** Monitoramento de *compliance*, segurança da informação e gestão de riscos são funções de suporte da **2ª Linha**. A **3ª Linha (Auditoria Interna)** avalia a 1ª e a 2ª linhas com independência absoluta face à gestão.
+
 ---
 
 ### Questão 09 — [FCC — CGE-SP / Auditor Estadual de Controle — 2023]
+**Identificador QC:** [Q4369887](https://www.qconcursos.com/questoes-de-concursos/questoes/ab78b0bb-c4)
 
 De acordo com as disposições da NBC TI 01 — Da Auditoria Interna, durante a execução de uma auditoria no departamento de logística e almoxarifado de uma companhia estadual, o auditor interno constatou a ocorrência de irregularidades gravíssimas no controle de combustíveis, com fortes evidências de desvio contínuo que exigiam providências urgentes da diretoria para estancar o prejuízo diário, não podendo aguardar o encerramento global dos exames previstos para dali a três meses. Diante dessa situação específica, a NBC TI 01 estabelece que a Auditoria Interna deve:
 
-- (A) interromper imediatamente o Plano Anual de Auditoria Interna e lavrar auto de infração administrativo contra o chefe do almoxarifado.
-- (B) emitir relatório parcial, expondo os fatos constatados, as evidências e as recomendações para providências imediatas da administração.
-- (C) comunicar o fato verbalmente ao gerente do almoxarifado e aguardar o relatório final para formalizar o apontamento por escrito à presidência.
-- (D) emitir relatório de abstenção de opinião sobre o balanço patrimonial da companhia e publicá-lo no Diário Oficial.
-- (E) assumir interinamente a chefia do almoxarifado até que os controles internos sejam redesenhados e o risco residual seja zerado.
+* **A)** interromper imediatamente o Plano Anual de Auditoria Interna e lavrar auto de infração administrativo contra o chefe do almoxarifado.
+* **B)** emitir relatório parcial, expondo os fatos constatados, as evidências e as recomendações para providências imediatas da administração.
+* **C)** comunicar o fato verbalmente ao gerente do almoxarifado e aguardar o relatório final para formalizar o apontamento por escrito à presidência.
+* **D)** emitir relatório de abstenção de opinião sobre o balanço patrimonial da companhia e publicá-lo no Diário Oficial.
+* **E)** assumir interinamente a chefia do almoxarifado até que os controles internos sejam redesenhados e o risco residual seja zerado.
 
-**Gabarito Oficial: B**
+#### Gabarito e Dissecação Técnica: **Alternativa B**
 
 **Comentário Analítico Alternativa por Alternativa:**
 * **(A) INCORRETA:** O auditor interno não lavra autos de infração punitivos (ato exclusivo de autoridade administrativa/fiscal competente) nem cancela o plano anual por conta própria.
@@ -652,9 +684,13 @@ De acordo com as disposições da NBC TI 01 — Da Auditoria Interna, durante a 
 * **(D) INCORRETA:** Abstenção de opinião e publicação externa são institutos da Auditoria Independente (NBC TA 705), estranhos à Auditoria Interna.
 * **(E) INCORRETA:** Assumir a chefia operacional do setor auditado destrói a independência da Auditoria Interna, além de ser impossível reduzir o risco residual a zero absoluto.
 
+
+> **🛡️ Regra de Ouro Inviolável:** Diante de irregularidades que exijam providências imediatas da administração e não possam aguardar o final dos exames, a NBC TI 01 impõe a emissão de **Relatório Parcial**.
+
 ---
 
 ### Questão 10 — [FGV — Receita Federal / Auditor-Fiscal (Simulado Oficial de Normas CFC) — 2024]
+**Identificador QC:** [Q4368144](https://www.qconcursos.com/questoes-de-concursos/questoes/1f51a7a6-c3)
 
 Na aplicação dos testes de observância previstos na NBC TI 01 (item 12.2.3.3), o auditor interno executa três procedimentos técnicos clássicos para verificar se os controles internos estão em efetivo funcionamento. Considere as três ações descritas a seguir:
 
@@ -664,19 +700,22 @@ III. O auditor interno examinou os livros de registro de entrada, os certificado
 
 Segundo a terminologia estrita da NBC TI 01, os procedimentos executados em I, II e III correspondem, respectivamente, a:
 
-- (A) Inspeção; Confirmação Externa; Recálculo.
-- (B) Observação; Investigação e Confirmação; Inspeção.
-- (C) Investigação; Observação; Revisão Analítica.
-- (D) Observação; Inspeção; Investigação e Confirmação.
-- (E) Inspeção Física; Indagação Verbal; Exame Documental.
+* **A)** Inspeção; Confirmação Externa; Recálculo.
+* **B)** Observação; Investigação e Confirmação; Inspeção.
+* **C)** Investigação; Observação; Revisão Analítica.
+* **D)** Observação; Inspeção; Investigação e Confirmação.
+* **E)** Inspeção Física; Indagação Verbal; Exame Documental.
 
-**Gabarito Oficial: B**
+#### Gabarito e Dissecação Técnica: **Alternativa B**
 
 **Comentário Analítico Alternativa por Alternativa:**
 * **Análise do Item I $\rightarrow$ Observação:** Conforme o item 12.2.3.3, "b", da NBC TI 01, a **observação** consiste no *"acompanhamento de processo ou procedimento quando de sua execução"*.
 * **Análise do Item II $\rightarrow$ Investigação e Confirmação:** Conforme o item 12.2.3.3, "c", da NBC TI 01, a **investigação e confirmação** consistem na *"obtenção de informações perante pessoas físicas ou jurídicas conhecedoras das transações e das operações, dentro ou fora da entidade"*.
 * **Análise do Item III $\rightarrow$ Inspeção:** Conforme o item 12.2.3.3, "a", da NBC TI 01, a **inspeção** consiste na *"verificação de registros, documentos e ativos tangíveis"*.
 * Assim, a correlação exata é **Observação; Investigação e Confirmação; Inspeção**, cravando o gabarito na **alternativa B** e afastando as alternativas A, C, D e E.
+
+
+> **🛡️ Regra de Ouro Inviolável:** Os papéis de trabalho da Auditoria Interna são confidenciais, de custódia e propriedade exclusiva da entidade, e documentam fatos e provas que sustentam as recomendações emitidas.
 
 ---
 
@@ -694,6 +733,9 @@ Segundo a terminologia estrita da NBC TI 01, os procedimentos executados em I, I
 | **4 Características da Informação** | **Suficiente** (*factual e convincente*), **Adequada** (*confiável, melhor evidência*), **Relevante** (*suporte a conclusões/recomendações*) e **Útil** (*atingir metas*). |
 | **Relatório Final e Parcial** | Redigido com **objetividade e imparcialidade**; confidencial. Emite-se **Relatório Parcial** quando irregularidades exigirem **providências imediatas** e não puderem aguardar o final dos exames. |
 
+
+
+> **🛡️ Regra de Ouro Inviolável:** Os papéis de trabalho da Auditoria Interna são confidenciais, de custódia e propriedade exclusiva da entidade, e documentam fatos e provas que sustentam as recomendações emitidas.
 
 ---
 
@@ -742,19 +784,23 @@ Durante a execução dos **Testes de Observância (NBC TI 01, item 12.2.3.2)**, 
    * Em órgãos públicos de pequeno porte ou filiais com quadro reduzido de pessoal, muitas vezes é materialmente impossível segregar todas as etapas (autorização, execução, registro e custódia).
    * Nesses casos, a Auditoria Interna deve recomendar a implantação de **Controles Compensatórios (*Mitigating / Compensating Controls*)**, tais como a **supervisão direta mais rigorosa pelo gestor superior**, revisões independentes periódicas de lotes de transações e monitoramento eletrônico de trilhas de auditoria (*audit trails*).
 
+
+> **🛡️ Regra de Ouro Inviolável:** Os papéis de trabalho da Auditoria Interna são confidenciais, de custódia e propriedade exclusiva da entidade, e documentam fatos e provas que sustentam as recomendações emitidas.
+
 ---
 
 ### Questão 11 — [FGV — Prefeitura de Macaé / Auditor Municipal de Controle Interno — 2024]
+**Identificador QC:** [Q4369455](https://www.qconcursos.com/questoes-de-concursos/questoes/22d4367e-c4)
 
 Uma auditoria interna identificou que o mesmo servidor de determinado órgão realizava, de forma habitual, as seguintes atividades: recebia fisicamente os bens adquiridos; confirmava sozinho sua conformidade definitiva; efetuava o registro no sistema patrimonial; emitia e alterava termos de responsabilidade; registrava transferências entre unidades; e realizava a conferência do inventário anual dos bens cuja movimentação havia sido por ele próprio registrada. Embora não tenha sido constatado desvio patrimonial até aquele momento, a auditoria interna classificou o desenho do controle como vulnerável. Considerando os princípios de controle interno e a NBC TI 01, assinale a alternativa que apresenta a avaliação mais adequada da situação:
 
-- (A) A concentração das atividades é aceitável sempre que o servidor seja ocupante de cargo efetivo, pois a estabilidade funcional constitui mecanismo suficiente para mitigar os riscos decorrentes da ausência de segregação.
-- (B) A ausência de dano efetivamente comprovado torna irrelevante a concentração de atribuições, uma vez que controles internos se destinam prioritariamente à responsabilização posterior, e não à prevenção.
-- (C) A situação evidencia risco decorrente da concentração de funções incompatíveis ou sensíveis, pois quem executa e registra determinadas operações não deve, sempre que a estrutura administrativa razoavelmente o permita, exercer isoladamente todos os controles de validação e conferência sobre os próprios atos.
-- (D) A segregação de funções aplica-se apenas às atividades financeiras e orçamentárias de tesouraria, não alcançando recebimento, movimentação, inventário ou controle de bens permanentes no almoxarifado.
-- (E) A única incompatibilidade existente está na participação do servidor no inventário anual; todas as demais atividades de recebimento, atesto e registro podem ser concentradas sem elevação do risco de controle.
+* **A)** A concentração das atividades é aceitável sempre que o servidor seja ocupante de cargo efetivo, pois a estabilidade funcional constitui mecanismo suficiente para mitigar os riscos decorrentes da ausência de segregação.
+* **B)** A ausência de dano efetivamente comprovado torna irrelevante a concentração de atribuições, uma vez que controles internos se destinam prioritariamente à responsabilização posterior, e não à prevenção.
+* **C)** A situação evidencia risco decorrente da concentração de funções incompatíveis ou sensíveis, pois quem executa e registra determinadas operações não deve, sempre que a estrutura administrativa razoavelmente o permita, exercer isoladamente todos os controles de validação e conferência sobre os próprios atos.
+* **D)** A segregação de funções aplica-se apenas às atividades financeiras e orçamentárias de tesouraria, não alcançando recebimento, movimentação, inventário ou controle de bens permanentes no almoxarifado.
+* **E)** A única incompatibilidade existente está na participação do servidor no inventário anual; todas as demais atividades de recebimento, atesto e registro podem ser concentradas sem elevação do risco de controle.
 
-**Gabarito Oficial: C**
+#### Gabarito e Dissecação Técnica: **Alternativa C**
 
 **Comentário Analítico Alternativa por Alternativa:**
 * **(A) INCORRETA:** O vínculo estatutário/efetivo do servidor jamais substitui a segregação de funções nem elimina o risco de erro não intencional ou de fraude.
@@ -763,19 +809,23 @@ Uma auditoria interna identificou que o mesmo servidor de determinado órgão re
 * **(D) INCORRETA:** A segregação de funções aplica-se a todos os processos críticos da entidade, especialmente à gestão patrimonial, compras e estoques.
 * **(E) INCORRETA:** Acumular a custódia física (recebimento), o atesto definitivo e o próprio lançamento no sistema patrimonial já configura concentração grave de funções incompatíveis, mesmo antes do inventário anual.
 
+
+> **🛡️ Regra de Ouro Inviolável:** O auditor interno não pode assumir responsabilidade de linha (co-gestão), sob pena de perda de objetividade e ameaça de autorrevisão em futuras auditorias.
+
 ---
 
 ### Questão 12 — [Cebraspe — TCE-RJ / Analista de Controle Externo — 2023]
+**Identificador QC:** [Q4369893](https://www.qconcursos.com/questoes-de-concursos/questoes/ab862fdf-c4)
 
 Bruno, auditor interno de uma entidade fechada de previdência complementar (EFPC), extraiu a base integral de pagamentos de benefícios do exercício e, com o auxílio de *software* especializado de auditoria (Técnicas de Auditoria Assistidas por Computador — TAAC), recalculou, item a item, a totalidade dos 41.320 benefícios pagos no ano, confrontando os valores recalculados com os valores registrados na contabilidade. Acerca desse procedimento executado no âmbito da NBC TI 01, assinale a alternativa CORRETA:
 
-- (A) O exame integral da população caracteriza amostragem estatística de máxima cobertura, dispensando a avaliação dos riscos da auditoria interna na fase de planejamento.
-- (B) Por abranger a totalidade (100%) da população de benefícios, o procedimento elimina integralmente o risco de auditoria interna, permitindo a emissão de conclusão com segurança absoluta.
-- (C) O exame da totalidade dos itens afasta o risco de amostragem, subsistindo, contudo, o risco de não amostragem, decorrente, entre outros fatores, da eventual inadequação do procedimento aplicado ou da falta de integridade e confiabilidade dos dados extraídos do sistema.
-- (D) A técnica empregada corresponde a um teste de observância puro, uma vez que o recálculo não verifica a exatidão ou a validade monetária dos dados, limitando-se a observar a conduta dos analistas de benefícios.
-- (E) A utilização de técnicas de auditoria auxiliadas por computador sobre dados extraídos do sistema dispensa a equipe de auditoria interna de possuir conhecimento sobre tecnologia da informação e de verificar a integridade dos dados anexados aos papéis de trabalho.
+* **A)** O exame integral da população caracteriza amostragem estatística de máxima cobertura, dispensando a avaliação dos riscos da auditoria interna na fase de planejamento.
+* **B)** Por abranger a totalidade (100%) da população de benefícios, o procedimento elimina integralmente o risco de auditoria interna, permitindo a emissão de conclusão com segurança absoluta.
+* **C)** O exame da totalidade dos itens afasta o risco de amostragem, subsistindo, contudo, o risco de não amostragem, decorrente, entre outros fatores, da eventual inadequação do procedimento aplicado ou da falta de integridade e confiabilidade dos dados extraídos do sistema.
+* **D)** A técnica empregada corresponde a um teste de observância puro, uma vez que o recálculo não verifica a exatidão ou a validade monetária dos dados, limitando-se a observar a conduta dos analistas de benefícios.
+* **E)** A utilização de técnicas de auditoria auxiliadas por computador sobre dados extraídos do sistema dispensa a equipe de auditoria interna de possuir conhecimento sobre tecnologia da informação e de verificar a integridade dos dados anexados aos papéis de trabalho.
 
-**Gabarito Oficial: C**
+#### Gabarito e Dissecação Técnica: **Alternativa C**
 
 **Comentário Analítico Alternativa por Alternativa:**
 * **(A) INCORRETA:** Examinar 100% dos itens de uma população **não é amostragem** (pois amostragem, por definição, é a aplicação de procedimentos a *menos de 100%* dos itens da população). Além disso, jamais se dispensa a avaliação de riscos no planejamento (item 12.2.2.1 da NBC TI 01).
@@ -784,6 +834,9 @@ Bruno, auditor interno de uma entidade fechada de previdência complementar (EFP
 * **(D) INCORRETA:** O recálculo de valores pagos para verificar a **suficiência, exatidão e validade dos dados** produzidos pelo sistema é o exemplo clássico de **Teste Substantivo** (item 12.2.3.4 da NBC TI 01).
 * **(E) INCORRETA:** Viola os itens 12.1.2.4 e 12.2.5.1 da NBC TI 01: o uso de processamento eletrônico de dados exige profissional com conhecimento suficiente de TI na equipe de Auditoria Interna e a verificação obrigatória da integridade dos documentos e bases anexados aos papéis de trabalho.
 
+
+
+> **🛡️ Regra de Ouro Inviolável:** O auditor independente pode utilizar o trabalho da auditoria interna como suporte, mas **a responsabilidade pela opinião final sobre as demonstrações é exclusiva e indelegável do auditor externo** (NBC TA 610).
 
 ---
 
