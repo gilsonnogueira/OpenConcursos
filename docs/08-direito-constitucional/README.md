@@ -108,9 +108,9 @@ flowchart TD
 ### Eixo 06: Controle de Constitucionalidade
 | Arquivo | Tópicos Principais e Normas Primárias | Bancas-Alvo | Relevância | Status |
 | :--- | :--- | :---: | :---: | :---: |
-| [`01-controle-difuso-e-reserva-de-plenario.md`](06-controle-de-constitucionalidade/01-controle-difuso-e-reserva-de-plenario.md) | Sistema difuso/concreto incidental; legitimidade; cláusula de reserva de plenário (art. 97 e SV 10); papel do Senado Federal (art. 52, X); mutação constitucional e repercussão geral. | FGV, Cebraspe, FCC | Crítica | ⚪ Planejado |
-| [`02-controle-concentrado-abstrato-adi-adc-ado-e-adpf.md`](06-controle-de-constitucionalidade/02-controle-concentrado-abstrato-adi-adc-ado-e-adpf.md) | Ações do controle abstrato perante o STF: ADI, ADC, ADO e ADPF; rol de legitimados do art. 103 (universais vs. especiais/pertinência temática); parâmetro de controle e bloco de constitucionalidade. | FGV, Cebraspe, FCC | Crítica | ⚪ Planejado |
-| [`03-efeitos-da-decisao-e-modulacao-temporal.md`](06-controle-de-constitucionalidade/03-efeitos-da-decisao-e-modulacao-temporal.md) | Eficácia *erga omnes*, efeito vinculante e natureza *ex tunc* vs. *ex nunc*; modulação temporal de efeitos (quórum qualificado de 2/3); coisa julgada inconstitucional e transcendência dos motivos determinantes. | FGV, Cebraspe, FCC | Altíssima | ⚪ Planejado |
+| [`01-controle-difuso-e-reserva-de-plenario.md`](06-controle-de-constitucionalidade/01-controle-difuso-e-reserva-de-plenario.md) | Sistema difuso/concreto incidental; legitimidade; cláusula de reserva de plenário (art. 97 e SV 10); papel do Senado Federal (art. 52, X); mutação constitucional e repercussão geral. | FGV, Cebraspe, FCC | Crítica | 🟢 Concluído |
+| [`02-controle-concentrado-abstrato-adi-adc-ado-e-adpf.md`](06-controle-de-constitucionalidade/02-controle-concentrado-abstrato-adi-adc-ado-e-adpf.md) | Ações do controle abstrato perante o STF: ADI, ADC, ADO e ADPF; rol de legitimados do art. 103 (universais vs. especiais/pertinência temática); parâmetro de controle e bloco de constitucionalidade. | FGV, Cebraspe, FCC | Crítica | 🟢 Concluído |
+| [`03-efeitos-da-decisao-e-modulacao-temporal.md`](06-controle-de-constitucionalidade/03-efeitos-da-decisao-e-modulacao-temporal.md) | Eficácia *erga omnes*, efeito vinculante e natureza *ex tunc* vs. *ex nunc*; modulação temporal de efeitos (quórum qualificado de 2/3); coisa julgada inconstitucional e transcendência dos motivos determinantes. | FGV, Cebraspe, FCC | Altíssima | 🟢 Concluído |
 
 ---
 
