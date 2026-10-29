@@ -329,14 +329,14 @@ As situações I, II, III e IV correspondem, respectivamente, a:
 * **D)** auditoria interna, auditoria independente, auditoria fiscal e perícia contábil.
 * **E)** perícia contábil, auditoria interna, auditoria governamental e auditoria operacional.
 
-#### Gabarito e Dissecação Técnica: **Alternativa D**
+#### Gabarito: **D**
 
-* **Alternativa D (CORRETA):** A classificação funcional é inequívoca:
+* **D (Certa):** A classificação funcional é inequívoca:
 - I. Avaliação de controles operacionais corporativos para a administração = **Auditoria Interna** (NBC TI 01).
 - II. Emissão de parecer sobre demonstrações contábeis com registro CVM = **Auditoria Independente** (NBC TA 200).
 - III. Fiscalização de ICMS mediante NF-e e EFD por agentes do Estado = **Auditoria Fiscal**.
 - IV. Elaboração de laudo contábil sob nomeação de magistrado = **Perícia Contábil** (NBC TP 01).
-- **Alternativas A, B, C e E (INCORRETAS):** Confundem as atribuições privativas de cada ramo e seus respectivos instrumentos normativos.
+* **A, B, C e E (Erradas):** Confundem as atribuições privativas de cada ramo e seus respectivos instrumentos normativos.
 
 > **Fique Ligado:** A assertiva correta consagra o dispositivo normativo estrito aplicável à matéria avaliada.
 
@@ -351,13 +351,13 @@ De acordo com o Decreto nº 6.022/2007, o Sistema Público de Escrituração Dig
 * **D)** Os Municípios estão constitucionalmente impedidos de integrar o ambiente SPED por se tratar de plataforma restrita aos tributos de competência da União e dos Estados.
 * **E)** As retificações de livros contábeis no ambiente da ECD podem ser realizadas livremente pelo contribuinte a qualquer tempo, mesmo após a lavratura de termo de encerramento de fiscalização.
 
-#### Gabarito e Dissecação Técnica: **Alternativa C**
+#### Gabarito: **C**
 
-* **Alternativa C (CORRETA):** O art. 10 da MP nº 2.200-2/2001 e o Decreto nº 6.022/2007 prescrevem expressamente que os documentos e livros digitais integrantes do SPED dependem de certificação digital padrão ICP-Brasil para garantir sua autenticidade, integridade e validade jurídica plena perante terceiros e o Fisco.
-* **Alternativa A (INCORRETA):** A autorização de uso prévia da SEFAZ é condição resolutiva indispensável de existência da NF-e.
-* **Alternativa B (INCORRETA):** O DANFE é apenas representação gráfica e não substitui a NF-e.
-* **Alternativa D (INCORRETA):** O art. 37, XXII, da CF/88 e o SPED contemplam a integração com os Municípios (ex.: NFS-e padrão nacional).
-* **Alternativa E (INCORRETA):** A retificação contábil após o início do procedimento fiscal é ineficaz para elidir infrações tributárias apuradas (art. 138 do CTN e Súmula CARF nº 140).
+* **C (Certa):** O art. 10 da MP nº 2.200-2/2001 e o Decreto nº 6.022/2007 prescrevem expressamente que os documentos e livros digitais integrantes do SPED dependem de certificação digital padrão ICP-Brasil para garantir sua autenticidade, integridade e validade jurídica plena perante terceiros e o Fisco.
+* **A (Errada):** A autorização de uso prévia da SEFAZ é condição resolutiva indispensável de existência da NF-e.
+* **B (Errada):** O DANFE é apenas representação gráfica e não substitui a NF-e.
+* **D (Errada):** O art. 37, XXII, da CF/88 e o SPED contemplam a integração com os Municípios (ex.: NFS-e padrão nacional).
+* **E (Errada):** A retificação contábil após o início do procedimento fiscal é ineficaz para elidir infrações tributárias apuradas (art. 138 do CTN e Súmula CARF nº 140).
 
 > **Fique Ligado:** O art.
 
@@ -372,13 +372,13 @@ A digitalização dos documentos fiscais no Brasil transformou profundamente os 
 * **D)** O emitente de NF-e fica dispensado de manter a guarda do arquivo digital XML caso tenha impresso o DANFE em duas vias arquivadas fisicamente.
 * **E)** A consulta pública da NF-e no portal da SEFAZ pode ser realizada por qualquer cidadão independentemente de certificação digital ou chave de acesso.
 
-#### Gabarito e Dissecação Técnica: **Alternativa C**
+#### Gabarito: **C**
 
-* **Alternativa C (CORRETA):** Descrição perfeita da estrutura técnica da Chave de Acesso (44 dígitos), contemplando cUF (2), AAMM (4), CNPJ (14), mod (2), série (3), nNF (9), tpEmis (1), cNF (8) e cDV (1).
-* **Alternativa A (INCORRETA):** O Convênio SINIEF s/nº de 1970 e o Ajuste SINIEF 07/05 proíbem expressamente o uso de CC-e para retificar valores, alíquotas ou bases de cálculo.
-* **Alternativa B (INCORRETA):** Iniciada a circulação, o cancelamento é vedado; a regularização exige nota fiscal de entrada ou de devolução.
-* **Alternativa D (INCORRETA):** O emitente e o destinatário são legalmente obrigados a manter o arquivo XML pelo prazo decadencial (5 anos).
-* **Alternativa E (INCORRETA):** A consulta exige a Chave de Acesso e a visualização completa do XML restringe-se a partes legítimas com certificado digital.
+* **C (Certa):** Descrição perfeita da estrutura técnica da Chave de Acesso (44 dígitos), contemplando cUF (2), AAMM (4), CNPJ (14), mod (2), série (3), nNF (9), tpEmis (1), cNF (8) e cDV (1).
+* **A (Errada):** O Convênio SINIEF s/nº de 1970 e o Ajuste SINIEF 07/05 proíbem expressamente o uso de CC-e para retificar valores, alíquotas ou bases de cálculo.
+* **B (Errada):** Iniciada a circulação, o cancelamento é vedado; a regularização exige nota fiscal de entrada ou de devolução.
+* **D (Errada):** O emitente e o destinatário são legalmente obrigados a manter o arquivo XML pelo prazo decadencial (5 anos).
+* **E (Errada):** A consulta exige a Chave de Acesso e a visualização completa do XML restringe-se a partes legítimas com certificado digital.
 
 > **Fique Ligado:** Descrição perfeita da estrutura técnica da Chave de Acesso (44 dígitos), contemplando cUF (2), AAMM (4), CNPJ (14), mod (2), série (3), nNF (9), tpEmis (1), cNF (8) e cDV (1).
 
@@ -393,10 +393,10 @@ Durante procedimento de fiscalização digital sobre uma empresa comercial e pre
 * **D)** as informações financeiras de operadoras de cartão de crédito não possuem eficácia probatória em face do princípio do sigilo bancário.
 * **E)** o auto de infração dependerá de homologação judicial prévia pela Vara da Fazenda Pública Estadual.
 
-#### Gabarito e Dissecação Técnica: **Alternativa C**
+#### Gabarito: **C**
 
-* **Alternativa C (CORRETA):** O cruzamento entre dados da DIMP (meios de pagamento) e a escrituração fiscal é instrumento legal consagrado de apuração tributária. O excedente financeiro liquidado e não acobertado por notas fiscais gera presunção legal de omissão de receitas tributáveis, invertendo-se o ônus probatório em desfavor do contribuinte.
-- **Alternativas A, B, D e E (INCORRETAS):** Há expressa previsão nas leis estaduais do ICMS e leis federais; não há mediação bancária; os dados de adquirentes decorrem de obrigação acessória (LC 105/01 art. 5º); e o lançamento de ofício independe de chancela judicial.
+* **C (Certa):** O cruzamento entre dados da DIMP (meios de pagamento) e a escrituração fiscal é instrumento legal consagrado de apuração tributária. O excedente financeiro liquidado e não acobertado por notas fiscais gera presunção legal de omissão de receitas tributáveis, invertendo-se o ônus probatório em desfavor do contribuinte.
+* **A, B, D e E (Erradas):** Há expressa previsão nas leis estaduais do ICMS e leis federais; não há mediação bancária; os dados de adquirentes decorrem de obrigação acessória (LC 105/01 art. 5º); e o lançamento de ofício independe de chancela judicial.
 
 > **Fique Ligado:** O cruzamento entre dados da DIMP (meios de pagamento) e a escrituração fiscal é instrumento legal consagrado de apuração tributária.
 
@@ -411,13 +411,13 @@ A respeito da Escrituração Fiscal Digital (EFD ICMS/IPI) e de suas regras de o
 * **D)** O Bloco G é voltado exclusivamente ao registro de notas fiscais de serviços de transporte interestadual e comunicação.
 * **E)** O Bloco E da EFD é dispensável para empresas que possuam saldo credor acumulado de ICMS ao final do mês.
 
-#### Gabarito e Dissecação Técnica: **Alternativa C**
+#### Gabarito: **C**
 
-* **Alternativa C (CORRETA):** O Bloco K representa a versão digital do Livro de Controle da Produção e do Estoque, detalhando a produção (K230), o consumo de matérias-primas (K235) e a posição física dos estoques em poder próprio e de terceiros (K200).
-* **Alternativa A (INCORRETA):** O Bloco H é o Livro Registro de Inventário (apresentado anualmente).
-* **Alternativa B (INCORRETA):** O Registro C100 traz o cabeçalho individualizado de cada NF-e (número, série, data, chave de acesso); quem faz a consolidação analítica por CST/CFOP é o Registro C190.
-* **Alternativa D (INCORRETA):** O Bloco G destina-se ao CIAP (Controle do Crédito de ICMS do Ativo Permanente); os serviços de transporte e comunicação estão no Bloco D.
-* **Alternativa E (INCORRETA):** O Bloco E (Apuração do ICMS) é obrigatório em todos os períodos de apuração.
+* **C (Certa):** O Bloco K representa a versão digital do Livro de Controle da Produção e do Estoque, detalhando a produção (K230), o consumo de matérias-primas (K235) e a posição física dos estoques em poder próprio e de terceiros (K200).
+* **A (Errada):** O Bloco H é o Livro Registro de Inventário (apresentado anualmente).
+* **B (Errada):** O Registro C100 traz o cabeçalho individualizado de cada NF-e (número, série, data, chave de acesso); quem faz a consolidação analítica por CST/CFOP é o Registro C190.
+* **D (Errada):** O Bloco G destina-se ao CIAP (Controle do Crédito de ICMS do Ativo Permanente); os serviços de transporte e comunicação estão no Bloco D.
+* **E (Errada):** O Bloco E (Apuração do ICMS) é obrigatório em todos os períodos de apuração.
 
 > **Fique Ligado:** O Bloco K representa a versão digital do Livro de Controle da Produção e do Estoque, detalhando a produção (K230), o consumo de matérias-primas (K235) e a posição física dos estoques em poder próprio e de terceiros (K200).
 
@@ -432,10 +432,10 @@ Durante a auditoria das demonstrações contábeis e fiscais de uma empresa atac
 * **D)** autoriza a autoridade fiscal a expropriar imediatamente os veículos de transporte de carga da empresa sem instauração de processo administrativo.
 * **E)** decorre obrigatoriamente de falha de transmissão do ambiente nacional do SPED, cabendo à SEFAZ arcar com os custos tributários.
 
-#### Gabarito e Dissecação Técnica: **Alternativa B**
+#### Gabarito: **B**
 
-* **Alternativa B (CORRETA):** A emissão regular da NF-e gera o dever material de escrituração e recolhimento do débito no Registro E110 da EFD. A omissão dolosa ou culposa do transporte desses valores para a apuração enseja lançamento de ofício do crédito tributário omitido com acréscimo de multas punitivas de ofício e juros legais.
-- **Alternativas A, C, D e E (INCORRETAS):** A sonegação de débito escriturado é infração gravíssima; as notas fiscais emitidas permanecem válidas e geram a obrigação tributária; não há expropriação sumária sem devido processo legal; e a responsabilidade pela integridade da EFD é integral do sujeito passivo.
+* **B (Certa):** A emissão regular da NF-e gera o dever material de escrituração e recolhimento do débito no Registro E110 da EFD. A omissão dolosa ou culposa do transporte desses valores para a apuração enseja lançamento de ofício do crédito tributário omitido com acréscimo de multas punitivas de ofício e juros legais.
+* **A, C, D e E (Erradas):** A sonegação de débito escriturado é infração gravíssima; as notas fiscais emitidas permanecem válidas e geram a obrigação tributária; não há expropriação sumária sem devido processo legal; e a responsabilidade pela integridade da EFD é integral do sujeito passivo.
 
 > **Fique Ligado:** A emissão regular da NF-e gera o dever material de escrituração e recolhimento do débito no Registro E110 da EFD.
 
@@ -450,13 +450,13 @@ A Escrituração Fiscal Digital de Retenções e Outras Informações Fiscais (E
 * **D)** Os eventos da EFD-Reinf são submetidos à autenticação física mediante carimbo e rubrica na Junta Comercial estadual.
 * **E)** A EFD-Reinf substitui integralmente a ECD e a ECF na apuração do lucro real das pessoas jurídicas.
 
-#### Gabarito e Dissecação Técnica: **Alternativa B**
+#### Gabarito: **B**
 
-* **Alternativa B (CORRETA):** A EFD-Reinf integra o módulo tributário do SPED dedicado às retenções na fonte federais (IRRF, PIS, COFINS, CSLL) sobre prestação de serviços tomados de pessoas jurídicas, à apuração da CPRB (desoneração da folha) e aos recursos repassados a associações desportivas.
-* **Alternativa A (INCORRETA):** Não trata de ICMS ou ISS (tributos de competência estadual e municipal).
-* **Alternativa C (INCORRETA):** A obrigação acessória municipal da NFS-e permanece autônoma.
-* **Alternativa D (INCORRETA):** Toda a transmissão é digital com certificação ICP-Brasil no ambiente SPED, sem trâmite em Junta Comercial.
-* **Alternativa E (INCORRETA):** ECD e ECF continuam plenamente vigentes para escrituração contábil e apuração anual do IRPJ/CSLL.
+* **B (Certa):** A EFD-Reinf integra o módulo tributário do SPED dedicado às retenções na fonte federais (IRRF, PIS, COFINS, CSLL) sobre prestação de serviços tomados de pessoas jurídicas, à apuração da CPRB (desoneração da folha) e aos recursos repassados a associações desportivas.
+* **A (Errada):** Não trata de ICMS ou ISS (tributos de competência estadual e municipal).
+* **C (Errada):** A obrigação acessória municipal da NFS-e permanece autônoma.
+* **D (Errada):** Toda a transmissão é digital com certificação ICP-Brasil no ambiente SPED, sem trâmite em Junta Comercial.
+* **E (Errada):** ECD e ECF continuam plenamente vigentes para escrituração contábil e apuração anual do IRPJ/CSLL.
 
 > **Fique Ligado:** A EFD-Reinf integra o módulo tributário do SPED dedicado às retenções na fonte federais (IRRF, PIS, COFINS, CSLL) sobre prestação de serviços tomados de pessoas jurídicas, à apuração da CPRB (desoneração da folha) e aos recursos repassados a associações desportivas.
 
@@ -471,13 +471,13 @@ As obrigações tributárias acessórias desempenham papel nuclear no fornecimen
 * **D)** A guarda do arquivo digital XML da NF-e é obrigatória exclusivamente para o emitente, ficando o destinatário dispensado de qualquer dever de custódia.
 * **E)** A declaração de inidoneidade de um documento fiscal eletrônico exige decisão condenatória transitada em julgado na esfera criminal.
 
-#### Gabarito e Dissecação Técnica: **Alternativa B**
+#### Gabarito: **B**
 
-* **Alternativa B (CORRETA):** Expressa a regra basilar do art. 113, § 3º, do Código Tributário Nacional: *"A obrigação acessória, pelo simples fato da sua inobservância, converte-se em obrigação principal relativamente à penalidade pecuniária"*. A multa acessória não recolhida ostenta natureza de obrigação principal (crédito tributário exigível).
-* **Alternativa A (INCORRETA):** O art. 113 do CTN e a CF/88 autorizam a imposição de multas pelo descumprimento de deveres instrumentais.
-* **Alternativa C (INCORRETA):** As empresas do Simples sujeitam-se ao cumprimento de deveres instrumentais e a multas por descumprimento de prazos.
-* **Alternativa D (INCORRETA):** O art. 13 do Ajuste SINIEF 07/05 impõe o dever de guarda do XML pelo prazo decadencial a ambos (emitente e adquirente).
-* **Alternativa E (INCORRETA):** A inidoneidade fiscal é declarada no âmbito administrativo fiscal pela autoridade fazendária competente.
+* **B (Certa):** Expressa a regra basilar do art. 113, § 3º, do Código Tributário Nacional: *"A obrigação acessória, pelo simples fato da sua inobservância, converte-se em obrigação principal relativamente à penalidade pecuniária"*. A multa acessória não recolhida ostenta natureza de obrigação principal (crédito tributário exigível).
+* **A (Errada):** O art. 113 do CTN e a CF/88 autorizam a imposição de multas pelo descumprimento de deveres instrumentais.
+* **C (Errada):** As empresas do Simples sujeitam-se ao cumprimento de deveres instrumentais e a multas por descumprimento de prazos.
+* **D (Errada):** O art. 13 do Ajuste SINIEF 07/05 impõe o dever de guarda do XML pelo prazo decadencial a ambos (emitente e adquirente).
+* **E (Errada):** A inidoneidade fiscal é declarada no âmbito administrativo fiscal pela autoridade fazendária competente.
 
 > **Fique Ligado:** Expressa a regra basilar do art.
 
@@ -492,11 +492,11 @@ Um auditor fiscal estadual está realizando auditoria nos créditos de ICMS apro
 * **D)** se o maquinário foi adquirido com isenção total de IPI para que o ICMS possa ser aproveitado sem qualquer estorno.
 * **E)** se o valor do crédito foi convertido em Obrigações do Tesouro Nacional para atualização pelo índice inflacionário da FGV.
 
-#### Gabarito e Dissecação Técnica: **Alternativa B**
+#### Gabarito: **B**
 
-* **Alternativa B (CORRETA):** A Lei Complementar nº 87/1996 (Lei Kandir), art. 20, § 5º, disciplina que o creditamento de ICMS sobre bens destinados ao ativo permanente é efetuado à razão de **1/48 por mês**, sendo a parcela mensal proporcionalmente reduzida pelo quociente entre as saídas tributadas (mais exportações) e as saídas totais da empresa. Esse cálculo é controlado e auditado eletronicamente no **Bloco G (CIAP)** da EFD ICMS/IPI.
-* **Alternativa A (INCORRETA):** A apropriação imediata e integral (100%) não se aplica a bens do imobilizado, mas sim a matérias-primas e mercadorias para revenda.
-- **Alternativas C, D e E (INCORRETAS):** O direito ao crédito do ativo decorre de lei complementar, prescindindo de ação judicial, não tem relação com isenção de IPI e não adota indexadores extintos.
+* **B (Certa):** A Lei Complementar nº 87/1996 (Lei Kandir), art. 20, § 5º, disciplina que o creditamento de ICMS sobre bens destinados ao ativo permanente é efetuado à razão de **1/48 por mês**, sendo a parcela mensal proporcionalmente reduzida pelo quociente entre as saídas tributadas (mais exportações) e as saídas totais da empresa. Esse cálculo é controlado e auditado eletronicamente no **Bloco G (CIAP)** da EFD ICMS/IPI.
+* **A (Errada):** A apropriação imediata e integral (100%) não se aplica a bens do imobilizado, mas sim a matérias-primas e mercadorias para revenda.
+* **C, D e E (Erradas):** O direito ao crédito do ativo decorre de lei complementar, prescindindo de ação judicial, não tem relação com isenção de IPI e não adota indexadores extintos.
 
 > **Fique Ligado:** A Lei Complementar nº 87/1996 (Lei Kandir), art.
 
@@ -511,10 +511,10 @@ Em relação à auditoria fiscal do inventário físico e ao controle quantitati
 * **D)** o auditor é obrigado a instaurar processo de inquérito policial antes de qualquer lançamento fiscal de ofício.
 * **E)** a infração extingue-se se a empresa repuser as mercadorias faltantes no estoque no exercício financeiro seguinte.
 
-#### Gabarito e Dissecação Técnica: **Alternativa B**
+#### Gabarito: **B**
 
-* **Alternativa B (CORRETA):** Trata-se de presunção legal expressa constante do art. 294 do RIR/2018 e das legislações estaduais do ICMS: a constatação de falta de mercadorias no estoque físico (estoque físico apurado inferior ao estoque contábil escriturado) enseja a presunção legal absoluta/relativa de que o saldo faltante foi comercializado sem emissão de documento fiscal (saída sem nota), gerando o dever de recolhimento do tributo com base no preço de venda praticado acrescido das penalidades cabíveis.
-- **Alternativas A, C, D e E (INCORRETAS):** Perdas anormais ou naturais de estoque exigem laudo técnico tempestivo do IPT, Corpo de Bombeiros ou órgão metrológico oficial; não há estorno de débito por descuido; o lançamento fiscal independe de inquérito penal; e reposição posterior de estoque não apaga o fato gerador pretérito consumado.
+* **B (Certa):** Trata-se de presunção legal expressa constante do art. 294 do RIR/2018 e das legislações estaduais do ICMS: a constatação de falta de mercadorias no estoque físico (estoque físico apurado inferior ao estoque contábil escriturado) enseja a presunção legal absoluta/relativa de que o saldo faltante foi comercializado sem emissão de documento fiscal (saída sem nota), gerando o dever de recolhimento do tributo com base no preço de venda praticado acrescido das penalidades cabíveis.
+* **A, C, D e E (Erradas):** Perdas anormais ou naturais de estoque exigem laudo técnico tempestivo do IPT, Corpo de Bombeiros ou órgão metrológico oficial; não há estorno de débito por descuido; o lançamento fiscal independe de inquérito penal; e reposição posterior de estoque não apaga o fato gerador pretérito consumado.
 
 > **Fique Ligado:** Trata-se de presunção legal expressa constante do art.
 
@@ -527,7 +527,7 @@ Com base na legislação tributária e nas normas de fiscalização digital do S
 - ( ) Certo
 - ( ) Errado
 
-#### Gabarito e Dissecação Técnica: **Alternativa A**
+#### Gabarito: **A**
 
 - **Justificativa:** O item está **ERRADO**. A transmissão da EFD ICMS/IPI é dever instrumental que não restringe nem limita o poder de polícia tributária e o livre acesso dos auditores fiscais aos estabelecimentos, mercadorias, depósitos e instalações da empresa (arts. 195 e 200 do CTN). A fiscalização pode e deve realizar a contagem física presencial de inventário para confrontar a existência física das mercadorias com os registros eletrônicos dos Blocos C, H e K, apurando eventuais desvios, sobras ou faltas de mercadorias.
 
@@ -544,10 +544,10 @@ Em relação à apuração de fraudes na escrituração digital e à auditoria f
 * **D)** O cancelamento intempestivo de NF-e após 30 dias da autorização exime o contribuinte de prestar declarações retificadoras na EFD ICMS/IPI.
 * **E)** As secretarias de fazenda estaduais não possuem competência legal para celebrar convênios de cooperação técnica para intercâmbio de arquivos XML da NF-e entre si.
 
-#### Gabarito e Dissecação Técnica: **Alternativa B**
+#### Gabarito: **B**
 
-* **Alternativa B (CORRETA):** A existência jurídica e a eficácia de crédito do documento fiscal eletrônico decorrem de sua regular autorização. A apropriação de crédito de ICMS proveniente de NF-e cancelada, denegada ou inidônea afronta o art. 23 da Lei Complementar nº 87/1996, caracterizando crédito espúrio/inidôneo que enseja glosa sumária e autuação fiscal com multa punitiva.
-* **Alternativa A (INCORRETA):** O pagamento financeiro de duplicata não convalida documento fiscal juridicamente inexistente ou cancelado para fins de crédito tributário.
-* **Alternativa C (INCORRETA):** O Bloco K não substitui laudos técnicos quando há divergência relevante nos índices de perda.
-- **Alternativas D e E (INCORRETAS):** O cancelamento intempestivo é infração autônoma e exige retificação da EFD; e os Fiscos possuem ampla competência constitucional e legal de compartilhamento mútuo (art. 37, XXII, da CF/88 e art. 199 do CTN).
+* **B (Certa):** A existência jurídica e a eficácia de crédito do documento fiscal eletrônico decorrem de sua regular autorização. A apropriação de crédito de ICMS proveniente de NF-e cancelada, denegada ou inidônea afronta o art. 23 da Lei Complementar nº 87/1996, caracterizando crédito espúrio/inidôneo que enseja glosa sumária e autuação fiscal com multa punitiva.
+* **A (Errada):** O pagamento financeiro de duplicata não convalida documento fiscal juridicamente inexistente ou cancelado para fins de crédito tributário.
+* **C (Errada):** O Bloco K não substitui laudos técnicos quando há divergência relevante nos índices de perda.
+* **D e E (Erradas):** O cancelamento intempestivo é infração autônoma e exige retificação da EFD; e os Fiscos possuem ampla competência constitucional e legal de compartilhamento mútuo (art. 37, XXII, da CF/88 e art. 199 do CTN).
 > **Fique Ligado:** A existência jurídica e a eficácia de crédito do documento fiscal eletrônico decorrem de sua regular autorização.

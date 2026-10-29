@@ -255,10 +255,10 @@ Em procedimento de auditoria fiscal sobre uma sociedade anônima tributada pelo 
 * **D)** A dedutibilidade dos brindes é autorizada desde que não ultrapasse 20% do capital social.
 * **E)** As despesas com aeronave particular devem ser amortizadas em 20 anos como ativo intangível.
 
-#### Gabarito e Dissecação Técnica: **Alternativa C**
+#### Gabarito: **C**
 
-* **Alternativa C (CORRETA):** A legislação tributária federal é expressa: (1) multas punitivas decorrentes de lançamento de ofício são expressamente indedutíveis (art. 344 do RIR/2018); (2) despesas com brindes são vedadas pelo art. 13 da Lei nº 9.249/1995; e (3) despesas particulares de lazer de administradores violam o princípio da necessidade e utilidade do art. 311, caracterizando despesas indedutíveis e distribuição disfarçada de lucros. Todas devem ser adicionadas na Parte A do e-LALUR.
-- **Alternativas A, B, D e E (INCORRETAS):** Despesas indedutíveis por expressa previsão legal não admitem deduções parciais ou amortizações artificiais.
+* **C (Certa):** A legislação tributária federal é expressa: (1) multas punitivas decorrentes de lançamento de ofício são expressamente indedutíveis (art. 344 do RIR/2018); (2) despesas com brindes são vedadas pelo art. 13 da Lei nº 9.249/1995; e (3) despesas particulares de lazer de administradores violam o princípio da necessidade e utilidade do art. 311, caracterizando despesas indedutíveis e distribuição disfarçada de lucros. Todas devem ser adicionadas na Parte A do e-LALUR.
+* **A, B, D e E (Erradas):** Despesas indedutíveis por expressa previsão legal não admitem deduções parciais ou amortizações artificiais.
 
 > **Fique Ligado:** A legislação tributária federal é expressa: (1) multas punitivas decorrentes de lançamento de ofício são expressamente indedutíveis (art.
 
@@ -273,10 +273,10 @@ Durante fiscalização em um grande supermercado, a equipe de auditoria fiscal e
 * **D)** A fiscalização deve conceder prazo de 12 meses para que o supermercado encontre as mercadorias no depósito.
 * **E)** O lançamento tributário é nulo se não houver confissão espontânea do gerente de estoque.
 
-#### Gabarito e Dissecação Técnica: **Alternativa B**
+#### Gabarito: **B**
 
-* **Alternativa B (CORRETA):** A falta física de mercadorias no estoque em confronto com a escrituração contábil/fiscal gera presunção legal absoluta/relativa de operação de saída sem emissão de documento fiscal (art. 294 do RIR/2018 e regulamentos estaduais do ICMS), autorizando o lançamento de ofício imediato do imposto sobre as vendas presumidas acrescido de multas punitivas qualificadas.
-- **Alternativas A, C, D e E (INCORRETAS):** Não há presunção de consumo isento; a relação comercial com fornecedores não afeta a infração tributária; não há prazo dilatado para justificar faltas; e o lançamento tributário de ofício independe de confissão.
+* **B (Certa):** A falta física de mercadorias no estoque em confronto com a escrituração contábil/fiscal gera presunção legal absoluta/relativa de operação de saída sem emissão de documento fiscal (art. 294 do RIR/2018 e regulamentos estaduais do ICMS), autorizando o lançamento de ofício imediato do imposto sobre as vendas presumidas acrescido de multas punitivas qualificadas.
+* **A, C, D e E (Erradas):** Não há presunção de consumo isento; a relação comercial com fornecedores não afeta a infração tributária; não há prazo dilatado para justificar faltas; e o lançamento tributário de ofício independe de confissão.
 
 > **Fique Ligado:** A falta física de mercadorias no estoque em confronto com a escrituração contábil/fiscal gera presunção legal absoluta/relativa de operação de saída sem emissão de documento fiscal (art.
 
@@ -291,12 +291,12 @@ A respeito da auditoria de Passivo Fictício e da jurisprudência do Conselho Ad
 * **D)** As dívidas com partes relacionadas estão isentas de auditoria de passivo fictício em razão da soberania das assembleias societárias.
 * **E)** A comprovação de passivo fictício gera a extinção do crédito tributário por compensação ficta.
 
-#### Gabarito e Dissecação Técnica: **Alternativa B**
+#### Gabarito: **B**
 
-* **Alternativa B (CORRETA):** Reproduz literalmente a Súmula CARF nº 26. Comprovada a irrealidade ou quitação clandestina da obrigação escriturada no passivo, a lei e a jurisprudência presumem a omissão de receitas, cabendo unicamente ao contribuinte o ônus probatório em contrário.
-* **Alternativa A (INCORRETA):** A presunção atinge a pessoa jurídica, prescindindo de prova de locupletamento individual de sócios.
-* **Alternativa C (INCORRETA):** Retificação contábil após início de fiscalização não afasta infração pretérita (Súmula CARF nº 140).
-- **Alternativas D e E (INCORRETAS):** Mútuos com partes relacionadas são as áreas mais visadas em fiscalizações e passivo fictício enseja exigência de tributos, e não extinção.
+* **B (Certa):** Reproduz literalmente a Súmula CARF nº 26. Comprovada a irrealidade ou quitação clandestina da obrigação escriturada no passivo, a lei e a jurisprudência presumem a omissão de receitas, cabendo unicamente ao contribuinte o ônus probatório em contrário.
+* **A (Errada):** A presunção atinge a pessoa jurídica, prescindindo de prova de locupletamento individual de sócios.
+* **C (Errada):** Retificação contábil após início de fiscalização não afasta infração pretérita (Súmula CARF nº 140).
+* **D e E (Erradas):** Mútuos com partes relacionadas são as áreas mais visadas em fiscalizações e passivo fictício enseja exigência de tributos, e não extinção.
 
 > **Fique Ligado:** Reproduz literalmente a Súmula CARF nº 26.
 
@@ -311,12 +311,12 @@ O auditor fiscal, ao proceder à recomposição do fluxo de caixa de uma empresa
 * **D)** Transfere a responsabilidade pelo imposto para a instituição bancária em que a empresa mantém conta corrente.
 * **E)** Exige que a fiscalização aguarde o encerramento do triênio fiscal para verificar se o saldo se compensou.
 
-#### Gabarito e Dissecação Técnica: **Alternativa B**
+#### Gabarito: **B**
 
-* **Alternativa B (CORRETA):** Conforme art. 293 do RIR/2018, a existência de saldo credor na conta Caixa em qualquer data demonstra a entrada de recursos clandestinos para honrar saídas reais. O saldo credor apurado na data (R\$ 160.000,00) constitui omissão de receitas operacionais tributáveis.
-* **Alternativa A (INCORRETA):** Não há tolerância para saldo credor de R\$ 160 mil como "arredondamento".
-* **Alternativa C (INCORRETA):** Não existe caixa físico negativo na contabilidade nem no mundo material.
-- **Alternativas D e E (INCORRETAS):** O banco não responde por desvios na tesouraria da empresa e o lançamento é imediato por período de apuração.
+* **B (Certa):** Conforme art. 293 do RIR/2018, a existência de saldo credor na conta Caixa em qualquer data demonstra a entrada de recursos clandestinos para honrar saídas reais. O saldo credor apurado na data (R\$ 160.000,00) constitui omissão de receitas operacionais tributáveis.
+* **A (Errada):** Não há tolerância para saldo credor de R\$ 160 mil como "arredondamento".
+* **C (Errada):** Não existe caixa físico negativo na contabilidade nem no mundo material.
+* **D e E (Erradas):** O banco não responde por desvios na tesouraria da empresa e o lançamento é imediato por período de apuração.
 
 > **Fique Ligado:** Conforme art.
 
@@ -331,10 +331,10 @@ Em uma auditoria de custos e despesas dedutíveis no Lucro Real, o Auditor Fisca
 * **D)** A tributação restringe-se à aplicação de multa de trânsito aduaneiro.
 * **E)** A responsabilidade tributária extingue-se se a empresa demitir os diretores comerciais.
 
-#### Gabarito e Dissecação Técnica: **Alternativa A**
+#### Gabarito: **A**
 
-* **Alternativa A (CORRETA):** Pagamento efetuado a beneficiários com CPFs inexistentes/fictícios caracteriza pagamento a beneficiários não identificados e sem causa idônea. Aplica-se compulsoriamente o art. 61 da Lei nº 8.981/1995: incidência de IRRF exclusivo de 35% e glosa total da dedutibilidade no Lucro Real e na CSLL.
-- **Alternativas B, C, D e E (INCORRETAS):** A lei proíbe a dedução de despesas fictícias e a tributação punitiva na fonte é cogente e imediata.
+* **A (Certa):** Pagamento efetuado a beneficiários com CPFs inexistentes/fictícios caracteriza pagamento a beneficiários não identificados e sem causa idônea. Aplica-se compulsoriamente o art. 61 da Lei nº 8.981/1995: incidência de IRRF exclusivo de 35% e glosa total da dedutibilidade no Lucro Real e na CSLL.
+* **B, C, D e E (Erradas):** A lei proíbe a dedução de despesas fictícias e a tributação punitiva na fonte é cogente e imediata.
 
 > **Fique Ligado:** Pagamento efetuado a beneficiários com CPFs inexistentes/fictícios caracteriza pagamento a beneficiários não identificados e sem causa idônea.
 
@@ -349,11 +349,11 @@ Em relação à comprovação de perdas de estoques por quebras no processo prod
 * **D)** As quebras de estoque geram crédito presumido de ICMS para compensação futura.
 * **E)** As perdas de mercadorias no transporte são consideradas despesas financeiras não operacionais.
 
-#### Gabarito e Dissecação Técnica: **Alternativa B**
+#### Gabarito: **B**
 
-* **Alternativa B (CORRETA):** As perdas e quebras normais de estoque inerentes à atividade industrial são integradas aos custos de produção desde que respaldadas por documentação técnica e laudos idôneos emitidos por instituições tecnológicas oficiais ou controles analíticos consolidados de engenharia (art. 303 do RIR/2018).
-* **Alternativa A (INCORRETA):** Veda-se estimativa discricionária arbitrária da administração.
-- **Alternativas C, D e E (INCORRETAS):** Não há crime em perdas normais; perdas anormais exigem estorno de crédito de ICMS (e não crédito presumido); e constituem custos ou perdas operacionais, não despesas financeiras.
+* **B (Certa):** As perdas e quebras normais de estoque inerentes à atividade industrial são integradas aos custos de produção desde que respaldadas por documentação técnica e laudos idôneos emitidos por instituições tecnológicas oficiais ou controles analíticos consolidados de engenharia (art. 303 do RIR/2018).
+* **A (Errada):** Veda-se estimativa discricionária arbitrária da administração.
+* **C, D e E (Erradas):** Não há crime em perdas normais; perdas anormais exigem estorno de crédito de ICMS (e não crédito presumido); e constituem custos ou perdas operacionais, não despesas financeiras.
 
 > **Fique Ligado:** As perdas e quebras normais de estoque inerentes à atividade industrial são integradas aos custos de produção desde que respaldadas por documentação técnica e laudos idôneos emitidos por instituições tecnológicas oficiais ou controles analíticos consolidados de engenharia (art.
 
@@ -368,10 +368,10 @@ Em procedimento fiscalizatório, constatou-se que uma empresa manteve no Ativo C
 * **D)** Extingue a competência fiscalizatória da Receita Federal por se tratar de direito privado.
 * **E)** Exige que o auditor fiscal promova a penhora online dos automóveis dos clientes da empresa.
 
-#### Gabarito e Dissecação Técnica: **Alternativa A**
+#### Gabarito: **A**
 
-* **Alternativa A (CORRETA):** A manutenção no balanço de títulos já quitados pelos clientes configura **ativo fictício**. A receita das vendas foi realizada, mas o numerário foi desviado para contas particulares dos diretores sem trânsito contábil, mantendo-se o saldo irreal a receber no ativo para não registrar o desfalque ou a omissão financeira.
-- **Alternativas B, C, D e E (INCORRETAS):** Ativo fictício é fraude contábil; os rendimentos desviados são tributáveis com penalidades de ofício; a fiscalização tributária é plenamente competente; e os clientes que pagaram regularmente não sofrem constrição judicial.
+* **A (Certa):** A manutenção no balanço de títulos já quitados pelos clientes configura **ativo fictício**. A receita das vendas foi realizada, mas o numerário foi desviado para contas particulares dos diretores sem trânsito contábil, mantendo-se o saldo irreal a receber no ativo para não registrar o desfalque ou a omissão financeira.
+* **B, C, D e E (Erradas):** Ativo fictício é fraude contábil; os rendimentos desviados são tributáveis com penalidades de ofício; a fiscalização tributária é plenamente competente; e os clientes que pagaram regularmente não sofrem constrição judicial.
 
 > **Fique Ligado:** A manutenção no balanço de títulos já quitados pelos clientes configura **ativo fictício**.
 
@@ -386,11 +386,11 @@ O teste de auditoria fiscal que confronta as notas fiscais de vendas de mercador
 * **D)** Teste de conformidade aduaneira marítima.
 * **E)** Procedimento de inventário rotativo cego.
 
-#### Gabarito e Dissecação Técnica: **Alternativa B**
+#### Gabarito: **B**
 
-* **Alternativa B (CORRETA):** A verificação que parte da documentação das operações (vendas reais realizadas) para os registros contábeis e fiscais é o teste de **subavaliação (*tracing*)**, que valida a afirmação de completude/integridade (*completeness*) e busca identificar receitas omitidas.
-* **Alternativa A (INCORRETA):** Superavaliação parte da contabilidade para os documentos comprobatórios.
-- **Alternativas C, D e E (INCORRETAS):** Não se trata de avaliação de intangíveis, normas marítimas ou inventário rotativo.
+* **B (Certa):** A verificação que parte da documentação das operações (vendas reais realizadas) para os registros contábeis e fiscais é o teste de **subavaliação (*tracing*)**, que valida a afirmação de completude/integridade (*completeness*) e busca identificar receitas omitidas.
+* **A (Errada):** Superavaliação parte da contabilidade para os documentos comprobatórios.
+* **C, D e E (Erradas):** Não se trata de avaliação de intangíveis, normas marítimas ou inventário rotativo.
 
 > **Fique Ligado:** A verificação que parte da documentação das operações (vendas reais realizadas) para os registros contábeis e fiscais é o teste de **subavaliação (*tracing*)**, que valida a afirmação de completude/integridade (*completeness*) e busca identificar receitas omitidas.
 
@@ -405,10 +405,10 @@ Em fiscalização sobre a escrituração contábil da empresa Beta Logística S.
 * **D)** O sócio adquire imunidade fiscal em relação aos rendimentos declarados verbalmente.
 * **E)** O lançamento tributário deve ser suspenso por 5 anos até que o sócio comprove a aquisição dos recursos.
 
-#### Gabarito e Dissecação Técnica: **Alternativa B**
+#### Gabarito: **B**
 
-* **Alternativa B (CORRETA):** O art. 297 do RIR/2018 e a jurisprudência sumulada do CARF estabelecem que o suprimento de caixa por sócio exige a demonstração cumulativa da origem dos recursos e da efetiva disponibilidade financeira. A alegação de valores em espécie guardados em casa sem lastro na DIRPF não possui idoneidade probatória, presumindo-se omissão de receita da pessoa jurídica.
-- **Alternativas A, C, D e E (INCORRETAS):** A autonomia patrimonial não legitima aportes sem lastro; não há conversão em títulos públicos; não há imunidade verbal; e o lançamento tributário de ofício não é suspenso por mera alegação desprovida de prova.
+* **B (Certa):** O art. 297 do RIR/2018 e a jurisprudência sumulada do CARF estabelecem que o suprimento de caixa por sócio exige a demonstração cumulativa da origem dos recursos e da efetiva disponibilidade financeira. A alegação de valores em espécie guardados em casa sem lastro na DIRPF não possui idoneidade probatória, presumindo-se omissão de receita da pessoa jurídica.
+* **A, C, D e E (Erradas):** A autonomia patrimonial não legitima aportes sem lastro; não há conversão em títulos públicos; não há imunidade verbal; e o lançamento tributário de ofício não é suspenso por mera alegação desprovida de prova.
 
 > **Fique Ligado:** O art.
 
@@ -423,12 +423,12 @@ A respeito da desclassificação da escrituração contábil e do arbitramento d
 * **D)** A desclassificação contábil extingue definitivamente as obrigações acessórias do contribuinte fiscalizado.
 * **E)** O contribuinte cuja contabilidade for desclassificada perde permanentemente o direito ao contraditório e à ampla defesa.
 
-#### Gabarito e Dissecação Técnica: **Alternativa B**
+#### Gabarito: **B**
 
-* **Alternativa B (CORRETA):** Conforme art. 148 do CTN e arts. 603 a 612 do RIR/2018, a autoridade administrativa procede à desclassificação da escrituração contábil quando esta contiver vícios graves, fraudes, saldos credores sistemáticos ou omissão de registros de inventário que a tornem imprestável para demonstrar a base de cálculo real, cabendo a apuração por arbitramento.
-* **Alternativa A (INCORRETA):** Erros formais escusáveis não autorizam desclassificação sumária.
-* **Alternativa C (INCORRETA):** O arbitramento é ato administrativo fiscal típico do lançamento de ofício.
-- **Alternativas D e E (INCORRETAS):** Obrigações acessórias permanecem vigentes e as garantias constitucionais do contraditório e da ampla defesa são inafastáveis.
+* **B (Certa):** Conforme art. 148 do CTN e arts. 603 a 612 do RIR/2018, a autoridade administrativa procede à desclassificação da escrituração contábil quando esta contiver vícios graves, fraudes, saldos credores sistemáticos ou omissão de registros de inventário que a tornem imprestável para demonstrar a base de cálculo real, cabendo a apuração por arbitramento.
+* **A (Errada):** Erros formais escusáveis não autorizam desclassificação sumária.
+* **C (Errada):** O arbitramento é ato administrativo fiscal típico do lançamento de ofício.
+* **D e E (Erradas):** Obrigações acessórias permanecem vigentes e as garantias constitucionais do contraditório e da ampla defesa são inafastáveis.
 
 > **Fique Ligado:** Conforme art.
 
@@ -443,10 +443,10 @@ Em uma indústria têxtil submetida a procedimento fiscal, constatou-se que o in
 * **D)** As mercadorias excedentes passam compulsoriamente para o patrimônio pessoal do auditor fiscal.
 * **E)** A presunção aplicável à sobra de estoque é de que a entidade recebeu doação governamental imune de tributos.
 
-#### Gabarito e Dissecação Técnica: **Alternativa A**
+#### Gabarito: **A**
 
-* **Alternativa A (CORRETA):** O excesso de estoque físico em relação ao estoque escriturado (**sobra física**) comprova que a mercadoria ingressou no estabelecimento clandestinamente, sem documento fiscal de compra. Essa operação demonstra a existência de pagamentos não escriturados, cuja origem decorre de receitas pretéritas omitidas pela empresa (art. 295 do RIR/2018 e legislação do ICMS).
-- **Alternativas B, C, D e E (INCORRETAS):** Compras clandestinas não geram crédito tributário; não há bonificação por fraude; mercadorias fiscais não se transferem ao agente público; e doações exigem comprovação documental idônea e expressa.
+* **A (Certa):** O excesso de estoque físico em relação ao estoque escriturado (**sobra física**) comprova que a mercadoria ingressou no estabelecimento clandestinamente, sem documento fiscal de compra. Essa operação demonstra a existência de pagamentos não escriturados, cuja origem decorre de receitas pretéritas omitidas pela empresa (art. 295 do RIR/2018 e legislação do ICMS).
+* **B, C, D e E (Erradas):** Compras clandestinas não geram crédito tributário; não há bonificação por fraude; mercadorias fiscais não se transferem ao agente público; e doações exigem comprovação documental idônea e expressa.
 
 > **Fique Ligado:** O excesso de estoque físico em relação ao estoque escriturado (**sobra física**) comprova que a mercadoria ingressou no estabelecimento clandestinamente, sem documento fiscal de compra.
 
@@ -461,9 +461,9 @@ Ao realizar testes de conformidade na conta "Duplicatas a Receber", a equipe de 
 * **D)** Impossibilidade de responsabilização dos administradores em virtude da prescrição decenal.
 * **E)** Obrigação de os clientes liquidarem novamente as duplicatas perante a auditoria.
 
-#### Gabarito e Dissecação Técnica: **Alternativa A**
+#### Gabarito: **A**
 
-* **Alternativa A (CORRETA):** A permanência no ativo de direitos já extintos por quitação efetiva caracteriza **ativo fictício**. Os recursos recebidos dos clientes foram desviados ou ocultados sem trânsito regular pelo caixa escriturado, mantendo-se a duplicata em aberto para evitar a constatação de omissão de receitas ou desfalque de disponibilidades.
-- **Alternativas B e C (INCORRETAS):** Manter créditos inexistentes viola a fidedignidade contábil e as NBC TAs.
-- **Alternativas D e E (INCORRETAS):** Os administradores respondem por dolo e simulação; e clientes que já quitaram regularmente não podem ser cobrados duas vezes.
+* **A (Certa):** A permanência no ativo de direitos já extintos por quitação efetiva caracteriza **ativo fictício**. Os recursos recebidos dos clientes foram desviados ou ocultados sem trânsito regular pelo caixa escriturado, mantendo-se a duplicata em aberto para evitar a constatação de omissão de receitas ou desfalque de disponibilidades.
+* **B e C (Erradas):** Manter créditos inexistentes viola a fidedignidade contábil e as NBC TAs.
+* **D e E (Erradas):** Os administradores respondem por dolo e simulação; e clientes que já quitaram regularmente não podem ser cobrados duas vezes.
 > **Fique Ligado:** A permanência no ativo de direitos já extintos por quitação efetiva caracteriza **ativo fictício**.

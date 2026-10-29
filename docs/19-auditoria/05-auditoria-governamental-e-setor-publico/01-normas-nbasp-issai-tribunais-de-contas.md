@@ -230,13 +230,13 @@ A respeito dos tipos de auditoria no setor público disciplinados pelas Normas B
 * **D)** Os relatórios de auditoria operacional devem obrigatoriamente emitir uma opinião padronizada com ou sem ressalvas sobre os balanços contábeis do órgão.
 * **E)** As auditorias no setor público são sempre realizadas isoladamente, sendo vedada a execução de auditorias combinadas ou integradas.
 
-#### Gabarito e Dissecação Técnica: **Alternativa B**
+#### Gabarito: **B**
 
-* **Alternativa B (CORRETA):** A NBASP 100 e a NBASP 200 definem que o objetivo da auditoria financeira é obter segurança razoável de que as demonstrações contábeis e orçamentárias estão livres de distorções relevantes, expressando uma opinião de auditoria formal na forma positiva.
-* **Alternativa A (INCORRETA):** Avaliação de impactos sociais finais é atribuição da auditoria operacional (efetividade).
-* **Alternativa C (INCORRETA):** Verificação de legalidade de licitações é escopo da auditoria de conformidade.
-* **Alternativa D (INCORRETA):** Auditorias operacionais emitem relatórios descritivos com achados e recomendações, e não opinião padronizada sobre balanços.
-* **Alternativa E (INCORRETA):** A NBASP 100 expressamente autoriza e incentiva a realização de auditorias integradas.
+* **B (Certa):** A NBASP 100 e a NBASP 200 definem que o objetivo da auditoria financeira é obter segurança razoável de que as demonstrações contábeis e orçamentárias estão livres de distorções relevantes, expressando uma opinião de auditoria formal na forma positiva.
+* **A (Errada):** Avaliação de impactos sociais finais é atribuição da auditoria operacional (efetividade).
+* **C (Errada):** Verificação de legalidade de licitações é escopo da auditoria de conformidade.
+* **D (Errada):** Auditorias operacionais emitem relatórios descritivos com achados e recomendações, e não opinião padronizada sobre balanços.
+* **E (Errada):** A NBASP 100 expressamente autoriza e incentiva a realização de auditorias integradas.
 
 > **Fique Ligado:** A NBASP 100 e a NBASP 200 definem que o objetivo da auditoria financeira é obter segurança razoável de que as demonstrações contábeis e orçamentárias estão livres de distorções relevantes, expressando uma opinião de auditoria formal na forma positiva.
 
@@ -251,13 +251,13 @@ No âmbito da auditoria operacional do setor público (NBASP 300), a dimensão q
 * **D)** eficácia.
 * **E)** equidade.
 
-#### Gabarito e Dissecação Técnica: **Alternativa D**
+#### Gabarito: **D**
 
-* **Alternativa D (CORRETA):** A NBASP 300 conceitua a **Eficácia** como o grau em que os objetivos estabelecidos foram alcançados e a relação entre o impacto pretendido e o impacto real de uma atividade ou política pública. Compara metas planejadas com resultados alcançados.
-* **Alternativa A (INCORRETA):** Economicidade trata da minimização de custos dos insumos mantida a qualidade.
-* **Alternativa B (INCORRETA):** Eficiência é a relação insumo/produto (produtividade).
-* **Alternativa C (INCORRETA):** Conformidade é a observância de leis e regulamentos.
-* **Alternativa E (INCORRETA):** Equidade é a justa distribuição de recursos e benefícios.
+* **D (Certa):** A NBASP 300 conceitua a **Eficácia** como o grau em que os objetivos estabelecidos foram alcançados e a relação entre o impacto pretendido e o impacto real de uma atividade ou política pública. Compara metas planejadas com resultados alcançados.
+* **A (Errada):** Economicidade trata da minimização de custos dos insumos mantida a qualidade.
+* **B (Errada):** Eficiência é a relação insumo/produto (produtividade).
+* **C (Errada):** Conformidade é a observância de leis e regulamentos.
+* **E (Errada):** Equidade é a justa distribuição de recursos e benefícios.
 
 > **Fique Ligado:** A NBASP 300 conceitua a **Eficácia** como o grau em que os objetivos estabelecidos foram alcançados e a relação entre o impacto pretendido e o impacto real de uma atividade ou política pública.
 
@@ -272,13 +272,13 @@ A Declaração de Lima (ISSAI 1), considerada a "Magna Charta" da auditoria gove
 * **D)** Os relatórios de auditoria dos Tribunais de Contas devem ser mantidos em segredo de Estado perpétuo para resguardar a imagem dos governantes.
 * **E)** O controle posterior é desnecessário na administração pública quando houver controle prévio preventivo executado pelo Ministério Público.
 
-#### Gabarito e Dissecação Técnica: **Alternativa C**
+#### Gabarito: **C**
 
-* **Alternativa C (CORRETA):** A Declaração de Lima (Seção 5 da ISSAI 1) preceitua que as Instituições Superiores de Controle somente podem cumprir eficazmente suas atribuições se forem independentes da instituição fiscalizada e protegidas contra influências externas, sendo essa independência institucional umbilicalmente ligada à independência e inamovibilidade de seus membros garantida pela Constituição.
-* **Alternativa A (INCORRETA):** Subordinação ao Executivo fere a própria razão de ser do controle externo.
-* **Alternativa B (INCORRETA):** A Declaração de Lima consagrou expressamente a auditoria operacional e de gestão.
-* **Alternativa D (INCORRETA):** A publicidade dos relatórios é princípio cardeal do controle democrático.
-* **Alternativa E (INCORRETA):** O controle a posteriori é o momento central do exame de contas públicas.
+* **C (Certa):** A Declaração de Lima (Seção 5 da ISSAI 1) preceitua que as Instituições Superiores de Controle somente podem cumprir eficazmente suas atribuições se forem independentes da instituição fiscalizada e protegidas contra influências externas, sendo essa independência institucional umbilicalmente ligada à independência e inamovibilidade de seus membros garantida pela Constituição.
+* **A (Errada):** Subordinação ao Executivo fere a própria razão de ser do controle externo.
+* **B (Errada):** A Declaração de Lima consagrou expressamente a auditoria operacional e de gestão.
+* **D (Errada):** A publicidade dos relatórios é princípio cardeal do controle democrático.
+* **E (Errada):** O controle a posteriori é o momento central do exame de contas públicas.
 
 > **Fique Ligado:** A Declaração de Lima (Seção 5 da ISSAI 1) preceitua que as Instituições Superiores de Controle somente podem cumprir eficazmente suas atribuições se forem independentes da instituição fiscalizada e protegidas contra influências externas, sendo essa independência institucional umbilicalmente ligada à independência e inamovibilidade de seus membros garantida pela Constituição.
 
@@ -293,13 +293,13 @@ Em relação à eficácia das decisões proferidas pelos Tribunais de Contas seg
 * **D)** As multas aplicadas pelo Tribunal de Contas da União têm natureza de receitas tributárias municipais decorrentes do ISS.
 * **E)** O cancelamento judicial de decisões do Tribunal de Contas é vedado em face do princípio da separação dos poderes.
 
-#### Gabarito e Dissecação Técnica: **Alternativa A**
+#### Gabarito: **A**
 
-* **Alternativa A (CORRETA):** Conforme art. 71, § 3º, da CF/88: *"As decisões do Tribunal de que resulte imputação de débito ou multa terão eficácia de título executivo"*. Trata-se de título executivo extrajudicial líquido, certo e exigível.
-* **Alternativa B (INCORRETA):** Prescinde de ação ordinária de conhecimento; vai-se diretamente à ação de execução de título.
-* **Alternativa C (INCORRETA):** A jurisprudência vinculante do STF e Súmula 648 do STJ fixam que a legitimidade ativa para a execução pertence ao ente público beneficiário (representado pela AGU, PGE ou PGM), e não ao Tribunal de Contas.
-* **Alternativa D (INCORRETA):** São receitas patrimoniais/indiretas do ente credor, não tributárias.
-* **Alternativa E (INCORRETA):** Decisões do Tribunal de Contas submetem-se ao controle jurisdicional de legalidade pelo Poder Judiciário (art. 5º, XXXV, CF/88).
+* **A (Certa):** Conforme art. 71, § 3º, da CF/88: *"As decisões do Tribunal de que resulte imputação de débito ou multa terão eficácia de título executivo"*. Trata-se de título executivo extrajudicial líquido, certo e exigível.
+* **B (Errada):** Prescinde de ação ordinária de conhecimento; vai-se diretamente à ação de execução de título.
+* **C (Errada):** A jurisprudência vinculante do STF e Súmula 648 do STJ fixam que a legitimidade ativa para a execução pertence ao ente público beneficiário (representado pela AGU, PGE ou PGM), e não ao Tribunal de Contas.
+* **D (Errada):** São receitas patrimoniais/indiretas do ente credor, não tributárias.
+* **E (Errada):** Decisões do Tribunal de Contas submetem-se ao controle jurisdicional de legalidade pelo Poder Judiciário (art. 5º, XXXV, CF/88).
 
 > **Fique Ligado:** Conforme art.
 
@@ -314,11 +314,11 @@ No modelo das Três Linhas do IIA adotado na gestão pública federal, o papel d
 * **D)** Exclusivamente no âmbito do Poder Legislativo como auxiliar parlamentar.
 * **E)** Como órgão colegiado submisso à diretoria das empresas estatais fiscalizadas.
 
-#### Gabarito e Dissecação Técnica: **Alternativa C**
+#### Gabarito: **C**
 
-* **Alternativa C (CORRETA):** A auditoria interna governamental posiciona-se formalmente na **3ª Linha**, prestando serviços de avaliação e consultoria com independência em relação à gestão executiva (1ª Linha) e às instâncias de conformidade/risco (2ª Linha), prestando contas diretamente à alta administração e à sociedade.
-- **Alternativas A e B (INCORRETAS):** A auditoria interna não executa despesas nem faz marketing; manter-se afastada da gestão direta é indispensável para preservar sua objetividade.
-- **Alternativas D e E (INCORRETAS):** A CGU é órgão do Poder Executivo federal e possui independência técnica em relação às estatais auditadas.
+* **C (Certa):** A auditoria interna governamental posiciona-se formalmente na **3ª Linha**, prestando serviços de avaliação e consultoria com independência em relação à gestão executiva (1ª Linha) e às instâncias de conformidade/risco (2ª Linha), prestando contas diretamente à alta administração e à sociedade.
+* **A e B (Erradas):** A auditoria interna não executa despesas nem faz marketing; manter-se afastada da gestão direta é indispensável para preservar sua objetividade.
+* **D e E (Erradas):** A CGU é órgão do Poder Executivo federal e possui independência técnica em relação às estatais auditadas.
 
 > **Fique Ligado:** A auditoria interna governamental posiciona-se formalmente na **3ª Linha**, prestando serviços de avaliação e consultoria com independência em relação à gestão executiva (1ª Linha) e às instâncias de conformidade/risco (2ª Linha), prestando contas diretamente à alta administração e à sociedade.
 
@@ -333,10 +333,10 @@ Em uma auditoria de conformidade realizada por um Tribunal de Contas Estadual so
 * **D)** O superfaturamento é irrelevante se a espessura do asfalto for satisfatória.
 * **E)** O auditor deve aguardar a sentença criminal transitada em julgado para lavrar o relatório técnico.
 
-#### Gabarito e Dissecação Técnica: **Alternativa B**
+#### Gabarito: **B**
 
-* **Alternativa B (CORRETA):** A constatação de superfaturamento em auditoria de conformidade impõe a formação do achado de auditoria com indicação da conduta, nexo causal, critério legal violado e quantificação do débito, com proposta de instauração de Tomada de Contas Especial (TCE) para ressarcimento ao erário e cominação de penalidades legais.
-- **Alternativas A, C, D e E (INCORRETAS):** Sobrepreço não é discricionariedade; obras são objeto típico de fiscalização; a espessura não convalida preço abusivo; e as esferas administrativa e penal são independentes.
+* **B (Certa):** A constatação de superfaturamento em auditoria de conformidade impõe a formação do achado de auditoria com indicação da conduta, nexo causal, critério legal violado e quantificação do débito, com proposta de instauração de Tomada de Contas Especial (TCE) para ressarcimento ao erário e cominação de penalidades legais.
+* **A, C, D e E (Erradas):** Sobrepreço não é discricionariedade; obras são objeto típico de fiscalização; a espessura não convalida preço abusivo; e as esferas administrativa e penal são independentes.
 
 > **Fique Ligado:** A constatação de superfaturamento em auditoria de conformidade impõe a formação do achado de auditoria com indicação da conduta, nexo causal, critério legal violado e quantificação do débito, com proposta de instauração de Tomada de Contas Especial (TCE) para ressarcimento ao erário e cominação de penalidades legais.
 
@@ -351,12 +351,12 @@ A respeito do controle externo exercido pelos Tribunais de Contas e de suas atri
 * **D)** As decisões dos Tribunais de Contas não admitem recurso administrativo de reexame.
 * **E)** Os ministros e conselheiros dos Tribunais de Contas não gozam de garantias de inamovibilidade e vitaliciedade.
 
-#### Gabarito e Dissecação Técnica: **Alternativa B**
+#### Gabarito: **B**
 
-* **Alternativa B (CORRETA):** O Supremo Tribunal Federal (no MS 24.510/DF e precedentes) reconheceu que os Tribunais de Contas detêm competência cautelar implícita fundamentada no art. 71 da CF/88 para decretar a **indisponibilidade cautelar de bens** de responsáveis por desvios e danos ao erário pelo prazo legal de até um ano.
-* **Alternativa A (INCORRETA):** Quebra de sigilo telefônico submete-se à estrita reserva de jurisdição do Poder Judiciário (art. 5º, XII, CF/88).
-* **Alternativa C (INCORRETA):** O art. 71, IV, da CF/88 autoriza inspeções e auditorias por iniciativa própria do Tribunal de Contas.
-- **Alternativas D e E (INCORRETAS):** Há ampla previsão recursal e os membros dos TCs gozam das mesmas garantias da magistratura (art. 73, § 3º, CF/88).
+* **B (Certa):** O Supremo Tribunal Federal (no MS 24.510/DF e precedentes) reconheceu que os Tribunais de Contas detêm competência cautelar implícita fundamentada no art. 71 da CF/88 para decretar a **indisponibilidade cautelar de bens** de responsáveis por desvios e danos ao erário pelo prazo legal de até um ano.
+* **A (Errada):** Quebra de sigilo telefônico submete-se à estrita reserva de jurisdição do Poder Judiciário (art. 5º, XII, CF/88).
+* **C (Errada):** O art. 71, IV, da CF/88 autoriza inspeções e auditorias por iniciativa própria do Tribunal de Contas.
+* **D e E (Erradas):** Há ampla previsão recursal e os membros dos TCs gozam das mesmas garantias da magistratura (art. 73, § 3º, CF/88).
 
 > **Fique Ligado:** O Supremo Tribunal Federal (no MS 24.
 
@@ -371,10 +371,10 @@ O Código de Ética Profissional dos Auditores do Setor Público (NBASP 30 / ISS
 * **D)** Subordinação técnica aos sindicatos de classe de servidores.
 * **E)** Dispensa de fundamentação legal em caso de repercussão na mídia.
 
-#### Gabarito e Dissecação Técnica: **Alternativa C**
+#### Gabarito: **C**
 
-* **Alternativa C (CORRETA):** A NBASP 30 fundamenta-se nos 5 valores e princípios éticos cardeais da INTOSAI: (1) **Integridade**; (2) **Independência e Objetividade**; (3) **Competência Profissional**; (4) **Comportamento Profissional**; e (5) **Confidencialidade e Transparência**.
-- **Alternativas A, B, D e E (INCORRETAS):** A auditoria pública é incompatível com fins lucrativos pessoais, alinhamento partidário, subordinação a sindicatos ou julgamentos midiáticos sem prova documental.
+* **C (Certa):** A NBASP 30 fundamenta-se nos 5 valores e princípios éticos cardeais da INTOSAI: (1) **Integridade**; (2) **Independência e Objetividade**; (3) **Competência Profissional**; (4) **Comportamento Profissional**; e (5) **Confidencialidade e Transparência**.
+* **A, B, D e E (Erradas):** A auditoria pública é incompatível com fins lucrativos pessoais, alinhamento partidário, subordinação a sindicatos ou julgamentos midiáticos sem prova documental.
 
 > **Fique Ligado:** A NBASP 30 fundamenta-se nos 5 valores e princípios éticos cardeais da INTOSAI: (1) **Integridade**; (2) **Independência e Objetividade**; (3) **Competência Profissional**; (4) **Comportamento Profissional**; e (5) **Confidencialidade e Transparência**.
 
@@ -389,10 +389,10 @@ A respeito da prescritibilidade da pretensão de ressarcimento ao erário fundad
 * **D)** A imprescritibilidade aplica-se exclusivamente a débitos decorrentes de contratos administrativos de obras rodoviárias.
 * **E)** O prazo prescricional das decisões dos Tribunais de Contas é decenal (10 anos), conforme regra geral do Código Civil.
 
-#### Gabarito e Dissecação Técnica: **Alternativa B**
+#### Gabarito: **B**
 
-* **Alternativa B (CORRETA):** A tese vinculante fixada pelo STF no Tema 899 é taxativa: *"É prescritível a pretensão de ressarcimento ao erário fundada em decisão de Tribunal de Contas"*. O STF esclareceu que a imprescritibilidade prevista no art. 37, § 5º, da CF/88 restringe-se a ações de improbidade administrativa dolosa ajuizadas perante o Poder Judiciário, submetendo-se a execução do título do TC ao prazo prescricional quinquenal (5 anos) do Decreto 20.910/32 e Lei 9.873/99.
-- **Alternativas A, C, D e E (INCORRETAS):** Contrariam expressamente a tese vinculante do STF e os prazos aplicáveis às execuções da Fazenda Pública.
+* **B (Certa):** A tese vinculante fixada pelo STF no Tema 899 é taxativa: *"É prescritível a pretensão de ressarcimento ao erário fundada em decisão de Tribunal de Contas"*. O STF esclareceu que a imprescritibilidade prevista no art. 37, § 5º, da CF/88 restringe-se a ações de improbidade administrativa dolosa ajuizadas perante o Poder Judiciário, submetendo-se a execução do título do TC ao prazo prescricional quinquenal (5 anos) do Decreto 20.910/32 e Lei 9.873/99.
+* **A, C, D e E (Erradas):** Contrariam expressamente a tese vinculante do STF e os prazos aplicáveis às execuções da Fazenda Pública.
 
 > **Fique Ligado:** A tese vinculante fixada pelo STF no Tema 899 é taxativa: *"É prescritível a pretensão de ressarcimento ao erário fundada em decisão de Tribunal de Contas"*.
 
@@ -407,10 +407,10 @@ Nos termos da Súmula Vinculante nº 3 do Supremo Tribunal Federal, o contradit�
 * **D)** Dependem de autorização prévia e expressa do Ministro de Estado da pasta a que pertencer o servidor.
 * **E)** Aplicam-se exclusivamente a processos que envolvam servidores do Poder Legislativo.
 
-#### Gabarito e Dissecação Técnica: **Alternativa C**
+#### Gabarito: **C**
 
-* **Alternativa C (CORRETA):** Literalidade da Súmula Vinculante nº 3 do STF. O ato inicial de concessão de aposentadoria é ato complexo que só se perfectibiliza com o registro no Tribunal de Contas, dispensando o contraditório inicial (ressalvada a tese do Tema 445 do STF que fixa o prazo de 5 anos para essa apreciação).
-- **Alternativas A, B, D e E (INCORRETAS):** A SV 3 excetua expressamente a concessão inicial; o TCU não é mero órgão opinativo em processos sancionatórios; inexiste tutela ministerial; e aplica-se a todos os jurisdicionados.
+* **C (Certa):** Literalidade da Súmula Vinculante nº 3 do STF. O ato inicial de concessão de aposentadoria é ato complexo que só se perfectibiliza com o registro no Tribunal de Contas, dispensando o contraditório inicial (ressalvada a tese do Tema 445 do STF que fixa o prazo de 5 anos para essa apreciação).
+* **A, B, D e E (Erradas):** A SV 3 excetua expressamente a concessão inicial; o TCU não é mero órgão opinativo em processos sancionatórios; inexiste tutela ministerial; e aplica-se a todos os jurisdicionados.
 
 > **Fique Ligado:** Literalidade da Súmula Vinculante nº 3 do STF.
 
@@ -425,12 +425,12 @@ Em relação à criação de Tribunais de Contas no Brasil sob a égide da Const
 * **D)** Os Tribunais de Contas dos Estados fiscalizam apenas a administração estadual, ficando a fiscalização de todos os municípios a cargo da CGU.
 * **E)** O Distrito Federal possui dois Tribunais de Contas distintos: um distrital e outro federal.
 
-#### Gabarito e Dissecação Técnica: **Alternativa B**
+#### Gabarito: **B**
 
-* **Alternativa B (CORRETA):** O art. 31, § 4º, da CF/88 estabelece de forma categórica: *"É vedada a criação de Tribunais, Conselhos ou órgãos de Contas Municipais"*. Os únicos órgãos municipais preservados foram o TCM/SP e o TCM/RJ, recepcionados por terem sido criados antes de 1988.
-- **Alternativas A e C (INCORRETAS):** É proibida a criação mesmo em capitais gigantescas.
-* **Alternativa D (INCORRETA):** Onde não houver TCM específico, o Tribunal de Contas do respectivo Estado (TCE) fiscaliza os municípios.
-* **Alternativa E (INCORRETA):** O DF possui um único Tribunal: o Tribunal de Contas do Distrito Federal (TCDF).
+* **B (Certa):** O art. 31, § 4º, da CF/88 estabelece de forma categórica: *"É vedada a criação de Tribunais, Conselhos ou órgãos de Contas Municipais"*. Os únicos órgãos municipais preservados foram o TCM/SP e o TCM/RJ, recepcionados por terem sido criados antes de 1988.
+* **A e C (Erradas):** É proibida a criação mesmo em capitais gigantescas.
+* **D (Errada):** Onde não houver TCM específico, o Tribunal de Contas do respectivo Estado (TCE) fiscaliza os municípios.
+* **E (Errada):** O DF possui um único Tribunal: o Tribunal de Contas do Distrito Federal (TCDF).
 
 > **Fique Ligado:** O art.
 
@@ -445,11 +445,11 @@ O princípio da economicidade na auditoria governamental (NBASP 300) diferencia-
 * **D)** A eficiência preocupa-se exclusivamente com a justiça distributiva entre classes sociais.
 * **E)** Não há qualquer distinção técnica ou conceitual entre economicidade e eficiência nas normas da INTOSAI.
 
-#### Gabarito e Dissecação Técnica: **Alternativa B**
+#### Gabarito: **B**
 
-* **Alternativa B (CORRETA):** A NBASP 300 define claramente: **Economicidade** é a minimização dos custos dos recursos empregados na aquisição de insumos (comprar bem pelo menor custo e com padrão de qualidade adequado); **Eficiência** é a maximização da relação produto/insumo (produzir mais com os recursos disponíveis, evitando desperdício de insumos).
-* **Alternativa A (INCORRETA):** Pontualidade está ligada à eficácia do cronograma.
-* **Alternativa C (INCORRETA):** Economicidade não é comprar sucata inútil; exige expressamente a preservação do padrão de qualidade.
-* **Alternativa D (INCORRETA):** Justiça distributiva é a dimensão da equidade.
-* **Alternativa E (INCORRETA):** São dimensões distintas e consagradas no art. 70 da CF/88.
+* **B (Certa):** A NBASP 300 define claramente: **Economicidade** é a minimização dos custos dos recursos empregados na aquisição de insumos (comprar bem pelo menor custo e com padrão de qualidade adequado); **Eficiência** é a maximização da relação produto/insumo (produzir mais com os recursos disponíveis, evitando desperdício de insumos).
+* **A (Errada):** Pontualidade está ligada à eficácia do cronograma.
+* **C (Errada):** Economicidade não é comprar sucata inútil; exige expressamente a preservação do padrão de qualidade.
+* **D (Errada):** Justiça distributiva é a dimensão da equidade.
+* **E (Errada):** São dimensões distintas e consagradas no art. 70 da CF/88.
 > **Fique Ligado:** A NBASP 300 define claramente: **Economicidade** é a minimização dos custos dos recursos empregados na aquisição de insumos (comprar bem pelo menor custo e com padrão de qualidade adequado); **Eficiência** é a maximização da relação produto/insumo (produzir mais com os recursos disponíveis, evitando desperdício de insumos).

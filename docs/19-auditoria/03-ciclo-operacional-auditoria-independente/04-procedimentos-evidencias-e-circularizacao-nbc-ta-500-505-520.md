@@ -246,11 +246,11 @@ De acordo com a NBC TA 530,
 * **D)** o risco de amostragem corresponde ao risco de que a conclusão do auditor, obtida com base na amostra, seja diferente daquela que seria alcançada caso toda a população fosse submetida ao mesmo procedimento de auditoria.
 * **E)** a utilização de sistema ERP integrado elimina o risco de amostragem nos testes de auditoria relacionados ao ICMS.
 
-#### Gabarito Oficial e Dissecação Técnica: **Alternativa D**
-* **Análise da Alternativa A (Incorreta):** A amostragem em auditoria pode ser estatística ou não estatística (NBC TA 530, item 5(g)).
-* **Análise das Alternativas B e C (Incorretas):** A aplicação inadequada de procedimentos decorre do risco não resultante da amostragem (erro humano ou falha técnica).
-* **Análise da Alternativa D (Correta):** Definição literal de **Risco de Amostragem** prevista no item 5(c) da NBC TA 530: o risco de que a conclusão do auditor baseada em amostra seja diferente daquela que seria alcançada se toda a população fosse submetida ao mesmo procedimento.
-* **Análise da Alternativa E (Incorreta):** A existência de ERP não elimina o risco de amostragem quando o auditor opta por testar menos de 100% dos itens da população.
+#### Gabarito: **D**
+* **A (Errada):** A amostragem em auditoria pode ser estatística ou não estatística (NBC TA 530, item 5(g)).
+* **B e C (Erradas):** A aplicação inadequada de procedimentos decorre do risco não resultante da amostragem (erro humano ou falha técnica).
+* **D (Certa):** Definição literal de **Risco de Amostragem** prevista no item 5(c) da NBC TA 530: o risco de que a conclusão do auditor baseada em amostra seja diferente daquela que seria alcançada se toda a população fosse submetida ao mesmo procedimento.
+* **E (Errada):** A existência de ERP não elimina o risco de amostragem quando o auditor opta por testar menos de 100% dos itens da população.
 
 > **Fique Ligado:** Risco de amostragem é o risco de a conclusão com base na amostra diferir da que seria obtida se 100% da população fosse examinada; pode ser de eficácia (risco beta) ou de eficiência (risco alfa).
 
@@ -267,12 +267,12 @@ Sobre os procedimentos de obtenção de evidência de auditoria, assinale a afir
 * **D)** O recálculo envolve a conferência da integridade documental de processos físicos de contratação de serviços por amostragem.
 * **E)** A evidência de auditoria obtida diretamente pelo auditor, em formato documental e a partir de fontes externas independentes, possui confiabilidade superior à evidência obtida indiretamente ou de fontes internas.
 
-#### Gabarito Oficial e Dissecação Técnica: **Alternativa E**
-* **Análise da Alternativa A (Incorreta):** A observação limita-se ao ponto no tempo em que ocorre e pode ser afetada pelo fato de o pessoal estar sendo observado (item A17 da NBC TA 500).
-* **Análise da Alternativa B (Incorreta):** A indagação isolada não fornece evidência suficiente e apropriada para detectar distorção relevante nem para testar eficácia operacional de controles (item A25 da NBC TA 500).
-* **Análise da Alternativa C (Incorreta):** A confirmação negativa fornece evidência consideravelmente menos persuasiva e só pode ser usada como procedimento substantivo único se atendidas cumulativamente quatro condições estritas (NBC TA 505, item 15).
-* **Análise da Alternativa D (Incorreta):** O recálculo consiste na verificação da **exatidão matemática** de documentos ou registros (item A19 da NBC TA 500).
-* **Análise da Alternativa E (Correta):** Sintetiza perfeitamente as regras de ouro da hierarquia de confiabilidade da NBC TA 500: prova direta, documental e de fonte externa independente é o padrão mais alto de confiabilidade probatória.
+#### Gabarito: **E**
+* **A (Errada):** A observação limita-se ao ponto no tempo em que ocorre e pode ser afetada pelo fato de o pessoal estar sendo observado (item A17 da NBC TA 500).
+* **B (Errada):** A indagação isolada não fornece evidência suficiente e apropriada para detectar distorção relevante nem para testar eficácia operacional de controles (item A25 da NBC TA 500).
+* **C (Errada):** A confirmação negativa fornece evidência consideravelmente menos persuasiva e só pode ser usada como procedimento substantivo único se atendidas cumulativamente quatro condições estritas (NBC TA 505, item 15).
+* **D (Errada):** O recálculo consiste na verificação da **exatidão matemática** de documentos ou registros (item A19 da NBC TA 500).
+* **E (Certa):** Sintetiza perfeitamente as regras de ouro da hierarquia de confiabilidade da NBC TA 500: prova direta, documental e de fonte externa independente é o padrão mais alto de confiabilidade probatória.
 
 > **Fique Ligado:** Na circularização positiva, a resposta do terceiro é indispensável; caso não haja resposta após insistência, o auditor DEVE aplicar procedimentos alternativos de auditoria.
 
@@ -284,7 +284,7 @@ Suponha‑se que, durante o planejamento de um trabalho de auditoria, o auditor 
 * **C)** Certo
 * **E)** Errado
 
-#### Gabarito Oficial e Dissecação Técnica: **Errado (E)**
+#### Gabarito: **Errado**
 * **Fundamentação Técnica:** Pegadinha clássica e interdisciplinar sobre o modelo de riscos da NBC TA 200 e NBC TA 330! O auditor amplia os testes substantivos para **reduzir o RISCO DE DETECÇÃO ($RD$)**, e **NÃO para reduzir o Risco de Controle ($RC$)**! O Risco de Controle é uma característica inerente ao sistema de controles mantido pela Administração da entidade auditada; os procedimentos substantivos executados pelo auditor não têm o condão de alterar ou consertar os controles internos deficientes da empresa. Portanto, o item está **ERRADO**.
 
 > **Fique Ligado:** Na inspeção física de ativos tangíveis, o auditor obtém evidência sobre a EXISTÊNCIA do bem, mas NÃO comprova a propriedade (direitos) nem a correta valoração.
@@ -300,10 +300,10 @@ Em auditoria numa clínica de fisioterapia, o fiscal suspeita que parte das sess
 * **D)** Confrontar o total das notas fiscais emitidas com a receita escriturada no Razão, conciliando mês a mês as diferenças entre esses registros.
 * **E)** Tomar os lançamentos de receita do Razão e rastrear cada um até a nota fiscal emitida, a ficha de atendimento e a agenda de sessões correspondentes.
 
-#### Gabarito Oficial e Dissecação Técnica: **Alternativa A**
-* **Análise da Alternativa A (Correta):** A suspeita é de **omissão de receita / faturamento sem nota (subavaliação de receita)**. Para testar a **integralidade (completude)** e flagrar a subavaliação, a direção do teste deve ser obrigatoriamente de **TRACING (Rastreamento)**: partir do **fato gerador físico/operacional** (as fichas de atendimento e agendas de sessões realizadas) e verificar se cada atendimento foi formalmente emitido na nota fiscal e lançado no Razão como receita. Se a sessão existiu na ficha, mas não tem nota/lançamento, o Fisco aponta a omissão de receita!
-* **Análise da Alternativa E (Incorreta):** Tomar os lançamentos de receita do Razão e buscar os documentos (Vouching) serve apenas para testar a **existência/superavaliação**. Se a clínica atendeu 1.000 pacientes no "caixa dois" e só lançou 200 no Razão, todos os 200 do Razão terão fichas perfeitas, e o auditor que parte do Razão jamais descobrirá os 800 pacientes omitidos!
-* **Análise das Alternativas B, C e D (Incorretas):** A circularização do contas a receber examina saldos já contabilizados, o recálculo sobre notas já emitidas não detecta serviços sem nota, e conciliar notas com o Razão só pega divergências de escrituração entre documentos fiscais emitidos e a contabilidade.
+#### Gabarito: **A**
+* **A (Certa):** A suspeita é de **omissão de receita / faturamento sem nota (subavaliação de receita)**. Para testar a **integralidade (completude)** e flagrar a subavaliação, a direção do teste deve ser obrigatoriamente de **TRACING (Rastreamento)**: partir do **fato gerador físico/operacional** (as fichas de atendimento e agendas de sessões realizadas) e verificar se cada atendimento foi formalmente emitido na nota fiscal e lançado no Razão como receita. Se a sessão existiu na ficha, mas não tem nota/lançamento, o Fisco aponta a omissão de receita!
+* **E (Errada):** Tomar os lançamentos de receita do Razão e buscar os documentos (Vouching) serve apenas para testar a **existência/superavaliação**. Se a clínica atendeu 1.000 pacientes no "caixa dois" e só lançou 200 no Razão, todos os 200 do Razão terão fichas perfeitas, e o auditor que parte do Razão jamais descobrirá os 800 pacientes omitidos!
+* **B, C e D (Erradas):** A circularização do contas a receber examina saldos já contabilizados, o recálculo sobre notas já emitidas não detecta serviços sem nota, e conciliar notas com o Razão só pega divergências de escrituração entre documentos fiscais emitidos e a contabilidade.
 
 > **Fique Ligado:** Procedimentos analíticos são obrigatórios no planejamento e na revisão final global; durante a fase de execução substantiva, seu uso é facultativo.
 
@@ -327,8 +327,8 @@ Com base exclusivamente na NBC TA 210 (R1) - CONCORDÂNCIA COM OS TERMOS DO TRAB
 * **D)** aceitar a mudança para revisão, pois, diante de limitação de alcance, é sempre justificável reduzir o nível de asseguração para concluir o trabalho.
 * **E)** aceitar o trabalho e, por se tratar de auditoria recorrente, dispensar a reavaliação dos termos, mantendo os do período anterior.
 
-#### Gabarito Oficial e Dissecação Técnica: **Alternativa A**
-* **Análise da Alternativa A (Correta):** Sintetiza com precisão cirúrgica três regras imperativas da NBC TA 210:
+#### Gabarito: **A**
+* **A (Certa):** Sintetiza com precisão cirúrgica três regras imperativas da NBC TA 210:
   1. **Limitação de Escopo Prévia (Item 7):** Se a administração impõe uma limitação de alcance nos termos de um trabalho proposto que o auditor acredita que resultará em abstenção de opinião, o auditor **NÃO DEVE aceitar esse trabalho limitado**, a menos que exigido por lei;
   2. **Condições Prévias (Item 6):** A administração recusa-se a reconhecer suas responsabilidades básicas (controle interno e fornecimento irrestrito de informações e acesso a pessoas);
   3. **Mudança de Termos do Trabalho (Item 14):** Se, antes da conclusão do trabalho de auditoria, o auditor for solicitado a mudar o trabalho para um que forneça menor nível de asseguração (revisão), o auditor deve determinar se há **justificativa razoável** para isso. Evitar impacto no relatório por causa de limitações ilegítimas de escopo **não é justificativa razoável**! Logo, a conduta correta é a **recusa imediata** do trabalho.
@@ -348,9 +348,9 @@ Dessa forma, de acordo com a NBC TA 620 – UTILIZAÇÃO DO TRABALHO DE ESPECIAL
 * **D)** a metodologia utilizada pelo especialista é apropriada para o objetivo da auditoria, e as conclusões apresentadas são consistentes com outras evidências de auditoria disponíveis.
 * **E)** a responsabilidade final pelo relatório de auditoria pode ser transferida para o especialista, desde que seu trabalho esteja devidamente documentado e validado.
 
-#### Gabarito Oficial e Dissecação Técnica: **Alternativa D**
-* **Análise das Alternativas B e E (Incorretas):** O auditor tem responsabilidade **única e exclusiva** pela opinião expressa, e essa responsabilidade **não é reduzida nem transferida** pela utilização do trabalho de um especialista (item 3 da NBC TA 620).
-* **Análise da Alternativa D (Correta):** Conforme o item 12 da NBC TA 620, o auditor deve avaliar a **adequação do trabalho do especialista** como evidência de auditoria para a afirmação relevante, incluindo: (1) a relevância e razoabilidade das constatações ou conclusões do especialista e sua **consistência com outras evidências de auditoria**; e (2) a relevância e razoabilidade de premissas e métodos significativos utilizados pelo especialista.
+#### Gabarito: **D**
+* **B e E (Erradas):** O auditor tem responsabilidade **única e exclusiva** pela opinião expressa, e essa responsabilidade **não é reduzida nem transferida** pela utilização do trabalho de um especialista (item 3 da NBC TA 620).
+* **D (Certa):** Conforme o item 12 da NBC TA 620, o auditor deve avaliar a **adequação do trabalho do especialista** como evidência de auditoria para a afirmação relevante, incluindo: (1) a relevância e razoabilidade das constatações ou conclusões do especialista e sua **consistência com outras evidências de auditoria**; e (2) a relevância e razoabilidade de premissas e métodos significativos utilizados pelo especialista.
 
 > **Fique Ligado:** A recusa injustificada da administração em permitir a circularização configura limitação de escopo, ensejando comunicação à governança e possível modificação de opinião no relatório.
 
@@ -378,11 +378,11 @@ Estão corretas as afirmativas
 * **D)** I, III e IV, apenas.
 * **E)** I, II, III e IV.
 
-#### Gabarito Oficial e Dissecação Técnica: **Alternativa C**
-* **Assertiva I (Correta):** Se o risco for significativo e o auditor planejar confiar em controles, a NBC TA 330 (item 15) e a NBC TA 540 exigem testes de controle no **período corrente** (vedada a rotação de anos anteriores).
-* **Assertiva II (Correta):** Reproduz literalmente a exigência da NBC TA 540 (item 26 e 28): indagar e exigir medidas da administração e, se insuficiente, desenvolver estimativa pontual ou intervalo do auditor.
-* **Assertiva III (Incorreta):** Quando o auditor desenvolve estimativa pontual ou por intervalo, o item 29 da norma exige expressamente que ele **avalie a adequação dos métodos, premissas e dados utilizados**!
-* **Assertiva IV (Correta):** Exigência documental imperativa da NBC TA 540 (item 39). Logo, estão corretas apenas **I, II e IV** (**Alternativa C**).
+#### Gabarito: **C**
+* **Item I (Certo):** Se o risco for significativo e o auditor planejar confiar em controles, a NBC TA 330 (item 15) e a NBC TA 540 exigem testes de controle no **período corrente** (vedada a rotação de anos anteriores).
+* **Item II (Certo):** Reproduz literalmente a exigência da NBC TA 540 (item 26 e 28): indagar e exigir medidas da administração e, se insuficiente, desenvolver estimativa pontual ou intervalo do auditor.
+* **Item III (Errado):** Quando o auditor desenvolve estimativa pontual ou por intervalo, o item 29 da norma exige expressamente que ele **avalie a adequação dos métodos, premissas e dados utilizados**!
+* **Item IV (Certo):** Exigência documental imperativa da NBC TA 540 (item 39). Logo, estão corretas apenas **I, II e IV** (**Alternativa C**).
 
 > **Fique Ligado:** Confiabilidade da evidência: fonte externa > interna; controles eficazes > ineficazes; obtenção direta > indireta; documentos originais > cópias.
 
@@ -410,7 +410,7 @@ Assinale a alternativa que apresenta a associação correta, de cima para baixo:
 * **C)** 2, 3, 1, 4.
 * **D)** 3, 1, 4, 2.
 
-#### Gabarito Oficial e Dissecação Técnica: **Alternativa D**
+#### Gabarito: **D**
 * **1º Parêntese (3 - Testes Substantivos):** Procedimentos voltados à obtenção de evidência quanto à suficiência, exatidão e validade dos dados produzidos pelos sistemas contábeis da entidade.
 * **2º Parêntese (1 - Papéis de Trabalho):** Documentos e registros dos fatos, informações e provas obtidos que dão suporte à opinião e recomendações.
 * **3º Parêntese (4 - Amostragem):** Aplicação de procedimentos a menos de 100% dos itens da população para permitir conclusões sobre o todo.
@@ -431,14 +431,14 @@ Em relação aos Procedimentos de Confirmação Externa (Circularização), disc
 * **D)** O auditor fica dispensado de executar procedimentos alternativos, devendo emitir relatório imediatamente com abstenção de opinião sem qualquer comunicação à governança.
 * **E)** O auditor pode enviar os pedidos de confirmação clandestinamente utilizando o endereço residencial de um dos membros da equipe técnica.
 
-#### Gabarito e Dissecação Técnica: **Alternativa B**
+#### Gabarito: **B**
 
 **Comentário Analítico Alternativa por Alternativa:**
-* **(A) INCORRETA:** A recusa da administração é um sinal de alerta de alto risco de distorção ou fraude que jamais pode ser aceito passivamente.
-* **(B) CORRETA:** Reflete exatamente o rito obrigatório previsto no item 8 da NBC TA 505: se a administração se recusar a permitir o envio da confirmação, o auditor deve: (a) indagar sobre as razões e buscar evidência sobre sua validade; (b) avaliar as implicações na avaliação dos riscos, inclusive o risco de fraude; e (c) executar procedimentos alternativos para obter evidência hábil e suficiente.
-* **(C) INCORRETA:** Não cabe ao auditor independente fazer denúncias imediatas sem antes avaliar o contexto e esgotar os procedimentos técnicos e de governança previstos nas normas de auditoria.
-* **(D) INCORRETA:** O auditor só modifica a opinião após constatar que a recusa foi desarrazoada ou que não foi possível obter evidência hábil por procedimentos alternativos (item 9 da NBC TA 505).
-* **(E) INCORRETA:** A circularização requer autorização da administração para que terceiros quebrem o sigilo de dados em relação à entidade auditada; o envio clandestino viola a ética profissional.
+* **A (Errada):** A recusa da administração é um sinal de alerta de alto risco de distorção ou fraude que jamais pode ser aceito passivamente.
+* **B (Certa):** Reflete exatamente o rito obrigatório previsto no item 8 da NBC TA 505: se a administração se recusar a permitir o envio da confirmação, o auditor deve: (a) indagar sobre as razões e buscar evidência sobre sua validade; (b) avaliar as implicações na avaliação dos riscos, inclusive o risco de fraude; e (c) executar procedimentos alternativos para obter evidência hábil e suficiente.
+* **C (Errada):** Não cabe ao auditor independente fazer denúncias imediatas sem antes avaliar o contexto e esgotar os procedimentos técnicos e de governança previstos nas normas de auditoria.
+* **D (Errada):** O auditor só modifica a opinião após constatar que a recusa foi desarrazoada ou que não foi possível obter evidência hábil por procedimentos alternativos (item 9 da NBC TA 505).
+* **E (Errada):** A circularização requer autorização da administração para que terceiros quebrem o sigilo de dados em relação à entidade auditada; o envio clandestino viola a ética profissional.
 
 > **Fique Ligado:** Recusa da administração em permitir circularização = Indagar as razões + Avaliar razoabilidade e risco de fraude + Executar procedimentos alternativos. Se injustificada ou sem evidência alternativa = comunicar à governança e modificar o relatório por limitação de escopo.
 
@@ -454,17 +454,17 @@ Sobre a aplicabilidade e as fases de utilização dos **Procedimentos Analítico
 * **D)** Ao projetar e executar procedimentos analíticos substantivos, o auditor está dispensado de avaliar a confiabilidade dos dados com base nos quais a sua expectativa de valores registrados é desenvolvida.
 * **E)** Se os procedimentos analíticos identificarem flutuações inconsistentes com outras informações relevantes, o auditor deve desconsiderá-las caso o montante seja inferior a 10% do patrimônio líquido.
 
-#### Gabarito e Dissecação Técnica: **Alternativa A**
+#### Gabarito: **A**
 
 **Comentário Analítico Alternativa por Alternativa:**
-* **(A) CORRETA:** Síntese perfeita da matriz de obrigatoriedade dos procedimentos analíticos:
+* **A (Certa):** Síntese perfeita da matriz de obrigatoriedade dos procedimentos analíticos:
   1. **Planejamento (NBC TA 315, item 14):** OBRIGATÓRIOS para entender a entidade e identificar riscos de distorção relevante.
   2. **Execução Substantiva (NBC TA 520, item 4):** FACULTATIVOS (o auditor decide se usa testes de detalhes ou analíticos substantivos).
   3. **Conclusão / Revisão Final (NBC TA 520, item 6):** OBRIGATÓRIOS para verificar se as demonstrações contábeis como um todo são consistentes com o conhecimento do auditor sobre a entidade.
-* **(B) INCORRETA:** Como testes substantivos, os procedimentos analíticos são uma **escolha técnica** discricionária do auditor, e não uma obrigatoriedade compulsória para todas as contas.
-* **(C) INCORRETA:** Procedimentos analíticos compreendem comparações financeiras e correlações com informações não financeiras (ex: folha de pagamento vs número de empregados; receita de hotel vs taxa de ocupação).
-* **(D) INCORRETA:** O item 5 da NBC TA 520 determina expressamente que o auditor deve avaliar a confiabilidade dos dados utilizados na expectativa.
-* **(E) INCORRETA:** Flutuações inconsistentes devem ser obrigatoriamente investigadas por meio de indagações à administração e procedimentos adicionais (item 7 da NBC TA 520).
+* **B (Errada):** Como testes substantivos, os procedimentos analíticos são uma **escolha técnica** discricionária do auditor, e não uma obrigatoriedade compulsória para todas as contas.
+* **C (Errada):** Procedimentos analíticos compreendem comparações financeiras e correlações com informações não financeiras (ex: folha de pagamento vs número de empregados; receita de hotel vs taxa de ocupação).
+* **D (Errada):** O item 5 da NBC TA 520 determina expressamente que o auditor deve avaliar a confiabilidade dos dados utilizados na expectativa.
+* **E (Errada):** Flutuações inconsistentes devem ser obrigatoriamente investigadas por meio de indagações à administração e procedimentos adicionais (item 7 da NBC TA 520).
 
 > **Fique Ligado:** Procedimentos Analíticos são OBRIGATÓRIOS em duas fases: no **Planejamento** (avaliação de riscos) e na **Conclusão Geral** (revisão final). Na fase de **Execução Substantiva**, seu uso é FACULTATIVO.
 
@@ -480,14 +480,14 @@ Em relação à suficiência e à adequação da evidência de auditoria e à hi
 * **D)** O auditor independente pode basear toda a sua conclusão em cópias reprográficas e arquivos em formato editável sem verificar os controles internos sobre a geração dessas informações.
 * **E)** Informações preparadas por especialistas contratados pela administração da entidade auditada constituem evidência irrefutável que dispensa qualquer avaliação técnica pelo auditor independente.
 
-#### Gabarito e Dissecação Técnica: **Alternativa B**
+#### Gabarito: **B**
 
 **Comentário Analítico Alternativa por Alternativa:**
-* **(A) INCORRETA:** A suficiência é a medida da quantidade da evidência de auditoria. A quantidade necessária é diretamente afetada pela avaliação dos riscos de distorção e pela qualidade da própria evidência (quanto melhor a qualidade, menos quantidade pode ser exigida).
-* **(B) CORRETA:** Transcreve literalmente a hierarquia de confiabilidade do item A31 da NBC TA 500: a confiabilidade da evidência de auditoria é aumentada quando ela é obtida a partir de **fontes externas independentes** da entidade.
-* **(C) INCORRETA:** Documentos originais e evidências diretas são muito mais confiáveis do que declarações verbais de gestores internos.
-* **(D) INCORRETA:** O auditor deve avaliar a confiabilidade dos documentos, especialmente quando apresentados em fotocópias ou formatos sujeitos a adulteração.
-* **(E) INCORRETA:** Conforme o item 8 da NBC TA 500, ao usar informações elaboradas por especialista da administração, o auditor deve avaliar a competência, habilidades e objetividade do especialista, obter entendimento do seu trabalho e avaliar a adequação do seu trabalho como evidência.
+* **A (Errada):** A suficiência é a medida da quantidade da evidência de auditoria. A quantidade necessária é diretamente afetada pela avaliação dos riscos de distorção e pela qualidade da própria evidência (quanto melhor a qualidade, menos quantidade pode ser exigida).
+* **B (Certa):** Transcreve literalmente a hierarquia de confiabilidade do item A31 da NBC TA 500: a confiabilidade da evidência de auditoria é aumentada quando ela é obtida a partir de **fontes externas independentes** da entidade.
+* **C (Errada):** Documentos originais e evidências diretas são muito mais confiáveis do que declarações verbais de gestores internos.
+* **D (Errada):** O auditor deve avaliar a confiabilidade dos documentos, especialmente quando apresentados em fotocópias ou formatos sujeitos a adulteração.
+* **E (Errada):** Conforme o item 8 da NBC TA 500, ao usar informações elaboradas por especialista da administração, o auditor deve avaliar a competência, habilidades e objetividade do especialista, obter entendimento do seu trabalho e avaliar a adequação do seu trabalho como evidência.
 
 > **Fique Ligado:** Confiabilidade da Evidência: Externa > Interna; Controles fortes > Controles fracos; Obtenção direta pelo auditor > Indireta; Documental > Verbal; Original > Cópia/Digitalizada.
 
@@ -503,14 +503,14 @@ Na realização de testes substantivos sobre a conta de Clientes e Contas a Rece
 * **D)** A ausência de resposta a uma solicitação de confirmação positiva deve ser tratada pelo auditor como confirmação tácita da correção integral do saldo pela contraparte.
 * **E)** O envio de solicitações de confirmação externa substitui a necessidade de manter a documentação de auditoria dos procedimentos executados.
 
-#### Gabarito e Dissecação Técnica: **Alternativa B**
+#### Gabarito: **B**
 
 **Comentário Analítico Alternativa por Alternativa:**
-* **(A) INCORRETA:** A solicitação de confirmação **negativa** solicita que o terceiro responda **apenas e tão somente se discordar** das informações fornecidas no pedido. Quem responde em qualquer hipótese (concordando ou discordando) é a solicitação positiva!
-* **(B) CORRETA:** Descreve com perfeição a modalidade de **confirmação positiva em branco** (ou sem valor preenchido): exige que o terceiro informe o saldo devido. Proporciona evidência muito confiável contra subavaliação ou conluio, mas costuma apresentar menor taxa de resposta em razão do esforço de conciliação exigido da contraparte (item A13 da NBC TA 505).
-* **(C) INCORRETA:** A confirmação negativa fornece evidência **menos persuasiva** do que a positiva, porque a falta de resposta pode decorrer de desinteresse, extravio postal ou desatenção do terceiro, e não de concordância real.
-* **(D) INCORRETA:** Na confirmação positiva, a falta de resposta NÃO significa concordância! É considerada "não resposta" e exige a aplicação compulsória de **procedimentos alternativos de auditoria** (item 12 da NBC TA 505).
-* **(E) INCORRETA:** Todas as confirmações e resultados de procedimentos alternativos devem constar detalhadamente na documentação de auditoria (NBC TA 230).
+* **A (Errada):** A solicitação de confirmação **negativa** solicita que o terceiro responda **apenas e tão somente se discordar** das informações fornecidas no pedido. Quem responde em qualquer hipótese (concordando ou discordando) é a solicitação positiva!
+* **B (Certa):** Descreve com perfeição a modalidade de **confirmação positiva em branco** (ou sem valor preenchido): exige que o terceiro informe o saldo devido. Proporciona evidência muito confiável contra subavaliação ou conluio, mas costuma apresentar menor taxa de resposta em razão do esforço de conciliação exigido da contraparte (item A13 da NBC TA 505).
+* **C (Errada):** A confirmação negativa fornece evidência **menos persuasiva** do que a positiva, porque a falta de resposta pode decorrer de desinteresse, extravio postal ou desatenção do terceiro, e não de concordância real.
+* **D (Errada):** Na confirmação positiva, a falta de resposta NÃO significa concordância! É considerada "não resposta" e exige a aplicação compulsória de **procedimentos alternativos de auditoria** (item 12 da NBC TA 505).
+* **E (Errada):** Todas as confirmações e resultados de procedimentos alternativos devem constar detalhadamente na documentação de auditoria (NBC TA 230).
 
 > **Fique Ligado:** Confirmação Positiva: o terceiro responde em qualquer caso (se em branco = maior esforço e mais confiável; se preenchida = risco de aceite passivo sem checagem). Confirmação Negativa: o terceiro SÓ responde se DISCORDAR (menos persuasiva). Ausência de resposta na positiva = procedimento alternativo obrigatório!
 

@@ -429,11 +429,11 @@ De acordo com a NBC TA 530 (Amostragem em Auditoria), o risco de amostragem pode
 **Gabarito Oficial:** **D**
 
 **Comentários Analíticos Alternativa por Alternativa:**
-* **(A) Incorreta:** Concluir que os controles são *menos eficazes* do que realmente são (subavaliação da confiabilidade) é o Erro Tipo I (Alfa). Ele leva o auditor a ampliar os testes substantivos sem necessidade, afetando a **eficiência** (custo/tempo), mas não a eficácia da auditoria.
-* **(B) Incorreta:** Concluir em um teste de detalhes que *há distorção relevante quando na verdade não há* (rejeição incorreta) também é Erro Tipo I (Alfa). Afeta apenas a **eficiência** da auditoria, gerando trabalho adicional que corrigirá a conclusão inicial.
-* **(C) Incorreta:** Interpretar erroneamente uma evidência documental ou deixar de reconhecer um erro visível configura **risco não resultante da amostragem** (NBC TA 530, item A1), e não risco de amostragem.
-* **(D) Correta:** Nos termos literais do item 5(c)(i) da NBC TA 530, concluir no teste de controle que os controles são **mais eficazes do que realmente são** (superavaliação da confiabilidade) — ou, no teste de detalhes, que não há distorção relevante quando na verdade há (aceitação incorreta) — preocupa o auditor porque **afeta a eficácia da auditoria** e tem mais probabilidade de levar a uma **opinião de auditoria não apropriada**.
-* **(E) Incorreta:** O uso de procedimentos de auditoria inapropriados é exemplo clássico de **risco não resultante da amostragem** (item A1).
+* **A (Errada):** Concluir que os controles são *menos eficazes* do que realmente são (subavaliação da confiabilidade) é o Erro Tipo I (Alfa). Ele leva o auditor a ampliar os testes substantivos sem necessidade, afetando a **eficiência** (custo/tempo), mas não a eficácia da auditoria.
+* **B (Errada):** Concluir em um teste de detalhes que *há distorção relevante quando na verdade não há* (rejeição incorreta) também é Erro Tipo I (Alfa). Afeta apenas a **eficiência** da auditoria, gerando trabalho adicional que corrigirá a conclusão inicial.
+* **C (Errada):** Interpretar erroneamente uma evidência documental ou deixar de reconhecer um erro visível configura **risco não resultante da amostragem** (NBC TA 530, item A1), e não risco de amostragem.
+* **D (Certa):** Nos termos literais do item 5(c)(i) da NBC TA 530, concluir no teste de controle que os controles são **mais eficazes do que realmente são** (superavaliação da confiabilidade) — ou, no teste de detalhes, que não há distorção relevante quando na verdade há (aceitação incorreta) — preocupa o auditor porque **afeta a eficácia da auditoria** e tem mais probabilidade de levar a uma **opinião de auditoria não apropriada**.
+* **E (Errada):** O uso de procedimentos de auditoria inapropriados é exemplo clássico de **risco não resultante da amostragem** (item A1).
 
 > **Fique Ligado:** Risco de Amostragem: Risco Beta afeta a EFICÁCIA (opinião inadequada / mais perigoso); Risco Alfa afeta a EFICIÊNCIA (trabalho adicional desnecessário).
 
@@ -451,11 +451,11 @@ Durante a auditoria das demonstrações contábeis de uma companhia comercial, o
 **Gabarito Oficial:** **B**
 
 **Comentários Analíticos Alternativa por Alternativa:**
-* **(A) Incorreta:** Selecionar todas as duplicatas acima de R\$ 200.000,00 configura **seleção de itens específicos** (NBC TA 500), e **não** amostragem em auditoria (nem estatística, nem não estatística), pois as duplicatas abaixo desse valor tiveram chance zero de seleção. É vedado projetar seus resultados para o restante da população.
-* **(B) Correta:** Conforme o item 5(g) da NBC TA 530, a amostragem estatística exige **cumulativamente**: (1) seleção aleatória dos itens da amostra **e** (2) uso da teoria das probabilidades para avaliar os resultados das amostras, incluindo a mensuração do risco de amostragem. Se faltar o segundo requisito, a abordagem é classificada como **amostragem não estatística**.
-* **(C) Incorreta:** Segundo o Apêndice 4, alínea (d), da NBC TA 530, a seleção ao acaso **não é apropriada quando se usa amostragem estatística**, sendo aplicável apenas na amostragem não estatística.
-* **(D) Incorreta:** Na seleção sistemática (Apêndice 4, alínea "b"), é indispensável que o **ponto de início dentro do primeiro intervalo seja determinado de forma aleatória** (ex.: usando gerador de números aleatórios).
-* **(E) Incorreta:** Conforme o Apêndice 4, alínea (e), a seleção em bloco **geralmente não pode ser usada em amostragem de auditoria** justamente porque itens em sequência tendem a ter características semelhantes entre si, mas diferentes do restante da população.
+* **A (Errada):** Selecionar todas as duplicatas acima de R\$ 200.000,00 configura **seleção de itens específicos** (NBC TA 500), e **não** amostragem em auditoria (nem estatística, nem não estatística), pois as duplicatas abaixo desse valor tiveram chance zero de seleção. É vedado projetar seus resultados para o restante da população.
+* **B (Certa):** Conforme o item 5(g) da NBC TA 530, a amostragem estatística exige **cumulativamente**: (1) seleção aleatória dos itens da amostra **e** (2) uso da teoria das probabilidades para avaliar os resultados das amostras, incluindo a mensuração do risco de amostragem. Se faltar o segundo requisito, a abordagem é classificada como **amostragem não estatística**.
+* **C (Errada):** Segundo o Apêndice 4, alínea (d), da NBC TA 530, a seleção ao acaso **não é apropriada quando se usa amostragem estatística**, sendo aplicável apenas na amostragem não estatística.
+* **D (Errada):** Na seleção sistemática (Apêndice 4, alínea "b"), é indispensável que o **ponto de início dentro do primeiro intervalo seja determinado de forma aleatória** (ex.: usando gerador de números aleatórios).
+* **E (Errada):** Conforme o Apêndice 4, alínea (e), a seleção em bloco **geralmente não pode ser usada em amostragem de auditoria** justamente porque itens em sequência tendem a ter características semelhantes entre si, mas diferentes do restante da população.
 
 > **Fique Ligado:** Métodos de seleção (NBC TA 530, Apêndice 4): aleatória, sistemática (intervalo fixo com início aleatório), unidade monetária (MUS), ao acaso (haphazard) e em bloco (não recomendada em regra).
 
@@ -473,11 +473,11 @@ No planejamento de uma amostragem para testes substantivos de detalhes sobre o s
 **Gabarito Oficial:** **D**
 
 **Comentários Analíticos Alternativa por Alternativa:**
-* **(A) Incorreta:** O aumento na avaliação do risco de distorção relevante (RDR) tem relação **direta** com o tamanho da amostra: quanto maior o risco da conta, **maior** deve ser a amostra substantiva.
-* **(B) Incorreta:** O aumento no valor da distorção esperada na população tem relação **direta**: se o auditor espera encontrar mais erros, precisa de uma amostra **maior** para estimar o valor real da distorção.
-* **(C) Incorreta:** O aumento no nível de segurança desejado (menor risco de amostragem aceito) exige uma amostra **maior**.
-* **(D) Correta:** De acordo com o Apêndice 3 da NBC TA 530, tanto o **aumento no uso de outros procedimentos substantivos dirigidos à mesma afirmação** (como procedimentos analíticos substantivos eficazes) quanto o **aumento na distorção tolerável** possuem relação **inversa** com o tamanho da amostra, fazendo com que o tamanho da amostra **diminua**.
-* **(E) Incorreta:** A redução da distorção tolerável torna o auditor mais rigoroso (aceita menos erro), o que provoca **aumento** no tamanho da amostra.
+* **A (Errada):** O aumento na avaliação do risco de distorção relevante (RDR) tem relação **direta** com o tamanho da amostra: quanto maior o risco da conta, **maior** deve ser a amostra substantiva.
+* **B (Errada):** O aumento no valor da distorção esperada na população tem relação **direta**: se o auditor espera encontrar mais erros, precisa de uma amostra **maior** para estimar o valor real da distorção.
+* **C (Errada):** O aumento no nível de segurança desejado (menor risco de amostragem aceito) exige uma amostra **maior**.
+* **D (Certa):** De acordo com o Apêndice 3 da NBC TA 530, tanto o **aumento no uso de outros procedimentos substantivos dirigidos à mesma afirmação** (como procedimentos analíticos substantivos eficazes) quanto o **aumento na distorção tolerável** possuem relação **inversa** com o tamanho da amostra, fazendo com que o tamanho da amostra **diminua**.
+* **E (Errada):** A redução da distorção tolerável torna o auditor mais rigoroso (aceita menos erro), o que provoca **aumento** no tamanho da amostra.
 
 > **Fique Ligado:** Fatores do tamanho da amostra em testes de detalhes: relação DIRETA com risco de distorção avaliado e distorção esperada; relação INVERSA com distorção tolerável e risco aceitável.
 
@@ -495,15 +495,15 @@ Um auditor independente aplicou amostragem em auditoria em um teste de detalhes 
 **Gabarito Oficial:** **C**
 
 **Comentários Analíticos Alternativa por Alternativa:**
-* **(A) Incorreta:** Projetou indevidamente a anomalia ($\text{R\$ } 38.000 \times 10 = \text{R\$ } 380.000$). O item 14 da NBC TA 530 determina que a anomalia deve ser excluída quando da projeção de distorções para a população.
-* **(B) Incorreta:** Calculou corretamente a projeção ($\text{R\$ } 240.000$), mas esqueceu de somar a anomalia não corrigida ($\text{R\$ } 14.000$) na avaliação final perante a Distorção Tolerável (erro clássico contra os itens A19 e A21).
-* **(C) Correta:** Aplicando os itens 14, A19 e A21 da NBC TA 530:
+* **A (Errada):** Projetou indevidamente a anomalia ($\text{R\$ } 38.000 \times 10 = \text{R\$ } 380.000$). O item 14 da NBC TA 530 determina que a anomalia deve ser excluída quando da projeção de distorções para a população.
+* **B (Errada):** Calculou corretamente a projeção ($\text{R\$ } 240.000$), mas esqueceu de somar a anomalia não corrigida ($\text{R\$ } 14.000$) na avaliação final perante a Distorção Tolerável (erro clássico contra os itens A19 e A21).
+* **C (Certa):** Aplicando os itens 14, A19 e A21 da NBC TA 530:
   1. **Exclusão da anomalia no cálculo da projeção:** Projetam-se apenas os $\text{R\$ } 24.000,00$ não anômalos na proporção da amostra ($10\%$ da população, fator $10$):
      $$\text{Distorção Projetada} = \text{R\$ } 24.000,00 \times \frac{\text{R\$ } 8.000.000,00}{\text{R\$ } 800.000,00} = \text{R\$ } 240.000,00$$
   2. **Soma da anomalia não corrigida para confronto com a Distorção Tolerável:**
      $$\text{Total para Confronto} = \text{R\$ } 240.000,00 + \text{R\$ } 14.000,00 = \text{R\$ } 254.000,00$$
-* **(D) Incorreta:** Além de projetar a anomalia, somou-a novamente ao final.
-* **(E) Incorreta:** Inverteu os valores, projetando apenas a anomalia ($\text{R\$ } 14.000 \times 10 = \text{R\$ } 140.000$) e somando os erros normais sem projetar ($\text{R\$ } 24.000$).
+* **D (Errada):** Além de projetar a anomalia, somou-a novamente ao final.
+* **E (Errada):** Inverteu os valores, projetando apenas a anomalia ($\text{R\$ } 14.000 \times 10 = \text{R\$ } 140.000$) e somando os erros normais sem projetar ($\text{R\$ } 24.000$).
 
 > **Fique Ligado:** Distorção anômala é aquela que não é representativa da população; o auditor deve obter alto grau de certeza de que é anômala e excluí-la da projeção, somando-a ao final.
 
@@ -521,13 +521,13 @@ Na execução de testes de controle por amostragem sobre o processo de aprovaç�
 **Gabarito Oficial:** **C**
 
 **Comentários Analíticos Alternativa por Alternativa:**
-* **(A) Incorreta:** O processo nº 42 (documentação perdida/extraviada de operação consumada) jamais pode ser substituído (item 11 e A15 da NBC TA 530).
-* **(B) Incorreta:** O processo nº 14 foi legitimamente cancelado (o procedimento de teste de aprovação de compra não é aplicável a ele), devendo ser substituído (item 10 e A14), e não tratado como desvio.
-* **(C) Correta:** A questão cobra os itens 10, 11, A14 e A15 da NBC TA 530:
+* **A (Errada):** O processo nº 42 (documentação perdida/extraviada de operação consumada) jamais pode ser substituído (item 11 e A15 da NBC TA 530).
+* **B (Errada):** O processo nº 14 foi legitimamente cancelado (o procedimento de teste de aprovação de compra não é aplicável a ele), devendo ser substituído (item 10 e A14), e não tratado como desvio.
+* **C (Certa):** A questão cobra os itens 10, 11, A14 e A15 da NBC TA 530:
   - Para o **processo nº 14** (adequadamente cancelado, sem irregularidade): o procedimento não é aplicável ao item selecionado, devendo o auditor executar o procedimento em um **item substituto** (item 10).
   - Para o **processo nº 42** (documentação extraviada, sem procedimento alternativo possível): como o auditor não pôde aplicar os procedimentos definidos nem alternativos ao item selecionado, ele **deve tratar esse item como um desvio do controle previsto** (item 11).
-* **(D) Incorreta:** Inverte exatamente o tratamento normativo dos dois casos.
-* **(E) Incorreta:** A NBC TA 530 não autoriza encolher arbitrariamente o tamanho da amostra planejada diante de documentos extraviados ou cancelados.
+* **D (Errada):** Inverte exatamente o tratamento normativo dos dois casos.
+* **E (Errada):** A NBC TA 530 não autoriza encolher arbitrariamente o tamanho da amostra planejada diante de documentos extraviados ou cancelados.
 
 > **Fique Ligado:** Testes de controle: se a taxa de desvio da amostra exceder a taxa tolerável de desvio, o auditor não pode confiar no controle da forma planejada, devendo ampliar testes substantivos.
 
@@ -545,11 +545,11 @@ De acordo com as disposições da NBC TA 530 sobre estratificação e projeção
 **Gabarito Oficial:** **D**
 
 **Comentários Analíticos Alternativa por Alternativa:**
-* **(A) Incorreta:** Estratificação por valor monetário e projeção financeira de distorções são próprias dos **testes de detalhes**, e não dos testes de controle (que avaliam taxas de desvio de atributos).
-* **(B) Incorreta:** Conforme o Apêndice 1, item 3, da NBC TA 530, os resultados aplicados a uma amostra de itens dentro de um estrato **só podem ser projetados para os itens que compõem esse mesmo estrato**.
-* **(C) Incorreta:** O objetivo da estratificação é justamente **reduzir** a variabilidade dos itens dentro de cada estrato e, assim, permitir que o tamanho da amostra seja **reduzido** sem aumentar o risco de amostragem (Apêndice 1, item 1).
-* **(D) Correta:** Reproduz literalmente o disposto no item A20 da NBC TA 530: *"Para testes de controle, não é necessária projeção explícita de desvios, uma vez que a taxa de desvio da amostra é também a taxa projetada de desvio para a população como um todo"*.
-* **(E) Incorreta:** Conforme o Apêndice 1, item 2, da NBC TA 530, os estratos devem ser explicitamente definidos de modo que **cada unidade de amostragem possa pertencer a um único estrato**.
+* **A (Errada):** Estratificação por valor monetário e projeção financeira de distorções são próprias dos **testes de detalhes**, e não dos testes de controle (que avaliam taxas de desvio de atributos).
+* **B (Errada):** Conforme o Apêndice 1, item 3, da NBC TA 530, os resultados aplicados a uma amostra de itens dentro de um estrato **só podem ser projetados para os itens que compõem esse mesmo estrato**.
+* **C (Errada):** O objetivo da estratificação é justamente **reduzir** a variabilidade dos itens dentro de cada estrato e, assim, permitir que o tamanho da amostra seja **reduzido** sem aumentar o risco de amostragem (Apêndice 1, item 1).
+* **D (Certa):** Reproduz literalmente o disposto no item A20 da NBC TA 530: *"Para testes de controle, não é necessária projeção explícita de desvios, uma vez que a taxa de desvio da amostra é também a taxa projetada de desvio para a população como um todo"*.
+* **E (Errada):** Conforme o Apêndice 1, item 2, da NBC TA 530, os estratos devem ser explicitamente definidos de modo que **cada unidade de amostragem possa pertencer a um único estrato**.
 
 > **Fique Ligado:** Estratificação: divisão da população em subpopulações homogêneas para reduzir a variabilidade dos itens e permitir a redução do tamanho total da amostra sem perda de segurança.
 
@@ -567,11 +567,11 @@ Ao planejar testes de controle mediante amostragem de atributos em uma populaç�
 **Gabarito Oficial:** **C**
 
 **Comentários Analíticos Alternativa por Alternativa:**
-* **(A) Incorreta:** O aumento na taxa tolerável de desvio tem efeito **inverso**, provocando **diminuição** no tamanho da amostra (Apêndice 2, fator 2).
-* **(B) Incorreta:** O aumento na taxa esperada de desvio da população tem efeito **direto**, provocando **aumento** no tamanho da amostra (Apêndice 2, fator 3).
-* **(C) Correta:** Conforme o Apêndice 2, fator 5, da NBC TA 530, para populações grandes, o tamanho efetivo da população tem pouco ou nenhum efeito sobre o tamanho da amostra (**efeito negligenciável**).
-* **(D) Incorreta:** Quanto mais o auditor pretende confiar nos controles relevantes para reduzir o risco avaliado, **maior** deve ser o tamanho da amostra de teste de controle (Apêndice 2, fator 1).
-* **(E) Incorreta:** O aumento no nível de segurança desejado pelo auditor exige uma amostra **maior** (Apêndice 2, fator 4).
+* **A (Errada):** O aumento na taxa tolerável de desvio tem efeito **inverso**, provocando **diminuição** no tamanho da amostra (Apêndice 2, fator 2).
+* **B (Errada):** O aumento na taxa esperada de desvio da população tem efeito **direto**, provocando **aumento** no tamanho da amostra (Apêndice 2, fator 3).
+* **C (Certa):** Conforme o Apêndice 2, fator 5, da NBC TA 530, para populações grandes, o tamanho efetivo da população tem pouco ou nenhum efeito sobre o tamanho da amostra (**efeito negligenciável**).
+* **D (Errada):** Quanto mais o auditor pretende confiar nos controles relevantes para reduzir o risco avaliado, **maior** deve ser o tamanho da amostra de teste de controle (Apêndice 2, fator 1).
+* **E (Errada):** O aumento no nível de segurança desejado pelo auditor exige uma amostra **maior** (Apêndice 2, fator 4).
 
 > **Fique Ligado:** O tamanho da população tem efeito insignificante ou quase nulo sobre o tamanho da amostra para populações grandes (acima de alguns milhares de itens).
 
@@ -589,11 +589,11 @@ Na aplicação da Amostragem por Unidade Monetária (MUS — *Monetary Unit Samp
 **Gabarito Oficial:** **C**
 
 **Comentários Analíticos Alternativa por Alternativa:**
-* **(A) Incorreta:** A MUS é um método de **amostragem estatística** (seleção ponderada pelo valor), no qual a probabilidade de um item físico ser selecionado é **proporcional ao seu valor monetário** (e não igual entre itens físicos de valores diferentes).
-* **(B) Incorreta:** Como na MUS a chance de seleção é proporcional ao valor contábil registrado, contas com saldo zero têm **chance zero** de seleção e itens subavaliados têm menor chance de serem sorteados. Ela é ideal para testar **superavaliações**, e não subavaliações/omissões.
-* **(C) Correta:** Conforme o Apêndice 1 (item 4) e o Apêndice 4 (alínea "c") da NBC TA 530, uma vantagem dessa abordagem é que o esforço de auditoria é direcionado para os itens de maior valor, porque eles têm maior chance de serem selecionados, podendo resultar em amostras de tamanhos menores.
-* **(D) Incorreta:** A projeção de distorções na MUS continua sendo **obrigatória** (como em qualquer teste de detalhes por amostragem), calculando-se o percentual de contaminação (*tainting factor*) de cada unidade monetária distorcida multiplicado pelo intervalo de amostragem.
-* **(E) Incorreta:** Pelo contrário: a seleção com base no valor (MUS) é utilizada especificamente em **testes de detalhes** (substantivos), e não em testes de controle.
+* **A (Errada):** A MUS é um método de **amostragem estatística** (seleção ponderada pelo valor), no qual a probabilidade de um item físico ser selecionado é **proporcional ao seu valor monetário** (e não igual entre itens físicos de valores diferentes).
+* **B (Errada):** Como na MUS a chance de seleção é proporcional ao valor contábil registrado, contas com saldo zero têm **chance zero** de seleção e itens subavaliados têm menor chance de serem sorteados. Ela é ideal para testar **superavaliações**, e não subavaliações/omissões.
+* **C (Certa):** Conforme o Apêndice 1 (item 4) e o Apêndice 4 (alínea "c") da NBC TA 530, uma vantagem dessa abordagem é que o esforço de auditoria é direcionado para os itens de maior valor, porque eles têm maior chance de serem selecionados, podendo resultar em amostras de tamanhos menores.
+* **D (Errada):** A projeção de distorções na MUS continua sendo **obrigatória** (como em qualquer teste de detalhes por amostragem), calculando-se o percentual de contaminação (*tainting factor*) de cada unidade monetária distorcida multiplicado pelo intervalo de amostragem.
+* **E (Errada):** Pelo contrário: a seleção com base no valor (MUS) é utilizada especificamente em **testes de detalhes** (substantivos), e não em testes de controle.
 
 > **Fique Ligado:** Na Amostragem por Unidade Monetária (MUS), a probabilidade de seleção de um item é diretamente proporcional ao seu valor monetário, focando naturalmente nos itens de maior valor.
 
@@ -615,9 +615,9 @@ Está correto o que se afirma em:
 **Gabarito Oficial:** **C**
 
 **Comentários Analíticos Alternativa por Alternativa:**
-* **Análise do Item I (Correto):** Reflete com exatidão a definição do item 5(d) e os exemplos do item A1 da NBC TA 530 (uso de procedimentos inapropriados, interpretação errônea da evidência e falha no reconhecimento de distorção ou desvio).
-* **Análise do Item II (Incorreto):** O aumento do tamanho da amostra reduz apenas o **risco de amostragem**. O risco não resultante da amostragem (erro humano/metodológico) **não é reduzido pelo aumento da amostra**, mas sim por planejamento adequado, supervisão e revisão do trabalho.
-* **Análise do Item III (Correto):** Reproduz fielmente o item 5(c)(ii) da NBC TA 530: tanto a subavaliação da confiabilidade (testes de controle) quanto a rejeição incorreta (testes de detalhes) afetam a **eficiência** da auditoria e levam a trabalho adicional para estabelecer que as conclusões iniciais estavam incorretas.
+* **Item I (Certo):** Reflete com exatidão a definição do item 5(d) e os exemplos do item A1 da NBC TA 530 (uso de procedimentos inapropriados, interpretação errônea da evidência e falha no reconhecimento de distorção ou desvio).
+* **Item II (Errado):** O aumento do tamanho da amostra reduz apenas o **risco de amostragem**. O risco não resultante da amostragem (erro humano/metodológico) **não é reduzido pelo aumento da amostra**, mas sim por planejamento adequado, supervisão e revisão do trabalho.
+* **Item III (Certo):** Reproduz fielmente o item 5(c)(ii) da NBC TA 530: tanto a subavaliação da confiabilidade (testes de controle) quanto a rejeição incorreta (testes de detalhes) afetam a **eficiência** da auditoria e levam a trabalho adicional para estabelecer que as conclusões iniciais estavam incorretas.
 * **Conclusão:** Apenas os itens **I e III** estão corretos, o que torna a alternativa **(C)** o gabarito.
 
 > **Fique Ligado:** Risco não resultante da amostragem decorre de fatores humanos/metodológicos (ex: procedimentos inadequados, interpretação errônea de evidências, falha em reconhecer distorções).
@@ -636,11 +636,11 @@ Em relação à avaliação dos resultados da amostragem em auditoria nos termos
 **Gabarito Oficial:** **B**
 
 **Comentários Analíticos Alternativa por Alternativa:**
-* **(A) Incorreta:** Se a soma da distorção projetada com a anomalia **excede** a distorção tolerável, a amostra **jamais** fornece base razoável para concluir que a conta está livre de distorção relevante (item A22).
-* **(B) Correta:** Nos exatos termos do item 15 e dos itens A22 e A23 da NBC TA 530, quando a distorção projetada mais a distorção anômala excedem a distorção tolerável, a amostra **não fornece base razoável** para concluir sobre a população testada. Nessa situação, o auditor deve solicitar à administração que investigue as distorções identificadas e o potencial para distorções adicionais e faça os ajustes necessários, e/ou adaptar a natureza, época e extensão dos procedimentos adicionais de auditoria (como estender o tamanho da amostra ou testar outros itens).
-* **(C) Incorreta:** O auditor não emite abstenção de opinião de imediato; ele aplica procedimentos adicionais e solicita investigação/ajustes à administração. Além disso, se ao final restar comprovada distorção relevante não corrigida na conta, a opinião será modificada para **Ressalva** ou **Adversa** (e não Abstenção, que decorre de limitação de escopo).
-* **(D) Incorreta:** Aumentar artificialmente a distorção tolerável ao final do trabalho para "esconder" um erro projetado viola frontalmente a NBC TA 320 e a NBC TA 530.
-* **(E) Incorreta:** Ajustar apenas os erros pontuais achados nos itens da amostra sem corrigir ou investigar o erro projetado no restante da população não reduz a distorção projetada abaixo da distorção tolerável.
+* **A (Errada):** Se a soma da distorção projetada com a anomalia **excede** a distorção tolerável, a amostra **jamais** fornece base razoável para concluir que a conta está livre de distorção relevante (item A22).
+* **B (Certa):** Nos exatos termos do item 15 e dos itens A22 e A23 da NBC TA 530, quando a distorção projetada mais a distorção anômala excedem a distorção tolerável, a amostra **não fornece base razoável** para concluir sobre a população testada. Nessa situação, o auditor deve solicitar à administração que investigue as distorções identificadas e o potencial para distorções adicionais e faça os ajustes necessários, e/ou adaptar a natureza, época e extensão dos procedimentos adicionais de auditoria (como estender o tamanho da amostra ou testar outros itens).
+* **C (Errada):** O auditor não emite abstenção de opinião de imediato; ele aplica procedimentos adicionais e solicita investigação/ajustes à administração. Além disso, se ao final restar comprovada distorção relevante não corrigida na conta, a opinião será modificada para **Ressalva** ou **Adversa** (e não Abstenção, que decorre de limitação de escopo).
+* **D (Errada):** Aumentar artificialmente a distorção tolerável ao final do trabalho para "esconder" um erro projetado viola frontalmente a NBC TA 320 e a NBC TA 530.
+* **E (Errada):** Ajustar apenas os erros pontuais achados nos itens da amostra sem corrigir ou investigar o erro projetado no restante da população não reduz a distorção projetada abaixo da distorção tolerável.
 
 > **Fique Ligado:** Se a distorção projetada mais a distorção anômala se aproximar da distorção tolerável, a amostra não fornece base razoável para conclusão, exigindo extensão dos testes ou solicitação de ajustes.
 
@@ -657,14 +657,14 @@ Segundo a NBC TA 530, para que uma abordagem de amostragem em auditoria seja for
 * **D)** Seleção estratificada obrigatória por ordem alfabética de fornecedores e dispensa de avaliação qualitativa dos desvios.
 * **E)** Uso de amostragem não probabilística ao acaso (*haphazard*) conjugada com software de auditoria contábil.
 
-#### Gabarito e Dissecação Técnica: **Alternativa B**
+#### Gabarito: **B**
 
 **Comentário Analítico Alternativa por Alternativa:**
-* **(A) INCORRETA:** Seleção por conveniência não é aleatória e nenhuma amostragem elimina o risco de amostragem.
-* **(B) CORRETA:** Transcreve a literalidade cumulativa do item 5(g) da NBC TA 530: a amostragem é **estatística** se apresentar: (1) **seleção aleatória** dos itens da amostra; E (2) **uso da teoria das probabilidades** para avaliar os resultados da amostra, incluindo a mensuração do risco de amostragem. Uma abordagem de amostragem que não possua ambas as características é considerada **não estatística**.
-* **(C) INCORRETA:** O exame de 100% dos itens de alto valor não é amostragem, mas seleção de itens específicos (teste de itens-chave).
-* **(D) INCORRETA:** Ordem alfabética não constitui critério de amostragem estatística e a avaliação qualitativa dos desvios jamais pode ser dispensada.
-* **(E) INCORRETA:** A seleção ao acaso (*haphazard selection*) é método típico de amostragem **não estatística**, pois não utiliza gerador probabilístico nem atribui chances conhecidas a cada unidade.
+* **A (Errada):** Seleção por conveniência não é aleatória e nenhuma amostragem elimina o risco de amostragem.
+* **B (Certa):** Transcreve a literalidade cumulativa do item 5(g) da NBC TA 530: a amostragem é **estatística** se apresentar: (1) **seleção aleatória** dos itens da amostra; E (2) **uso da teoria das probabilidades** para avaliar os resultados da amostra, incluindo a mensuração do risco de amostragem. Uma abordagem de amostragem que não possua ambas as características é considerada **não estatística**.
+* **C (Errada):** O exame de 100% dos itens de alto valor não é amostragem, mas seleção de itens específicos (teste de itens-chave).
+* **D (Errada):** Ordem alfabética não constitui critério de amostragem estatística e a avaliação qualitativa dos desvios jamais pode ser dispensada.
+* **E (Errada):** A seleção ao acaso (*haphazard selection*) é método típico de amostragem **não estatística**, pois não utiliza gerador probabilístico nem atribui chances conhecidas a cada unidade.
 
 > **Fique Ligado:** Amostragem Estatística = Seleção Aleatória + Teoria das Probabilidades (mensuração matemática do risco de amostragem). Se faltar qualquer um dos dois requisitos = Amostragem Não Estatística!
 
@@ -680,13 +680,13 @@ No planejamento da amostragem para a realização de testes de controle e testes
 * **D)** A redução do nível de segurança desejado pelo auditor em relação aos controles internos exige o aumento substancial do tamanho da amostra.
 * **E)** Em testes de detalhes, a existência de distorções esperadas na população permite ao auditor reduzir o tamanho da amostra em comparação com uma população sem distorções esperadas.
 
-#### Gabarito e Dissecação Técnica: **Alternativa B**
+#### Gabarito: **B**
 
 **Comentário Analítico Alternativa por Alternativa:**
-* **(A) INCORRETA:** A relação é **INVERSA**: quanto **menor** for a distorção tolerável (auditor mais rigoroso, menor margem de erro aceita), **maior** deve ser o tamanho da amostra para garantir a detecção de pequenos desvios.
-* **(B) CORRETA:** Conforme o Apêndice 2 da NBC TA 530: a relação entre a taxa de desvio tolerável e o tamanho da amostra em testes de controle é **INVERSA**. Quanto **maior** for a taxa de desvio que o auditor tolera (auditor mais tolerante a falhas do controle), **menor** será o tamanho da amostra necessário!
-* **(C) INCORRETA:** A relação é **DIRETA**: quanto maior for o risco de distorção relevante avaliado, maior deverá ser o tamanho da amostra nos testes substantivos para reduzir o risco de detecção.
-* **(D) INCORRETA:** Reduzir o nível de segurança desejado permite reduzir o tamanho da amostra, e não aumentar.
-* **(E) INCORRETA:** Quanto maior a distorção esperada na população, maior deve ser a amostra para permitir uma estimativa confiável do montante total de distorções.
+* **A (Errada):** A relação é **INVERSA**: quanto **menor** for a distorção tolerável (auditor mais rigoroso, menor margem de erro aceita), **maior** deve ser o tamanho da amostra para garantir a detecção de pequenos desvios.
+* **B (Certa):** Conforme o Apêndice 2 da NBC TA 530: a relação entre a taxa de desvio tolerável e o tamanho da amostra em testes de controle é **INVERSA**. Quanto **maior** for a taxa de desvio que o auditor tolera (auditor mais tolerante a falhas do controle), **menor** será o tamanho da amostra necessário!
+* **C (Errada):** A relação é **DIRETA**: quanto maior for o risco de distorção relevante avaliado, maior deverá ser o tamanho da amostra nos testes substantivos para reduzir o risco de detecção.
+* **D (Errada):** Reduzir o nível de segurança desejado permite reduzir o tamanho da amostra, e não aumentar.
+* **E (Errada):** Quanto maior a distorção esperada na população, maior deve ser a amostra para permitir uma estimativa confiável do montante total de distorções.
 
 > **Fique Ligado:** Relação no tamanho da amostra: **DIRETA** com o Risco de Distorção Relevante, a Distorção Esperada e o Nível de Confiança; **INVERSA** com a Distorção Tolerável, a Taxa de Desvio Tolerável e o Risco de Amostragem Aceitável.

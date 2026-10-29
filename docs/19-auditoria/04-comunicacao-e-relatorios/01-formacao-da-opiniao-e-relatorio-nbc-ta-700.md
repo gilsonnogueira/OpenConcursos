@@ -264,13 +264,13 @@ Uma firma de auditoria independente responsável pela auditoria das demonstraç�
 * **D)** A identificação dos Principais Assuntos de Auditoria (PAA) é facultativa para companhias de capital aberto cotadas em bolsa de valores.
 * **E)** O relatório deve emitir asseguração absoluta quanto à inexistência de fraudes corporativas praticadas pela diretoria.
 
-#### Gabarito e Dissecação Técnica: **Alternativa B**
+#### Gabarito: **B**
 
-* **Alternativa B (CORRETA):** A NBC TA 700 (itens 23 e 28) determina que a seção contendo a Opinião do auditor deve ser colocada em primeiro lugar no relatório, intitulada "Opinião", devendo ser sucedida imediatamente pela seção "Base para Opinião".
-* **Alternativa A (INCORRETA):** Esse era o modelo revogado pré-2016; atualmente a opinião vem no início.
-* **Alternativa C (INCORRETA):** A declaração de independência é obrigatória em 100% dos relatórios (item 28).
-* **Alternativa D (INCORRETA):** A comunicação de PAA é compulsória para companhias abertas (NBC TA 701).
-* **Alternativa E (INCORRETA):** A auditoria fornece asseguração razoável, e jamais absoluta.
+* **B (Certa):** A NBC TA 700 (itens 23 e 28) determina que a seção contendo a Opinião do auditor deve ser colocada em primeiro lugar no relatório, intitulada "Opinião", devendo ser sucedida imediatamente pela seção "Base para Opinião".
+* **A (Errada):** Esse era o modelo revogado pré-2016; atualmente a opinião vem no início.
+* **C (Errada):** A declaração de independência é obrigatória em 100% dos relatórios (item 28).
+* **D (Errada):** A comunicação de PAA é compulsória para companhias abertas (NBC TA 701).
+* **E (Errada):** A auditoria fornece asseguração razoável, e jamais absoluta.
 
 > **Fique Ligado:** A NBC TA 700  determina que a seção contendo a Opinião do auditor deve ser colocada em primeiro lugar no relatório, intitulada "Opinião", devendo ser sucedida imediatamente pela seção "Base para Opinião".
 
@@ -285,13 +285,13 @@ A respeito dos tipos de opinião de auditoria e dos critérios que determinam a 
 * **D)** O auditor deve omitir a identificação das demonstrações contábeis auditadas para resguardar o sigilo de mercado da entidade.
 * **E)** O parágrafo de opinião deve ser emitido obrigatoriamente na forma negativa para trabalhos de auditoria externa de demonstrações completas.
 
-#### Gabarito e Dissecação Técnica: **Alternativa A**
+#### Gabarito: **A**
 
-* **Alternativa A (CORRETA):** A NBC TA 700 estabelece que, em estruturas de apresentação adequada, a opinião deve registrar que as demonstrações "apresentam adequadamente, em todos os aspectos relevantes" (ou "apresentam uma visão verdadeira e justa").
-* **Alternativa B (INCORRETA):** A estrutura de conformidade vincula-se à estrita legalidade formal, sem admitir flexibilizações para alcance de "apresentação adequada".
-* **Alternativa C (INCORRETA):** O prazo de custódia da documentação de auditoria é de 5 anos em qualquer circunstância (NBC TA 230).
-* **Alternativa D (INCORRETA):** A identificação completa de cada demonstração auditada é requisito obrigatório da seção de Opinião.
-* **Alternativa E (INCORRETA):** Forma negativa aplica-se a revisões limitadas (NBC TR 2410), enquanto a auditoria (NBC TA 700) expressa conclusão afirmativa/positiva.
+* **A (Certa):** A NBC TA 700 estabelece que, em estruturas de apresentação adequada, a opinião deve registrar que as demonstrações "apresentam adequadamente, em todos os aspectos relevantes" (ou "apresentam uma visão verdadeira e justa").
+* **B (Errada):** A estrutura de conformidade vincula-se à estrita legalidade formal, sem admitir flexibilizações para alcance de "apresentação adequada".
+* **C (Errada):** O prazo de custódia da documentação de auditoria é de 5 anos em qualquer circunstância (NBC TA 230).
+* **D (Errada):** A identificação completa de cada demonstração auditada é requisito obrigatório da seção de Opinião.
+* **E (Errada):** Forma negativa aplica-se a revisões limitadas (NBC TR 2410), enquanto a auditoria (NBC TA 700) expressa conclusão afirmativa/positiva.
 
 > **Fique Ligado:** A NBC TA 700 estabelece que, em estruturas de apresentação adequada, a opinião deve registrar que as demonstrações "apresentam adequadamente, em todos os aspectos relevantes" (ou "apresentam uma visão verdadeira e justa").
 
@@ -306,13 +306,13 @@ De acordo com as disposições da NBC TA 700 e normas aplicáveis à emissão do
 * **D)** As notas explicativas às demonstrações contábeis são consideradas peças extraoficiais, não integrando o conjunto das demonstrações auditadas pelo auditor independente.
 * **E)** Caso a companhia auditada não possua comitê de governança corporativa formalizado, o relatório não deve indicar qualquer destinatário.
 
-#### Gabarito e Dissecação Técnica: **Alternativa A**
+#### Gabarito: **A**
 
-* **Alternativa A (CORRETA):** O item 28, alínea "d", da NBC TA 700 exige que a seção "Base para Opinião" contenha a declaração de que o auditor acredita que a evidência obtida é suficiente e apropriada para fundamentar a opinião.
-* **Alternativa B (INCORRETA):** O relatório deve ser assinado em nome da firma de auditoria, constando o nome do auditor responsável e seu registro no CRC e CNAI.
-* **Alternativa C (INCORRETA):** A data do relatório deve ser a data em que o auditor completou a obtenção de evidências suficientes (data contemporânea à conclusão dos trabalhos de campo), e não a data de encerramento do balanço (NBC TA 700, item 49).
-* **Alternativa D (INCORRETA):** As notas explicativas integram indivisivelmente as demonstrações contábeis.
-* **Alternativa E (INCORRETA):** O relatório deve ser endereçado àqueles a quem se destina (geralmente aos acionistas ou cotistas da entidade).
+* **A (Certa):** O item 28, alínea "d", da NBC TA 700 exige que a seção "Base para Opinião" contenha a declaração de que o auditor acredita que a evidência obtida é suficiente e apropriada para fundamentar a opinião.
+* **B (Errada):** O relatório deve ser assinado em nome da firma de auditoria, constando o nome do auditor responsável e seu registro no CRC e CNAI.
+* **C (Errada):** A data do relatório deve ser a data em que o auditor completou a obtenção de evidências suficientes (data contemporânea à conclusão dos trabalhos de campo), e não a data de encerramento do balanço (NBC TA 700, item 49).
+* **D (Errada):** As notas explicativas integram indivisivelmente as demonstrações contábeis.
+* **E (Errada):** O relatório deve ser endereçado àqueles a quem se destina (geralmente aos acionistas ou cotistas da entidade).
 
 > **Fique Ligado:** O item 28, alínea "d", da NBC TA 700 exige que a seção "Base para Opinião" contenha a declaração de que o auditor acredita que a evidência obtida é suficiente e apropriada para fundamentar a opinião.
 
@@ -327,13 +327,13 @@ Em relação às informações comparativas apresentadas nas demonstrações con
 * **D)** Se as demonstrações do ano anterior não tiverem sido auditadas, o auditor atual está impedido de emitir opinião sobre o exercício corrente.
 * **E)** As informações comparativas exigem a recontratação obrigatória da firma que auditou o exercício anterior para subscrever conjuntamente o parecer.
 
-#### Gabarito e Dissecação Técnica: **Alternativa B**
+#### Gabarito: **B**
 
-* **Alternativa B (CORRETA):** Conforme a NBC TA 710, na sistemática de valores correspondentes (*corresponding figures*), os valores do período anterior são apresentados apenas como contexto para leitura do período atual. Portanto, a opinião do auditor refere-se unicamente ao período corrente.
-* **Alternativa A (INCORRETA):** Essa é a regra das demonstrações comparativas, e não dos valores correspondentes.
-* **Alternativa C (INCORRETA):** Em demonstrações comparativas, o auditor pode emitir opinião sem ressalva para um ano e com ressalva para outro.
-* **Alternativa D (INCORRETA):** Se o ano anterior não foi auditado, o auditor informa esse fato em Parágrafo de Outros Assuntos e audita o exercício corrente normalmente.
-* **Alternativa E (INCORRETA):** Inexiste exigência de contratação conjunta.
+* **B (Certa):** Conforme a NBC TA 710, na sistemática de valores correspondentes (*corresponding figures*), os valores do período anterior são apresentados apenas como contexto para leitura do período atual. Portanto, a opinião do auditor refere-se unicamente ao período corrente.
+* **A (Errada):** Essa é a regra das demonstrações comparativas, e não dos valores correspondentes.
+* **C (Errada):** Em demonstrações comparativas, o auditor pode emitir opinião sem ressalva para um ano e com ressalva para outro.
+* **D (Errada):** Se o ano anterior não foi auditado, o auditor informa esse fato em Parágrafo de Outros Assuntos e audita o exercício corrente normalmente.
+* **E (Errada):** Inexiste exigência de contratação conjunta.
 
 > **Fique Ligado:** Conforme a NBC TA 710, na sistemática de valores correspondentes (*corresponding figures*), os valores do período anterior são apresentados apenas como contexto para leitura do período atual.
 
@@ -348,10 +348,10 @@ A respeito das "Outras Informações" que acompanham as demonstrações contábe
 * **D)** O auditor deve abster-se de emitir opinião sobre o balanço se o Relatório da Administração contiver gráficos ou tabelas ilustrativas.
 * **E)** As outras informações são auditadas mediante os mesmos procedimentos substantivos de inventário físico e circularização bancária aplicados ao ativo da companhia.
 
-#### Gabarito e Dissecação Técnica: **Alternativa B**
+#### Gabarito: **B**
 
-* **Alternativa B (CORRETA):** Literalidade da NBC TA 720 (R1): o auditor tem a obrigação de ler as outras informações para identificar eventuais incongruências manifestas em relação às demonstrações auditadas, sem emitir parecer de asseguração sobre tais relatórios corporativos.
-- **Alternativas A, C, D e E (INCORRETAS):** O auditor não emite asseguração sobre o Relatório da Administração; jamais altera demonstrações por conta própria; gráficos ilustrativos são praxe; e procedimentos substantivos de inventário aplicam-se às demonstrações contábeis, não a relatórios de gestão.
+* **B (Certa):** Literalidade da NBC TA 720 (R1): o auditor tem a obrigação de ler as outras informações para identificar eventuais incongruências manifestas em relação às demonstrações auditadas, sem emitir parecer de asseguração sobre tais relatórios corporativos.
+* **A, C, D e E (Erradas):** O auditor não emite asseguração sobre o Relatório da Administração; jamais altera demonstrações por conta própria; gráficos ilustrativos são praxe; e procedimentos substantivos de inventário aplicam-se às demonstrações contábeis, não a relatórios de gestão.
 
 > **Fique Ligado:** Literalidade da NBC TA 720 (R1): o auditor tem a obrigação de ler as outras informações para identificar eventuais incongruências manifestas em relação às demonstrações auditadas, sem emitir parecer de asseguração sobre tais relatórios corporativos.
 
@@ -366,12 +366,12 @@ O relatório do auditor independente com opinião não modificada (sem ressalvas
 * **D)** Transfere a responsabilidade civil pela elaboração dos registros contábeis da administração para o auditor independente.
 * **E)** É nulo se não contiver a chancela de aprovação do Ministério da Fazenda.
 
-#### Gabarito e Dissecação Técnica: **Alternativa B**
+#### Gabarito: **B**
 
-* **Alternativa B (CORRETA):** A opinião sem modificação significa exclusivamente que o auditor obteve evidência apropriada e suficiente para concluir que as demonstrações contábeis estão livres de distorções relevantes e foram elaboradas conforme a estrutura de relatório financeiro aplicável.
-- **Alternativas A e C (INCORRETAS):** Não há segurança absoluta nem atestado de viabilidade ou eficácia futura da administração.
-* **Alternativa D (INCORRETA):** A responsabilidade pelas demonstrações contábeis é indelegável da administração (NBC TA 200).
-* **Alternativa E (INCORRETA):** A auditoria independente não depende de homologação governamental ministerial para ter validade jurídica.
+* **B (Certa):** A opinião sem modificação significa exclusivamente que o auditor obteve evidência apropriada e suficiente para concluir que as demonstrações contábeis estão livres de distorções relevantes e foram elaboradas conforme a estrutura de relatório financeiro aplicável.
+* **A e C (Erradas):** Não há segurança absoluta nem atestado de viabilidade ou eficácia futura da administração.
+* **D (Errada):** A responsabilidade pelas demonstrações contábeis é indelegável da administração (NBC TA 200).
+* **E (Errada):** A auditoria independente não depende de homologação governamental ministerial para ter validade jurídica.
 
 > **Fique Ligado:** A opinião sem modificação significa exclusivamente que o auditor obteve evidência apropriada e suficiente para concluir que as demonstrações contábeis estão livres de distorções relevantes e foram elaboradas conforme a estrutura de relatório financeiro aplicável.
 
@@ -386,13 +386,13 @@ Em uma auditoria de demonstrações contábeis em que as informações do exerc�
 * **D)** Fica dispensado de obter evidência sobre os saldos iniciais do balanço atual.
 * **E)** Deve assinar o relatório conjuntamente com o auditor antecessor sob pena de inidoneidade do documento.
 
-#### Gabarito e Dissecação Técnica: **Alternativa B**
+#### Gabarito: **B**
 
-* **Alternativa B (CORRETA):** A NBC TA 710 (item 13) e a NBC TA 706 autorizam expressamente o auditor sucessor a referenciar o trabalho do auditor antecessor em um **Parágrafo de Outros Assuntos**, consignando que as demonstrações do exercício antecedente foram auditadas por terceiros, a modalidade de opinião emitida e a data do respectivo relatório.
-* **Alternativa A (INCORRETA):** A troca de auditores é legítima e incentivada pelas regras de rodízio da CVM, não gerando ressalva.
-* **Alternativa C (INCORRETA):** Não há dever de auditoria retrospectiva de 5 anos; o auditor apenas verifica saldos iniciais (NBC TA 510).
-* **Alternativa D (INCORRETA):** O auditor deve obter evidência sobre saldos iniciais (NBC TA 510).
-* **Alternativa E (INCORRETA):** O auditor sucessor assina seu próprio relatório individualmente.
+* **B (Certa):** A NBC TA 710 (item 13) e a NBC TA 706 autorizam expressamente o auditor sucessor a referenciar o trabalho do auditor antecessor em um **Parágrafo de Outros Assuntos**, consignando que as demonstrações do exercício antecedente foram auditadas por terceiros, a modalidade de opinião emitida e a data do respectivo relatório.
+* **A (Errada):** A troca de auditores é legítima e incentivada pelas regras de rodízio da CVM, não gerando ressalva.
+* **C (Errada):** Não há dever de auditoria retrospectiva de 5 anos; o auditor apenas verifica saldos iniciais (NBC TA 510).
+* **D (Errada):** O auditor deve obter evidência sobre saldos iniciais (NBC TA 510).
+* **E (Errada):** O auditor sucessor assina seu próprio relatório individualmente.
 
 > **Fique Ligado:** A NBC TA 710 (item 13) e a NBC TA 706 autorizam expressamente o auditor sucessor a referenciar o trabalho do auditor antecessor em um **Parágrafo de Outros Assuntos**, consignando que as demonstrações do exercício antecedente foram auditadas por terceiros, a modalidade de opinião emitida e a data do respectivo relatório.
 
@@ -407,10 +407,10 @@ No relatório do auditor independente emitido nos moldes da NBC TA 700 (R1), a r
 * **D)** A responsabilidade pela integridade dos controles internos operacionais transfere-se para a equipe de auditoria independente após o encerramento do exercício social.
 * **E)** A administração está dispensada de fornecer representações formais escritas ao auditor independente.
 
-#### Gabarito e Dissecação Técnica: **Alternativa B**
+#### Gabarito: **B**
 
-* **Alternativa B (CORRETA):** A NBC TA 700 (item 34) e a NBC TA 570 impõem que a seção de Responsabilidade da Administração registre expressamente que compete aos gestores avaliar se a companhia possui capacidade de manter sua continuidade operacional, bem como divulgar as incertezas relevantes pertinentes em notas explicativas.
-- **Alternativas A, C, D e E (INCORRETAS):** A administração não dita procedimentos do auditor; a governança não transfere responsabilidades de controles para o auditor; e a obtenção de representações formais da administração é dever compulsório do auditor (NBC TA 580).
+* **B (Certa):** A NBC TA 700 (item 34) e a NBC TA 570 impõem que a seção de Responsabilidade da Administração registre expressamente que compete aos gestores avaliar se a companhia possui capacidade de manter sua continuidade operacional, bem como divulgar as incertezas relevantes pertinentes em notas explicativas.
+* **A, C, D e E (Erradas):** A administração não dita procedimentos do auditor; a governança não transfere responsabilidades de controles para o auditor; e a obtenção de representações formais da administração é dever compulsório do auditor (NBC TA 580).
 
 > **Fique Ligado:** A NBC TA 700 (item 34) e a NBC TA 570 impõem que a seção de Responsabilidade da Administração registre expressamente que compete aos gestores avaliar se a companhia possui capacidade de manter sua continuidade operacional, bem como divulgar as incertezas relevantes pertinentes em notas explicativas.
 
@@ -425,10 +425,10 @@ Em relação à data do relatório do auditor independente emitido conforme a NB
 * **D)** A data do relatório marca o encerramento definitivo e irreversível da responsabilidade do auditor, mesmo perante fatos supervenientes relevantes que cheguem ao seu conhecimento antes da publicação.
 * **E)** O relatório do auditor independente de companhias abertas não possui data, bastando o carimbo de recebimento da CVM.
 
-#### Gabarito e Dissecação Técnica: **Alternativa A**
+#### Gabarito: **A**
 
-* **Alternativa A (CORRETA):** A NBC TA 700 (item 49) determina categoricamente que a data do relatório não pode ser anterior à data em que o auditor obteve evidência de auditoria apropriada e suficiente sobre a qual fundamentar a sua opinião sobre as demonstrações contábeis (incluindo a evidência de que todas as demonstrações e notas foram elaboradas e aprovadas por quem de direito).
-- **Alternativas B, C, D e E (INCORRETAS):** A data do relatório é posterior ao fechamento do balanço (geralmente nos meses de fevereiro ou março do ano seguinte); data futura é vedada; o auditor responde por eventos subsequentes nos termos da NBC TA 560; e a data é elemento formal obrigatório do relatório.
+* **A (Certa):** A NBC TA 700 (item 49) determina categoricamente que a data do relatório não pode ser anterior à data em que o auditor obteve evidência de auditoria apropriada e suficiente sobre a qual fundamentar a sua opinião sobre as demonstrações contábeis (incluindo a evidência de que todas as demonstrações e notas foram elaboradas e aprovadas por quem de direito).
+* **B, C, D e E (Erradas):** A data do relatório é posterior ao fechamento do balanço (geralmente nos meses de fevereiro ou março do ano seguinte); data futura é vedada; o auditor responde por eventos subsequentes nos termos da NBC TA 560; e a data é elemento formal obrigatório do relatório.
 
 > **Fique Ligado:** A NBC TA 700 (item 49) determina categoricamente que a data do relatório não pode ser anterior à data em que o auditor obteve evidência de auditoria apropriada e suficiente sobre a qual fundamentar a sua opinião sobre as demonstrações contábeis (incluindo a evidência de que todas as demonstrações e notas foram elaboradas e aprovadas por quem de direito).
 
@@ -443,10 +443,10 @@ Um auditor independente emitiu relatório sem modificação sobre as demonstraç
 * **D)** A emissão de opinião sem modificação exonera os administradores de qualquer processo civil ou penal por atos de gestão fraudulenta.
 * **E)** O auditor independente deve ser condenado a restituir os dividendos pagos aos acionistas majoritários.
 
-#### Gabarito e Dissecação Técnica: **Alternativa B**
+#### Gabarito: **B**
 
-* **Alternativa B (CORRETA):** É mandamento basilar expresso no relatório de auditoria (NBC TA 700, item A38) que a opinião do auditor não representa uma garantia quanto à viabilidade futura da entidade nem quanto à eficácia ou efetividade da gestão conduzida pelos administradores. O auditor atesta a conformidade das demonstrações contábeis, não o sucesso comercial da empresa.
-- **Alternativas A, C, D e E (INCORRETAS):** A auditoria não é apólice de seguro; o risco do negócio é dos investidores e da empresa; a responsabilidade dos administradores não se transfere ao auditor; e não cabe restituição de dividendos legítimos.
+* **B (Certa):** É mandamento basilar expresso no relatório de auditoria (NBC TA 700, item A38) que a opinião do auditor não representa uma garantia quanto à viabilidade futura da entidade nem quanto à eficácia ou efetividade da gestão conduzida pelos administradores. O auditor atesta a conformidade das demonstrações contábeis, não o sucesso comercial da empresa.
+* **A, C, D e E (Erradas):** A auditoria não é apólice de seguro; o risco do negócio é dos investidores e da empresa; a responsabilidade dos administradores não se transfere ao auditor; e não cabe restituição de dividendos legítimos.
 
 > **Fique Ligado:** É mandamento basilar expresso no relatório de auditoria (NBC TA 700, item A38) que a opinião do auditor não representa uma garantia quanto à viabilidade futura da entidade nem quanto à eficácia ou efetividade da gestão conduzida pelos administradores.
 
@@ -461,10 +461,10 @@ No que se refere à comunicação das responsabilidades do auditor no relatório
 * **D)** Seja substituída por link de vídeo explicativo produzido pela governança da empresa auditada.
 * **E)** Conste exclusivamente nas notas explicativas elaboradas pela diretoria da companhia.
 
-#### Gabarito e Dissecação Técnica: **Alternativa B**
+#### Gabarito: **B**
 
-* **Alternativa B (CORRETA):** A NBC TA 700 (itens 40 e 41) prevê expressamente três alternativas de localização para a longa descrição das responsabilidades do auditor: (1) no próprio corpo do relatório de auditoria; (2) em apêndice ao relatório de auditoria, referenciado no corpo do texto; ou (3) por referência à localização dessa descrição em página eletrônica de órgão regulador competente, quando permitido pela legislação aplicável.
-- **Alternativas A, C, D e E (INCORRETAS):** Não há supressão da seção; a língua oficial no Brasil é o português; links de vídeo não têm previsão normativa; e as notas explicativas são de responsabilidade da administração, não do auditor.
+* **B (Certa):** A NBC TA 700 (itens 40 e 41) prevê expressamente três alternativas de localização para a longa descrição das responsabilidades do auditor: (1) no próprio corpo do relatório de auditoria; (2) em apêndice ao relatório de auditoria, referenciado no corpo do texto; ou (3) por referência à localização dessa descrição em página eletrônica de órgão regulador competente, quando permitido pela legislação aplicável.
+* **A, C, D e E (Erradas):** Não há supressão da seção; a língua oficial no Brasil é o português; links de vídeo não têm previsão normativa; e as notas explicativas são de responsabilidade da administração, não do auditor.
 
 > **Fique Ligado:** A NBC TA 700  prevê expressamente três alternativas de localização para a longa descrição das responsabilidades do auditor: (1) no próprio corpo do relatório de auditoria; (2) em apêndice ao relatório de auditoria, referenciado no corpo do texto; ou (3) por referência à localização dessa descrição em página eletrônica de órgão regulador competente, quando permitido pela legislação aplicável.
 
@@ -479,8 +479,8 @@ Quando as demonstrações contábeis da entidade contiverem a Demonstração do 
 * **D)** Deve classificar a DVA compulsoriamente na seção de "Outras Informações", limitando-se a uma leitura superficial para checar inconsistências.
 * **E)** Deve encaminhar a DVA diretamente ao Ministério do Trabalho e Emprego antes de assinar o relatório.
 
-#### Gabarito e Dissecação Técnica: **Alternativa B**
+#### Gabarito: **B**
 
-* **Alternativa B (CORRETA):** No Brasil, a DVA é demonstração contábil obrigatória para companhias abertas por força de lei federal (Lei 6.404/76, com redação da Lei 11.638/07) e da NBC TG 09 / CPC 09. Por conseguinte, ela integra formalmente o conjunto de demonstrações auditadas, devendo ser expressamente nominada no parágrafo de Opinião do relatório do auditor (NBC TA 700 e Comunicado Técnico do CFC/IBRACON).
-- **Alternativas A, C, D e E (INCORRETAS):** A DVA não é omitida nem gera ressalva; integra o núcleo das demonstrações auditadas (não é mera "outra informação"); e seu destino é o mercado de capitais e os acionistas.
+* **B (Certa):** No Brasil, a DVA é demonstração contábil obrigatória para companhias abertas por força de lei federal (Lei 6.404/76, com redação da Lei 11.638/07) e da NBC TG 09 / CPC 09. Por conseguinte, ela integra formalmente o conjunto de demonstrações auditadas, devendo ser expressamente nominada no parágrafo de Opinião do relatório do auditor (NBC TA 700 e Comunicado Técnico do CFC/IBRACON).
+* **A, C, D e E (Erradas):** A DVA não é omitida nem gera ressalva; integra o núcleo das demonstrações auditadas (não é mera "outra informação"); e seu destino é o mercado de capitais e os acionistas.
 > **Fique Ligado:** No Brasil, a DVA é demonstração contábil obrigatória para companhias abertas por força de lei federal (Lei 6.

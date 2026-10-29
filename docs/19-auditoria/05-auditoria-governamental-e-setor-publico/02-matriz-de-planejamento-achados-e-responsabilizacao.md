@@ -245,12 +245,12 @@ No processo de auditoria governamental executado sob os padrões das Normas de A
 * **D)** Termo de Ajustamento de Gestão.
 * **E)** Relatório Preliminar de Fiscalização.
 
-#### Gabarito e Dissecação Técnica: **Alternativa B**
+#### Gabarito: **B**
 
-* **Alternativa B (CORRETA):** A **Matriz de Planejamento** é o instrumento estruturador elaborado na fase preliminar da fiscalização pelo TCU, organizando o trabalho em torno das Questões de Auditoria (QA), procedimentos e critérios.
-* **Alternativa A (INCORRETA):** A Matriz de Responsabilização destina-se a individualizar condutas e culpabilidade de agentes sob a LINDB na fase final da auditoria.
-* **Alternativa C (INCORRETA):** A Matriz de Achados registra as irregularidades e constatações fáticas apuradas durante a execução.
-- **Alternativas D e E (INCORRETAS):** TAG é instrumento consensual e o Relatório Preliminar é documento de conclusão de equipe.
+* **B (Certa):** A **Matriz de Planejamento** é o instrumento estruturador elaborado na fase preliminar da fiscalização pelo TCU, organizando o trabalho em torno das Questões de Auditoria (QA), procedimentos e critérios.
+* **A (Errada):** A Matriz de Responsabilização destina-se a individualizar condutas e culpabilidade de agentes sob a LINDB na fase final da auditoria.
+* **C (Errada):** A Matriz de Achados registra as irregularidades e constatações fáticas apuradas durante a execução.
+* **D e E (Erradas):** TAG é instrumento consensual e o Relatório Preliminar é documento de conclusão de equipe.
 
 > **Fique Ligado:** A **Matriz de Planejamento** é o instrumento estruturador elaborado na fase preliminar da fiscalização pelo TCU, organizando o trabalho em torno das Questões de Auditoria (QA), procedimentos e critérios.
 
@@ -265,13 +265,13 @@ Os achados de auditoria constituem a essência dos relatórios de controle exter
 * **D)** Efeito.
 * **E)** Recomedação.
 
-#### Gabarito e Dissecação Técnica: **Alternativa C**
+#### Gabarito: **C**
 
-* **Alternativa C (CORRETA):** A **Condição** é a situação fática encontrada ("o que é"), apurada e comprovada documentalmente pelo auditor de controle externo.
-* **Alternativa A (INCORRETA):** O Critério é o padrão de comparação ("o que deveria ser").
-* **Alternativa B (INCORRETA):** A Causa é a razão ou motivo gerador da discrepância ("por que ocorreu").
-* **Alternativa D (INCORRETA):** O Efeito é a consequência material ou risco produzido ("qual o impacto").
-* **Alternativa E (INCORRETA):** Recomendação é a proposta de encaminhamento corretivo.
+* **C (Certa):** A **Condição** é a situação fática encontrada ("o que é"), apurada e comprovada documentalmente pelo auditor de controle externo.
+* **A (Errada):** O Critério é o padrão de comparação ("o que deveria ser").
+* **B (Errada):** A Causa é a razão ou motivo gerador da discrepância ("por que ocorreu").
+* **D (Errada):** O Efeito é a consequência material ou risco produzido ("qual o impacto").
+* **E (Errada):** Recomendação é a proposta de encaminhamento corretivo.
 
 > **Fique Ligado:** A **Condição** é a situação fática encontrada ("o que é"), apurada e comprovada documentalmente pelo auditor de controle externo.
 
@@ -286,11 +286,11 @@ Nos termos do art. 28 da Lei de Introdução às Normas do Direito Brasileiro (L
 * **D)** divergência doutrinária ou jurisprudencial não pacificada.
 * **E)** adoção de orientação jurídica fundamentada da procuradoria do órgão.
 
-#### Gabarito e Dissecação Técnica: **Alternativa B**
+#### Gabarito: **B**
 
-* **Alternativa B (CORRETA):** O art. 28 da LINDB veda a punição do gestor público por culpa simples ou erro leve, fixando expressamente que o agente responde pessoalmente apenas em caso de **dolo** ou **erro grosseiro** (culpa grave com manifesta inobservância do dever elementar de cuidado).
-- **Alternativas A e C (INCORRETAS):** Culpa leve e responsabilidade objetiva sem culpa são rechaçadas na esfera pessoal punitiva sancionadora do direito administrativo.
-- **Alternativas D e E (INCORRETAS):** O art. 24 da LINDB e jurisprudência vinculante vedam punição quando a decisão baseou-se em jurisprudência ou parecer jurídico fundamentado da advocacia pública.
+* **B (Certa):** O art. 28 da LINDB veda a punição do gestor público por culpa simples ou erro leve, fixando expressamente que o agente responde pessoalmente apenas em caso de **dolo** ou **erro grosseiro** (culpa grave com manifesta inobservância do dever elementar de cuidado).
+* **A e C (Erradas):** Culpa leve e responsabilidade objetiva sem culpa são rechaçadas na esfera pessoal punitiva sancionadora do direito administrativo.
+* **D e E (Erradas):** O art. 24 da LINDB e jurisprudência vinculante vedam punição quando a decisão baseou-se em jurisprudência ou parecer jurídico fundamentado da advocacia pública.
 
 > **Fique Ligado:** O art.
 
@@ -305,10 +305,10 @@ Em relação às propostas de deliberação a serem formuladas pelas equipes de 
 * **D)** O descumprimento injustificado de uma recomendação autoriza a prisão administrativa do ordenador de despesas.
 * **E)** As determinações e recomendações possuem efeitos idênticos no ordenamento jurídico, sendo sinônimos processuais.
 
-#### Gabarito e Dissecação Técnica: **Alternativa B**
+#### Gabarito: **B**
 
-* **Alternativa B (CORRETA):** A distinção doutrinária e normativa é clássica no regimento interno do TCU: **Determinação** possui caráter mandamental e vinculante para sanar ilegalidade constatada em prazo estrito (seu descumprimento enseja multa do art. 58 da Lei 8.443/92); **Recomendação** tem natureza colaborativa e propositiva, permitindo ao gestor justificar alternativas viáveis.
-- **Alternativas A, C, D e E (INCORRETAS):** Invertem os conceitos, inexiste prisão administrativa por recomendação e não são instrumentos sinônimos.
+* **B (Certa):** A distinção doutrinária e normativa é clássica no regimento interno do TCU: **Determinação** possui caráter mandamental e vinculante para sanar ilegalidade constatada em prazo estrito (seu descumprimento enseja multa do art. 58 da Lei 8.443/92); **Recomendação** tem natureza colaborativa e propositiva, permitindo ao gestor justificar alternativas viáveis.
+* **A, C, D e E (Erradas):** Invertem os conceitos, inexiste prisão administrativa por recomendação e não são instrumentos sinônimos.
 
 > **Fique Ligado:** A distinção doutrinária e normativa é clássica no regimento interno do TCU: **Determinação** possui caráter mandamental e vinculante para sanar ilegalidade constatada em prazo estrito (seu descumprimento enseja multa do art.
 
@@ -323,10 +323,10 @@ Ao estruturar a Matriz de Responsabilização em uma auditoria de obras pública
 * **D)** Isentar automaticamente de responsabilidade o secretário municipal se ele pertencer ao mesmo partido político do presidente do Tribunal de Contas.
 * **E)** Transferir a responsabilidade civil do gestor público para a associação de moradores da localidade.
 
-#### Gabarito e Dissecação Técnica: **Alternativa B**
+#### Gabarito: **B**
 
-* **Alternativa B (CORRETA):** O art. 22 da LINDB impõe que na interpretação de normas sobre gestão pública sejam considerados os obstáculos e as dificuldades reais do gestor, avaliando a culpabilidade sob a ótica da **exigibilidade de conduta diversa** nas circunstâncias fáticas reais em que o agente atuou.
-- **Alternativas A, C, D e E (INCORRETAS):** A LINDB veda presunção cega de dolo sem considerar as circunstâncias práticas; não há prova tarifada testemunhal; afiliação partidária é juridicamente irrelevante; e a responsabilidade funcional é personalíssima.
+* **B (Certa):** O art. 22 da LINDB impõe que na interpretação de normas sobre gestão pública sejam considerados os obstáculos e as dificuldades reais do gestor, avaliando a culpabilidade sob a ótica da **exigibilidade de conduta diversa** nas circunstâncias fáticas reais em que o agente atuou.
+* **A, C, D e E (Erradas):** A LINDB veda presunção cega de dolo sem considerar as circunstâncias práticas; não há prova tarifada testemunhal; afiliação partidária é juridicamente irrelevante; e a responsabilidade funcional é personalíssima.
 
 > **Fique Ligado:** O art.
 
@@ -341,10 +341,10 @@ Em uma auditoria de conformidade sobre a execução de um convênio federal, o a
 * **D)** O nexo de causalidade é dispensável quando houver lesão aos cofres da União.
 * **E)** A responsabilidade deve ser imputada exclusivamente ao Presidente da República que sancionou o orçamento federal.
 
-#### Gabarito e Dissecação Técnica: **Alternativa B**
+#### Gabarito: **B**
 
-* **Alternativa B (CORRETA):** A Matriz de Responsabilização exige o preenchimento rigoroso dos 4 atributos: individualização da conduta específica, demonstração do nexo de causalidade direto com a liberação dos recursos públicos e demonstração inequívoca de dolo ou erro grosseiro sob o art. 28 da LINDB.
-- **Alternativas A, C, D e E (INCORRETAS):** Condutas genéricas violam a ampla defesa e o devido processo legal; fiscais de contrato respondem pessoalmente pelo ateste falso; o nexo causal é pressuposto obrigatório; e o Presidente não responde por desvios pontuais de fiscais de campo.
+* **B (Certa):** A Matriz de Responsabilização exige o preenchimento rigoroso dos 4 atributos: individualização da conduta específica, demonstração do nexo de causalidade direto com a liberação dos recursos públicos e demonstração inequívoca de dolo ou erro grosseiro sob o art. 28 da LINDB.
+* **A, C, D e E (Erradas):** Condutas genéricas violam a ampla defesa e o devido processo legal; fiscais de contrato respondem pessoalmente pelo ateste falso; o nexo causal é pressuposto obrigatório; e o Presidente não responde por desvios pontuais de fiscais de campo.
 
 > **Fique Ligado:** A Matriz de Responsabilização exige o preenchimento rigoroso dos 4 atributos: individualização da conduta específica, demonstração do nexo de causalidade direto com a liberação dos recursos públicos e demonstração inequívoca de dolo ou erro grosseiro sob o art.
 
@@ -359,12 +359,12 @@ No âmbito do controle externo exercido pelos Tribunais de Contas, a comunicaç�
 * **D)** Declaração de inidoneidade mercantil.
 * **E)** Decretação de intervenção federal.
 
-#### Gabarito e Dissecação Técnica: **Alternativa C**
+#### Gabarito: **C**
 
-* **Alternativa C (CORRETA):** A **Ciência** é a deliberação utilizada pelo Tribunal de Contas para comunicar ao órgão jurisdicionado a ocorrência de impropriedade formal de menor potencial ofensivo, alertando sobre a desconformidade para que o gestor adote providências preventivas e não reincida na falha em exercícios futuros.
-* **Alternativa A (INCORRETA):** Determinação impõe obrigação de fazer/não fazer sob pena de multa.
-* **Alternativa B (INCORRETA):** Imputação de débito exige dano material comprovado ao erário.
-- **Alternativas D e E (INCORRETAS):** Inidoneidade é sanção a licitantes e intervenção federal é ato privativo do Presidente da República.
+* **C (Certa):** A **Ciência** é a deliberação utilizada pelo Tribunal de Contas para comunicar ao órgão jurisdicionado a ocorrência de impropriedade formal de menor potencial ofensivo, alertando sobre a desconformidade para que o gestor adote providências preventivas e não reincida na falha em exercícios futuros.
+* **A (Errada):** Determinação impõe obrigação de fazer/não fazer sob pena de multa.
+* **B (Errada):** Imputação de débito exige dano material comprovado ao erário.
+* **D e E (Erradas):** Inidoneidade é sanção a licitantes e intervenção federal é ato privativo do Presidente da República.
 
 > **Fique Ligado:** A **Ciência** é a deliberação utilizada pelo Tribunal de Contas para comunicar ao órgão jurisdicionado a ocorrência de impropriedade formal de menor potencial ofensivo, alertando sobre a desconformidade para que o gestor adote providências preventivas e não reincida na falha em exercícios futuros.
 
@@ -379,10 +379,10 @@ O Decreto nº 9.830/2019, que regulamentou as alterações da LINDB na esfera ad
 * **D)** Praticado em estrita conformidade com manual de procedimentos padronizado do órgão.
 * **E)** Cometido por servidor público em estágio probatório no primeiro mês de exercício.
 
-#### Gabarito e Dissecação Técnica: **Alternativa B**
+#### Gabarito: **B**
 
-* **Alternativa B (CORRETA):** O art. 12 do Decreto nº 9.830/2019 e a jurisprudência pacificada do TCU (Acórdãos 2.391/2018 e 1.628/2020 do Plenário) definem o erro grosseiro do art. 28 da LINDB como a **culpa grave**, consubstanciada na conduta praticada com manifesto e elevado grau de negligência, imprudência ou imperícia, distanciando-se substancialmente do padrão médio de diligência exigível do administrador público.
-- **Alternativas A, C, D e E (INCORRETAS):** Divergência plausível e erro material leve não são erro grosseiro; e estrita observância de manuais oficiais exclui a culpabilidade.
+* **B (Certa):** O art. 12 do Decreto nº 9.830/2019 e a jurisprudência pacificada do TCU (Acórdãos 2.391/2018 e 1.628/2020 do Plenário) definem o erro grosseiro do art. 28 da LINDB como a **culpa grave**, consubstanciada na conduta praticada com manifesto e elevado grau de negligência, imprudência ou imperícia, distanciando-se substancialmente do padrão médio de diligência exigível do administrador público.
+* **A, C, D e E (Erradas):** Divergência plausível e erro material leve não são erro grosseiro; e estrita observância de manuais oficiais exclui a culpabilidade.
 
 > **Fique Ligado:** O art.
 
@@ -397,10 +397,10 @@ Em relação à elaboração da Matriz de Achados de auditoria e à definição 
 * **D)** O critério é dispensável quando o auditor constatar prejuízo financeiro evidente.
 * **E)** O critério de auditoria é definido privativamente pelo Ministério Público junto ao Tribunal de Contas após o término da fase de execução.
 
-#### Gabarito e Dissecação Técnica: **Alternativa B**
+#### Gabarito: **B**
 
-* **Alternativa B (CORRETA):** A NBASP 100 e os Manuais de Auditoria do TCU estabelecem que o **Critério** é o padrão contra o qual a condição é comparada, devendo decorrer de normas jurídicas (leis, decretos), termos de contratos, metas de planos governamentais ou parâmetros técnicos e de boas práticas reconhecidas.
-- **Alternativas A, C, D e E (INCORRETAS):** A auditoria é estritamente técnica e veda subjetivismos; critérios podem advir de normas infralegais e manuais técnicos; todo achado exige critério obrigatório; e o critério é definido pela equipe técnica desde a fase de planejamento.
+* **B (Certa):** A NBASP 100 e os Manuais de Auditoria do TCU estabelecem que o **Critério** é o padrão contra o qual a condição é comparada, devendo decorrer de normas jurídicas (leis, decretos), termos de contratos, metas de planos governamentais ou parâmetros técnicos e de boas práticas reconhecidas.
+* **A, C, D e E (Erradas):** A auditoria é estritamente técnica e veda subjetivismos; critérios podem advir de normas infralegais e manuais técnicos; todo achado exige critério obrigatório; e o critério é definido pela equipe técnica desde a fase de planejamento.
 
 > **Fique Ligado:** A NBASP 100 e os Manuais de Auditoria do TCU estabelecem que o **Critério** é o padrão contra o qual a condição é comparada, devendo decorrer de normas jurídicas (leis, decretos), termos de contratos, metas de planos governamentais ou parâmetros técnicos e de boas práticas reconhecidas.
 
@@ -415,11 +415,11 @@ A respeito da relação entre a Matriz de Achados e a Matriz de Responsabilizaç
 * **D)** A Matriz de Responsabilização dispensa a demonstração do nexo de causalidade quando o gestor for ocupante de cargo em comissão.
 * **E)** A Matriz de Responsabilização é assinada exclusivamente pelo juiz federal de plantão.
 
-#### Gabarito e Dissecação Técnica: **Alternativa B**
+#### Gabarito: **B**
 
-* **Alternativa B (CORRETA):** A Matriz de Responsabilização não é gerada para simples oportunidades de melhoria ou recomendações; sua elaboração é acionada especificamente quando o achado de auditoria envolve conduta reprovável (comissiva ou omissiva) passível de cominação de penalidades legais (multas, inabilitação) ou instauração de Tomada de Contas Especial (TCE) para reparação de dano ao erário.
-- **Alternativas A e C (INCORRETAS):** Achados com propostas de recomendação não geram responsabilização pessoal punitiva; e os dois instrumentos possuem finalidades totalmente distintas.
-- **Alternativas D e E (INCORRETAS):** O nexo causal é pressuposto irrenunciável da responsabilidade pessoal e a matriz é instrumento interno da equipe de auditoria do Tribunal.
+* **B (Certa):** A Matriz de Responsabilização não é gerada para simples oportunidades de melhoria ou recomendações; sua elaboração é acionada especificamente quando o achado de auditoria envolve conduta reprovável (comissiva ou omissiva) passível de cominação de penalidades legais (multas, inabilitação) ou instauração de Tomada de Contas Especial (TCE) para reparação de dano ao erário.
+* **A e C (Erradas):** Achados com propostas de recomendação não geram responsabilização pessoal punitiva; e os dois instrumentos possuem finalidades totalmente distintas.
+* **D e E (Erradas):** O nexo causal é pressuposto irrenunciável da responsabilidade pessoal e a matriz é instrumento interno da equipe de auditoria do Tribunal.
 
 > **Fique Ligado:** A Matriz de Responsabilização não é gerada para simples oportunidades de melhoria ou recomendações; sua elaboração é acionada especificamente quando o achado de auditoria envolve conduta reprovável (comissiva ou omissiva) passível de cominação de penalidades legais (multas, inabilitação) ou instauração de Tomada de Contas Especial (TCE) para reparação de dano ao erário.
 
@@ -434,13 +434,13 @@ Ao concluir a auditoria sobre um programa de erradicação do analfabetismo infa
 * **D)** Recomendação não vinculante facultando à secretaria arquivar o relatório.
 * **E)** Concessão de anistia administrativa tácita.
 
-#### Gabarito e Dissecação Técnica: **Alternativa B**
+#### Gabarito: **B**
 
-* **Alternativa B (CORRETA):** Para sanar falhas estruturais com prazo fixado e obrigatoriedade de apresentação de plano corretivo, o Tribunal de Contas utiliza a **Determinação**, fixando o prazo regulamentar (ex.: 90 ou 180 dias) para que o órgão comprove o cumprimento da deliberação.
-* **Alternativa A (INCORRETA):** Débito exige comprovação de prejuízo financeiro efetivo.
-* **Alternativa C (INCORRETA):** Inidoneidade sanciona licitantes privados que fraudam licitações.
-* **Alternativa D (INCORRETA):** Quando o Tribunal fixa prazo cogente de cumprimento, trata-se de determinação, e não mera recomendação.
-* **Alternativa E (INCORRETA):** Inexiste anistia administrativa sumária em controle externo.
+* **B (Certa):** Para sanar falhas estruturais com prazo fixado e obrigatoriedade de apresentação de plano corretivo, o Tribunal de Contas utiliza a **Determinação**, fixando o prazo regulamentar (ex.: 90 ou 180 dias) para que o órgão comprove o cumprimento da deliberação.
+* **A (Errada):** Débito exige comprovação de prejuízo financeiro efetivo.
+* **C (Errada):** Inidoneidade sanciona licitantes privados que fraudam licitações.
+* **D (Errada):** Quando o Tribunal fixa prazo cogente de cumprimento, trata-se de determinação, e não mera recomendação.
+* **E (Errada):** Inexiste anistia administrativa sumária em controle externo.
 
 > **Fique Ligado:** Para sanar falhas estruturais com prazo fixado e obrigatoriedade de apresentação de plano corretivo, o Tribunal de Contas utiliza a **Determinação**, fixando o prazo regulamentar (ex.
 
@@ -455,11 +455,11 @@ Em relação à análise da "Causa" em um achado de auditoria governamental:
 * **D)** A causa do achado de auditoria confunde-se com o valor monetário do superfaturamento apurado na obra.
 * **E)** O auditor deve atribuir a causa de todos os achados sempre à escassez de recursos orçamentários do ente federado.
 
-#### Gabarito e Dissecação Técnica: **Alternativa B**
+#### Gabarito: **B**
 
-* **Alternativa B (CORRETA):** Na metodologia dos Manuais do TCU e da INTOSAI, a **Causa** representa a raiz do problema (falha de supervisão, ausência de normativo interno, sistema de TI inadequado, conluio fraudulento). Atuar sobre a causa é a única forma de formular deliberações estruturantes e preventivas que impeçam a reincidência da desconformidade.
-* **Alternativa A (INCORRETA):** Identificação de pessoas é atributo da Matriz de Responsabilização.
-* **Alternativa C (INCORRETA):** A causa é atributo cardeal e obrigatório em todo achado de auditoria.
-* **Alternativa D (INCORRETA):** Valor do superfaturamento é dimensão do Efeito (dano ao erário).
-* **Alternativa E (INCORRETA):** A causa deve ser investigada com rigor técnico e evidência empírica, sem presunções simplistas.
+* **B (Certa):** Na metodologia dos Manuais do TCU e da INTOSAI, a **Causa** representa a raiz do problema (falha de supervisão, ausência de normativo interno, sistema de TI inadequado, conluio fraudulento). Atuar sobre a causa é a única forma de formular deliberações estruturantes e preventivas que impeçam a reincidência da desconformidade.
+* **A (Errada):** Identificação de pessoas é atributo da Matriz de Responsabilização.
+* **C (Errada):** A causa é atributo cardeal e obrigatório em todo achado de auditoria.
+* **D (Errada):** Valor do superfaturamento é dimensão do Efeito (dano ao erário).
+* **E (Errada):** A causa deve ser investigada com rigor técnico e evidência empírica, sem presunções simplistas.
 > **Fique Ligado:** Na metodologia dos Manuais do TCU e da INTOSAI, a **Causa** representa a raiz do problema (falha de supervisão, ausência de normativo interno, sistema de TI inadequado, conluio fraudulento).

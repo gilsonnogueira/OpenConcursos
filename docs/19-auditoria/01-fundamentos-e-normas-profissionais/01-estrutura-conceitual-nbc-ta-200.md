@@ -406,12 +406,12 @@ A auditoria independente, a auditoria interna e a perícia contábil diferenciam
 * **D)** A auditoria interna vincula-se primordialmente ao usuário externo e reporta suas conclusões diretamente aos credores e investidores da entidade auditada.
 * **E)** A auditoria independente é executada por profissional externo, sem vínculo empregatício com a entidade auditada, visando emitir opinião sobre a adequação das demonstrações contábeis.
 
-#### Gabarito e Dissecação Técnica: **Alternativa E**
-* **Análise da Alternativa A (Incorreta):** A emissão de opinião de asseguração razoável sobre as demonstrações contábeis como um todo é o objetivo da **Auditoria Independente** (NBC TA 200). A **Perícia Contábil** (NBC TP 01) tem escopo restrito à matéria fática controvertida de um litígio judicial ou extrajudicial, emitindo laudo ou parecer técnico.
-* **Análise da Alternativa B (Incorreta):** A avaliação contínua e permanente dos controles internos para assessorar a gestão é característica da **Auditoria Interna** (NBC TI 01). A perícia é eventual e temporalmente delimitada pelo processo.
-* **Análise da Alternativa C (Incorreta):** Inverteu os conceitos: quem atua sem vínculo empregatício para opinar perante o mercado é o **Auditor Independente**. O auditor interno pertence aos quadros da empresa (ou atua de modo terceirizado subordinado à administração).
-* **Análise da Alternativa D (Incorreta):** O destinatário dos relatórios da Auditoria Interna é exclusivamente a **Administração / Governança** (usuário interno). Seus relatórios são confidenciais e só podem ser entregues a terceiros mediante autorização expressa da entidade.
-* **Análise da Alternativa E (Correta):** Perfeita definição doutrinária e normativa. O auditor independente mantém independência absoluta (de pensamento e de aparência), não possui vínculo empregatício com a auditada e tem por finalidade aumentar o grau de confiança dos usuários previstos mediante emissão de opinião sobre as demonstrações contábeis.
+#### Gabarito: **E**
+* **A (Errada):** A emissão de opinião de asseguração razoável sobre as demonstrações contábeis como um todo é o objetivo da **Auditoria Independente** (NBC TA 200). A **Perícia Contábil** (NBC TP 01) tem escopo restrito à matéria fática controvertida de um litígio judicial ou extrajudicial, emitindo laudo ou parecer técnico.
+* **B (Errada):** A avaliação contínua e permanente dos controles internos para assessorar a gestão é característica da **Auditoria Interna** (NBC TI 01). A perícia é eventual e temporalmente delimitada pelo processo.
+* **C (Errada):** Inverteu os conceitos: quem atua sem vínculo empregatício para opinar perante o mercado é o **Auditor Independente**. O auditor interno pertence aos quadros da empresa (ou atua de modo terceirizado subordinado à administração).
+* **D (Errada):** O destinatário dos relatórios da Auditoria Interna é exclusivamente a **Administração / Governança** (usuário interno). Seus relatórios são confidenciais e só podem ser entregues a terceiros mediante autorização expressa da entidade.
+* **E (Certa):** Perfeita definição doutrinária e normativa. O auditor independente mantém independência absoluta (de pensamento e de aparência), não possui vínculo empregatício com a auditada e tem por finalidade aumentar o grau de confiança dos usuários previstos mediante emissão de opinião sobre as demonstrações contábeis.
 
 > **Fique Ligado:** Perfeita definição doutrinária e normativa.
 
@@ -427,12 +427,12 @@ Acerca da Estrutura Conceitual para Trabalhos de Asseguração (NBC TA Estrutura
 * **D)** Critérios estabelecidos pela própria administração para uso interno e sem divulgação explícita aos usuários são sempre considerados critérios adequados para fins de auditoria de demonstrações contábeis de propósito geral.
 * **E)** Caso seja descoberta uma fraude material nas demonstrações contábeis seis meses após a emissão de um relatório de auditoria sem ressalvas, resta configurada presunção absoluta de falha técnica do auditor na condução dos trabalhos.
 
-#### Gabarito e Dissecação Técnica: **Alternativa C**
-* **Análise da Alternativa A (Incorreta):** Trabalhos de **Procedimentos Previamente Acordados (NBC TSC 4400)** **NÃO são trabalhos de asseguração**! O auditor não expressa nenhuma opinião ou conclusão (nem positiva nem negativa); ele apenas relata as constatações factuais (*factual findings*) para que os próprios usuários tirem suas conclusões.
-* **Análise da Alternativa B (Incorreta):** Viola frontalmente o item A21 da NBC TA 200: a convicção na honestidade e integridade da administração **jamais alivia** o auditor da necessidade de manter o ceticismo profissional nem permite que se satisfaça com evidência menos que persuasiva.
-* **Análise da Alternativa C (Correta):** Reproduz com exatidão a NBC TA Estrutura Conceitual: na asseguração razoável (como a auditoria), o risco é reduzido a um nível aceitavelmente baixo e a conclusão é expressa na **forma positiva** (*"Em nossa opinião, as demonstrações contábeis apresentam adequadamente..."*).
-* **Análise da Alternativa D (Incorreta):** Critérios adequados exigem **relevância, integralidade, confiabilidade, neutralidade e compreensibilidade**, além de estarem disponíveis aos usuários previstos. Critérios internos arbitrários e não divulgados não atendem aos requisitos de uma estrutura de propósito geral.
-* **Análise da Alternativa E (Incorreta):** Conforme o item A54 da NBC TA 200, em virtude das limitações inerentes da auditoria, a descoberta posterior de distorção relevante resultante de fraude ou erro **não indica, por si só**, falha na condução da auditoria de acordo com as NBC TAs.
+#### Gabarito: **C**
+* **A (Errada):** Trabalhos de **Procedimentos Previamente Acordados (NBC TSC 4400)** **NÃO são trabalhos de asseguração**! O auditor não expressa nenhuma opinião ou conclusão (nem positiva nem negativa); ele apenas relata as constatações factuais (*factual findings*) para que os próprios usuários tirem suas conclusões.
+* **B (Errada):** Viola frontalmente o item A21 da NBC TA 200: a convicção na honestidade e integridade da administração **jamais alivia** o auditor da necessidade de manter o ceticismo profissional nem permite que se satisfaça com evidência menos que persuasiva.
+* **C (Certa):** Reproduz com exatidão a NBC TA Estrutura Conceitual: na asseguração razoável (como a auditoria), o risco é reduzido a um nível aceitavelmente baixo e a conclusão é expressa na **forma positiva** (*"Em nossa opinião, as demonstrações contábeis apresentam adequadamente..."*).
+* **D (Errada):** Critérios adequados exigem **relevância, integralidade, confiabilidade, neutralidade e compreensibilidade**, além de estarem disponíveis aos usuários previstos. Critérios internos arbitrários e não divulgados não atendem aos requisitos de uma estrutura de propósito geral.
+* **E (Errada):** Conforme o item A54 da NBC TA 200, em virtude das limitações inerentes da auditoria, a descoberta posterior de distorção relevante resultante de fraude ou erro **não indica, por si só**, falha na condução da auditoria de acordo com as NBC TAs.
 
 > **Fique Ligado:** Reproduz com exatidão a NBC TA Estrutura Conceitual: na asseguração razoável (como a auditoria), o risco é reduzido a um nível aceitavelmente baixo e a conclusão é expressa na **forma positiva** (*"Em nossa opinião, as demonstrações contábeis apresentam adequadamente.
 
@@ -448,12 +448,12 @@ Ao planejar a auditoria das demonstrações financeiras de uma companhia varejis
 * **D)** O risco de distorção relevante e o risco de detecção possuem relação diretamente proporcional para um nível constante de risco de auditoria.
 * **E)** O risco de auditoria compreende o risco de o auditor sofrer processos judiciais de indenização por parte dos acionistas caso a empresa auditada venha a falir no exercício seguinte.
 
-#### Gabarito e Dissecação Técnica: **Alternativa B**
-* **Análise da Alternativa A (Incorreta):** A falha na implantação de um novo sistema e a ausência de segregação de funções aumentam o risco de controle (e a mudança tecnológica também pressiona o risco inerente), jamais reduzindo-os a zero.
-* **Análise da Alternativa B (Correta):** A ausência de segregação de funções e de conciliação faz com que o **Risco de Controle ($RC$)** seja avaliado como **alto**. Isso eleva o **Risco de Distorção Relevante ($RDR = RI \times RC$)**. Pela relação inversa ($RD = RA / RDR$), para manter o Risco de Auditoria ($RA$) baixo, o **Risco de Detecção ($RD$) aceitável deve ser reduzido**, o que é alcançado ampliando a extensão e o rigor dos testes substantivos.
-* **Análise da Alternativa C (Incorreta):** A criação, implementação e manutenção do controle interno é responsabilidade exclusiva da **Administração**. O auditor independente jamais pode assumir responsabilidades de gestão (sob pena de violar a independência por ameaça de autorrevisão).
-* **Análise da Alternativa D (Incorreta):** Para um nível fixo de Risco de Auditoria, a relação entre o $RDR$ e o nível aceitável de $RD$ é **inversamente proporcional** (item A44 da NBC TA 200).
-* **Análise da Alternativa E (Incorreta):** O risco de litígio judicial ou perda reputacional constitui **risco do negócio do auditor**, que é expressamente excluído do conceito técnico de Risco de Auditoria (item A33 da NBC TA 200).
+#### Gabarito: **B**
+* **A (Errada):** A falha na implantação de um novo sistema e a ausência de segregação de funções aumentam o risco de controle (e a mudança tecnológica também pressiona o risco inerente), jamais reduzindo-os a zero.
+* **B (Certa):** A ausência de segregação de funções e de conciliação faz com que o **Risco de Controle ($RC$)** seja avaliado como **alto**. Isso eleva o **Risco de Distorção Relevante ($RDR = RI \times RC$)**. Pela relação inversa ($RD = RA / RDR$), para manter o Risco de Auditoria ($RA$) baixo, o **Risco de Detecção ($RD$) aceitável deve ser reduzido**, o que é alcançado ampliando a extensão e o rigor dos testes substantivos.
+* **C (Errada):** A criação, implementação e manutenção do controle interno é responsabilidade exclusiva da **Administração**. O auditor independente jamais pode assumir responsabilidades de gestão (sob pena de violar a independência por ameaça de autorrevisão).
+* **D (Errada):** Para um nível fixo de Risco de Auditoria, a relação entre o $RDR$ e o nível aceitável de $RD$ é **inversamente proporcional** (item A44 da NBC TA 200).
+* **E (Errada):** O risco de litígio judicial ou perda reputacional constitui **risco do negócio do auditor**, que é expressamente excluído do conceito técnico de Risco de Auditoria (item A33 da NBC TA 200).
 
 > **Fique Ligado:** A ausência de segregação de funções e de conciliação faz com que o **Risco de Controle ($RC$)** seja avaliado como **alto**.
 
@@ -469,12 +469,12 @@ Nos termos da Lei nº 11.638/2007 e da Lei nº 6.404/1976, uma sociedade empres�
 * **D)** É classificada como sociedade de grande porte, mas pode contratar qualquer contador com registro ativo no CRC para auditar seu balanço, sendo inexigível o registro na CVM.
 * **E)** Somente estará obrigada à auditoria independente se mantiver o faturamento superior a R\$ 300 milhões por três exercícios sociais consecutivos.
 
-#### Gabarito e Dissecação Técnica: **Alternativa C**
-* **Análise da Alternativa A (Incorreta):** O art. 3º da Lei nº 11.638/2007 aplica-se às sociedades de grande porte **ainda que não constituídas sob a forma de sociedades por ações** (alcançando plenamente as Sociedades Limitadas).
-* **Análise da Alternativa B (Incorreta):** Os requisitos legais são **alternativos ("OU")** e não cumulativos. Embora o Ativo Total (R\$ 195 milhões) tenha ficado abaixo de R\$ 240 milhões, a Receita Bruta Anual (R\$ 315 milhões) superou o limite de R\$ 300 milhões.
-* **Análise da Alternativa C (Correta):** Ao superar o limite de R\$ 300 milhões de Receita Bruta Anual no exercício social anterior, a LTDA enquadra-se como **Sociedade de Grande Porte** e fica obrigada às regras da Lei nº 6.404/76 quanto à escrituração, elaboração de demonstrações financeiras e **obrigatoriedade de auditoria independente por auditor registrado na CVM** (art. 3º, *caput* e parágrafo único da Lei nº 11.638/2007).
-* **Análise da Alternativa D (Incorreta):** O art. 3º exige expressamente que a auditoria independente seja realizada por auditor **registrado na Comissão de Valores Mobiliários (CVM)**.
-* **Análise da Alternativa E (Incorreta):** A aferição legal considera apenas o **exercício social imediatamente anterior**, inexistindo exigência de triênio consecutivo.
+#### Gabarito: **C**
+* **A (Errada):** O art. 3º da Lei nº 11.638/2007 aplica-se às sociedades de grande porte **ainda que não constituídas sob a forma de sociedades por ações** (alcançando plenamente as Sociedades Limitadas).
+* **B (Errada):** Os requisitos legais são **alternativos ("OU")** e não cumulativos. Embora o Ativo Total (R\$ 195 milhões) tenha ficado abaixo de R\$ 240 milhões, a Receita Bruta Anual (R\$ 315 milhões) superou o limite de R\$ 300 milhões.
+* **C (Certa):** Ao superar o limite de R\$ 300 milhões de Receita Bruta Anual no exercício social anterior, a LTDA enquadra-se como **Sociedade de Grande Porte** e fica obrigada às regras da Lei nº 6.404/76 quanto à escrituração, elaboração de demonstrações financeiras e **obrigatoriedade de auditoria independente por auditor registrado na CVM** (art. 3º, *caput* e parágrafo único da Lei nº 11.638/2007).
+* **D (Errada):** O art. 3º exige expressamente que a auditoria independente seja realizada por auditor **registrado na Comissão de Valores Mobiliários (CVM)**.
+* **E (Errada):** A aferição legal considera apenas o **exercício social imediatamente anterior**, inexistindo exigência de triênio consecutivo.
 
 > **Fique Ligado:** Ao superar o limite de R\$ 300 milhões de Receita Bruta Anual no exercício social anterior, a LTDA enquadra-se como **Sociedade de Grande Porte** e fica obrigada às regras da Lei nº 6.
 
@@ -490,12 +490,12 @@ De acordo com a NBC TA 200, as limitações inerentes da auditoria impedem que o
 * **D)** A possibilidade de que a administração ou terceiros não forneçam, intencionalmente ou não, todas as informações relevantes solicitadas, aliada à ausência de poderes legais de investigação, como o poder de busca e apreensão.
 * **E)** A prerrogativa conferida pelas NBC TAs para que o auditor afaste livremente qualquer requisito normativo sempre que julgar conveniente para reduzir seus honorários.
 
-#### Gabarito e Dissecação Técnica: **Alternativa D**
-* **Análise da Alternativa A (Incorreta):** Omitir procedimento necessário por causa de custo ou tempo **não é limitação inerente**, mas sim **violação grave da NBC TA 200 (item A50)**!
-* **Análise da Alternativa B (Incorreta):** Falta de competência técnica da equipe não é limitação inerente da auditoria; é deficiência de controle de qualidade da firma (NBC TA 220 / NBC PA 01) e gera risco não resultante da amostragem.
-* **Análise da Alternativa C (Incorreta):** A maior parte das evidências de auditoria é **persuasiva**, e **não conclusiva** (item A47 da NBC TA 200).
-* **Análise da Alternativa D (Correta):** Reflete exatamente o item A49 da NBC TA 200: entre as limitações práticas e legais da natureza dos procedimentos de auditoria estão a possibilidade de omissão intencional ou não intencional de informações pela administração, a sofisticação de fraudes com conluio e a ausência de poderes legais específicos de investigação criminal (como busca e apreensão).
-* **Análise da Alternativa E (Incorreta):** O afastamento de um requisito relevante (item 23 da NBC TA 200) só é admitido em circunstâncias excepcionais quando o procedimento exigido for ineficaz para atingir o objetivo do requisito, exigindo a execução de procedimentos alternativos.
+#### Gabarito: **D**
+* **A (Errada):** Omitir procedimento necessário por causa de custo ou tempo **não é limitação inerente**, mas sim **violação grave da NBC TA 200 (item A50)**!
+* **B (Errada):** Falta de competência técnica da equipe não é limitação inerente da auditoria; é deficiência de controle de qualidade da firma (NBC TA 220 / NBC PA 01) e gera risco não resultante da amostragem.
+* **C (Errada):** A maior parte das evidências de auditoria é **persuasiva**, e **não conclusiva** (item A47 da NBC TA 200).
+* **D (Certa):** Reflete exatamente o item A49 da NBC TA 200: entre as limitações práticas e legais da natureza dos procedimentos de auditoria estão a possibilidade de omissão intencional ou não intencional de informações pela administração, a sofisticação de fraudes com conluio e a ausência de poderes legais específicos de investigação criminal (como busca e apreensão).
+* **E (Errada):** O afastamento de um requisito relevante (item 23 da NBC TA 200) só é admitido em circunstâncias excepcionais quando o procedimento exigido for ineficaz para atingir o objetivo do requisito, exigindo a execução de procedimentos alternativos.
 
 > **Fique Ligado:** Reflete exatamente o item A49 da NBC TA 200: entre as limitações práticas e legais da natureza dos procedimentos de auditoria estão a possibilidade de omissão intencional ou não intencional de informações pela administração, a sofisticação de fraudes com conluio e a ausência de poderes legais específicos de investigação criminal (como busca e apreensão).
 
@@ -511,12 +511,12 @@ A respeito do julgamento profissional, do ceticismo profissional e da condução
 * **D)** Em todas as circunstâncias em que não for possível obter segurança razoável, o auditor deve emitir opinião adversa sobre as demonstrações contábeis.
 * **E)** O risco de detecção independe da eficácia do procedimento de auditoria aplicado e da forma como ele é executado pela equipe de trabalho.
 
-#### Gabarito e Dissecação Técnica: **Alternativa B**
-* **Análise da Alternativa A (Incorreta):** O item A27 da NBC TA 200 proíbe expressamente que o julgamento profissional seja usado como justificativa para decisões que não sejam sustentadas pelos fatos e circunstâncias do trabalho ou por evidência apropriada e suficiente.
-* **Análise da Alternativa B (Correta):** De acordo com o item 22(b) da NBC TA 200, o auditor deve cumprir cada requisito de uma NBC TA, a menos que o requisito não seja relevante porque é **condicional e a condição não existe** (ex.: inexistência de incerteza relevante quanto à continuidade operacional).
-* **Análise da Alternativa C (Incorreta):** O item 20 da NBC TA 200 veda a declaração de conformidade se o auditor não tiver cumprido **todas** as exigências da NBC TA 200 e de todas as demais NBC TAs relevantes para a auditoria. Não existe "conformidade parcial" no relatório!
-* **Análise da Alternativa D (Incorreta):** Quando não é possível obter segurança razoável (limitação de escopo) e a opinião com ressalva é insuficiente, o item 12 da NBC TA 200 determina que o auditor **se abstenha de emitir opinião (Abstenção)** ou **renuncie ao trabalho** (jamais opinião adversa, pois a opinião adversa exige evidência suficiente e apropriada de distorção relevante e generalizada!).
-* **Análise da Alternativa E (Incorreta):** Conforme o item A44 da NBC TA 200, o risco de detecção relaciona-se diretamente com a natureza, a época e a extensão dos procedimentos determinados pelo auditor e é uma função da **eficácia do procedimento de auditoria e de sua aplicação pelo auditor** (incluindo planejamento adequado, designação de pessoal apropriado, aplicação de ceticismo e supervisão).
+#### Gabarito: **B**
+* **A (Errada):** O item A27 da NBC TA 200 proíbe expressamente que o julgamento profissional seja usado como justificativa para decisões que não sejam sustentadas pelos fatos e circunstâncias do trabalho ou por evidência apropriada e suficiente.
+* **B (Certa):** De acordo com o item 22(b) da NBC TA 200, o auditor deve cumprir cada requisito de uma NBC TA, a menos que o requisito não seja relevante porque é **condicional e a condição não existe** (ex.: inexistência de incerteza relevante quanto à continuidade operacional).
+* **C (Errada):** O item 20 da NBC TA 200 veda a declaração de conformidade se o auditor não tiver cumprido **todas** as exigências da NBC TA 200 e de todas as demais NBC TAs relevantes para a auditoria. Não existe "conformidade parcial" no relatório!
+* **D (Errada):** Quando não é possível obter segurança razoável (limitação de escopo) e a opinião com ressalva é insuficiente, o item 12 da NBC TA 200 determina que o auditor **se abstenha de emitir opinião (Abstenção)** ou **renuncie ao trabalho** (jamais opinião adversa, pois a opinião adversa exige evidência suficiente e apropriada de distorção relevante e generalizada!).
+* **E (Errada):** Conforme o item A44 da NBC TA 200, o risco de detecção relaciona-se diretamente com a natureza, a época e a extensão dos procedimentos determinados pelo auditor e é uma função da **eficácia do procedimento de auditoria e de sua aplicação pelo auditor** (incluindo planejamento adequado, designação de pessoal apropriado, aplicação de ceticismo e supervisão).
 
 > **Fique Ligado:** De acordo com o item 22(b) da NBC TA 200, o auditor deve cumprir cada requisito de uma NBC TA, a menos que o requisito não seja relevante porque é **condicional e a condição não existe** (ex.
 
@@ -532,9 +532,9 @@ Durante a execução da auditoria de uma indústria química, o auditor independ
 * **D)** O auditor pode simplesmente dispensar o requisito mediante autorização verbal do diretor financeiro da companhia auditada, sem necessidade de procedimentos alternativos.
 * **E)** O auditor deve emitir opinião com ressalva por limitação de escopo imposta pelas circunstâncias tecnológicas da entidade.
 
-#### Gabarito e Dissecação Técnica: **Alternativa C**
-* **Análise das Alternativas A, B, D e E (Incorretas):** Negam ou distorcem a regra de afastamento excepcional prevista no item 23 da NBC TA 200 (c/c item 12 da NBC TA 230).
-* **Análise da Alternativa C (Correta):** Retrata exatamente o item 23 da NBC TA 200: em circunstâncias excepcionais, o auditor pode julgar necessário afastar-se de um requisito relevante quando o procedimento exigido for **ineficaz** para alcançar o objetivo do requisito, devendo obrigatoriamente **executar procedimentos alternativos** para alcançar esse objetivo e **documentar nos papéis de trabalho** os motivos do afastamento e a eficácia dos procedimentos alternativos.
+#### Gabarito: **C**
+* **A, B, D e E (Erradas):** Negam ou distorcem a regra de afastamento excepcional prevista no item 23 da NBC TA 200 (c/c item 12 da NBC TA 230).
+* **C (Certa):** Retrata exatamente o item 23 da NBC TA 200: em circunstâncias excepcionais, o auditor pode julgar necessário afastar-se de um requisito relevante quando o procedimento exigido for **ineficaz** para alcançar o objetivo do requisito, devendo obrigatoriamente **executar procedimentos alternativos** para alcançar esse objetivo e **documentar nos papéis de trabalho** os motivos do afastamento e a eficácia dos procedimentos alternativos.
 
 > **Fique Ligado:** Retrata exatamente o item 23 da NBC TA 200: em circunstâncias excepcionais, o auditor pode julgar necessário afastar-se de um requisito relevante quando o procedimento exigido for **ineficaz** para alcançar o objetivo do requisito, devendo obrigatoriamente **executar procedimentos alternativos** para alcançar esse objetivo e **documentar nos papéis de trabalho** os motivos do afastamento e a eficácia dos procedimentos alternativos.
 
@@ -550,12 +550,12 @@ Em relação aos trabalhos de revisão de informações contábeis intermediári
 * **D)** A auditoria de demonstrações contábeis é um trabalho de relatório direto no qual o próprio auditor elabora o balanço patrimonial e garante a viabilidade futura da empresa.
 * **E)** Na revisão limitada, como o risco do trabalho é menor do que na auditoria anual, o auditor fica dispensado de cumprir os requisitos de independência e ceticismo profissional.
 
-#### Gabarito e Dissecação Técnica: **Alternativa C**
-* **Análise da Alternativa A (Incorreta):** A auditoria é trabalho de **asseguração razoável**, enquanto a revisão (NBC TR 2400/2410) é trabalho de **asseguração limitada**.
-* **Análise da Alternativa B (Incorreta):** Na revisão limitada, os procedimentos limitam-se primordialmente a **indagações** e **procedimentos analíticos**, e a conclusão é expressa na **forma negativa**.
-* **Análise da Alternativa C (Correta):** Síntese perfeita da NBC TA Estrutura Conceitual e da NBC TR 2410: a revisão proporciona asseguração limitada (moderada), apoia-se em indagações e procedimentos analíticos e expressa conclusão negativa (*"não temos conhecimento de nenhum fato que nos leve a acreditar..."*).
-* **Análise da Alternativa D (Incorreta):** A auditoria de demonstrações contábeis é um **trabalho de atribuição (certificação)**, quem elabora o balanço é a Administração, e a opinião do auditor jamais assegura a viabilidade futura da entidade (item A1 da NBC TA 200).
-* **Análise da Alternativa E (Incorreta):** Na asseguração limitada, o risco do trabalho é **maior** (e não menor) do que na asseguração razoável, e os requisitos éticos de independência e ceticismo profissional são obrigatórios em **todos** os trabalhos de asseguração.
+#### Gabarito: **C**
+* **A (Errada):** A auditoria é trabalho de **asseguração razoável**, enquanto a revisão (NBC TR 2400/2410) é trabalho de **asseguração limitada**.
+* **B (Errada):** Na revisão limitada, os procedimentos limitam-se primordialmente a **indagações** e **procedimentos analíticos**, e a conclusão é expressa na **forma negativa**.
+* **C (Certa):** Síntese perfeita da NBC TA Estrutura Conceitual e da NBC TR 2410: a revisão proporciona asseguração limitada (moderada), apoia-se em indagações e procedimentos analíticos e expressa conclusão negativa (*"não temos conhecimento de nenhum fato que nos leve a acreditar..."*).
+* **D (Errada):** A auditoria de demonstrações contábeis é um **trabalho de atribuição (certificação)**, quem elabora o balanço é a Administração, e a opinião do auditor jamais assegura a viabilidade futura da entidade (item A1 da NBC TA 200).
+* **E (Errada):** Na asseguração limitada, o risco do trabalho é **maior** (e não menor) do que na asseguração razoável, e os requisitos éticos de independência e ceticismo profissional são obrigatórios em **todos** os trabalhos de asseguração.
 
 > **Fique Ligado:** Síntese perfeita da NBC TA Estrutura Conceitual e da NBC TR 2410: a revisão proporciona asseguração limitada (moderada), apoia-se em indagações e procedimentos analíticos e expressa conclusão negativa (*"não temos conhecimento de nenhum fato que nos leve a acreditar.
 
@@ -571,12 +571,12 @@ De acordo com a NBC TA 200, a estrutura de relatório financeiro adotada pela ad
 * **D)** O auditor independente é o responsável por escolher qual estrutura de relatório financeiro será utilizada pela empresa auditada no encerramento do exercício social.
 * **E)** Em uma estrutura de conformidade, o auditor não emite opinião sobre as demonstrações contábeis, limitando-se a um relatório de procedimentos previamente acordados.
 
-#### Gabarito e Dissecação Técnica: **Alternativa B**
-* **Análise da Alternativa A (Incorreta):** A estrutura de conformidade (*compliance framework*) exige apenas o cumprimento estrito dos requisitos da estrutura, **sem** reconhecer as possibilidades de divulgações adicionais para apresentação adequada ou afastamento excepcional de requisito (item 13(a) da NBC TA 200).
-* **Análise da Alternativa B (Correta):** Reproduz literalmente a definição normativa de **Estrutura de Apresentação Adequada** (*fair presentation framework*) contida no item 13(a)(i) e (ii) da NBC TA 200.
-* **Análise da Alternativa C (Incorreta):** As normas CPC/IFRS são o exemplo paradigmático de **Estrutura de Apresentação Adequada** (tanto que o CPC 26 prevê expressamente a sobreposição da representação fidedigna em circunstâncias extremamente raras).
-* **Análise da Alternativa D (Incorreta):** A escolha e aplicação da estrutura de relatório financeiro (dentro dos ditames legais) compete à **Administração** (Parte Responsável), cabendo ao auditor avaliar sua aceitabilidade (NBC TA 210).
-* **Análise da Alternativa E (Incorreta):** O auditor emite opinião normal (NBC TA 700) tanto sobre demonstrações elaboradas segundo estrutura de apresentação adequada quanto segundo estrutura de conformidade (mudando apenas a fraseologia da opinião: *"apresentam adequadamente, em todos os aspectos relevantes..."* versus *"foram elaboradas, em todos os aspectos relevantes, de acordo com..."*).
+#### Gabarito: **B**
+* **A (Errada):** A estrutura de conformidade (*compliance framework*) exige apenas o cumprimento estrito dos requisitos da estrutura, **sem** reconhecer as possibilidades de divulgações adicionais para apresentação adequada ou afastamento excepcional de requisito (item 13(a) da NBC TA 200).
+* **B (Certa):** Reproduz literalmente a definição normativa de **Estrutura de Apresentação Adequada** (*fair presentation framework*) contida no item 13(a)(i) e (ii) da NBC TA 200.
+* **C (Errada):** As normas CPC/IFRS são o exemplo paradigmático de **Estrutura de Apresentação Adequada** (tanto que o CPC 26 prevê expressamente a sobreposição da representação fidedigna em circunstâncias extremamente raras).
+* **D (Errada):** A escolha e aplicação da estrutura de relatório financeiro (dentro dos ditames legais) compete à **Administração** (Parte Responsável), cabendo ao auditor avaliar sua aceitabilidade (NBC TA 210).
+* **E (Errada):** O auditor emite opinião normal (NBC TA 700) tanto sobre demonstrações elaboradas segundo estrutura de apresentação adequada quanto segundo estrutura de conformidade (mudando apenas a fraseologia da opinião: *"apresentam adequadamente, em todos os aspectos relevantes..."* versus *"foram elaboradas, em todos os aspectos relevantes, de acordo com..."*).
 
 > **Fique Ligado:** Reproduz literalmente a definição normativa de **Estrutura de Apresentação Adequada** (*fair presentation framework*) contida no item 13(a)(i) e (ii) da NBC TA 200.
 
@@ -592,12 +592,12 @@ Em auditoria de demonstrações financeiras conduzida segundo as NBC TAs, o comp
 * **D)** risco inerente.
 * **E)** risco residual de negócio.
 
-#### Gabarito e Dissecação Técnica: **Alternativa D**
-* **Análise da Alternativa A (Incorreta):** O risco de controle considera exatamente a falha do sistema de controle interno em prevenir, detectar e corrigir tempestivamente a distorção.
-* **Análise da Alternativa B (Incorreta):** O risco de detecção refere-se à possibilidade de os procedimentos executados pelo auditor não detectarem uma distorção relevante existente.
-* **Análise da Alternativa C (Incorreta):** O risco de amostragem (NBC TA 530) é o risco de que a conclusão do auditor baseada em amostra seja diferente da conclusão que seria alcançada se toda a população fosse submetida ao mesmo procedimento.
-* **Análise da Alternativa D (Correta):** Definição literal de **Risco Inerente ($RI$)** prevista no item 13(n)(i) da NBC TA 200: suscetibilidade de uma afirmação a uma distorção relevante **antes da consideração de quaisquer controles relacionados**.
-* **Análise da Alternativa E (Incorreta):** Risco de negócio (NBC TA 315) é o risco que resulta de condições, eventos, circunstâncias ou ações significativas que possam afetar adversamente a capacidade da entidade de alcançar seus objetivos e executar suas estratégias.
+#### Gabarito: **D**
+* **A (Errada):** O risco de controle considera exatamente a falha do sistema de controle interno em prevenir, detectar e corrigir tempestivamente a distorção.
+* **B (Errada):** O risco de detecção refere-se à possibilidade de os procedimentos executados pelo auditor não detectarem uma distorção relevante existente.
+* **C (Errada):** O risco de amostragem (NBC TA 530) é o risco de que a conclusão do auditor baseada em amostra seja diferente da conclusão que seria alcançada se toda a população fosse submetida ao mesmo procedimento.
+* **D (Certa):** Definição literal de **Risco Inerente ($RI$)** prevista no item 13(n)(i) da NBC TA 200: suscetibilidade de uma afirmação a uma distorção relevante **antes da consideração de quaisquer controles relacionados**.
+* **E (Errada):** Risco de negócio (NBC TA 315) é o risco que resulta de condições, eventos, circunstâncias ou ações significativas que possam afetar adversamente a capacidade da entidade de alcançar seus objetivos e executar suas estratégias.
 
 > **Fique Ligado:** Definição literal de **Risco Inerente ($RI$)** prevista no item 13(n)(i) da NBC TA 200: suscetibilidade de uma afirmação a uma distorção relevante **antes da consideração de quaisquer controles relacionados**.
 

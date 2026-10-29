@@ -456,14 +456,14 @@ De acordo com a NBC TI 01 – Da Auditoria Interna, os testes substantivos visam
 * **D)** A informação suficiente é factual e convincente, de tal forma que uma pessoa prudente e informada possa entendê-la da mesma forma que o auditor interno.
 * **E)** A informação adequada, sendo confiável, propicia a melhor evidência alcançável, por meio do uso apropriado das técnicas de Auditoria Interna.
 
-#### Gabarito e Dissecação Técnica: **Alternativa C**
+#### Gabarito: **C**
 
 **Comentário Analítico Alternativa por Alternativa:**
-* **(A) CORRETA (não é a resposta):** Reproduz literalmente o item 12.2.3.5, I, "d", da NBC TI 01 (Mnemônico `UM`: **Ú**til $\rightarrow$ atingir **M**etas).
-* **(B) CORRETA (não é a resposta):** Reproduz literalmente o item 12.2.3.5, I, "c", da NBC TI 01 (Mnemônico `RECO`: **RE**levante $\rightarrow$ suporte às **CO**nclusões e recomendações).
-* **(C) INCORRETA (Gabarito da questão):** A NBC TI 01 elenca apenas **quatro** características da informação probatória (Suficiente, Adequada, Relevante e Útil). A norma **não prevê** a característica "tempestiva" nesse rol, tampouco a define como "conservadora e livre de erros materiais".
-* **(D) CORRETA (não é a resposta):** Reproduz literalmente o item 12.2.3.5, I, "a", da NBC TI 01 (Mnemônico `SUFACO`: **SU**ficiente $\rightarrow$ **FA**ctual e **CO**nvincente).
-* **(E) CORRETA (não é a resposta):** Reproduz literalmente o item 12.2.3.5, I, "b", da NBC TI 01 (Mnemônico `AME`: **A**dequada $\rightarrow$ confiável, **M**elhor **E**vidência alcançável).
+* **A (Certa):** Reproduz literalmente o item 12.2.3.5, I, "d", da NBC TI 01 (Mnemônico `UM`: **Ú**til $\rightarrow$ atingir **M**etas).
+* **B (Certa):** Reproduz literalmente o item 12.2.3.5, I, "c", da NBC TI 01 (Mnemônico `RECO`: **RE**levante $\rightarrow$ suporte às **CO**nclusões e recomendações).
+* **C (Errada):** A NBC TI 01 elenca apenas **quatro** características da informação probatória (Suficiente, Adequada, Relevante e Útil). A norma **não prevê** a característica "tempestiva" nesse rol, tampouco a define como "conservadora e livre de erros materiais".
+* **D (Certa):** Reproduz literalmente o item 12.2.3.5, I, "a", da NBC TI 01 (Mnemônico `SUFACO`: **SU**ficiente $\rightarrow$ **FA**ctual e **CO**nvincente).
+* **E (Certa):** Reproduz literalmente o item 12.2.3.5, I, "b", da NBC TI 01 (Mnemônico `AME`: **A**dequada $\rightarrow$ confiável, **M**elhor **E**vidência alcançável).
 
 
 > **Fique Ligado:** A informação da Auditoria Interna possui apenas 4 características: **SUFACO** (Suficiente = Factual e Convincente), **AME** (Adequada = Confiável, Melhor Evidência), **RECO** (Relevante = suporte a Conclusões) e **UM** (Útil = atingir Metas). 'Tempestiva' não integra esse rol!
@@ -480,14 +480,14 @@ Conforme a atualização do Modelo das Três Linhas do *Institute of Internal Au
 * **D)** Execução direta dos controles operacionais cotidianos e entrega final dos produtos e serviços aos usuários.
 * **E)** Elaboração das matrizes de riscos corporativos e implementação direta de políticas de *compliance* e integridade.
 
-#### Gabarito e Dissecação Técnica: **Alternativa A**
+#### Gabarito: **A**
 
 **Comentário Analítico Alternativa por Alternativa:**
-* **(A) CORRETA:** No Modelo das Três Linhas do IIA (2020), a **Terceira Linha** corresponde à **Auditoria Interna**, cuja missão primordial é fornecer avaliação (*assurance*) e assessoria independentes e objetivas ao Órgão de Governança e à Alta Administração sobre a adequação e a eficácia da governança e do gerenciamento de riscos (abrangendo a 1ª e a 2ª linhas).
-* **(B) INCORRETA:** O monitoramento contínuo da conformidade regulatória (*compliance*) subordinado à alta administração é papel típico da **Segunda Linha**.
-* **(C) INCORRETA:** A aprovação final do plano estratégico e a definição do apetite a risco competem ao **Órgão de Governança** (Conselho de Administração ou equivalente) em conjunto com a Alta Administração, jamais à Auditoria Interna.
-* **(D) INCORRETA:** A execução direta dos controles operacionais cotidianos e a entrega de produtos/serviços na ponta constituem atribuições da **Primeira Linha** (gestão operacional).
-* **(E) INCORRETA:** A elaboração de matrizes de riscos e a implementação de políticas de integridade pertencem à **Segunda Linha** (gestão de riscos e *compliance*).
+* **A (Certa):** No Modelo das Três Linhas do IIA (2020), a **Terceira Linha** corresponde à **Auditoria Interna**, cuja missão primordial é fornecer avaliação (*assurance*) e assessoria independentes e objetivas ao Órgão de Governança e à Alta Administração sobre a adequação e a eficácia da governança e do gerenciamento de riscos (abrangendo a 1ª e a 2ª linhas).
+* **B (Errada):** O monitoramento contínuo da conformidade regulatória (*compliance*) subordinado à alta administração é papel típico da **Segunda Linha**.
+* **C (Errada):** A aprovação final do plano estratégico e a definição do apetite a risco competem ao **Órgão de Governança** (Conselho de Administração ou equivalente) em conjunto com a Alta Administração, jamais à Auditoria Interna.
+* **D (Errada):** A execução direta dos controles operacionais cotidianos e a entrega de produtos/serviços na ponta constituem atribuições da **Primeira Linha** (gestão operacional).
+* **E (Errada):** A elaboração de matrizes de riscos e a implementação de políticas de integridade pertencem à **Segunda Linha** (gestão de riscos e *compliance*).
 
 
 > **Fique Ligado:** No Modelo das Três Linhas (IIA 2020), a **3ª Linha é privativa da Auditoria Interna** e presta avaliação (*assurance*) e assessoria independentes diretamente ao Órgão de Governança, enquanto conformidade (*compliance*) e gestão de riscos pertencem à **2ª Linha**.
@@ -504,14 +504,14 @@ A atividade da auditoria interna está estruturada em procedimentos, com enfoque
 * **D)** O termo "erro" se aplica ao ato intencional de omissão e/ou manipulação de transações e operações, adulteração de documentos, registros, relatórios, informações e demonstrações contábeis, tanto em termos físicos quanto monetários.
 * **E)** Análises, demonstrações ou quaisquer outros documentos devem ter sua integridade verificada sempre que forem anexados aos papéis de trabalho.
 
-#### Gabarito e Dissecação Técnica: **Alternativa D**
+#### Gabarito: **D**
 
 **Comentário Analítico Alternativa por Alternativa:**
-* **(A) CORRETA (de acordo com a norma):** Literalidade do item 12.2.3.4 da NBC TI 01 sobre os testes substantivos.
-* **(B) CORRETA (de acordo com a norma):** Literalidade do item 12.2.2.1 da NBC TI 01, que posiciona a análise de riscos na fase de planejamento.
-* **(C) CORRETA (de acordo com a norma):** Literalidade do item 12.1.2.1 da NBC TI 01 sobre os papéis de trabalho em meio físico ou eletrônico.
-* **(D) INCORRETA (em desacordo — Gabarito):** A banca inverteu os conceitos dos itens 12.1.3.2 e 12.1.3.3. O ato **intencional** de omissão, manipulação ou adulteração de documentos denomina-se **FRAUDE**. O **ERRO** aplica-se exclusivamente a ato **não-intencional** resultante de omissão, desatenção, desconhecimento ou má interpretação de fatos.
-* **(E) CORRETA (de acordo com a norma):** Literalidade do item 12.1.2.4 da NBC TI 01 quanto ao dever de verificar a integridade dos documentos anexados aos papéis de trabalho.
+* **A (Certa):** Literalidade do item 12.2.3.4 da NBC TI 01 sobre os testes substantivos.
+* **B (Certa):** Literalidade do item 12.2.2.1 da NBC TI 01, que posiciona a análise de riscos na fase de planejamento.
+* **C (Certa):** Literalidade do item 12.1.2.1 da NBC TI 01 sobre os papéis de trabalho em meio físico ou eletrônico.
+* **D (Errada):** A banca inverteu os conceitos dos itens 12.1.3.2 e 12.1.3.3. O ato **intencional** de omissão, manipulação ou adulteração de documentos denomina-se **FRAUDE**. O **ERRO** aplica-se exclusivamente a ato **não-intencional** resultante de omissão, desatenção, desconhecimento ou má interpretação de fatos.
+* **E (Certa):** Literalidade do item 12.1.2.4 da NBC TI 01 quanto ao dever de verificar a integridade dos documentos anexados aos papéis de trabalho.
 
 
 > **Fique Ligado:** A intenção é o divisor de águas: **Fraude é ato intencional** (dolo/adulteração); **Erro é ato involuntário/não intencional** (desatenção/omissão). Além disso, a comunicação de fraudes/erros pela Auditoria Interna deve ser **sempre por escrito e de maneira reservada**.
@@ -532,12 +532,12 @@ III. A análise dos riscos da auditoria interna deve ser realizada exclusivament
 * **D)** Apenas os itens II e III estão corretos.
 * **E)** Todos os itens estão corretos.
 
-#### Gabarito e Dissecação Técnica: **Alternativa B**
+#### Gabarito: **B**
 
 **Comentário Analítico Alternativa por Alternativa:**
-* **Análise do Item I (CORRETO):** Transcreve fielmente o item 12.1.3.1 da NBC TI 01. Note os três elementos essenciais: (1) assessorar na prevenção; (2) informar **sempre por escrito** e de **maneira reservada**; (3) sobre quaisquer **indícios ou confirmações**.
-* **Análise do Item II (CORRETO):** Transcreve com exatidão o item 12.3.1.2 da NBC TI 01 sobre o destinatário e a confidencialidade do relatório da Auditoria Interna.
-* **Análise do Item III (INCORRETO):** Segundo o item 12.2.2.1 da NBC TI 01, a análise dos riscos da Auditoria Interna deve ser feita na **fase de planejamento** dos trabalhos (e não exclusivamente na fase de execução).
+* **Item I (Certo):** Transcreve fielmente o item 12.1.3.1 da NBC TI 01. Note os três elementos essenciais: (1) assessorar na prevenção; (2) informar **sempre por escrito** e de **maneira reservada**; (3) sobre quaisquer **indícios ou confirmações**.
+* **Item II (Certo):** Transcreve com exatidão o item 12.3.1.2 da NBC TI 01 sobre o destinatário e a confidencialidade do relatório da Auditoria Interna.
+* **Item III (Errado):** Segundo o item 12.2.2.1 da NBC TI 01, a análise dos riscos da Auditoria Interna deve ser feita na **fase de planejamento** dos trabalhos (e não exclusivamente na fase de execução).
 * Portanto, apenas os itens **I e II** estão corretos, confirmando o gabarito na **alternativa B**.
 
 
@@ -569,7 +569,7 @@ Assinale a alternativa que apresenta a associação correta, de cima para baixo:
 * **D)** 3, 1, 4, 2.
 * **E)** 3, 2, 4, 1.
 
-#### Gabarito e Dissecação Técnica: **Alternativa D**
+#### Gabarito: **D**
 
 **Comentário Analítico Alternativa por Alternativa:**
 * **1º Parêntese $\rightarrow$ (3) Testes substantivos:** Visam obter evidência quanto à **suficiência, exatidão e validade dos dados** (NBC TI 01, item 12.2.3.4).
@@ -593,14 +593,14 @@ As Normas Internacionais para o exercício profissional da Auditoria Interna, pr
 * **D)** implica o compartilhamento de responsabilidades decisórias da administração com a equipe de auditoria interna.
 * **E)** obriga o auditor interno a emitir parecer contábil com ressalva caso o plano de reorganização não atinja a meta financeira no trimestre seguinte.
 
-#### Gabarito e Dissecação Técnica: **Alternativa B**
+#### Gabarito: **B**
 
 **Comentário Analítico Alternativa por Alternativa:**
-* **(A) INCORRETA:** A avaliação objetiva de evidências com escopo e critérios definidos pelo auditor interno caracteriza os serviços de **avaliação (*assurance*)**, e não os serviços de consultoria.
-* **(B) CORRETA:** Nos **serviços de consultoria (*consulting*)** prestados pela Auditoria Interna (como assessoria para redesenho de processos), a **natureza e o escopo do trabalho são definidos mediante acordo com o cliente do trabalho** (o gestor solicitante), conforme o IPPF do IIA.
-* **(C) INCORRETA:** A relação tripartite (proprietário do processo, auditor interno e usuário da avaliação) é típica dos trabalhos de **avaliação (*assurance*)**. Na consultoria, a relação é **bipartite** (auditor interno e cliente do trabalho).
-* **(D) INCORRETA:** A equipe de auditoria interna **jamais compartilha nem assume responsabilidades de gestão**; a decisão final de implementar ou não as sugestões cabe exclusivamente ao administrador.
-* **(E) INCORRETA:** Serviços de consultoria interna não geram pareceres contábeis de auditoria financeira nem garantem metas futuras de desempenho.
+* **A (Errada):** A avaliação objetiva de evidências com escopo e critérios definidos pelo auditor interno caracteriza os serviços de **avaliação (*assurance*)**, e não os serviços de consultoria.
+* **B (Certa):** Nos **serviços de consultoria (*consulting*)** prestados pela Auditoria Interna (como assessoria para redesenho de processos), a **natureza e o escopo do trabalho são definidos mediante acordo com o cliente do trabalho** (o gestor solicitante), conforme o IPPF do IIA.
+* **C (Errada):** A relação tripartite (proprietário do processo, auditor interno e usuário da avaliação) é típica dos trabalhos de **avaliação (*assurance*)**. Na consultoria, a relação é **bipartite** (auditor interno e cliente do trabalho).
+* **D (Errada):** A equipe de auditoria interna **jamais compartilha nem assume responsabilidades de gestão**; a decisão final de implementar ou não as sugestões cabe exclusivamente ao administrador.
+* **E (Errada):** Serviços de consultoria interna não geram pareceres contábeis de auditoria financeira nem garantem metas futuras de desempenho.
 
 
 > **Fique Ligado:** Nos serviços de **avaliação (*assurance*)**, o auditor define o escopo unilateralmente (relação tripartite); nos serviços de **consultoria (*consulting*)**, o escopo decorre de **acordo com o cliente** (relação bipartite), sem nunca assumir função gestora.
@@ -617,14 +617,14 @@ Em uma organização de médio porte, a auditoria interna foi incumbida de avali
 * **D)** validação prévia e integral das decisões administrativas de compra, assegurando coautoria nas políticas internas previamente estabelecidas.
 * **E)** aplicação de procedimentos que permitam avaliar a eficácia dos controles internos, com foco nos riscos que possam impactar os objetivos organizacionais.
 
-#### Gabarito e Dissecação Técnica: **Alternativa E**
+#### Gabarito: **E**
 
 **Comentário Analítico Alternativa por Alternativa:**
-* **(A) INCORRETA:** Quem emite opinião sobre as demonstrações contábeis para acionistas e usuários externos é a **Auditoria Independente (Externa)**, regida pela NBC TA 200/700.
-* **(B) INCORRETA:** A NBC TI 01 (itens 12.2.2 e 12.2.4) respalda a auditoria baseada em riscos e o emprego de **técnicas de amostragem**, não exigindo o exame de 100% das transações independentemente do risco.
-* **(C) INCORRETA:** A Auditoria Interna (3ª linha) avalia os controles internos, mas **jamais substitui os gestores** (1ª e 2ª linhas) na execução cotidiana desses controles.
-* **(D) INCORRETA:** A coadministração ou validação prévia vinculante de atos de gestão fere a autonomia e a objetividade do auditor interno, criando risco de autorrevisão.
-* **(E) CORRETA:** Em perfeita harmonia com os itens 12.1.1.1 e 12.2.3 da NBC TI 01, a Auditoria Interna aplica procedimentos estruturados para avaliar a integridade, adequação e eficácia dos controles internos e do gerenciamento de riscos, assistindo a administração no alcance dos objetivos organizacionais.
+* **A (Errada):** Quem emite opinião sobre as demonstrações contábeis para acionistas e usuários externos é a **Auditoria Independente (Externa)**, regida pela NBC TA 200/700.
+* **B (Errada):** A NBC TI 01 (itens 12.2.2 e 12.2.4) respalda a auditoria baseada em riscos e o emprego de **técnicas de amostragem**, não exigindo o exame de 100% das transações independentemente do risco.
+* **C (Errada):** A Auditoria Interna (3ª linha) avalia os controles internos, mas **jamais substitui os gestores** (1ª e 2ª linhas) na execução cotidiana desses controles.
+* **D (Errada):** A coadministração ou validação prévia vinculante de atos de gestão fere a autonomia e a objetividade do auditor interno, criando risco de autorrevisão.
+* **E (Certa):** Em perfeita harmonia com os itens 12.1.1.1 e 12.2.3 da NBC TI 01, a Auditoria Interna aplica procedimentos estruturados para avaliar a integridade, adequação e eficácia dos controles internos e do gerenciamento de riscos, assistindo a administração no alcance dos objetivos organizacionais.
 
 
 > **Fique Ligado:** A Auditoria Interna atua baseada em riscos e amostragem (3ª linha) para assessorar a administração, jamais substituindo gestores nem conferindo 100% de transações.
@@ -641,14 +641,14 @@ A adoção de modelos avançados de governança tem sido fortemente incentivada 
 * **D)** órgão de governança.
 * **E)** provedores externos de asseguração.
 
-#### Gabarito e Dissecação Técnica: **Alternativa B**
+#### Gabarito: **B**
 
 **Comentário Analítico Alternativa por Alternativa:**
-* **(A) INCORRETA:** A **primeira linha** compreende os papéis diretamente voltados à entrega de produtos ou serviços aos clientes da organização (gestão operacional na ponta).
-* **(B) CORRETA:** De acordo com o Modelo das Três Linhas do IIA, os papéis da **segunda linha** consistem em fornecer assistência, expertise complementar, suporte, monitoramento e questionamento construtivo sobre o gerenciamento de riscos, incluindo funções específicas como *compliance* (conformidade legal/regulatória), controle interno de gestão, segurança da informação, ética e qualidade.
-* **(C) INCORRETA:** A **terceira linha** é exercida pela Auditoria Interna, caracterizada pela avaliação (*assurance*) independente e objetiva reportada ao órgão de governança.
-* **(D) INCORRETA:** O **órgão de governança** (Conselho de Administração) supervisiona a organização como um todo e presta contas aos *stakeholders*, não executando funções gerenciais de *compliance* de 2ª linha.
-* **(E) INCORRETA:** **Provedores externos** (auditores independentes e reguladores) atuam fora da estrutura da entidade.
+* **A (Errada):** A **primeira linha** compreende os papéis diretamente voltados à entrega de produtos ou serviços aos clientes da organização (gestão operacional na ponta).
+* **B (Certa):** De acordo com o Modelo das Três Linhas do IIA, os papéis da **segunda linha** consistem em fornecer assistência, expertise complementar, suporte, monitoramento e questionamento construtivo sobre o gerenciamento de riscos, incluindo funções específicas como *compliance* (conformidade legal/regulatória), controle interno de gestão, segurança da informação, ética e qualidade.
+* **C (Errada):** A **terceira linha** é exercida pela Auditoria Interna, caracterizada pela avaliação (*assurance*) independente e objetiva reportada ao órgão de governança.
+* **D (Errada):** O **órgão de governança** (Conselho de Administração) supervisiona a organização como um todo e presta contas aos *stakeholders*, não executando funções gerenciais de *compliance* de 2ª linha.
+* **E (Errada):** **Provedores externos** (auditores independentes e reguladores) atuam fora da estrutura da entidade.
 
 
 > **Fique Ligado:** Monitoramento de *compliance*, segurança da informação e gestão de riscos são funções de suporte da **2ª Linha**. A **3ª Linha (Auditoria Interna)** avalia a 1ª e a 2ª linhas com independência absoluta face à gestão.
@@ -665,14 +665,14 @@ De acordo com as disposições da NBC TI 01 — Da Auditoria Interna, durante a 
 * **D)** emitir relatório de abstenção de opinião sobre o balanço patrimonial da companhia e publicá-lo no Diário Oficial.
 * **E)** assumir interinamente a chefia do almoxarifado até que os controles internos sejam redesenhados e o risco residual seja zerado.
 
-#### Gabarito e Dissecação Técnica: **Alternativa B**
+#### Gabarito: **B**
 
 **Comentário Analítico Alternativa por Alternativa:**
-* **(A) INCORRETA:** O auditor interno não lavra autos de infração punitivos (ato exclusivo de autoridade administrativa/fiscal competente) nem cancela o plano anual por conta própria.
-* **(B) CORRETA:** Conforme o item **12.3.2.1 da NBC TI 01**, a Auditoria Interna deve emitir **relatório parcial** na hipótese de constatar impropriedades, irregularidades ou ilegalidades que necessitem de **providências imediatas da administração da entidade**, e que **não possam aguardar o final dos exames**.
-* **(C) INCORRETA:** Viola duplamente a NBC TI 01: indícios ou confirmações de fraudes e irregularidades devem ser comunicados à administração **sempre por escrito** e de maneira reservada (item 12.1.3.1), e casos urgentes exigem relatório parcial imediato (item 12.3.2.1).
-* **(D) INCORRETA:** Abstenção de opinião e publicação externa são institutos da Auditoria Independente (NBC TA 705), estranhos à Auditoria Interna.
-* **(E) INCORRETA:** Assumir a chefia operacional do setor auditado destrói a independência da Auditoria Interna, além de ser impossível reduzir o risco residual a zero absoluto.
+* **A (Errada):** O auditor interno não lavra autos de infração punitivos (ato exclusivo de autoridade administrativa/fiscal competente) nem cancela o plano anual por conta própria.
+* **B (Certa):** Conforme o item **12.3.2.1 da NBC TI 01**, a Auditoria Interna deve emitir **relatório parcial** na hipótese de constatar impropriedades, irregularidades ou ilegalidades que necessitem de **providências imediatas da administração da entidade**, e que **não possam aguardar o final dos exames**.
+* **C (Errada):** Viola duplamente a NBC TI 01: indícios ou confirmações de fraudes e irregularidades devem ser comunicados à administração **sempre por escrito** e de maneira reservada (item 12.1.3.1), e casos urgentes exigem relatório parcial imediato (item 12.3.2.1).
+* **D (Errada):** Abstenção de opinião e publicação externa são institutos da Auditoria Independente (NBC TA 705), estranhos à Auditoria Interna.
+* **E (Errada):** Assumir a chefia operacional do setor auditado destrói a independência da Auditoria Interna, além de ser impossível reduzir o risco residual a zero absoluto.
 
 
 > **Fique Ligado:** Diante de irregularidades que exijam providências imediatas da administração e não possam aguardar o final dos exames, a NBC TI 01 impõe a emissão de **Relatório Parcial**.
@@ -695,7 +695,7 @@ Segundo a terminologia estrita da NBC TI 01, os procedimentos executados em I, I
 * **D)** Observação; Inspeção; Investigação e Confirmação.
 * **E)** Inspeção Física; Indagação Verbal; Exame Documental.
 
-#### Gabarito e Dissecação Técnica: **Alternativa B**
+#### Gabarito: **B**
 
 **Comentário Analítico Alternativa por Alternativa:**
 * **Análise do Item I $\rightarrow$ Observação:** Conforme o item 12.2.3.3, "b", da NBC TI 01, a **observação** consiste no *"acompanhamento de processo ou procedimento quando de sua execução"*.
@@ -788,14 +788,14 @@ Uma auditoria interna identificou que o mesmo servidor de determinado órgão re
 * **D)** A segregação de funções aplica-se apenas às atividades financeiras e orçamentárias de tesouraria, não alcançando recebimento, movimentação, inventário ou controle de bens permanentes no almoxarifado.
 * **E)** A única incompatibilidade existente está na participação do servidor no inventário anual; todas as demais atividades de recebimento, atesto e registro podem ser concentradas sem elevação do risco de controle.
 
-#### Gabarito e Dissecação Técnica: **Alternativa C**
+#### Gabarito: **C**
 
 **Comentário Analítico Alternativa por Alternativa:**
-* **(A) INCORRETA:** O vínculo estatutário/efetivo do servidor jamais substitui a segregação de funções nem elimina o risco de erro não intencional ou de fraude.
-* **(B) INCORRETA:** A essência do controle interno é primordialmente **preventiva e detectiva**. O fato de ainda não ter ocorrido (ou não ter sido descoberto) um furto não retira a vulnerabilidade grave no desenho do controle (*deficiência de desenho*).
-* **(C) CORRETA:** Pelo princípio da **Segregação de Funções** (Princípio 10 do COSO I e NBC TI 01), as funções de **autorização/atesto, execução/custódia física, registro contábil/patrimonial e revisão/conferência (inventário)** são funções incompatíveis e devem ser atribuídas a pessoas diferentes para reduzir o risco de erro ou ocultação de fraude.
-* **(D) INCORRETA:** A segregação de funções aplica-se a todos os processos críticos da entidade, especialmente à gestão patrimonial, compras e estoques.
-* **(E) INCORRETA:** Acumular a custódia física (recebimento), o atesto definitivo e o próprio lançamento no sistema patrimonial já configura concentração grave de funções incompatíveis, mesmo antes do inventário anual.
+* **A (Errada):** O vínculo estatutário/efetivo do servidor jamais substitui a segregação de funções nem elimina o risco de erro não intencional ou de fraude.
+* **B (Errada):** A essência do controle interno é primordialmente **preventiva e detectiva**. O fato de ainda não ter ocorrido (ou não ter sido descoberto) um furto não retira a vulnerabilidade grave no desenho do controle (*deficiência de desenho*).
+* **C (Certa):** Pelo princípio da **Segregação de Funções** (Princípio 10 do COSO I e NBC TI 01), as funções de **autorização/atesto, execução/custódia física, registro contábil/patrimonial e revisão/conferência (inventário)** são funções incompatíveis e devem ser atribuídas a pessoas diferentes para reduzir o risco de erro ou ocultação de fraude.
+* **D (Errada):** A segregação de funções aplica-se a todos os processos críticos da entidade, especialmente à gestão patrimonial, compras e estoques.
+* **E (Errada):** Acumular a custódia física (recebimento), o atesto definitivo e o próprio lançamento no sistema patrimonial já configura concentração grave de funções incompatíveis, mesmo antes do inventário anual.
 
 
 > **Fique Ligado:** O auditor interno não pode assumir responsabilidade de linha (co-gestão), sob pena de perda de objetividade e ameaça de autorrevisão em futuras auditorias.
@@ -812,14 +812,14 @@ Bruno, auditor interno de uma entidade fechada de previdência complementar (EFP
 * **D)** A técnica empregada corresponde a um teste de observância puro, uma vez que o recálculo não verifica a exatidão ou a validade monetária dos dados, limitando-se a observar a conduta dos analistas de benefícios.
 * **E)** A utilização de técnicas de auditoria auxiliadas por computador sobre dados extraídos do sistema dispensa a equipe de auditoria interna de possuir conhecimento sobre tecnologia da informação e de verificar a integridade dos dados anexados aos papéis de trabalho.
 
-#### Gabarito e Dissecação Técnica: **Alternativa C**
+#### Gabarito: **C**
 
 **Comentário Analítico Alternativa por Alternativa:**
-* **(A) INCORRETA:** Examinar 100% dos itens de uma população **não é amostragem** (pois amostragem, por definição, é a aplicação de procedimentos a *menos de 100%* dos itens da população). Além disso, jamais se dispensa a avaliação de riscos no planejamento (item 12.2.2.1 da NBC TI 01).
-* **(B) INCORRETA:** Mesmo testando 100% dos itens de uma população, o auditor obtém apenas **segurança razoável** (nunca absoluta), pois os dados de origem podem conter fraudes documentais externas ou o algoritmo de teste pode conter falhas.
-* **(C) CORRETA:** Quando o auditor examina 100% da população, o **risco de amostragem é reduzido a zero** (pois não houve amostra), mas **permanece vivo o risco de não amostragem** (*non-sampling risk*), que é o risco de o auditor chegar a uma conclusão errônea por razões não ligadas ao tamanho da amostra (ex.: usar um procedimento inadequado, interpretar mal uma evidência ou trabalhar sobre uma base de dados corrompida/incompleta).
-* **(D) INCORRETA:** O recálculo de valores pagos para verificar a **suficiência, exatidão e validade dos dados** produzidos pelo sistema é o exemplo clássico de **Teste Substantivo** (item 12.2.3.4 da NBC TI 01).
-* **(E) INCORRETA:** Viola os itens 12.1.2.4 e 12.2.5.1 da NBC TI 01: o uso de processamento eletrônico de dados exige profissional com conhecimento suficiente de TI na equipe de Auditoria Interna e a verificação obrigatória da integridade dos documentos e bases anexados aos papéis de trabalho.
+* **A (Errada):** Examinar 100% dos itens de uma população **não é amostragem** (pois amostragem, por definição, é a aplicação de procedimentos a *menos de 100%* dos itens da população). Além disso, jamais se dispensa a avaliação de riscos no planejamento (item 12.2.2.1 da NBC TI 01).
+* **B (Errada):** Mesmo testando 100% dos itens de uma população, o auditor obtém apenas **segurança razoável** (nunca absoluta), pois os dados de origem podem conter fraudes documentais externas ou o algoritmo de teste pode conter falhas.
+* **C (Certa):** Quando o auditor examina 100% da população, o **risco de amostragem é reduzido a zero** (pois não houve amostra), mas **permanece vivo o risco de não amostragem** (*non-sampling risk*), que é o risco de o auditor chegar a uma conclusão errônea por razões não ligadas ao tamanho da amostra (ex.: usar um procedimento inadequado, interpretar mal uma evidência ou trabalhar sobre uma base de dados corrompida/incompleta).
+* **D (Errada):** O recálculo de valores pagos para verificar a **suficiência, exatidão e validade dos dados** produzidos pelo sistema é o exemplo clássico de **Teste Substantivo** (item 12.2.3.4 da NBC TI 01).
+* **E (Errada):** Viola os itens 12.1.2.4 e 12.2.5.1 da NBC TI 01: o uso de processamento eletrônico de dados exige profissional com conhecimento suficiente de TI na equipe de Auditoria Interna e a verificação obrigatória da integridade dos documentos e bases anexados aos papéis de trabalho.
 
 
 

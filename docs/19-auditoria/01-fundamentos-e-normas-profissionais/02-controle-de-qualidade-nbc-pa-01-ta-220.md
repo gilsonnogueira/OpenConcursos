@@ -265,12 +265,12 @@ De acordo com a NBC TA 220 (Controle de Qualidade da Auditoria de Demonstraçõe
 * **D)** Caso ocorra diferença de opinião entre o sócio do trabalho e o revisor do controle de qualidade, prevalece imediatamente o voto do sócio do trabalho, podendo o relatório ser emitido antes da resolução formal do conflito.
 * **E)** A aprovação do trabalho pelo revisor do controle de qualidade transfere a este metade da responsabilidade técnica e civil pela opinião emitida no relatório de auditoria.
 
-#### Gabarito e Dissecação Técnica: **Alternativa C**
-* **Análise da Alternativa A (Incorreta):** O EQCR é obrigatório para auditorias de demonstrações contábeis de **entidades listadas (companhias abertas)** e para outros trabalhos nos quais a firma tenha determinado sua necessidade por critérios próprios de risco (NBC TA 220, item 19; NBC PA 01, item 35).
-* **Análise da Alternativa B (Incorreta):** O revisor (EQCR) **jamais pode fazer parte da equipe de trabalho** nem ser selecionado pelo próprio sócio do trabalho.
-* **Análise da Alternativa C (Correta):** Reproduz literalmente o comando imperativo do item 19(c) da NBC TA 220 (e item 36 da NBC PA 01): o relatório do auditor **não deve ser datado** até a conclusão da revisão do controle de qualidade do trabalho.
-* **Análise da Alternativa D (Incorreta):** Havendo diferença de opinião, o relatório **não deve ser datado nem emitido** até que a divergência seja formalmente resolvida segundo as políticas da firma (NBC TA 220, item 22).
-* **Análise da Alternativa E (Incorreta):** A revisão do controle de qualidade do trabalho **não reduz nem divide** as responsabilidades do sócio do trabalho (NBC PA 01, item A49).
+#### Gabarito: **C**
+* **A (Errada):** O EQCR é obrigatório para auditorias de demonstrações contábeis de **entidades listadas (companhias abertas)** e para outros trabalhos nos quais a firma tenha determinado sua necessidade por critérios próprios de risco (NBC TA 220, item 19; NBC PA 01, item 35).
+* **B (Errada):** O revisor (EQCR) **jamais pode fazer parte da equipe de trabalho** nem ser selecionado pelo próprio sócio do trabalho.
+* **C (Certa):** Reproduz literalmente o comando imperativo do item 19(c) da NBC TA 220 (e item 36 da NBC PA 01): o relatório do auditor **não deve ser datado** até a conclusão da revisão do controle de qualidade do trabalho.
+* **D (Errada):** Havendo diferença de opinião, o relatório **não deve ser datado nem emitido** até que a divergência seja formalmente resolvida segundo as políticas da firma (NBC TA 220, item 22).
+* **E (Errada):** A revisão do controle de qualidade do trabalho **não reduz nem divide** as responsabilidades do sócio do trabalho (NBC PA 01, item A49).
 
 > **Fique Ligado:** Reproduz literalmente o comando imperativo do item 19(c) da NBC TA 220 (e item 36 da NBC PA 01): o relatório do auditor **não deve ser datado** até a conclusão da revisão do controle de qualidade do trabalho.
 
@@ -286,12 +286,12 @@ No que concerne ao sistema de controle de qualidade de uma firma de auditoria in
 * **D)** A firma deve obter, pelo menos uma vez por ano, confirmação por escrito do cumprimento de suas políticas e procedimentos sobre independência de todo o pessoal da firma que precisa ser independente.
 * **E)** Caso uma firma de pequeno porte não disponha de sócios suficientes em seus quadros internos para realizar a revisão de controle de qualidade do trabalho (EQCR) ou consultas técnicas, ela fica legalmente dispensada dessas exigências.
 
-#### Gabarito e Dissecação Técnica: **Alternativa D**
-* **Análise da Alternativa A (Incorreta):** A confirmação de independência deve ser obtida **por escrito** e pelo menos **uma vez por ano (anualmente)** (NBC PA 01, item 24).
-* **Análise da Alternativa B (Incorreta):** O item 48(c) da NBC PA 01 **proíbe expressamente** que os envolvidos na execução do trabalho **ou na revisão do controle de qualidade do trabalho (EQCR)** participem da inspeção de monitoramento daquele trabalho.
-* **Análise da Alternativa C (Incorreta):** Salvo disposição legal em contrário, a documentação do trabalho é de **propriedade exclusiva da firma de auditoria** (item A63 da NBC PA 01).
-* **Análise da Alternativa D (Correta):** Literalidade do item 24(b) da NBC PA 01: confirmação **por escrito**, no mínimo **anualmente**, de todo o pessoal sujeito aos requisitos de independência.
-* **Análise da Alternativa E (Incorreta):** Firmas de pequeno porte **não estão dispensadas**; elas devem contratar **pessoas externas adequadamente qualificadas** ou usar outras firmas para realizar revisões de qualidade (EQCR), consultas ou inspeções de monitoramento (NBC PA 01, itens A40, A50 e A67).
+#### Gabarito: **D**
+* **A (Errada):** A confirmação de independência deve ser obtida **por escrito** e pelo menos **uma vez por ano (anualmente)** (NBC PA 01, item 24).
+* **B (Errada):** O item 48(c) da NBC PA 01 **proíbe expressamente** que os envolvidos na execução do trabalho **ou na revisão do controle de qualidade do trabalho (EQCR)** participem da inspeção de monitoramento daquele trabalho.
+* **C (Errada):** Salvo disposição legal em contrário, a documentação do trabalho é de **propriedade exclusiva da firma de auditoria** (item A63 da NBC PA 01).
+* **D (Certa):** Literalidade do item 24(b) da NBC PA 01: confirmação **por escrito**, no mínimo **anualmente**, de todo o pessoal sujeito aos requisitos de independência.
+* **E (Errada):** Firmas de pequeno porte **não estão dispensadas**; elas devem contratar **pessoas externas adequadamente qualificadas** ou usar outras firmas para realizar revisões de qualidade (EQCR), consultas ou inspeções de monitoramento (NBC PA 01, itens A40, A50 e A67).
 
 > **Fique Ligado:** Literalidade do item 24(b) da NBC PA 01: confirmação **por escrito**, no mínimo **anualmente**, de todo o pessoal sujeito aos requisitos de independência.
 
@@ -307,12 +307,12 @@ Sobre a responsabilidade de revisão da documentação de auditoria pelo Sócio 
 * **D)** Quando o sócio do trabalho utiliza um especialista do auditor (NBC TA 620), fica dispensado de revisar as conclusões desse especialista nos papéis de trabalho.
 * **E)** Caso um novo sócio do trabalho assuma a auditoria no decorrer do exercício em substituição ao sócio anterior, ele deve revisar apenas os procedimentos executados a partir da data de sua posse.
 
-#### Gabarito e Dissecação Técnica: **Alternativa B**
-* **Análise da Alternativa A (Incorreta):** Dois erros graves: (1) o sócio não precisa revisar 100% da documentação, e (2) a revisão deve ocorrer **na data ou antes da data do relatório**, jamais nos 60 dias posteriores!
-* **Análise da Alternativa B (Correta):** Combina com perfeição o requisito do item 17 com a aplicação explicativa do item A18 da NBC TA 220.
-* **Análise da Alternativa C (Incorreta):** O princípio da revisão é exatamente o inverso: o trabalho dos membros **menos experientes** é revisado pelos membros **mais experientes** (item A35 da NBC PA 01).
-* **Análise da Alternativa D (Incorreta):** O sócio do trabalho mantém responsabilidade integral e deve avaliar a adequação do trabalho do especialista como evidência de auditoria.
-* **Análise da Alternativa E (Incorreta):** Conforme o item A20 da NBC TA 220, o novo sócio do trabalho que assume durante a auditoria deve aplicar os procedimentos de revisão **como se tivesse assumido a responsabilidade pelo trabalho desde o início** (revisando todo o trabalho realizado até a data da mudança)!
+#### Gabarito: **B**
+* **A (Errada):** Dois erros graves: (1) o sócio não precisa revisar 100% da documentação, e (2) a revisão deve ocorrer **na data ou antes da data do relatório**, jamais nos 60 dias posteriores!
+* **B (Certa):** Combina com perfeição o requisito do item 17 com a aplicação explicativa do item A18 da NBC TA 220.
+* **C (Errada):** O princípio da revisão é exatamente o inverso: o trabalho dos membros **menos experientes** é revisado pelos membros **mais experientes** (item A35 da NBC PA 01).
+* **D (Errada):** O sócio do trabalho mantém responsabilidade integral e deve avaliar a adequação do trabalho do especialista como evidência de auditoria.
+* **E (Errada):** Conforme o item A20 da NBC TA 220, o novo sócio do trabalho que assume durante a auditoria deve aplicar os procedimentos de revisão **como se tivesse assumido a responsabilidade pelo trabalho desde o início** (revisando todo o trabalho realizado até a data da mudança)!
 
 > **Fique Ligado:** Combina com perfeição o requisito do item 17 com a aplicação explicativa do item A18 da NBC TA 220.
 
@@ -328,9 +328,9 @@ De acordo com a NBC PA 01, em relação aos prazos de montagem do arquivo final,
 * **D)** Montagem do arquivo final em até 90 dias; retenção por 5 anos; e ciclo de inspeção de 2 anos, conduzido pelo próprio sócio do trabalho.
 * **E)** Montagem do arquivo final em até 60 dias; retenção por 2 anos; e ciclo de inspeção anual apenas para companhias abertas.
 
-#### Gabarito e Dissecação Técnica: **Alternativa B**
-* **Análise das Alternativas A, C, D e E (Incorretas):** Apresentam prazos conflitantes com os itens A54, A61 e A66 da NBC PA 01 (e itens A21 e A23 da NBC TA 230).
-* **Análise da Alternativa B (Correta):** Crava com precisão cirúrgica os três marcos numéricos da NBC PA 01:
+#### Gabarito: **B**
+* **A, C, D e E (Erradas):** Apresentam prazos conflitantes com os itens A54, A61 e A66 da NBC PA 01 (e itens A21 e A23 da NBC TA 230).
+* **B (Certa):** Crava com precisão cirúrgica os três marcos numéricos da NBC PA 01:
   1. **Montagem do arquivo final (Item A54):** até **60 dias** após a data do relatório do auditor;
   2. **Retenção/Guarda da documentação (Item A61):** não inferior a **5 anos** a contar da data do relatório do auditor (ou do relatório do auditor do grupo, se posterior);
   3. **Ciclo de inspeção de monitoramento (Item A66):** pelo menos um trabalho concluído para cada sócio do trabalho em um ciclo que pode abranger, por exemplo, **3 anos**.
@@ -349,9 +349,9 @@ A nova norma brasileira de gestão da qualidade para firmas de auditoria (NBC QM
 * **D)** Substituição do arquivo de papéis de trabalho por relatórios meramente verbais apresentados ao comitê de auditoria.
 * **E)** Transferência da responsabilidade final pelo sistema de gestão da qualidade da firma para o conselho federal de contabilidade.
 
-#### Gabarito e Dissecação Técnica: **Alternativa C**
-* **Análise das Alternativas A, B, D e E (Incorretas):** Violam frontalmente os pilares da NBC QM 01 e da NBC QM 02.
-* **Análise da Alternativa C (Correta):** Destaca exatamente duas das mais importantes inovações das normas NBC QM 01 e NBC QM 02: (1) a ampliação do antigo elemento "Recursos Humanos" para o componente **Recursos** (que agora engloba **Recursos Humanos, Recursos Tecnológicos e Recursos Intelectuais**, além da gestão de provedores de serviços externos), e (2) a exigência expressa na NBC QM 02 de um período de resfriamento (*cooling-off period*) de **2 anos** antes que um ex-sócio do trabalho possa assumir a função de Revisor da Qualidade do Trabalho (EQCR) naquele mesmo cliente.
+#### Gabarito: **C**
+* **A, B, D e E (Erradas):** Violam frontalmente os pilares da NBC QM 01 e da NBC QM 02.
+* **C (Certa):** Destaca exatamente duas das mais importantes inovações das normas NBC QM 01 e NBC QM 02: (1) a ampliação do antigo elemento "Recursos Humanos" para o componente **Recursos** (que agora engloba **Recursos Humanos, Recursos Tecnológicos e Recursos Intelectuais**, além da gestão de provedores de serviços externos), e (2) a exigência expressa na NBC QM 02 de um período de resfriamento (*cooling-off period*) de **2 anos** antes que um ex-sócio do trabalho possa assumir a função de Revisor da Qualidade do Trabalho (EQCR) naquele mesmo cliente.
 
 > **Fique Ligado:** Destaca exatamente duas das mais importantes inovações das normas NBC QM 01 e NBC QM 02: (1) a ampliação do antigo elemento "Recursos Humanos" para o componente **Recursos** (que agora engloba **Recursos Humanos, Recursos Tecnológicos e Recursos Intelectuais**, além da gestão de provedores de serviços externos), e (2) a exigência expressa na NBC QM 02 de um período de resfriamento (*cooling-off period*) de **2 anos** antes que um ex-sócio do trabalho possa assumir a função de Revisor da Qualidade do Trabalho (EQCR) naquele mesmo cliente.
 
@@ -367,9 +367,9 @@ A firma de auditoria independente *Delta S/S* concluiu a auditoria das demonstra
 * **D)** A montagem do arquivo final deve ser concluída no mínimo 30 dias antes da data de emissão do primeiro relatório.
 * **E)** O prazo de retenção documental de 5 anos passa a ser reduzido pela metade quando há emissão de múltiplos relatórios.
 
-#### Gabarito e Dissecação Técnica: **Alternativa B**
-* **Análise das Alternativas A, C, D e E (Incorretas):** Inventam regras inexistentes na norma.
-* **Análise da Alternativa B (Correta):** Reproduz literalmente o **item 45 (parte final) da NBC PA 01**: *"No caso de dois ou mais diferentes relatórios serem emitidos com relação à mesma informação sobre o objeto de uma entidade, as políticas e os procedimentos da firma relativos aos limites de tempo para a montagem dos arquivos finais devem tratar cada relatório como se fosse para um trabalho separado."*
+#### Gabarito: **B**
+* **A, C, D e E (Erradas):** Inventam regras inexistentes na norma.
+* **B (Certa):** Reproduz literalmente o **item 45 (parte final) da NBC PA 01**: *"No caso de dois ou mais diferentes relatórios serem emitidos com relação à mesma informação sobre o objeto de uma entidade, as políticas e os procedimentos da firma relativos aos limites de tempo para a montagem dos arquivos finais devem tratar cada relatório como se fosse para um trabalho separado."*
 
 > **Fique Ligado:** Reproduz literalmente o **item 45 (parte final) da NBC PA 01**: *"No caso de dois ou mais diferentes relatórios serem emitidos com relação à mesma informação sobre o objeto de uma entidade, as políticas e os procedimentos da firma relativos aos limites de tempo para a montagem dos arquivos finais devem tratar cada relatório como se fosse para um trabalho separado.
 
@@ -385,9 +385,9 @@ Ao considerar a aceitação de um novo cliente de auditoria ou a decisão de con
 * **D)** A emissão imediata de opinião sem ressalvas acompanhada de uma carta confidencial isentando o auditor de responsabilidade civil.
 * **E)** A transferência compulsória do contrato para uma firma concorrente sem comunicação à administração da entidade.
 
-#### Gabarito e Dissecação Técnica: **Alternativa C**
-* **Análise das Alternativas A, B, D e E (Incorretas):** Condutas antiéticas e ilegais que violam a NBC PA 01 e o Código de Ética.
-* **Análise da Alternativa C (Correta):** Corresponde ipsis litteris ao **item 28 da NBC PA 01** (e item A9 da NBC TA 220): quando a firma obtém informações que teriam levado à recusa do trabalho se fossem conhecidas antes, deve considerar as responsabilidades profissionais e legais aplicáveis (incluindo se há exigência de informar à pessoa que contratou a firma ou às autoridades reguladoras) e **a possibilidade de se retirar do trabalho ou de ambos, do trabalho e do relacionamento com o cliente**.
+#### Gabarito: **C**
+* **A, B, D e E (Erradas):** Condutas antiéticas e ilegais que violam a NBC PA 01 e o Código de Ética.
+* **C (Certa):** Corresponde ipsis litteris ao **item 28 da NBC PA 01** (e item A9 da NBC TA 220): quando a firma obtém informações que teriam levado à recusa do trabalho se fossem conhecidas antes, deve considerar as responsabilidades profissionais e legais aplicáveis (incluindo se há exigência de informar à pessoa que contratou a firma ou às autoridades reguladoras) e **a possibilidade de se retirar do trabalho ou de ambos, do trabalho e do relacionamento com o cliente**.
 
 > **Fique Ligado:** Corresponde ipsis litteris ao **item 28 da NBC PA 01** (e item A9 da NBC TA 220): quando a firma obtém informações que teriam levado à recusa do trabalho se fossem conhecidas antes, deve considerar as responsabilidades profissionais e legais aplicáveis (incluindo se há exigência de informar à pessoa que contratou a firma ou às autoridades reguladoras) e **a possibilidade de se retirar do trabalho ou de ambos, do trabalho e do relacionamento com o cliente**.
 
@@ -403,9 +403,9 @@ Durante uma auditoria de demonstrações financeiras, a equipe de trabalho depar
 * **D)** Exigir que o especialista consultado assine conjuntamente o relatório de auditoria independente na condição de corresponsável técnico.
 * **E)** Emitir opinião com abstenção sempre que houver necessidade de consulta técnica a especialistas de fora da firma.
 
-#### Gabarito e Dissecação Técnica: **Alternativa B**
-* **Análise da Alternativa A (Incorreta):** O item A22 da NBC TA 220 e o item A38 da NBC PA 01 autorizam expressamente consultas a profissionais **de dentro ou de fora da firma** (respeitados os cuidados de confidencialidade/anonimização quando cabível).
-* **Análise da Alternativa B (Correta):** Reproduz fielmente o **item 18(b), (c) e (d) da NBC TA 220**: o sócio do trabalho deve estar satisfeito de que a natureza, o alcance e as conclusões resultantes das consultas foram acordados com o profissional consultado e documentados, e determinar que as conclusões resultantes foram implementadas.
-* **Análise das Alternativas C, D e E (Incorretas):** A documentação é obrigatória, a responsabilidade pela opinião no relatório é exclusiva e indivisível do sócio do trabalho/firma, e a realização de consulta técnica aprimora a qualidade da auditoria, não gerando modificação de opinião.
+#### Gabarito: **B**
+* **A (Errada):** O item A22 da NBC TA 220 e o item A38 da NBC PA 01 autorizam expressamente consultas a profissionais **de dentro ou de fora da firma** (respeitados os cuidados de confidencialidade/anonimização quando cabível).
+* **B (Certa):** Reproduz fielmente o **item 18(b), (c) e (d) da NBC TA 220**: o sócio do trabalho deve estar satisfeito de que a natureza, o alcance e as conclusões resultantes das consultas foram acordados com o profissional consultado e documentados, e determinar que as conclusões resultantes foram implementadas.
+* **C, D e E (Erradas):** A documentação é obrigatória, a responsabilidade pela opinião no relatório é exclusiva e indivisível do sócio do trabalho/firma, e a realização de consulta técnica aprimora a qualidade da auditoria, não gerando modificação de opinião.
 
 > **Fique Ligado:** Reproduz fielmente o **item 18(b), (c) e (d) da NBC TA 220**: o sócio do trabalho deve estar satisfeito de que a natureza, o alcance e as conclusões resultantes das consultas foram acordados com o profissional consultado e documentados, e determinar que as conclusões resultantes foram implementadas.

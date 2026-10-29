@@ -338,11 +338,11 @@ De acordo com a NBC TA 540 (Auditoria de Estimativas Contábeis e Divulgações 
 **Gabarito Oficial:** **C**
 
 **Comentários Analíticos Alternativa por Alternativa:**
-* **(A) Incorreta:** Conforme o item A61 da NBC TA 540, a revisão retrospectiva **não se destina a colocar em dúvida os julgamentos feitos no período anterior** que se basearam em informações disponíveis naquela época, pois diferenças entre o desfecho real e a estimativa passada decorrem da própria incerteza de mensuração e não necessariamente de erro.
-* **(B) Incorreta:** Quando a estimativa da administração cai fora do intervalo do auditor, a distorção não é menor do que a diferença entre a estimativa pontual da administração e o **ponto mais próximo** (e não o limite mais distante!) do intervalo do auditor (item A139).
-* **(C) Correta:** Sintetiza com perfeição o item 14 e os itens A57 a A61 da NBC TA 540: a revisão retrospectiva fornece informações sobre a eficácia do processo anterior da administração e possíveis indicadores de viés da administração (*management bias*), sem questionar retroativamente julgamentos baseados nas informações disponíveis à época.
-* **(D) Incorreta:** O item 16 da NBC TA 540 (Revisada) exige expressamente que o auditor avalie **separadamente** o risco inerente e o risco de controle para as estimativas contábeis.
-* **(E) Incorreta:** Obter evidência de auditoria de eventos ocorridos até a data do relatório do auditor é justamente a **primeira das três abordagens** previstas no item 18(a) e no item 21 da NBC TA 540!
+* **A (Errada):** Conforme o item A61 da NBC TA 540, a revisão retrospectiva **não se destina a colocar em dúvida os julgamentos feitos no período anterior** que se basearam em informações disponíveis naquela época, pois diferenças entre o desfecho real e a estimativa passada decorrem da própria incerteza de mensuração e não necessariamente de erro.
+* **B (Errada):** Quando a estimativa da administração cai fora do intervalo do auditor, a distorção não é menor do que a diferença entre a estimativa pontual da administração e o **ponto mais próximo** (e não o limite mais distante!) do intervalo do auditor (item A139).
+* **C (Certa):** Sintetiza com perfeição o item 14 e os itens A57 a A61 da NBC TA 540: a revisão retrospectiva fornece informações sobre a eficácia do processo anterior da administração e possíveis indicadores de viés da administração (*management bias*), sem questionar retroativamente julgamentos baseados nas informações disponíveis à época.
+* **D (Errada):** O item 16 da NBC TA 540 (Revisada) exige expressamente que o auditor avalie **separadamente** o risco inerente e o risco de controle para as estimativas contábeis.
+* **E (Errada):** Obter evidência de auditoria de eventos ocorridos até a data do relatório do auditor é justamente a **primeira das três abordagens** previstas no item 18(a) e no item 21 da NBC TA 540!
 
 > **Fique Ligado:** Estimativas Contábeis (NBC TA 540): a revisão retrospectiva de estimativas do ano anterior é obrigatória para avaliar a eficácia do processo de estimativa da administração e identificar indícios de viés.
 
@@ -364,9 +364,9 @@ Está correto o que se afirma em:
 **Gabarito Oficial:** **B**
 
 **Comentários Analíticos Alternativa por Alternativa:**
-* **Análise do Item I (Correto):** Transcrição literal do item 18 da NBC TA 550: transações significativas com partes relacionadas e fora do curso normal dos negócios devem obrigatoriamente ser tratadas como **riscos significativos**.
-* **Análise do Item II (Correto):** Reproduz fielmente o item 15 da NBC TA 550 sobre os registros e documentos de inspeção obrigatória pelo auditor (confirmações bancárias e jurídicas obtidas e atas de assembleias de acionistas e de reuniões da governança).
-* **Análise do Item III (Incorreto):** Conforme o item 24 da NBC TA 550, se a administração fizer a afirmação de que a transação foi realizada em condições equivalentes às de mercado, o auditor **deve obter evidência de auditoria apropriada e suficiente** sobre essa afirmação (e a NBC TA 580 veda que representações formais substituam evidências que devem estar disponíveis).
+* **Item I (Certo):** Transcrição literal do item 18 da NBC TA 550: transações significativas com partes relacionadas e fora do curso normal dos negócios devem obrigatoriamente ser tratadas como **riscos significativos**.
+* **Item II (Certo):** Reproduz fielmente o item 15 da NBC TA 550 sobre os registros e documentos de inspeção obrigatória pelo auditor (confirmações bancárias e jurídicas obtidas e atas de assembleias de acionistas e de reuniões da governança).
+* **Item III (Errado):** Conforme o item 24 da NBC TA 550, se a administração fizer a afirmação de que a transação foi realizada em condições equivalentes às de mercado, o auditor **deve obter evidência de auditoria apropriada e suficiente** sobre essa afirmação (e a NBC TA 580 veda que representações formais substituam evidências que devem estar disponíveis).
 * **Conclusão:** Apenas os itens **I e II** estão corretos. Gabarito: **(B)**.
 
 > **Fique Ligado:** Partes Relacionadas (NBC TA 550): transações fora do curso normal de negócios representam risco significativo de fraude; o auditor deve inspecionar contratos subjacentes e avaliar a lógica comercial.
@@ -385,11 +385,11 @@ Durante a auditoria das demonstrações contábeis de uma companhia aberta, o au
 **Gabarito Oficial:** **C**
 
 **Comentários Analíticos Alternativa por Alternativa:**
-* **(A) Incorreta:** O especialista em contabilidade (IFRS) não é regido pela NBC TA 620 (mas sim pela NBC TA 220), e é proibido citar especialistas em relatório com opinião não modificada.
-* **(B) Incorreta:** Inverte completamente a definição do item 6(a) da NBC TA 620.
-* **(C) Correta:** Segundo o item 6(a) da NBC TA 620, *Especialista do Auditor* é uma pessoa ou organização com especialização em **área que não seja contabilidade ou auditoria** (portanto, apenas o engenheiro de minas). Além disso, conforme o item 14 da NBC TA 620, o auditor **não deve fazer referência** ao trabalho de especialista do auditor em relatório que contenha **opinião não modificada**, a menos que exigido por lei ou regulamento.
-* **(D) Incorreta:** Conforme os itens 3 e 12 da NBC TA 620, o auditor é o **único responsável** pela opinião expressa (sua responsabilidade não é reduzida pelo uso do especialista) e deve avaliar a adequação do trabalho do especialista, incluindo a relevância e a razoabilidade das premissas e métodos utilizados.
-* **(E) Incorreta:** Nos termos do item 15 da NBC TA 620, em um relatório com **opinião modificada**, o auditor **pode** fazer referência ao trabalho do especialista se essa referência for relevante para o entendimento da modificação na sua opinião, devendo indicar no relatório que a referência não reduz a sua responsabilidade por essa opinião.
+* **A (Errada):** O especialista em contabilidade (IFRS) não é regido pela NBC TA 620 (mas sim pela NBC TA 220), e é proibido citar especialistas em relatório com opinião não modificada.
+* **B (Errada):** Inverte completamente a definição do item 6(a) da NBC TA 620.
+* **C (Certa):** Segundo o item 6(a) da NBC TA 620, *Especialista do Auditor* é uma pessoa ou organização com especialização em **área que não seja contabilidade ou auditoria** (portanto, apenas o engenheiro de minas). Além disso, conforme o item 14 da NBC TA 620, o auditor **não deve fazer referência** ao trabalho de especialista do auditor em relatório que contenha **opinião não modificada**, a menos que exigido por lei ou regulamento.
+* **D (Errada):** Conforme os itens 3 e 12 da NBC TA 620, o auditor é o **único responsável** pela opinião expressa (sua responsabilidade não é reduzida pelo uso do especialista) e deve avaliar a adequação do trabalho do especialista, incluindo a relevância e a razoabilidade das premissas e métodos utilizados.
+* **E (Errada):** Nos termos do item 15 da NBC TA 620, em um relatório com **opinião modificada**, o auditor **pode** fazer referência ao trabalho do especialista se essa referência for relevante para o entendimento da modificação na sua opinião, devendo indicar no relatório que a referência não reduz a sua responsabilidade por essa opinião.
 
 > **Fique Ligado:** Especialista do Auditor (NBC TA 620): a responsabilidade do auditor pela opinião é exclusiva e não é reduzida pela utilização do especialista; em relatório sem modificação é VEDADO citar o especialista.
 
@@ -407,11 +407,11 @@ De acordo com a NBC TA 550, caso o auditor identifique, durante a realização d
 **Gabarito Oficial:** **A**
 
 **Comentários Analíticos Alternativa por Alternativa:**
-* **(A) Correta:** Reflete exatamente os comandos obrigatórios do item 22, alíneas (a) e (b)(ii), da NBC TA 550: ao identificar partes relacionadas ou transações significativas não reveladas previamente pela administração, o auditor deve **comunicar imediatamente** a informação relevante aos outros membros da equipe de trabalho, solicitar à administração que identifique todas as transações com as novas partes, **indagar por que os controles da entidade falharam**, executar procedimentos substantivos apropriados, reconsiderar o risco de haver outras partes ocultas e avaliar as implicações se a não divulgação parecer intencional (fraude).
-* **(B) Incorreta:** A descoberta de uma parte relacionada não informada exige investigação aprofundada e avaliação de risco de fraude (item 22), e não a emissão automática de opinião adversa sem antes verificar os ajustes e divulgações.
-* **(C) Incorreta:** O auditor não renuncia sumariamente sem investigar; além disso, o item 27 da NBC TA 550 exige comunicar aos responsáveis pela governança assuntos significativos referentes a partes relacionadas.
-* **(D) Incorreta:** O auditor deve executar procedimentos substantivos apropriados nas partes recém-identificadas (item 22, "c").
-* **(E) Incorreta:** Jamais se exclui um indício de risco ou fraude da análise do auditor!
+* **A (Certa):** Reflete exatamente os comandos obrigatórios do item 22, alíneas (a) e (b)(ii), da NBC TA 550: ao identificar partes relacionadas ou transações significativas não reveladas previamente pela administração, o auditor deve **comunicar imediatamente** a informação relevante aos outros membros da equipe de trabalho, solicitar à administração que identifique todas as transações com as novas partes, **indagar por que os controles da entidade falharam**, executar procedimentos substantivos apropriados, reconsiderar o risco de haver outras partes ocultas e avaliar as implicações se a não divulgação parecer intencional (fraude).
+* **B (Errada):** A descoberta de uma parte relacionada não informada exige investigação aprofundada e avaliação de risco de fraude (item 22), e não a emissão automática de opinião adversa sem antes verificar os ajustes e divulgações.
+* **C (Errada):** O auditor não renuncia sumariamente sem investigar; além disso, o item 27 da NBC TA 550 exige comunicar aos responsáveis pela governança assuntos significativos referentes a partes relacionadas.
+* **D (Errada):** O auditor deve executar procedimentos substantivos apropriados nas partes recém-identificadas (item 22, "c").
+* **E (Errada):** Jamais se exclui um indício de risco ou fraude da análise do auditor!
 
 > **Fique Ligado:** Se o auditor identificar partes relacionadas não identificadas ou não divulgadas anteriormente pela gestão, deve comunicar imediatamente aos demais membros da equipe e requerer explicações da administração.
 
@@ -429,11 +429,11 @@ No âmbito da NBC TA 610 (Utilização do Trabalho de Auditoria Interna), o audi
 **Gabarito Oficial:** **C**
 
 **Comentários Analíticos Alternativa por Alternativa:**
-* **(A) Incorreta:** O item 16 da NBC TA 610 é taxativo: o auditor externo **não deve** utilizar o trabalho da função de auditoria interna se determinar que **qualquer um** dos três fatores do item 15 (objetividade, competência ou abordagem sistemática e disciplinada) não for atendido.
-* **(B) Incorreta:** O item 30, alíneas (a) e (b), da NBC TA 610 **proíbe expressamente** o uso de auditores internos em assistência direta para procedimentos que envolvam **julgamentos significativos na auditoria** ou que se refiram a **riscos mais altos de distorção relevante**.
-* **(C) Correta:** Reproduz literalmente os três pilares obrigatórios de avaliação da função de auditoria interna previstos no item 15, alíneas (a), (b) e (c), da NBC TA 610: (1) Objetividade apoiada pelo status organizacional e políticas; (2) Nível de competência; e (3) Aplicação de abordagem sistemática e disciplinada, incluindo controle de qualidade.
-* **(D) Incorreta:** Conforme o item 11 da NBC TA 610, o auditor externo tem **responsabilidade única** pela opinião de auditoria expressa, e essa responsabilidade **não é reduzida** pela utilização do trabalho da função de auditoria interna ou de assistência direta, sendo vedado mencioná-los no relatório para dividir responsabilidade.
-* **(E) Incorreta:** O item 30(c) da NBC TA 610 **proíbe** designar auditores internos em assistência direta para procedimentos que se relacionem com trabalho com o qual os auditores internos estiveram envolvidos (violação da objetividade / autoavaliação).
+* **A (Errada):** O item 16 da NBC TA 610 é taxativo: o auditor externo **não deve** utilizar o trabalho da função de auditoria interna se determinar que **qualquer um** dos três fatores do item 15 (objetividade, competência ou abordagem sistemática e disciplinada) não for atendido.
+* **B (Errada):** O item 30, alíneas (a) e (b), da NBC TA 610 **proíbe expressamente** o uso de auditores internos em assistência direta para procedimentos que envolvam **julgamentos significativos na auditoria** ou que se refiram a **riscos mais altos de distorção relevante**.
+* **C (Certa):** Reproduz literalmente os três pilares obrigatórios de avaliação da função de auditoria interna previstos no item 15, alíneas (a), (b) e (c), da NBC TA 610: (1) Objetividade apoiada pelo status organizacional e políticas; (2) Nível de competência; e (3) Aplicação de abordagem sistemática e disciplinada, incluindo controle de qualidade.
+* **D (Errada):** Conforme o item 11 da NBC TA 610, o auditor externo tem **responsabilidade única** pela opinião de auditoria expressa, e essa responsabilidade **não é reduzida** pela utilização do trabalho da função de auditoria interna ou de assistência direta, sendo vedado mencioná-los no relatório para dividir responsabilidade.
+* **E (Errada):** O item 30(c) da NBC TA 610 **proíbe** designar auditores internos em assistência direta para procedimentos que se relacionem com trabalho com o qual os auditores internos estiveram envolvidos (violação da objetividade / autoavaliação).
 
 > **Fique Ligado:** O auditor independente jamais pode delegar a responsabilidade pela opinião ou a condução de julgamentos significativos à auditoria interna (NBC TA 610).
 
@@ -451,12 +451,12 @@ Ao auditar uma provisão para contingências ambientais de alta complexidade (NB
 **Gabarito Oficial:** **B**
 
 **Comentários Analíticos Alternativa por Alternativa:**
-* **(A) Incorreta:** Como a estimativa pontual da administração ($\text{R\$ } 12\text{ milhões}$) está **fora** do intervalo suportado por evidências do auditor ($[\text{R\$ } 15\text{ milhões}, \text{R\$ } 21\text{ milhões}]$), existe uma distorção (subavaliação do passivo).
-* **(B) Correta:** Nos termos do item A139 da NBC TA 540 (e da NBC TA 450), quando o auditor desenvolve um intervalo do auditor e a estimativa pontual da administração está fora desse intervalo, **a distorção não é menor do que a diferença entre a estimativa pontual da administração e o ponto mais próximo do intervalo do auditor**:
+* **A (Errada):** Como a estimativa pontual da administração ($\text{R\$ } 12\text{ milhões}$) está **fora** do intervalo suportado por evidências do auditor ($[\text{R\$ } 15\text{ milhões}, \text{R\$ } 21\text{ milhões}]$), existe uma distorção (subavaliação do passivo).
+* **B (Certa):** Nos termos do item A139 da NBC TA 540 (e da NBC TA 450), quando o auditor desenvolve um intervalo do auditor e a estimativa pontual da administração está fora desse intervalo, **a distorção não é menor do que a diferença entre a estimativa pontual da administração e o ponto mais próximo do intervalo do auditor**:
   $$\text{Distorção Mínima} = \text{R\$ } 15.000.000,00 \text{ (ponto mais próximo)} - \text{R\$ } 12.000.000,00 \text{ (estimativa da administração)} = \text{R\$ } 3.000.000,00$$
-* **(C) Incorreta:** Calculou a diferença até o ponto médio do intervalo ($\text{R\$ } 18\text{ milhões} - \text{R\$ } 12\text{ milhões} = \text{R\$ } 6\text{ milhões}$), o que contraria a norma.
-* **(D) Incorreta:** Calculou a diferença até o ponto mais distante do intervalo ($\text{R\$ } 21\text{ milhões} - \text{R\$ } 12\text{ milhões} = \text{R\$ } 9\text{ milhões}$).
-* **(E) Incorreta:** Repetiu o próprio valor contábil registrado pela administração.
+* **C (Errada):** Calculou a diferença até o ponto médio do intervalo ($\text{R\$ } 18\text{ milhões} - \text{R\$ } 12\text{ milhões} = \text{R\$ } 6\text{ milhões}$), o que contraria a norma.
+* **D (Errada):** Calculou a diferença até o ponto mais distante do intervalo ($\text{R\$ } 21\text{ milhões} - \text{R\$ } 12\text{ milhões} = \text{R\$ } 9\text{ milhões}$).
+* **E (Errada):** Repetiu o próprio valor contábil registrado pela administração.
 
 > **Fique Ligado:** Para responder ao risco de estimativas complexas, o auditor pode testar como a administração fez a estimativa, desenvolver estimativa pontual independente ou testar a eficácia dos controles.
 
@@ -474,11 +474,11 @@ Na auditoria das demonstrações contábeis consolidadas de uma *holding* indust
 **Gabarito Oficial:** **C**
 
 **Comentários Analíticos Alternativa por Alternativa:**
-* **(A) Incorreta:** O item 11 da NBC TA 600 **proíbe** fazer referência ao auditor de componente no relatório sobre as demonstrações do grupo (a menos que exigido por lei ou regulamento), sendo indivisível a responsabilidade do sócio do trabalho do grupo.
-* **(B) Incorreta:** Conforme o item 21(c) da NBC TA 600, a fim de reduzir a um nível adequadamente baixo a probabilidade de que o conjunto de distorções não corrigidas e não detectadas nas demonstrações do grupo ultrapasse a materialidade do grupo como um todo, **a materialidade do componente deve ser MENOR que a materialidade para as demonstrações contábeis do grupo como um todo**.
-* **(C) Correta:** Reúne com perfeição os conceitos dos itens 9(m), 11 e 21(c) da NBC TA 600: o componente é financeiramente significativo, sua materialidade deve ser inferior à materialidade global do grupo e o relatório do grupo não deve fazer menção ao auditor do componente.
-* **(D) Incorreta:** Conforme o item 20 da NBC TA 600, se o auditor do componente não cumpre as exigências de independência ou se a equipe do grupo tem reservas significativas quanto à sua competência ou ética, a equipe do grupo **deve obter evidência apropriada e suficiente sobre o componente sem utilizar o trabalho daquele auditor de componente**!
-* **(E) Incorreta:** Conforme o item 9(m) da NBC TA 600, um componente é significativo **ou** por sua importância financeira individual **ou** porque, devido à sua natureza ou circunstâncias específicas, provavelmente inclua **riscos significativos de distorção relevante** das demonstrações do grupo (como uma SPE pequena que concentra derivativos tóxicos).
+* **A (Errada):** O item 11 da NBC TA 600 **proíbe** fazer referência ao auditor de componente no relatório sobre as demonstrações do grupo (a menos que exigido por lei ou regulamento), sendo indivisível a responsabilidade do sócio do trabalho do grupo.
+* **B (Errada):** Conforme o item 21(c) da NBC TA 600, a fim de reduzir a um nível adequadamente baixo a probabilidade de que o conjunto de distorções não corrigidas e não detectadas nas demonstrações do grupo ultrapasse a materialidade do grupo como um todo, **a materialidade do componente deve ser MENOR que a materialidade para as demonstrações contábeis do grupo como um todo**.
+* **C (Certa):** Reúne com perfeição os conceitos dos itens 9(m), 11 e 21(c) da NBC TA 600: o componente é financeiramente significativo, sua materialidade deve ser inferior à materialidade global do grupo e o relatório do grupo não deve fazer menção ao auditor do componente.
+* **D (Errada):** Conforme o item 20 da NBC TA 600, se o auditor do componente não cumpre as exigências de independência ou se a equipe do grupo tem reservas significativas quanto à sua competência ou ética, a equipe do grupo **deve obter evidência apropriada e suficiente sobre o componente sem utilizar o trabalho daquele auditor de componente**!
+* **E (Errada):** Conforme o item 9(m) da NBC TA 600, um componente é significativo **ou** por sua importância financeira individual **ou** porque, devido à sua natureza ou circunstâncias específicas, provavelmente inclua **riscos significativos de distorção relevante** das demonstrações do grupo (como uma SPE pequena que concentra derivativos tóxicos).
 
 > **Fique Ligado:** Auditoria de Grupo (NBC TA 600): o sócio do trabalho do grupo é o único responsável pela opinião; não divide responsabilidade com os auditores dos componentes.
 
@@ -496,11 +496,11 @@ Julgue os itens a seguir com base nas disposições da NBC TA 540 (Auditoria de 
 **Gabarito Oficial:** **B**
 
 **Comentários Analíticos Alternativa por Alternativa:**
-* **(A) Incorreta:** Conforme a NBC TA 540 (item 32 e A133), o viés da administração pode ser **não intencional** (otimismo inconsciente ou erro de julgamento) ou **intencional**; ele somente é fraudulento quando há **intenção de enganar**.
-* **(B) Correta:** Nos exatos termos do item 32 da NBC TA 540: *"O auditor deve avaliar se os julgamentos e as decisões da administração na realização das estimativas contábeis incluídas nas demonstrações contábeis, **mesmo se forem individualmente razoáveis**, indicam um possível viés por parte da administração da entidade"*. (Por exemplo, cada uma das 10 estimativas da empresa está dentro do respectivo intervalo aceitável, mas todas as 10 foram cravadas exatamente no milímetro superior do intervalo para maximizar o lucro!).
-* **(C) Incorreta:** A incerteza de mensuração é um fator de **risco inerente** (decorre da falta inerente de precisão sobre o futuro) e não pode ser eliminada por controles internos da empresa.
-* **(D) Incorreta:** Preços cotados publicamente em mercado ativo (Nível 1) possuem **baixa** incerteza de mensuração, baixa complexidade e baixa subjetividade.
-* **(E) Incorreta:** Quanto maior a incerteza de mensuração, **mais crítica e rigorosa** deve ser a avaliação do auditor sobre a adequação das divulgações em notas explicativas (análise de sensibilidade, premissas-chave e fontes de incerteza — itens 30 e 31 da NBC TA 540).
+* **A (Errada):** Conforme a NBC TA 540 (item 32 e A133), o viés da administração pode ser **não intencional** (otimismo inconsciente ou erro de julgamento) ou **intencional**; ele somente é fraudulento quando há **intenção de enganar**.
+* **B (Certa):** Nos exatos termos do item 32 da NBC TA 540: *"O auditor deve avaliar se os julgamentos e as decisões da administração na realização das estimativas contábeis incluídas nas demonstrações contábeis, **mesmo se forem individualmente razoáveis**, indicam um possível viés por parte da administração da entidade"*. (Por exemplo, cada uma das 10 estimativas da empresa está dentro do respectivo intervalo aceitável, mas todas as 10 foram cravadas exatamente no milímetro superior do intervalo para maximizar o lucro!).
+* **C (Errada):** A incerteza de mensuração é um fator de **risco inerente** (decorre da falta inerente de precisão sobre o futuro) e não pode ser eliminada por controles internos da empresa.
+* **D (Errada):** Preços cotados publicamente em mercado ativo (Nível 1) possuem **baixa** incerteza de mensuração, baixa complexidade e baixa subjetividade.
+* **E (Errada):** Quanto maior a incerteza de mensuração, **mais crítica e rigorosa** deve ser a avaliação do auditor sobre a adequação das divulgações em notas explicativas (análise de sensibilidade, premissas-chave e fontes de incerteza — itens 30 e 31 da NBC TA 540).
 
 > **Fique Ligado:** Fatores de incerteza da estimativa: sensibilidade das premissas a mudanças, complexidade do modelo de cálculo e subjetividade na mensuração do valor justo.
 
@@ -518,11 +518,11 @@ Ao examinar um contrato de venda de um complexo industrial celebrado pela compan
 **Gabarito Oficial:** **B**
 
 **Comentários Analíticos Alternativa por Alternativa:**
-* **(A) Incorreta:** O recolhimento de tributos não afasta o risco de manipulação contábil ou desvio patrimonial; aliás, fraudadores muitas vezes pagam tributos sobre receitas fictícias para dar aparência de legitimidade à fraude.
-* **(B) Correta:** Reproduz literalmente o item 23(a)(i) da NBC TA 550: para transações significativas com partes relacionadas fora do curso normal dos negócios, o auditor deve inspecionar os contratos ou acordos subjacentes e avaliar se: *(i) a lógica comercial das transações (ou a ausência dela) sugere que elas podem ter sido realizadas para gerar informações financeiras fraudulentas ou para ocultar a apropriação indébita de ativos; (ii) os termos são consistentes com as explicações da administração; e (iii) foram apropriadamente contabilizadas e divulgadas*, além de obter evidência de autorização e aprovação apropriadas.
-* **(C) Incorreta:** Assinatura de testemunhas formais jamais substitui a aprovação pelos responsáveis pela governança (item 23, "b") nem a divulgação obrigatória em notas explicativas (CPC 05).
-* **(D) Incorreta:** O enquadramento como parte relacionada independe de um teto de 50% do patrimônio líquido; familiares próximos do pessoal-chave da administração e empresas por eles controladas são partes relacionadas por definição legal e contábil (CPC 05).
-* **(E) Incorreta:** O domicílio geográfico do familiar é irrelevante para a configuração de parte relacionada.
+* **A (Errada):** O recolhimento de tributos não afasta o risco de manipulação contábil ou desvio patrimonial; aliás, fraudadores muitas vezes pagam tributos sobre receitas fictícias para dar aparência de legitimidade à fraude.
+* **B (Certa):** Reproduz literalmente o item 23(a)(i) da NBC TA 550: para transações significativas com partes relacionadas fora do curso normal dos negócios, o auditor deve inspecionar os contratos ou acordos subjacentes e avaliar se: *(i) a lógica comercial das transações (ou a ausência dela) sugere que elas podem ter sido realizadas para gerar informações financeiras fraudulentas ou para ocultar a apropriação indébita de ativos; (ii) os termos são consistentes com as explicações da administração; e (iii) foram apropriadamente contabilizadas e divulgadas*, além de obter evidência de autorização e aprovação apropriadas.
+* **C (Errada):** Assinatura de testemunhas formais jamais substitui a aprovação pelos responsáveis pela governança (item 23, "b") nem a divulgação obrigatória em notas explicativas (CPC 05).
+* **D (Errada):** O enquadramento como parte relacionada independe de um teto de 50% do patrimônio líquido; familiares próximos do pessoal-chave da administração e empresas por eles controladas são partes relacionadas por definição legal e contábil (CPC 05).
+* **E (Errada):** O domicílio geográfico do familiar é irrelevante para a configuração de parte relacionada.
 
 > **Fique Ligado:** Transações entre partes relacionadas em condições que não seriam aceitas entre partes independentes indicam tentativa de ocultação de desvios patrimoniais ou manipulação tributária.
 
@@ -540,11 +540,11 @@ Considere as distinções normativas entre o Especialista da Administração (NB
 **Gabarito Oficial:** **C**
 
 **Comentários Analíticos Alternativa por Alternativa:**
-* **(A) Incorreta:** Quem é contratado pela firma de auditoria para ajudar na obtenção de evidência é o **Especialista do Auditor** (NBC TA 620). O Especialista da Administração é contratado/empregado pela própria entidade auditada.
-* **(B) Incorreta:** Conforme o item 8 da NBC TA 500, quando informações a serem utilizadas como evidência de auditoria foram elaboradas utilizando-se o trabalho de um especialista da administração, o auditor **deve obrigatoriamente** avaliar a competência, a habilidade e a objetividade desse especialista, obter entendimento do seu trabalho e avaliar a adequação desse trabalho como evidência de auditoria.
-* **(C) Correta:** Reproduz com exatidão cirúrgica as definições do item 6(a) e 6(b) da NBC TA 620 (e do item 5, "d", da NBC TA 500): ambos detêm perícia em área diferente de contabilidade ou auditoria, mas o **Especialista da Administração** auxilia a entidade a elaborar as demonstrações contábeis, ao passo que o **Especialista do Auditor** auxilia o auditor a obter evidência de auditoria apropriada e suficiente.
-* **(D) Incorreta:** Segundo o item 6(a) da NBC TA 620, o especialista do auditor pode ser tanto um **especialista interno** do auditor (que é sócio ou faz parte do quadro de pessoal, inclusive temporário, da firma do auditor ou de firma da rede) quanto um **especialista externo** do auditor.
-* **(E) Incorreta:** O item 11 da NBC TA 620 determina que o auditor deve estabelecer acordo, **por escrito** quando apropriado, com o especialista do auditor sobre a natureza, o alcance e os objetivos do trabalho, os respectivos papéis e a necessidade de observar requisitos de confidencialidade.
+* **A (Errada):** Quem é contratado pela firma de auditoria para ajudar na obtenção de evidência é o **Especialista do Auditor** (NBC TA 620). O Especialista da Administração é contratado/empregado pela própria entidade auditada.
+* **B (Errada):** Conforme o item 8 da NBC TA 500, quando informações a serem utilizadas como evidência de auditoria foram elaboradas utilizando-se o trabalho de um especialista da administração, o auditor **deve obrigatoriamente** avaliar a competência, a habilidade e a objetividade desse especialista, obter entendimento do seu trabalho e avaliar a adequação desse trabalho como evidência de auditoria.
+* **C (Certa):** Reproduz com exatidão cirúrgica as definições do item 6(a) e 6(b) da NBC TA 620 (e do item 5, "d", da NBC TA 500): ambos detêm perícia em área diferente de contabilidade ou auditoria, mas o **Especialista da Administração** auxilia a entidade a elaborar as demonstrações contábeis, ao passo que o **Especialista do Auditor** auxilia o auditor a obter evidência de auditoria apropriada e suficiente.
+* **D (Errada):** Segundo o item 6(a) da NBC TA 620, o especialista do auditor pode ser tanto um **especialista interno** do auditor (que é sócio ou faz parte do quadro de pessoal, inclusive temporário, da firma do auditor ou de firma da rede) quanto um **especialista externo** do auditor.
+* **E (Errada):** O item 11 da NBC TA 620 determina que o auditor deve estabelecer acordo, **por escrito** quando apropriado, com o especialista do auditor sobre a natureza, o alcance e os objetivos do trabalho, os respectivos papéis e a necessidade de observar requisitos de confidencialidade.
 
 
 > **Fique Ligado:** Especialista da administração (fonte de evidência - NBC TA 500) vs Especialista do auditor (assistência técnica ao auditor - NBC TA 620).
@@ -563,14 +563,14 @@ A NBC TA 540 (R2) estabelece os requisitos para a auditoria de estimativas cont�
 * **D)** O auditor independente está dispensado de avaliar se as estimativas contábeis da administração apresentam indícios de viés quando os controles internos forem julgados eficazes.
 * **E)** O viés da administração nas estimativas contábeis é irrelevante para a auditoria desde que o valor total do ativo seja positivo.
 
-#### Gabarito e Dissecação Técnica: **Alternativa C**
+#### Gabarito: **C**
 
 **Comentário Analítico Alternativa por Alternativa:**
-* **(A) INCORRETA:** O item A44 da NBC TA 540 esclarece categoricamente que a diferença entre o resultado de uma estimativa e o valor reconhecido nas demonstrações anteriores representa o desfecho da **incerteza inerente à estimativa**, e **NÃO** necessariamente uma distorção ou fraude contábil.
-* **(B) INCORRETA:** A alta incerteza de estimativa exige maior rigor na determinação de premissas e notas explicativas detalhadas sobre a sensibilidade do valor, não eximindo a entidade do reconhecimento do passivo quando os critérios do CPC 25 / NBC TG 25 forem preenchidos.
-* **(C) CORRETA:** Reflete com precisão técnica a NBC TA 540 e NBC TA 450 (item A7): quando o auditor utiliza um intervalo razoável de estimativa, a distorção identificada não é necessariamente a diferença para a sua estimativa pontual média, mas sim a diferença entre a estimativa da administração e o **limite mais próximo do intervalo aceitável** estabelecido pelo auditor!
-* **(D) INCORRETA:** A avaliação de **indícios de viés da administração** (ex: otimismo sistemático em ativos ou pessimismo seletivo em provisões tributárias) é um requisito compulsório e universal na auditoria de estimativas (NBC TA 540, item 32).
-* **(E) INCORRETA:** O viés da administração é fator crítico de risco de fraude corporativa e distorção cumulativa relevante.
+* **A (Errada):** O item A44 da NBC TA 540 esclarece categoricamente que a diferença entre o resultado de uma estimativa e o valor reconhecido nas demonstrações anteriores representa o desfecho da **incerteza inerente à estimativa**, e **NÃO** necessariamente uma distorção ou fraude contábil.
+* **B (Errada):** A alta incerteza de estimativa exige maior rigor na determinação de premissas e notas explicativas detalhadas sobre a sensibilidade do valor, não eximindo a entidade do reconhecimento do passivo quando os critérios do CPC 25 / NBC TG 25 forem preenchidos.
+* **C (Certa):** Reflete com precisão técnica a NBC TA 540 e NBC TA 450 (item A7): quando o auditor utiliza um intervalo razoável de estimativa, a distorção identificada não é necessariamente a diferença para a sua estimativa pontual média, mas sim a diferença entre a estimativa da administração e o **limite mais próximo do intervalo aceitável** estabelecido pelo auditor!
+* **D (Errada):** A avaliação de **indícios de viés da administração** (ex: otimismo sistemático em ativos ou pessimismo seletivo em provisões tributárias) é um requisito compulsório e universal na auditoria de estimativas (NBC TA 540, item 32).
+* **E (Errada):** O viés da administração é fator crítico de risco de fraude corporativa e distorção cumulativa relevante.
 
 > **Fique Ligado:** A diferença entre o desfecho real e a estimativa contábil anterior decorre da incerteza inerente, não sendo necessariamente erro ou fraude. Quando a estimativa da gestão fica fora do intervalo do auditor, a distorção mínima é a distância até a fronteira mais próxima desse intervalo.
 
@@ -586,14 +586,14 @@ A respeito da utilização do trabalho de Especialistas do Auditor (NBC TA 620) 
 * **D)** A contratação de especialista pelo auditor dispensa a avaliação prévia sobre a competência, habilidades e objetividade do profissional caso este possua registro no CRC.
 * **E)** O auditor está proibido de utilizar especialistas em áreas como atuária, geologia ou engenharia de petróleo por serem profissões regulamentadas fora do âmbito do CFC.
 
-#### Gabarito e Dissecação Técnica: **Alternativa B**
+#### Gabarito: **B**
 
 **Comentário Analítico Alternativa por Alternativa:**
-* **(A) INCORRETA:** A responsabilidade do auditor é **exclusiva e indivisível** (item 3 da NBC TA 620); é terminantemente proibido dividir responsabilidades ou citar o especialista em relatório sem modificação.
-* **(B) CORRETA:** Literalidade exata do item 14 da NBC TA 620: *"O auditor não deve fazer referência ao trabalho do especialista do auditor no relatório do auditor que contenha opinião não modificada, a menos que seja exigido por lei ou regulamento."*
-* **(C) INCORRETA:** Se a referência for feita para explicar os motivos de uma opinião modificada (item 15 da NBC TA 620), o auditor deve obrigatoriamente **indicar no relatório que tal referência não diminui a responsabilidade do auditor** pela sua opinião!
-* **(D) INCORRETA:** O auditor deve obrigatoriamente avaliar a competência, habilidades e objetividade do especialista antes da contratação (item 9 da NBC TA 620).
-* **(E) INCORRETA:** O especialista do auditor atua justamente em áreas do conhecimento alheias à contabilidade e auditoria (como engenharia, atuária, avaliação imobiliária ou direito).
+* **A (Errada):** A responsabilidade do auditor é **exclusiva e indivisível** (item 3 da NBC TA 620); é terminantemente proibido dividir responsabilidades ou citar o especialista em relatório sem modificação.
+* **B (Certa):** Literalidade exata do item 14 da NBC TA 620: *"O auditor não deve fazer referência ao trabalho do especialista do auditor no relatório do auditor que contenha opinião não modificada, a menos que seja exigido por lei ou regulamento."*
+* **C (Errada):** Se a referência for feita para explicar os motivos de uma opinião modificada (item 15 da NBC TA 620), o auditor deve obrigatoriamente **indicar no relatório que tal referência não diminui a responsabilidade do auditor** pela sua opinião!
+* **D (Errada):** O auditor deve obrigatoriamente avaliar a competência, habilidades e objetividade do especialista antes da contratação (item 9 da NBC TA 620).
+* **E (Errada):** O especialista do auditor atua justamente em áreas do conhecimento alheias à contabilidade e auditoria (como engenharia, atuária, avaliação imobiliária ou direito).
 
 > **Fique Ligado:** Relatório SEM modificação (limpo) = PROIBIDO mencionar o especialista do auditor! Relatório COM modificação (ressalva/adversa/abstenção) = pode mencionar apenas se relevante para explicar a modificação, declarando expressamente que isso NÃO reduz a responsabilidade exclusiva do auditor.
 

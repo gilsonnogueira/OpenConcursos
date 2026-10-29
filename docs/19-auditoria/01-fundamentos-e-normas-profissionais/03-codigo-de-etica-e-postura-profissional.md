@@ -264,11 +264,11 @@ As afirmativas são, respectivamente,
 * **D)** F – F – V – V.
 * **E)** V – F – F – V.
 
-#### Gabarito Oficial e Dissecação Técnica: **Alternativa A**
-* **1ª Afirmativa — VERDADEIRA (V):** Pela estrutura conceitual aplicada à independência (NBC PA 400, seção 400.12), cabe ao auditor identificar ameaças (interesse próprio, autorrevisão, defesa de interesse do cliente, familiaridade e intimidação/pressões externas), avaliá-las e tratá-las mediante salvaguardas quando não estiverem em nível aceitável.
-* **2ª Afirmativa — FALSA (F):** Pegadinha clássica da FGV! Segundo o item 400.5 A1 da NBC PA 400, *"A independência está vinculada aos princípios da **objetividade e da integridade**"*. O princípio da "impessoalidade" pertence ao Direito Administrativo (art. 37 da CF/88) e não integra os princípios fundamentais da NBC PG 100 / NBC PA 400!
-* **3ª Afirmativa — VERDADEIRA (V):** Literalidade do item 400.5 A1 da NBC PA 400: a independência compreende **(a) Independência de pensamento** e **(b) Aparência de independência**.
-* **4ª Afirmativa — FALSA (F):** Segundo o item R400.30 da NBC PA 400, a independência deve ser mantida durante **dois** períodos: **(a) o período do trabalho** e **(b) o período coberto pelas demonstrações contábeis**. A norma não menciona "período de contratação". Portanto, a sequência correta é **V – F – V – F** (**Alternativa A**).
+#### Gabarito: **A**
+* **1ª Afirmativa (Certa):** Pela estrutura conceitual aplicada à independência (NBC PA 400, seção 400.12), cabe ao auditor identificar ameaças (interesse próprio, autorrevisão, defesa de interesse do cliente, familiaridade e intimidação/pressões externas), avaliá-las e tratá-las mediante salvaguardas quando não estiverem em nível aceitável.
+* **2ª Afirmativa (Errada):** Pegadinha clássica da FGV! Segundo o item 400.5 A1 da NBC PA 400, *"A independência está vinculada aos princípios da **objetividade e da integridade**"*. O princípio da "impessoalidade" pertence ao Direito Administrativo (art. 37 da CF/88) e não integra os princípios fundamentais da NBC PG 100 / NBC PA 400!
+* **3ª Afirmativa (Certa):** Literalidade do item 400.5 A1 da NBC PA 400: a independência compreende **(a) Independência de pensamento** e **(b) Aparência de independência**.
+* **4ª Afirmativa (Errada):** Segundo o item R400.30 da NBC PA 400, a independência deve ser mantida durante **dois** períodos: **(a) o período do trabalho** e **(b) o período coberto pelas demonstrações contábeis**. A norma não menciona "período de contratação". Portanto, a sequência correta é **V – F – V – F** (**Alternativa A**).
 
 > **Fique Ligado:** A independência vincula-se aos princípios da objetividade e da integridade (não há impessoalidade na norma contábil); abrange independência de pensamento e aparência de independência.
 
@@ -291,10 +291,10 @@ As afirmativas são, respectivamente,
 * **D)** F – V – V.
 * **E)** V – F – F.
 
-#### Gabarito Oficial e Dissecação Técnica: **Alternativa B**
-* **1ª Afirmativa — VERDADEIRA (V):** Reproduz exatamente o art. 12, *caput*, da Resolução CMN nº 4.910/2021: substituição obrigatória do responsável técnico, diretor, gerente, supervisor e qualquer outro integrante com função de gerência da equipe após emitidos relatórios relativos a **5 (cinco) exercícios sociais completos e consecutivos**.
-* **2ª Afirmativa — VERDADEIRA (V):** Reproduz exatamente o art. 12, § 2º, da Resolução CMN nº 4.910/2021: o retorno dos profissionais substituídos exige o intervalo mínimo (*quarentena*) de **3 (três) exercícios sociais completos**, contados a partir da data da substituição.
-* **3ª Afirmativa — FALSA (F):** Invenção normativa da banca! Não existe qualquer exigência de aguardar 10 anos em caso de dispensa unilateral pela instituição financeira. Sequência correta: **V – V – F** (**Alternativa B**).
+#### Gabarito: **B**
+* **1ª Afirmativa (Certa):** Reproduz exatamente o art. 12, *caput*, da Resolução CMN nº 4.910/2021: substituição obrigatória do responsável técnico, diretor, gerente, supervisor e qualquer outro integrante com função de gerência da equipe após emitidos relatórios relativos a **5 (cinco) exercícios sociais completos e consecutivos**.
+* **2ª Afirmativa (Certa):** Reproduz exatamente o art. 12, § 2º, da Resolução CMN nº 4.910/2021: o retorno dos profissionais substituídos exige o intervalo mínimo (*quarentena*) de **3 (três) exercícios sociais completos**, contados a partir da data da substituição.
+* **3ª Afirmativa (Errada):** Invenção normativa da banca! Não existe qualquer exigência de aguardar 10 anos em caso de dispensa unilateral pela instituição financeira. Sequência correta: **V – V – F** (**Alternativa B**).
 
 > **Fique Ligado:** Ameaças de familiaridade e interesse próprio surgem em relacionamentos pessoais ou comerciais de longo prazo com clientes de auditoria; devem ser tratadas por salvaguardas ou recusa do trabalho.
 
@@ -317,8 +317,8 @@ Está correto o que se afirma em
 * **D)** I e III, apenas.
 * **E)** I, II e III.
 
-#### Gabarito Oficial e Dissecação Técnica: **Alternativa E**
-* **Análise dos Itens I, II e III (Todos Corretos):** Os três itens reproduzem com exatidão os dispositivos da **Seção 400.70 (R400.71 a R400.73) da NBC PA 400**: quando uma entidade passa a ser parte relacionada de um cliente de auditoria por fusão ou aquisição, a firma deve extinguir qualquer interesse ou relacionamento proibido até a data efetiva da operação (Item I). Se não for razoavelmente possível encerrá-lo até essa data, a firma deve avaliar a ameaça gerada (Item II) e discutir com os responsáveis pela governança as razões da impossibilidade de encerramento imediato e a avaliação do nível da ameaça (Item III), encerrando o vínculo no máximo em até 6 meses.
+#### Gabarito: **E**
+* **Itens I, II e III (Certos):** Os três itens reproduzem com exatidão os dispositivos da **Seção 400.70 (R400.71 a R400.73) da NBC PA 400**: quando uma entidade passa a ser parte relacionada de um cliente de auditoria por fusão ou aquisição, a firma deve extinguir qualquer interesse ou relacionamento proibido até a data efetiva da operação (Item I). Se não for razoavelmente possível encerrá-lo até essa data, a firma deve avaliar a ameaça gerada (Item II) e discutir com os responsáveis pela governança as razões da impossibilidade de encerramento imediato e a avaliação do nível da ameaça (Item III), encerrando o vínculo no máximo em até 6 meses.
 
 > **Fique Ligado:** O dever de sigilo profissional proíbe o uso de informações confidenciais para vantagem pessoal do auditor ou de terceiros; subsiste mesmo após o término do vínculo profissional.
 
@@ -341,8 +341,8 @@ Está correto o que se apresenta em
 * **D)** II e III, apenas.
 * **E)** I, II e III.
 
-#### Gabarito Oficial e Dissecação Técnica: **Alternativa E**
-* **Análise dos Itens I, II e III (Todos Corretos):** De acordo com a Seção 930 da NBC PO 900 (e Seção 430 da NBC PA 400), quando há litígio ou ameaça de litígio entre o cliente e a firma/equipe, geram-se ameaças de **interesse próprio** e de **intimidação**. Os fatores expressamente previstos na norma para avaliar o nível dessas ameaças (e se uma salvaguarda como afastar um membro específico da equipe é suficiente) incluem: **(I) a materialidade do litígio**, **(II) se o litígio refere-se a um trabalho de asseguração/auditoria anterior**, e **(III) se o litígio envolve um membro específico da equipe**.
+#### Gabarito: **E**
+* **Itens I, II e III (Certos):** De acordo com a Seção 930 da NBC PO 900 (e Seção 430 da NBC PA 400), quando há litígio ou ameaça de litígio entre o cliente e a firma/equipe, geram-se ameaças de **interesse próprio** e de **intimidação**. Os fatores expressamente previstos na norma para avaliar o nível dessas ameaças (e se uma salvaguarda como afastar um membro específico da equipe é suficiente) incluem: **(I) a materialidade do litígio**, **(II) se o litígio refere-se a um trabalho de asseguração/auditoria anterior**, e **(III) se o litígio envolve um membro específico da equipe**.
 
 > **Fique Ligado:** Salvaguardas são ações ou medidas que reduzem as ameaças a um nível aceitável; caso nenhuma salvaguarda elimine ou reduza a ameaça, o auditor DEVE recusar ou renunciar ao trabalho.
 
@@ -364,11 +364,11 @@ Estão corretos os itens
 * **D)** II e IV, apenas.
 * **E)** III e IV, apenas.
 
-#### Gabarito Oficial e Dissecação Técnica: **Alternativa E**
-* **Item I (Incorreto):** Mesmo em trabalhos de asseguração diferentes de auditoria e revisão (NBC PO 900, Seção 921), ter um familiar imediato ou próximo como conselheiro ou diretor do cliente gera grave ameaça de interesse próprio, familiaridade ou intimidação, exigindo salvaguardas como a **remoção do indivíduo da equipe de asseguração**.
-* **Item II (Incorreto):** Inverteu a hierarquia de rigor! Quando a firma realiza simultaneamente um trabalho de auditoria/revisão (NBC PA 400) e outro trabalho de asseguração (NBC PO 900) para o mesmo cliente, **prevalecem os requisitos mais rigorosos da NBC PA 400** (e não da NBC PO 900!).
-* **Item III (Correto):** Atuação recente de membro da equipe como conselheiro, diretor ou empregado do cliente cria ameaças de **interesse próprio, autorrevisão e familiaridade** (NBC PO 900, Seção 922 / NBC PA 400, Seção 522).
-* **Item IV (Correto):** Distinção perfeita entre o **responsável pelo objeto** (a empresa, que executa as práticas de sustentabilidade) e o **mensurador/avaliador responsável pela informação sobre o objeto** (o consultor ambiental que preparou o relatório). Logo, apenas **III e IV** estão corretos (**Alternativa E**).
+#### Gabarito: **E**
+* **Item I (Errado):** Mesmo em trabalhos de asseguração diferentes de auditoria e revisão (NBC PO 900, Seção 921), ter um familiar imediato ou próximo como conselheiro ou diretor do cliente gera grave ameaça de interesse próprio, familiaridade ou intimidação, exigindo salvaguardas como a **remoção do indivíduo da equipe de asseguração**.
+* **Item II (Errado):** Inverteu a hierarquia de rigor! Quando a firma realiza simultaneamente um trabalho de auditoria/revisão (NBC PA 400) e outro trabalho de asseguração (NBC PO 900) para o mesmo cliente, **prevalecem os requisitos mais rigorosos da NBC PA 400** (e não da NBC PO 900!).
+* **Item III (Certo):** Atuação recente de membro da equipe como conselheiro, diretor ou empregado do cliente cria ameaças de **interesse próprio, autorrevisão e familiaridade** (NBC PO 900, Seção 922 / NBC PA 400, Seção 522).
+* **Item IV (Certo):** Distinção perfeita entre o **responsável pelo objeto** (a empresa, que executa as práticas de sustentabilidade) e o **mensurador/avaliador responsável pela informação sobre o objeto** (o consultor ambiental que preparou o relatório). Logo, apenas **III e IV** estão corretos (**Alternativa E**).
 
 > **Fique Ligado:** Ameaça de autorrevisão: ocorre quando o auditor avalia resultados de julgamento ou serviço anterior prestado por ele mesmo ou por sua firma.
 
@@ -387,11 +387,11 @@ Nesse contexto, à luz das disposições da Resolução CNPC nº 44/2021, que di
 * **D)** a prestação dos serviços de auditoria independente exige a observância dos requisitos de independência e de comunicação, bem como a avaliação de situações que possam comprometer a objetividade e a independência do auditor.
 * **E)** a contratação de serviços de consultoria pela mesma firma de auditoria elimina quaisquer riscos à independência quando os trabalhos forem executados por equipes distintas e aprovados pela alta administração da empresa contratante.
 
-#### Gabarito Oficial e Dissecação Técnica: **Alternativa D**
-* **Análise das Alternativas A e E (Incorretas):** A prestação de serviços de não asseguração (como consultoria atuarial, contábil ou de gestão) para o mesmo cliente de auditoria — ainda que por equipes distintas da mesma firma ou rede — pode gerar **ameaça inaceitável de autorrevisão**, sendo vedada quando comprometer a independência (NBC PA 400, Seção 600 e Resolução CNPC nº 44/2021).
-* **Análise da Alternativa B (Incorreta):** O auditor independente de EFPC tem dever legal e regulatório de comunicar irregularidades relevantes aos órgãos de governança (Conselho Deliberativo / Conselho Fiscal) e à **PREVIC**.
-* **Análise da Alternativa C (Incorreta):** O relacionamento prolongado **aumenta** a ameaça de familiaridade (exigindo rodízio da equipe em 5 exercícios), jamais afastando o dever de independência.
-* **Análise da Alternativa D (Correta):** Sintetiza perfeitamente os deveres de independência, avaliação de ameaças à objetividade e comunicação obrigatória à governança e ao órgão supervisor.
+#### Gabarito: **D**
+* **A e E (Erradas):** A prestação de serviços de não asseguração (como consultoria atuarial, contábil ou de gestão) para o mesmo cliente de auditoria — ainda que por equipes distintas da mesma firma ou rede — pode gerar **ameaça inaceitável de autorrevisão**, sendo vedada quando comprometer a independência (NBC PA 400, Seção 600 e Resolução CNPC nº 44/2021).
+* **B (Errada):** O auditor independente de EFPC tem dever legal e regulatório de comunicar irregularidades relevantes aos órgãos de governança (Conselho Deliberativo / Conselho Fiscal) e à **PREVIC**.
+* **C (Errada):** O relacionamento prolongado **aumenta** a ameaça de familiaridade (exigindo rodízio da equipe em 5 exercícios), jamais afastando o dever de independência.
+* **D (Certa):** Sintetiza perfeitamente os deveres de independência, avaliação de ameaças à objetividade e comunicação obrigatória à governança e ao órgão supervisor.
 
 > **Fique Ligado:** Presentes e hospitalidade: o auditor NÃO deve aceitar presentes ou favores que possam influenciar ou aparentar influenciar o seu julgamento profissional, exceto se triviais e inconsequentes.
 
@@ -405,7 +405,7 @@ A prática de autorrevisão, quando adequadamente controlada e acompanhada por s
 * **C)** Certo
 * **E)** Errado
 
-#### Gabarito Oficial e Dissecação Técnica: **Errado (E)**
+#### Gabarito: **Errado**
 * **Fundamentação Técnica:** De acordo com a NBC PG 100 (item 120.6 A3) e a NBC PA 400, a **autorrevisão** (avaliar os resultados de um julgamento ou serviço feito anteriormente pelo próprio profissional ou por sua firma) **é, por sua própria natureza normativa, uma das cinco categorias de ameaças à independência**! O uso de salvaguardas (quando cabível) serve para **tratar e reduzir a ameaça existente a um nível aceitável**, mas não faz com que a autorrevisão deixe de ser uma ameaça.
 
 > **Fique Ligado:** Competência e zelo devido: o profissional deve manter conhecimento atualizado e agir com diligência de acordo com as normas técnicas e profissionais aplicáveis.
@@ -420,7 +420,7 @@ Ter ceticismo não é um dos princípios fundamentais de ética profissional rel
 * **C)** Certo
 * **E)** Errado
 
-#### Gabarito Oficial e Dissecação Técnica: **Certo (C)**
+#### Gabarito: **Certo**
 * **Fundamentação Técnica:** Questão de altíssimo nível que separa quem decorou superficialmente de quem domina a literalidade da **NBC PG 100 (item 110.1 A1)** e da **NBC TA 200 (item A14)**! Os **cinco princípios fundamentais de ética profissional** são taxativamente: **(1) Integridade, (2) Objetividade, (3) Competência profissional e devido zelo, (4) Sigilo profissional (Confidencialidade) e (5) Comportamento profissional**. O **ceticismo profissional** é uma postura técnica exigida pela NBC TA 200 (sustentada pela integridade e objetividade), mas **não constitui um dos cinco princípios fundamentais de ética profissional** do Código de Ética! Por isso, a afirmação de que *"ter ceticismo não é um dos princípios fundamentais de ética profissional"* está **CERTA**.
 
 > **Fique Ligado:** Comportamento profissional: o auditor deve cumprir leis e regulamentos e evitar qualquer conduta que possa desacreditar a profissão contábil.
@@ -454,7 +454,7 @@ Assinale a opção que apresenta a sequência correta, de cima para baixo:
 * **D)** 2 — 4 — 5 — 1 — 3.
 * **E)** 4 — 3 — 1 — 5 — 2.
 
-#### Gabarito e Dissecação Técnica: **Alternativa A**
+#### Gabarito: **A**
 
 **Comentário Analítico Alternativa por Alternativa:**
 * **(3) Defesa de interesse do cliente (*Advocacy*):** Ocorre quando o contador promove a posição do cliente a ponto de comprometer a sua objetividade (ex: atuar como advogado ou porta-voz em litígios judiciais).
@@ -478,14 +478,14 @@ De acordo com a NBC PA 400 (Independência para Trabalho de Auditoria e Revisão
 * **D)** Caso os honorários de auditoria fiquem pendentes de pagamento por mais de dois anos, presume-se extinta qualquer ameaça à independência do auditor.
 * **E)** A fixação de honorários em valor excessivamente baixo constitui infração penal incondicionada sob a Lei de Falências.
 
-#### Gabarito e Dissecação Técnica: **Alternativa B**
+#### Gabarito: **B**
 
 **Comentário Analítico Alternativa por Alternativa:**
-* **(A) INCORRETA:** A cobrança de honorários contingentes (atrelados ao resultado da auditoria, como emissão de parecer limpo ou percentual de lucro) é **terminantemente PROIBIDA** em auditoria independente.
-* **(B) CORRETA:** Conforme a seção 410 da NBC PA 400 e NBC PG 100 (item R410.10): honorários contingentes em trabalhos de auditoria geram ameaça de interesse próprio tão profunda que **nenhuma salvaguarda** é capaz de eliminá-la ou reduzi-la a nível aceitável. A proibição é absoluta!
-* **(C) INCORRETA:** O auditor não pode receber comissões ou corretagens por indicar serviços a clientes de auditoria, sob pena de violação da integridade e independência.
-* **(D) INCORRETA:** Honorários vencidos e não pagos geram ameaça grave de interesse próprio (equivalente a um empréstimo concedido ao cliente).
-* **(E) INCORRETA:** Honorários abaixo do custo (*lowballing*) criam ameaça à qualidade e ao zelo profissional, mas não configuram crime falimentar per se.
+* **A (Errada):** A cobrança de honorários contingentes (atrelados ao resultado da auditoria, como emissão de parecer limpo ou percentual de lucro) é **terminantemente PROIBIDA** em auditoria independente.
+* **B (Certa):** Conforme a seção 410 da NBC PA 400 e NBC PG 100 (item R410.10): honorários contingentes em trabalhos de auditoria geram ameaça de interesse próprio tão profunda que **nenhuma salvaguarda** é capaz de eliminá-la ou reduzi-la a nível aceitável. A proibição é absoluta!
+* **C (Errada):** O auditor não pode receber comissões ou corretagens por indicar serviços a clientes de auditoria, sob pena de violação da integridade e independência.
+* **D (Errada):** Honorários vencidos e não pagos geram ameaça grave de interesse próprio (equivalente a um empréstimo concedido ao cliente).
+* **E (Errada):** Honorários abaixo do custo (*lowballing*) criam ameaça à qualidade e ao zelo profissional, mas não configuram crime falimentar per se.
 
 > **Fique Ligado:** Honorários Contingentes em Auditoria Independente são **TERMINANTEMENTE PROIBIDOS**! Criam ameaça de interesse próprio absoluta que NENHUMA salvaguarda pode mitigar.
 
@@ -501,14 +501,14 @@ A respeito da rotação obrigatória de auditores (*rotatividade de firmas e só
 * **D)** A rotação aplica-se exclusivamente aos auditores juniores e estagiários da equipe, permanecendo o sócio do trabalho de forma vitalícia para preservar a memória técnica.
 * **E)** O prazo máximo ininterrupto de atuação de uma mesma firma de auditoria independente em companhias abertas sem comitê de auditoria estatutário é de 10 anos.
 
-#### Gabarito e Dissecação Técnica: **Alternativa A**
+#### Gabarito: **A**
 
 **Comentário Analítico Alternativa por Alternativa:**
-* **(A) CORRETA:** Conforme a NBC PA 400 (seção 540) e a Instrução/Resolução CVM aplicável: para combater a ameaça de familiaridade em entidades de interesse público, o sócio-chave da auditoria deve ser submetido à rotação obrigatória após um período máximo de **5 (cinco) anos consecutivos**, com período de resfriamento (*cooling-off*) de, no mínimo, **3 (três) anos consecutivos** (ou 5 anos na rotatividade da firma).
-* **(B) INCORRETA:** A rotação é compulsória e decorre de exigência legal/regulatória cogente, sem exceções por sustentabilidade.
-* **(C) INCORRETA:** Durante o período de resfriamento, o profissional não pode fazer parte da equipe de auditoria, nem exercer controle de qualidade, nem prestar consultoria sobre o cliente.
-* **(D) INCORRETA:** A rotação incide justamente sobre o **sócio-chave da auditoria** e sobre o revisor de controle de qualidade do trabalho (quem toma as decisões substantivas).
-* **(E) INCORRETA:** O prazo geral da CVM para a firma de auditoria é de 5 anos (podendo estender-se a 10 anos apenas se a companhia mantiver Comitê de Auditoria Estatutário - CAE).
+* **A (Certa):** Conforme a NBC PA 400 (seção 540) e a Instrução/Resolução CVM aplicável: para combater a ameaça de familiaridade em entidades de interesse público, o sócio-chave da auditoria deve ser submetido à rotação obrigatória após um período máximo de **5 (cinco) anos consecutivos**, com período de resfriamento (*cooling-off*) de, no mínimo, **3 (três) anos consecutivos** (ou 5 anos na rotatividade da firma).
+* **B (Errada):** A rotação é compulsória e decorre de exigência legal/regulatória cogente, sem exceções por sustentabilidade.
+* **C (Errada):** Durante o período de resfriamento, o profissional não pode fazer parte da equipe de auditoria, nem exercer controle de qualidade, nem prestar consultoria sobre o cliente.
+* **D (Errada):** A rotação incide justamente sobre o **sócio-chave da auditoria** e sobre o revisor de controle de qualidade do trabalho (quem toma as decisões substantivas).
+* **E (Errada):** O prazo geral da CVM para a firma de auditoria é de 5 anos (podendo estender-se a 10 anos apenas se a companhia mantiver Comitê de Auditoria Estatutário - CAE).
 
 > **Fique Ligado:** Rotação do Sócio-Chave da Auditoria (CVM e NBC PA 400): atuação máxima de **5 anos consecutivos** + período de resfriamento (*cooling-off*) obrigatório de no mínimo **3 anos consecutivos**.
 
@@ -524,14 +524,14 @@ Segundo a NBC PA 400, a prestação de serviços diferentes de auditoria (*non-a
 * **D)** Está autorizada a prestar serviços de avaliação de empresas (*valuation*) quando o resultado da avaliação for diretamente incorporado às demonstrações contábeis auditadas como valor justo material.
 * **E)** Pode exercer atividades de recrutamento e seleção de membros da Diretoria Executiva que tomarão decisões financeiras estratégicas na entidade.
 
-#### Gabarito e Dissecação Técnica: **Alternativa A**
+#### Gabarito: **A**
 
 **Comentário Analítico Alternativa por Alternativa:**
-* **(A) CORRETA:** Conforme o item R601.7 da NBC PA 400: a firma de auditoria **não deve prestar serviços de contabilidade e escrituração** (como preparação de registros ou demonstrações contábeis) para um cliente de auditoria que seja **entidade de interesse público**! Essa prestação gera ameaça fatal de **autorrevisão** (o auditor estaria auditando os números que a sua própria firma gerou).
-* **(B) INCORRETA:** A preparação das demonstrações contábeis é responsabilidade exclusiva e intransferível da administração do cliente.
-* **(C) INCORRETA:** A assunção de responsabilidade de gestão operacional viola frontalmente a independência (ameaça que nenhuma salvaguarda mitiga).
-* **(D) INCORRETA:** Serviços de avaliação que tenham efeito material nas demonstrações financeiras geram ameaça grave de autorrevisão e são expressamente proibidos para entidades de interesse público (seção 603 da NBC PA 400).
-* **(E) INCORRETA:** Serviços de recrutamento de pessoal executivo-chave geram ameaça de interesse próprio e familiaridade, sendo vedados (seção 609 da NBC PA 400).
+* **A (Certa):** Conforme o item R601.7 da NBC PA 400: a firma de auditoria **não deve prestar serviços de contabilidade e escrituração** (como preparação de registros ou demonstrações contábeis) para um cliente de auditoria que seja **entidade de interesse público**! Essa prestação gera ameaça fatal de **autorrevisão** (o auditor estaria auditando os números que a sua própria firma gerou).
+* **B (Errada):** A preparação das demonstrações contábeis é responsabilidade exclusiva e intransferível da administração do cliente.
+* **C (Errada):** A assunção de responsabilidade de gestão operacional viola frontalmente a independência (ameaça que nenhuma salvaguarda mitiga).
+* **D (Errada):** Serviços de avaliação que tenham efeito material nas demonstrações financeiras geram ameaça grave de autorrevisão e são expressamente proibidos para entidades de interesse público (seção 603 da NBC PA 400).
+* **E (Errada):** Serviços de recrutamento de pessoal executivo-chave geram ameaça de interesse próprio e familiaridade, sendo vedados (seção 609 da NBC PA 400).
 
 > **Fique Ligado:** A firma de auditoria JAMAIS pode prestar serviços de escrituração contábil, preparação de demonstrações contábeis ou avaliações materiais para clientes que sejam entidades de interesse público (ameaça letal de AUTORREVISÃO).
 
