@@ -1,17 +1,17 @@
 ---
-id: AUD-INT-02
+id: AUD-02-02
 titulo: "Normas Profissionais do Auditor Interno (NBC PI 01), Ética do IIA e Cooperação com o Auditor Independente (NBC TA 610)"
 disciplina: "Auditoria"
 eixo: "02 - Auditoria Interna e Governança"
 bancas_prioritarias: ["FGV", "Cebraspe", "FCC"]
 relevancia_edital: "Alta"
-ultima_revisao: "2026-10-28"
-tags: ["auditoria-interna", "nbc-pi-01", "resolucao-cfc-781-1995", "nbc-ta-610", "ippf-iia", "competencia-profissional", "autonomia", "sigilo-profissional", "quarentena-operacional", "assistencia-direta"]
+ultima_revisao: "2026-10-29"
+tags: ["auditoria-interna", "nbc-pi-01", "nbc-ta-610", "competencia-profissional", "autonomia-tecnica", "sigilo"]
 ---
 
 # Normas Profissionais do Auditor Interno (NBC PI 01), Ética do IIA e Cooperação com o Auditor Independente (NBC TA 610)
 
-> > Enquanto a NBC TI 01 disciplina *como* o trabalho de auditoria interna deve ser executado (norma técnica), a **NBC PI 01 (aprovada pela Resolução CFC nº 781/1995 — antiga NBC P 3)** estatui *quem* é o Auditor Interno e *quais posturas ético-profissionais* regem sua conduta (norma profissional). Seus cinco pilares estruturantes são: **(1) Competência Técnico-Profissional** (prerrogativa exclusiva de Contador registrado no CRC, admitida a participação de especialistas de outras áreas sob sua supervisão e responsabilidade); **(2) Autonomia Profissional** (preservação da independência técnica e moral, apesar do vínculo empregatício); **(3) Responsabilidade na Obtenção de Elementos Comprobatórios**; **(4) Guarda da Documentação e Sigilo Profissional** (dever perpétuo que subsiste mesmo após a rescisão do vínculo com a empresa, salvo obrigação legal); e **(5) Cooperação com o Auditor Independente** (mediante entendimento prévio com a administração e controle exclusivo sobre seus papéis de trabalho, articulando-se diretamente com os requisitos da **NBC TA 610**).
+> Enquanto a NBC TI 01 disciplina *como* o trabalho de auditoria interna deve ser executado (norma técnica), a **NBC PI 01 (aprovada pela Resolução CFC nº 781/1995 — antiga NBC P 3)** estatui *quem* é o Auditor Interno e *quais posturas ético-profissionais* regem sua conduta (norma profissional). Seus cinco pilares estruturantes são: **(1) Competência Técnico-Profissional** (prerrogativa exclusiva de Contador registrado no CRC, admitida a participação de especialistas de outras áreas sob sua supervisão e responsabilidade); **(2) Autonomia Profissional** (preservação da independência técnica e moral, apesar do vínculo empregatício); **(3) Responsabilidade na Obtenção de Elementos Comprobatórios**; **(4) Guarda da Documentação e Sigilo Profissional** (dever perpétuo que subsiste mesmo após a rescisão do vínculo com a empresa, salvo obrigação legal); e **(5) Cooperação com o Auditor Independente** (mediante entendimento prévio com a administração e controle exclusivo sobre seus papéis de trabalho, articulando-se diretamente com os requisitos da **NBC TA 610**).
 
 ---
 
@@ -314,7 +314,7 @@ Acompanhe o diagnóstico técnico de três incidentes reais de governança sob a
 
 ---
 
-## 8. Bateria de Questões Oficiais Comentadas Alternativa por Alternativa
+## 8. Questões Paradigmáticas Aplicadas
 
 ### [Questão 01](https://www.qconcursos.com/questoes-de-concursos/questoes/d15e2117-56) — [FGV — CGE-SC / Auditor Interno — 2023]
 
@@ -327,8 +327,6 @@ A adoção do Código de Ética recomendado pelo *The Institute of Internal Audi
 * **E)** A Objetividade é salvaguardada quando os auditores internos se abstêm de aceitar presentes, recompensas ou favores que possam prejudicar ou que se presuma que prejudiquem seu julgamento profissional, refletindo a necessidade de isenção na avaliação dos fatos e circunstâncias relevantes.
 
 #### Gabarito: **E**
-
-**Comentário Analítico Alternativa por Alternativa:**
 * **A (Errada):** A Regra de Conduta 3.2 da Confidencialidade proíbe terminantemente que o auditor interno utilize informações para **qualquer ganho pessoal**, independentemente de haver ou não prejuízo direto à organização (além de a NBC PI 01 reiterar essa vedação absoluta).
 * **B (Errada):** A pegadinha está no prazo! Conforme a Norma 1130.A1 do IIA, presume-se prejuízo à objetividade quando o auditor interno avalia atividade pela qual teve responsabilidade durante o **ano anterior (12 meses)**, e não 18 meses.
 * **C (Errada):** Pela Regra de Conduta 4.3 do Princípio da Competência (e item 3.1.1 da NBC PI 01), a melhoria contínua da proficiência e a atualização profissional são deveres **obrigatórios e permanentes**, jamais facultativos.
@@ -350,8 +348,6 @@ Na controladoria municipal, o titular da unidade de auditoria interna assumiu te
 * **E)** Contratar um especialista externo apenas para assinar o relatório final, mantendo com a equipe interna impedida a definição do escopo, dos testes, dos achados e das conclusões do trabalho avaliativo.
 
 #### Gabarito: **C**
-
-**Comentário Analítico Alternativa por Alternativa:**
 * **A (Errada):** Quando o próprio titular da unidade de Auditoria Interna (*CAE*) assume responsabilidades operacionais de gestão sobre uma área, toda a unidade subordinada a ele sofre comprometimento de independência organizacional para auditar aquela área, não bastando uma revisão interna.
 * **B (Errada):** Retirar artificialmente do escopo de auditoria justamente os controles críticos de aceitação de riscos aprovados pelo titular mutila o alcance da asseguração e oculta o conflito de interesses.
 * **C (Certa):** Em estrita conformidade com a Norma 1112 do IIA (*Papéis do Chefe Executivo de Auditoria Além da Auditoria Interna*) e a NBC PI 01: quando o chefe da auditoria interna tem ou teve responsabilidades fora da auditoria interna (funções de gestão), a avaliação (*assurance*) daquela área específica deve ser **supervisionada por uma parte externa independente** que se reporte diretamente ao Órgão de Governança, enquanto se promove a transição das funções operacionais de volta à gestão.
@@ -373,8 +369,6 @@ No âmbito do Comando da Aeronáutica, o Centro de Controle Interno da Aeronáut
 * **E)** Os papéis de trabalho elaborados pela auditoria interna passam à propriedade exclusiva da firma de auditoria independente assim que forem utilizados para fundamentar testes substantivos.
 
 #### Gabarito: **D**
-
-**Comentário Analítico Alternativa por Alternativa:**
 * **A (Errada):** Pela NBC TA 610 (item 11), a responsabilidade do auditor externo pela opinião expressa é **exclusiva e indivisível**, nunca sendo compartilhada ou reduzida pelo uso do trabalho da auditoria interna.
 * **B (Errada):** Pela NBC TA 610 (itens 15 e 16), o auditor externo deve obrigatoriamente avaliar os **três requisitos cumulativos**: (1) Objetividade; (2) Competência; e (3) Abordagem sistemática e disciplinada, incluindo controle de qualidade.
 * **C (Errada):** Pela NBC TA 610 (item 30), é **vedado** ao auditor externo utilizar auditores internos para prestar assistência direta em procedimentos que envolvam **julgamentos significativos** ou que se relacionem a **riscos mais altos de distorção relevante**!
@@ -396,8 +390,6 @@ Com relação às Normas Profissionais do Auditor Interno (NBC PI 01 — Resolu�
 * **E)** Quando o trabalho da auditoria interna exigir a participação de especialistas de outras áreas (como engenheiros ou atuários), a responsabilidade técnica pelo relatório de auditoria interna transfere-se integralmente ao conselho profissional do respectivo especialista.
 
 #### Gabarito: **C**
-
-**Comentário Analítico Alternativa por Alternativa:**
 * **A (Errada):** Viola frontalmente os itens 3.1.2 e 3.2.1 da NBC PI 01. O auditor interno deve preservar sua autonomia profissional e **abster-se** de realizar exames ou emitir relatórios sobre matérias para as quais não esteja tecnicamente habilitado, indicando à administração a necessidade de especialistas.
 * **B (Errada):** Viola o item 3.4.2 da NBC PI 01: o dever de manter o sigilo profissional **continua depois de terminado o vínculo empregatício ou contratual** do auditor interno com a entidade.
 * **C (Certa):** Reproduz a literalidade exata do item **3.5.1 da NBC PI 01** acerca da cooperação técnica com o auditor independente mediante entendimento prévio com a administração.
@@ -425,8 +417,6 @@ Assinale a opção correta:
 * **E)** Todos os itens estão corretos.
 
 #### Gabarito: **D**
-
-**Comentário Analítico Alternativa por Alternativa:**
 * **Item I (Errado):** A primeira metade da frase está perfeita, mas a parte final é falsa! A interação periódica e direta da Auditoria Interna com o Conselho de Administração / Comitê de Auditoria (Norma 1111 do IIA) é **indispensável e contínua** (para aprovação do plano anual, reporte de atividades, avaliação de riscos e garantia da independência), jamais sendo dispensável!
 * **Item II (Certo):** Expressa com perfeição o dever de sigilo profissional da NBC PI 01 (itens 3.4.1 e 3.4.2) e do Código de Ética do IIA (Princípio da Confidencialidade), incluindo sua vigência perpétua pós-desligamento.
 * **Item III (Certo):** Descreve exatamente o modelo de **Duplo Reporte (*Dual Reporting*)** consagrado pela Norma 1110 do IIA e pelas diretrizes de governança: subordinação **funcional** ao Conselho (governança) e vinculação **administrativa** ao CEO (gestão).
@@ -447,8 +437,6 @@ Assinale a opção correta:
 * **E)** Normas de implantação de consultoria.
 
 #### Gabarito: **C**
-
-**Comentário Analítico Alternativa por Alternativa:**
 * **A (Errada):** Os **Princípios Éticos** do Código de Ética do IIA são quatro conceitos amplos e abstratos (Integridade, Objetividade, Confidencialidade e Competência) relevantes para a profissão e prática da auditoria interna.
 * **B (Errada):** Declarações de Posição (*Position Papers*) do IIA tratam de questões de governança e gestão de riscos (como o Modelo das Três Linhas), e não da estrutura interna do Código de Ética.
 * **C (Certa):** O Código de Ética do IIA compõe-se de duas partes essenciais: (1) os **Princípios** relevantes para a profissão; e (2) as **Regras de Conduta**, que são definidas literalmente pelo IIA nos exatos termos do enunciado: *"descrevem normas de comportamento esperado dos auditores internos. Elas são uma ajuda para interpretar os Princípios em aplicações práticas e têm a finalidade de orientar a conduta ética dos auditores internos"*.
@@ -470,8 +458,6 @@ Durante o planejamento da auditoria independente das demonstrações contábeis 
 * **E)** O auditor externo deve mencionar nominalmente no parágrafo de opinião do seu relatório os auditores internos que prestaram assistência direta durante o trabalho de campo.
 
 #### Gabarito: **C**
-
-**Comentário Analítico Alternativa por Alternativa:**
 * **A (Errada):** Pela NBC TA 610 (item 30), o auditor externo **não deve** utilizar auditores internos para prestar assistência direta em procedimentos que envolvam **julgamentos significativos** na auditoria, que se relacionem a **riscos mais altos de distorção relevante** (como estimativas contábeis complexas com alta incerteza) ou que se relacionem com decisões sobre a **continuidade operacional**.
 * **B (Errada):** Pela NBC TA 610 (item 33), antes de usar auditores internos para prestar assistência direta, o auditor externo deve obter **acordo por escrito** tanto de representante autorizado da entidade quanto dos próprios auditores internos.
 * **C (Certa):** Reproduz literalmente a vedação do item 28 da NBC TA 610: o auditor externo não deve utilizar um auditor interno para prestar assistência direta se: (a) existirem **ameaças significativas à objetividade** do auditor interno; ou (b) o auditor interno **não possuir a competência necessária** para executar o trabalho proposto.
@@ -493,8 +479,6 @@ Em relação às normas aplicáveis ao exercício profissional da auditoria inte
 * **E)** O auditor interno deve assegurar-se de que a emissão do seu relatório esteja respaldada em elementos comprobatórios hábeis e suficientes, mantendo a documentação em boa guarda pelo prazo mínimo de cinco anos.
 
 #### Gabarito: **C**
-
-**Comentário Analítico Alternativa por Alternativa:**
 * **A (Certa):** Distingue perfeitamente a definição do escopo nos trabalhos de avaliação (*assurance*) e de consultoria (*consulting*).
 * **B (Certa):** Em consonância com o IPPF do IIA e com a NBC PI 01.
 * **C (Errada):** Conforme a Norma 1220.A3 do IIA e a NBC PI 01 (item 3.3), o **devido zelo profissional NÃO implica infalibilidade** nem segurança absoluta! Os auditores internos devem estar alertas aos riscos significativos que possam afetar os objetivos, as operações ou os recursos, mas, mesmo aplicando procedimentos com todo o zelo, a garantia obtida é sempre **razoável** (devido às limitações inerentes dos controles internos e ao uso de amostragem).
@@ -602,8 +586,6 @@ De acordo com a Estrutura Internacional de Práticas Profissionais de Auditoria 
 * **E)** As avaliações internas limitam-se a autoavaliações trienais, sendo vedado o monitoramento contínuo do desempenho dos auditores internos durante a execução dos trabalhos de campo para não ferir sua autonomia funcional.
 
 #### Gabarito: **B**
-
-**Comentário Analítico Alternativa por Alternativa:**
 * **A (Errada):** Pela Norma 1310 do IIA, o QAIP deve incluir obrigatoriamente **tanto avaliações internas quanto avaliações externas**, independentemente de certificações ou vínculo estatutário do chefe da unidade.
 * **B (Certa):** Reproduz com exatidão a **Norma 1312 do IIA**: as avaliações externas devem ser realizadas **pelo menos uma vez a cada 5 (cinco) anos** por avaliador ou equipe qualificada e independente, externa à organização, admitindo-se tanto a avaliação externa direta quanto a autoavaliação com validação independente externa.
 * **C (Errada):** O Diretor Financeiro é um gestor interno auditado (1ª/2ª linha), jamais podendo atuar como avaliador externo independente da Auditoria Interna.
@@ -625,8 +607,6 @@ Durante o monitoramento das recomendações emitidas em um trabalho de avaliaç�
 * **E)** Converter unilateralmente o relatório de auditoria interna em parecer de abstenção de opinião contábil junto à Comissão de Valores Mobiliários (CVM).
 
 #### Gabarito: **C**
-
-**Comentário Analítico Alternativa por Alternativa:**
 * **A (Errada):** A Auditoria Interna (3ª linha) não possui poder de comando operacional para bloquear sistemas de gestão ou destituir diretores executivos (atos de cogestão vedados pelas normas).
 * **B (Errada):** Embora a gestão seja proprietária dos riscos, ela não pode extrapolar unilateralmente o apetite a risco fixado pela governança sem que o Conselho tome ciência. Arquivar o caso configuraria omissão grave do auditor interno.
 * **C (Certa):** Aplica com precisão cirúrgica o rito bifásico da **Norma 2600 do IIA (*Comunicação da Aceitação de Riscos*)**: (1) discutir primeiramente o assunto com a alta administração; e (2) se o assunto continuar não resolvido, escalonar/comunicar a questão ao **Conselho de Administração (Órgão de Governança)**, que detém o poder de decidir sobre o risco ou determinar que a diretoria o mitigue.
@@ -682,8 +662,6 @@ Estão CORRETAS apenas as assertivas:
 * **E)** II, III e IV.
 
 #### Gabarito: **C**
-
-**Comentário Analítico Alternativa por Alternativa:**
 * **Item I (Certo):** Sintetiza com perfeição os requisitos para a prestação de **assistência direta** previstos na NBC TA 610 (itens 26 a 35).
 * **Item II (Certo):** Reproduz literalmente os itens 3.5.1 e 3.5.2 da **NBC PI 01**: necessidade de entendimento prévio com a administração para apresentação e entrega de cópias dos papéis de trabalho ao auditor independente, preservando-se o controle exclusivo do auditor interno sobre sua documentação.
 * **Item III (Errado):** Pela NBC TA 610 (item 11), a responsabilidade do auditor externo pela opinião expressa é **exclusiva e indivisível**, sendo terminantemente proibido mencionar o trabalho da auditoria interna no Relatório do Auditor Independente ou tentar dividir responsabilidades.
@@ -705,8 +683,6 @@ No que concerne ao Estatuto de Auditoria Interna (*Internal Audit Charter*), à 
 * **E)** Caso um auditor interno não possua habilitação técnica para avaliar um cálculo atuarial específico, deve emitir opinião por estimativa intuitiva para cumprir o princípio da autonomia profissional previsto na NBC PI 01.
 
 #### Gabarito: **B**
-
-**Comentário Analítico Alternativa por Alternativa:**
 * **A (Errada):** Conforme a Norma 1000 do IIA, o Estatuto de Auditoria Interna deve ser submetido à alta administração e **aprovado pelo Conselho (Órgão de Governança)**, jamais sendo um acordo restrito à Diretoria Financeira.
 * **B (Certa):** Reproduz literalmente a exigência da **Norma 1110 do IIA**: *"O executivo-chefe de auditoria deve confirmar ao conselho, pelo menos anualmente, a independência organizacional da atividade de auditoria interna"*.
 * **C (Errada):** Tanto a Norma 1000 do IIA quanto o item 3.3.3 da NBC PI 01 determinam que o Estatuto e a administração devem garantir à Auditoria Interna **acesso irrestrito** a todos os registros, pessoal e propriedades físicas relevantes para o desempenho de seus trabalhos.

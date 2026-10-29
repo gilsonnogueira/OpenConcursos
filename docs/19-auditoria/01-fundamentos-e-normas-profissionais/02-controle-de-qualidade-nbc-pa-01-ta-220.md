@@ -1,4 +1,15 @@
-# 02. Gestão e Controle de Qualidade da Auditoria (NBC PA 01 / NBC QM 01, NBC QM 02 e NBC TA 220)
+---
+id: AUD-01-02
+titulo: "Gestão e Controle de Qualidade da Auditoria (NBC PA 01 / NBC QM 01, NBC QM 02 e NBC TA 220)"
+disciplina: "Auditoria"
+eixo: "01 - Fundamentos e Normas Profissionais"
+bancas_prioritarias: ["FGV", "Cebraspe", "FCC"]
+relevancia_edital: "Altíssima"
+ultima_revisao: "2026-10-29"
+tags: ["nbc-pa-01", "nbc-qm-01", "nbc-qm-02", "nbc-ta-220", "controle-de-qualidade", "eqcr"]
+---
+
+# Gestão e Controle de Qualidade da Auditoria (NBC PA 01 / NBC QM 01, NBC QM 02 e NBC TA 220)
 
 > O controle de qualidade na auditoria independente opera em **duas camadas complementares**: (1) no **nível da Firma de Auditoria**, regido historicamente pela **NBC PA 01** e modernizado pelas normas de Gestão da Qualidade **NBC QM 01 e NBC QM 02** (baseadas em riscos), que obrigam a sociedade de auditoria a estabelecer um sistema institucional abrangendo liderança, ética, aceitação de clientes, recursos humanos, execução e monitoramento; e (2) no **nível do Trabalho Individual de Auditoria**, regido pela **NBC TA 220**, cuja responsabilidade final recai sobre o **Sócio do Trabalho**, exigindo direção, supervisão, revisão hierárquica dos papéis de trabalho (do menos experiente pelo mais experiente) e, para companhias abertas/entidades listadas, a nomeação obrigatória de um **Revisor do Controle de Qualidade do Trabalho (EQCR)** antes da data do relatório.
 
@@ -227,16 +238,12 @@ A firma *Alfa Auditores Independentes* audita as demonstrações financeiras da 
 > [!WARNING]
 > **Armadilha 01 — "A Revisão de Controle de Qualidade do Trabalho (EQCR) é obrigatória para TODAS as auditorias de demonstrações contábeis":**
 > **FALSO!** O EQCR é obrigatório por norma apenas para auditorias de **entidades listadas (companhias abertas)** e para outros trabalhos nos quais **a própria firma** determinou, por seus critérios de risco, que a revisão é necessária (NBC PA 01, item 35; NBC TA 220, item 19).
->
 > **Armadilha 02 — "O Sócio do Trabalho é obrigado a revisar 100% de todos os papéis de trabalho da equipe":**
 > **FALSO!** O item A18 da NBC TA 220 esclarece que o sócio do trabalho **não precisa revisar toda a documentação de auditoria**, mas deve revisar as áreas críticas de julgamento, os riscos significativos e outras áreas que considere importantes.
->
 > **Armadilha 03 — "A presença do Revisor de Qualidade (EQCR) divide ou reduz a responsabilidade do Sócio do Trabalho":**
 > **FALSO!** O item A49 da NBC PA 01 determina expressamente que a revisão do controle de qualidade do trabalho **não reduz as responsabilidades do sócio do trabalho**.
->
 > **Armadilha 04 — "O Revisor de Qualidade (EQCR) pode ser escolhido livremente pelo próprio Sócio do Trabalho entre os membros da equipe":**
 > **FALSO!** O EQCR **não pode fazer parte da equipe de trabalho** e **não pode ser selecionado pelo próprio Sócio do Trabalho** (para preservar sua isenção e objetividade).
->
 > **Armadilha 05 — "Os papéis de trabalho pertencem à empresa auditada que pagou os honorários":**
 > **FALSO!** Salvo disposição legal em contrário, a documentação do trabalho é de **propriedade exclusiva da firma de auditoria** (NBC PA 01, item A63).
 
@@ -253,7 +260,7 @@ A firma *Alfa Auditores Independentes* audita as demonstrações financeiras da 
 
 ---
 
-## 10. Bateria de Questões Oficiais Comentadas Alternativa por Alternativa
+## 10. Questões Paradigmáticas Aplicadas
 
 ### [Questão 01](https://www.qconcursos.com/questoes-de-concursos/questoes/0b97cb23-c3) — [FGV — Receita Federal do Brasil / Auditor-Fiscal da Receita Federal — 2023]
 

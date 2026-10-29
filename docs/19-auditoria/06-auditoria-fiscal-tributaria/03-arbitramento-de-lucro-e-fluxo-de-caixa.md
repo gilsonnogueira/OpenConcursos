@@ -1,4 +1,17 @@
+---
+id: AUD-06-03
+titulo: "Arbitramento de Lucro, Recomposição do Fluxo de Caixa e Auditoria de Comércio Exterior"
+disciplina: "Auditoria"
+eixo: "06 - Auditoria Fiscal e Tributária"
+bancas_prioritarias: ["FGV", "Cebraspe", "FCC"]
+relevancia_edital: "Altíssima"
+ultima_revisao: "2026-10-29"
+tags: ["arbitramento-lucro", "ctn-art-148", "fluxo-de-caixa", "comercio-exterior", "interposicao-fraudulenta"]
+---
+
 # Arbitramento de Lucro, Recomposição do Fluxo de Caixa e Auditoria de Comércio Exterior
+
+> O **Arbitramento da Base de Cálculo (Art. 148 do CTN e Arts. 603 a 612 do RIR/2018)** é a técnica fiscal extraordinária de lançamento tributário em que a autoridade fiscal quantifica indiretamente a obrigação tributária diante da imprestabilidade, recusa, ausência ou inidoneidade manifesta da escrituração comercial e fiscal do contribuinte. Na determinação do **Lucro Arbitrado no IRPJ/CSLL**, o Fisco aplica os coeficientes de presunção do lucro presumido com acréscimo punitivo legal de **20%**, reconstituindo cronologicamente o **Fluxo de Caixa Diário** para capturar omissões e apurando irregularidades em comércio exterior como **subfaturamento aduaneiro** e **interposição fraudulenta de mercadorias** (com perdimento do bem).
 
 ---
 
@@ -386,7 +399,7 @@ $$
 
 ---
 
-## 11. Bateria de Questões Oficiais Comentadas (QConcursos)
+## 11. Questões Paradigmáticas Aplicadas
 
 ### [Questão 01](https://www.qconcursos.com/questoes-de-concursos/questoes/c5cf679f-77) — [FGV — SEFAZ-AM / Auditor Fiscal de Tributos Estaduais — 2022]
 
@@ -398,7 +411,6 @@ O arbitramento do lucro aplica‑se quando:
 * **E)** os lançamentos da escrituração fiscal estiverem destacados em livros auxiliares.
 
 #### Gabarito: **D**
-
 * **D (Certa):** O art. 603, inciso V, do RIR/2018 e o art. 47 da Lei nº 8.981/95 dispõem taxativamente que a opção indevida pelo lucro presumido por contribuinte legalmente obrigado ao lucro real (ex.: entidade com receita anual superior a R\$ 78 milhões ou pertencente ao setor financeiro) autoriza o arbitramento do lucro de ofício pela fiscalização.
 * **A (Errada):** Impropriedades meramente formais que não impeçam a apuração do resultado contábil não ensejam a desclassificação da escrita nem o arbitramento, aplicando-se o princípio da conservação da escrita contábil (Súmula CARF nº 32).
 * **B (Errada):** A opção pelo lucro presumido é facultada à pessoa jurídica que preencha os requisitos legais; a mera viabilidade de apuração pelo lucro real não acarreta desclassificação ou arbitramento.
@@ -419,7 +431,6 @@ Ao ocorrer o arbitramento do lucro, qualquer que seja a hipótese dentre as prev
 * **E)** 38,4%.
 
 #### Gabarito: **C**
-
 * **C (Certa):** Para o comércio atacadista, a alíquota base de presunção é de 8,0%. Conforme o art. 605 do RIR/2018, sendo conhecida a receita bruta da pessoa jurídica, o lucro arbitrado corresponderá à aplicação dos coeficientes do Lucro Presumido acrescidos de vinte por cento:
 $$\text{Coeficiente Arbitrado} = 8,0\% \times 1,20 = 9,60\%$$
 * **A (Errada):** 1,6% é o coeficiente do lucro presumido para revenda de combustíveis.
@@ -439,7 +450,6 @@ Tomando por base a legislação do imposto de renda (IR) das pessoas jurídicas,
 - ( ) Errado
 
 #### Gabarito: **A**
-
 - **Justificativa:** O item está **ERRADO**. O art. 604 do RIR/2018 prevê expressamente que o contribuinte poderá efetuar o pagamento do imposto com base no lucro arbitrado por iniciativa própria quando, estando sujeito à tributação com base no lucro real, não mantiver escrituração na forma das leis fiscais ou comerciais, ou quando ocorrer a perda, extravio ou destruição de seus livros e documentos decorrente de caso fortuito ou força maior que impeça a reconstituição dos registros antes do vencimento do tributo.
 
 > **Fique Ligado:** A assertiva correta consagra o dispositivo normativo estrito aplicável à matéria avaliada.
@@ -456,7 +466,6 @@ O arbitramento do lucro para fins de cálculo do imposto de renda pode ser feito
 * **E)** a empresa prestar serviços e desejar equiparar seus custos aos da atividade comercial.
 
 #### Gabarito: **C**
-
 * **C (Certa):** Reproduz com exatidão a literalidade do art. 604 do RIR/2018 (art. 47 da Lei nº 8.981/95), autorizando o arbitramento pelo contribuinte quando este deixar de manter ou elaborar a escrituração na forma da lei.
 * **A (Errada):** Ultrapassado o limite do Simples (R\$ 4,8 milhões), a entidade deve migrar para o Lucro Presumido ou Lucro Real.
 * **B (Errada):** Prejuízos fiscais recorrentes apurados com escrituração regular no LALUR geram direito à compensação com lucros futuros (trava dos 30%), não ensejando arbitramento.
@@ -477,7 +486,6 @@ Realizada a verificação de determinado Contribuinte inscrito no cadastro fisca
 * **E)** restringe-se a tributos federais incidentes sobre o patrimônio e a renda.
 
 #### Gabarito: **D**
-
 * **D (Certa):** O art. 148 do CTN consagra a natureza subsidiária e excepcional do arbitramento, exigindo processo administrativo regular que garanta o contraditório e a ampla defesa, e que comprove a omissão ou a falta de idoneidade dos documentos do contribuinte.
 * **A (Errada):** O lançamento por arbitramento é ato vinculado; a ausência de processo administrativo motivado enseja nulidade insanável.
 * **B (Errada):** O arbitramento é instrumento de determinação da base tributária segundo a capacidade contributiva, não constituindo sanção ou pena.
@@ -503,7 +511,6 @@ Estão corretas apenas as assertivas:
 * **E)** II, III e IV.
 
 #### Gabarito: **C**
-
 - **Análise Pormenorizada dos Itens:**
 * **Item I (Certo):** A alíquota geral básica do IRPJ no Brasil é de 15% para todos os regimes tributários (Real, Presumido ou Arbitrado), acrescida de adicional de 10% sobre a parcela do lucro que exceder R\$ 20.000,00 por mês (R\$ 60.000,00 no trimestre).
 * **Item II (Errado):** Não existe livre escolha absoluta. A Lei nº 9.718/1998 e o RIR/2018 obrigam certas categorias ao regime do Lucro Real (receita anual superior a R\$ 78 milhões, instituições financeiras, factorings, entidades com receitas no exterior).
@@ -524,7 +531,6 @@ Em procedimento de auditoria fiscal em comércio exterior, o Auditor-Fiscal cons
 * **E)** arbitramento compulsório do lucro presumido para fins de IPI.
 
 #### Gabarito: **B**
-
 * **B (Certa):** O art. 23, inciso V, do Decreto-Lei nº 1.455/1976 (redação da Lei nº 10.637/2002) tipifica a interposição fraudulenta de terceiros como dano ao erário punível com a **pena de perdimento** das mercadorias, sempre que não for comprovada a origem dos recursos utilizados na transação de importação.
 * **A, C, D e E (Erradas):** A proteção do controle aduaneiro federal comina a perda definitiva da propriedade dos bens importados fraudulentamente, sanção incomparavelmente mais severa que advertências ou multas de baixo percentual.
 
@@ -542,7 +548,6 @@ No que concerne aos regimes de tributação do imposto sobre a renda das pessoas
 * **E)** O arbitramento do lucro extingue a responsabilidade tributária dos administradores da pessoa jurídica no tocante a crimes tributários.
 
 #### Gabarito: **C**
-
 * **C (Certa):** O art. 607, inciso II, do RIR/2018 estipula que, sendo desconhecida a receita bruta, o lucro arbitrado poderá ser determinado à razão de 16% (dezesseis centésimos) do valor do capital social integralizado constante do último registro arquivado no órgão competente (Junta Comercial).
 * **A (Errada):** Sendo conhecida a receita bruta, aplica-se o percentual do lucro presumido acrescido de 20%, resultando em 9,60% ($8\% \times 1,20$).
 * **B (Errada):** Os rendimentos auferidos em aplicações financeiras não sofrem redução por presunção: entram na base de cálculo em sua totalidade (100%).
@@ -562,7 +567,6 @@ A legislação do imposto de renda estabelece que a base de cálculo do imposto 
 * **E)** impedirá o cômputo de quaisquer adições referentes a ganhos de capital auferidos pela entidade.
 
 #### Gabarito: **B**
-
 * **B (Certa):** Conforme mandamento expresso do art. 47 da Lei nº 8.981/1995 e art. 605 do RIR/2018, conhecendo-se a receita bruta auferida, o lucro arbitrado é apurado mediante a aplicação dos percentuais de presunção do Lucro Presumido acrescidos de 20% (vinte por cento).
 * **A, C, D e E (Erradas):** Sem o adicional de 20% teríamos o Lucro Presumido; não há fixação discricionária do auditor; não há intervenção do MPF no lançamento tributário; os ganhos de capital devem ser adicionados integralmente (100%).
 
@@ -580,7 +584,6 @@ Na legislação tributária brasileira existem duas modalidades de quantificaç�
 * **E)** R\$ 900.000,00.
 
 #### Gabarito: **D**
-
 * **D (Certa):** A atividade de serviços profissionais (consultoria e auditoria) submete-se ao percentual base de 32% no Lucro Presumido. No Lucro Arbitrado com receita conhecida, o coeficiente é majorado em 20%:
 $$\text{Coeficiente Arbitrado} = 32\% \times 1,20 = 38,40\%$$
 $$\text{Lucro Arbitrado Operacional} = R\$\ 2.000.000,00 \times 38,40\% = R\$\ 768.000,00$$
@@ -600,7 +603,6 @@ Em relação à tributação sobre o resultado das pessoas jurídicas e ao insti
 * **E)** O arbitramento promovido de ofício pelo Fisco afasta em definitivo a incidência de multas de mora e de ofício sobre o crédito lançado.
 
 #### Gabarito: **C**
-
 * **C (Certa):** Conforme art. 141 da IN RFB nº 1.700/2017 e jurisprudência vinculante, no caso de Lucro Arbitrado, são isentos do IRPF apenas os lucros e dividendos distribuídos até o limite do valor do lucro arbitrado diminuído dos tributos federais devidos (IRPJ, CSLL, PIS e COFINS). Os valores distribuídos em excesso que não puderem ser comprovados por escrituração contábil regular ficam sujeitos à incidência do imposto na fonte conforme a tabela progressiva do IRPF (ou alíquota exclusiva de 35% caso configurados pagamentos sem causa ou a beneficiários não identificados).
 * **A (Errada):** A CSLL também adota percentuais majorados na sistemática do lucro arbitrado.
 * **B (Errada):** A condição de contribuinte no lucro arbitrado em nada altera o dever instrumental e a responsabilidade de retenção na fonte como fonte pagadora (art. 45 do CTN).
@@ -620,7 +622,6 @@ Em procedimento fiscalizatório de auditoria tributária estadual, a fiscalizaç
 * **E)** deve aguardar a decretação de falência ou recuperação judicial da sociedade para habilitar o crédito tributário como quirografário.
 
 #### Gabarito: **B**
-
 * **B (Certa):** O saldo credor de caixa e os suprimentos fictícios de sócios sem comprovação de origem bancária configuram presunções legais absolutas e relativas de omissão de receita tributável (art. 293 do RIR/2018 e legislações estaduais do ICMS), determinando o lançamento de ofício com aplicação de multas punitivas qualificadas.
 * **A, C, D e E (Erradas):** O saldo credor de caixa é ilícito tributário grave que atinge a arrecadação; prescinde de confissão e de autorização judicial, sendo o lançamento de ofício dever vinculado e cogente da autoridade administrativa tributária (art. 142 do CTN).
 > **Fique Ligado:** O saldo credor de caixa e os suprimentos fictícios de sócios sem comprovação de origem bancária configuram presunções legais absolutas e relativas de omissão de receita tributável (art.

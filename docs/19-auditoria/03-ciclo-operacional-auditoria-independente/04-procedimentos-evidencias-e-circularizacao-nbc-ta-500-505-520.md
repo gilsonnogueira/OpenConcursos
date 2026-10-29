@@ -1,4 +1,15 @@
-# 04. Evidências de Auditoria, Procedimentos Substantivos e Circularização (NBC TA 500, NBC TA 501, NBC TA 505, NBC TA 520 e NBC TA 330)
+---
+id: AUD-03-04
+titulo: "Evidências de Auditoria, Procedimentos Substantivos e Circularização (NBC TA 500, NBC TA 501, NBC TA 505, NBC TA 520 e NBC TA 330)"
+disciplina: "Auditoria"
+eixo: "03 - Ciclo Operacional da Auditoria Independente"
+bancas_prioritarias: ["FGV", "Cebraspe", "FCC"]
+relevancia_edital: "Crítica"
+ultima_revisao: "2026-10-29"
+tags: ["nbc-ta-500", "nbc-ta-501", "nbc-ta-505", "nbc-ta-520", "evidencias", "circularizacao", "revisao-analitica"]
+---
+
+# Evidências de Auditoria, Procedimentos Substantivos e Circularização (NBC TA 500, NBC TA 501, NBC TA 505, NBC TA 520 e NBC TA 330)
 
 > A evidência de auditoria compreende as informações utilizadas pelo auditor para chegar às conclusões em que se fundamenta a sua opinião. A evidência deve ser **suficiente** (medida quantitativa, influenciada pelo risco avaliado e pela qualidade da prova) e **apropriada** (medida qualitativa = **relevância** para a afirmação testada + **confiabilidade** da fonte). O auditor obtém evidências aplicando **sete procedimentos clássicos**: Inspeção, Observação, Confirmação Externa (Circularização), Recálculo, Reexecução, Procedimentos Analíticos e Indagação. Em resposta aos riscos avaliados (NBC TA 330), o auditor realiza **Testes de Controle** (quando planeja confiar na eficácia operacional dos controles ou quando os procedimentos substantivos isolados são insuficientes) e **Procedimentos Substantivos** (Testes de Detalhes e Procedimentos Analíticos Substantivos), observando a direção dos testes: **Vouching** (do Razão para o Documento $\rightarrow$ testa **Existência / Ocorrência** e combate a **Superavaliação**) vs. **Tracing** (do Documento para o Razão $\rightarrow$ testa **Integralidade** e combate a **Subavaliação**).
 
@@ -228,7 +239,7 @@ O auditor deve desenhar procedimentos para identificar litígios e reclamações
 
 ---
 
-## 9. Bateria de Questões Oficiais Comentadas Alternativa por Alternativa
+## 9. Questões Paradigmáticas Aplicadas
 
 ### [Questão 01](https://www.qconcursos.com/questoes-de-concursos/questoes/78970081-91) — [FCC — SEFAZ-CE / Auditor Fiscal da Receita Estadual — 2026]
 
@@ -432,8 +443,6 @@ Em relação aos Procedimentos de Confirmação Externa (Circularização), disc
 * **E)** O auditor pode enviar os pedidos de confirmação clandestinamente utilizando o endereço residencial de um dos membros da equipe técnica.
 
 #### Gabarito: **B**
-
-**Comentário Analítico Alternativa por Alternativa:**
 * **A (Errada):** A recusa da administração é um sinal de alerta de alto risco de distorção ou fraude que jamais pode ser aceito passivamente.
 * **B (Certa):** Reflete exatamente o rito obrigatório previsto no item 8 da NBC TA 505: se a administração se recusar a permitir o envio da confirmação, o auditor deve: (a) indagar sobre as razões e buscar evidência sobre sua validade; (b) avaliar as implicações na avaliação dos riscos, inclusive o risco de fraude; e (c) executar procedimentos alternativos para obter evidência hábil e suficiente.
 * **C (Errada):** Não cabe ao auditor independente fazer denúncias imediatas sem antes avaliar o contexto e esgotar os procedimentos técnicos e de governança previstos nas normas de auditoria.
@@ -455,8 +464,6 @@ Sobre a aplicabilidade e as fases de utilização dos **Procedimentos Analítico
 * **E)** Se os procedimentos analíticos identificarem flutuações inconsistentes com outras informações relevantes, o auditor deve desconsiderá-las caso o montante seja inferior a 10% do patrimônio líquido.
 
 #### Gabarito: **A**
-
-**Comentário Analítico Alternativa por Alternativa:**
 * **A (Certa):** Síntese perfeita da matriz de obrigatoriedade dos procedimentos analíticos:
   1. **Planejamento (NBC TA 315, item 14):** OBRIGATÓRIOS para entender a entidade e identificar riscos de distorção relevante.
   2. **Execução Substantiva (NBC TA 520, item 4):** FACULTATIVOS (o auditor decide se usa testes de detalhes ou analíticos substantivos).
@@ -481,8 +488,6 @@ Em relação à suficiência e à adequação da evidência de auditoria e à hi
 * **E)** Informações preparadas por especialistas contratados pela administração da entidade auditada constituem evidência irrefutável que dispensa qualquer avaliação técnica pelo auditor independente.
 
 #### Gabarito: **B**
-
-**Comentário Analítico Alternativa por Alternativa:**
 * **A (Errada):** A suficiência é a medida da quantidade da evidência de auditoria. A quantidade necessária é diretamente afetada pela avaliação dos riscos de distorção e pela qualidade da própria evidência (quanto melhor a qualidade, menos quantidade pode ser exigida).
 * **B (Certa):** Transcreve literalmente a hierarquia de confiabilidade do item A31 da NBC TA 500: a confiabilidade da evidência de auditoria é aumentada quando ela é obtida a partir de **fontes externas independentes** da entidade.
 * **C (Errada):** Documentos originais e evidências diretas são muito mais confiáveis do que declarações verbais de gestores internos.
@@ -504,8 +509,6 @@ Na realização de testes substantivos sobre a conta de Clientes e Contas a Rece
 * **E)** O envio de solicitações de confirmação externa substitui a necessidade de manter a documentação de auditoria dos procedimentos executados.
 
 #### Gabarito: **B**
-
-**Comentário Analítico Alternativa por Alternativa:**
 * **A (Errada):** A solicitação de confirmação **negativa** solicita que o terceiro responda **apenas e tão somente se discordar** das informações fornecidas no pedido. Quem responde em qualquer hipótese (concordando ou discordando) é a solicitação positiva!
 * **B (Certa):** Descreve com perfeição a modalidade de **confirmação positiva em branco** (ou sem valor preenchido): exige que o terceiro informe o saldo devido. Proporciona evidência muito confiável contra subavaliação ou conluio, mas costuma apresentar menor taxa de resposta em razão do esforço de conciliação exigido da contraparte (item A13 da NBC TA 505).
 * **C (Errada):** A confirmação negativa fornece evidência **menos persuasiva** do que a positiva, porque a falta de resposta pode decorrer de desinteresse, extravio postal ou desatenção do terceiro, e não de concordância real.
@@ -513,4 +516,3 @@ Na realização de testes substantivos sobre a conta de Clientes e Contas a Rece
 * **E (Errada):** Todas as confirmações e resultados de procedimentos alternativos devem constar detalhadamente na documentação de auditoria (NBC TA 230).
 
 > **Fique Ligado:** Confirmação Positiva: o terceiro responde em qualquer caso (se em branco = maior esforço e mais confiável; se preenchida = risco de aceite passivo sem checagem). Confirmação Negativa: o terceiro SÓ responde se DISCORDAR (menos persuasiva). Ausência de resposta na positiva = procedimento alternativo obrigatório!
-

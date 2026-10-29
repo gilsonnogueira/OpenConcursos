@@ -1,4 +1,15 @@
-# 03. Código de Ética, Princípios Fundamentais e Normas de Independência (NBC PG 01, NBC PG 100, NBC PG 200/300 e NBC PA 400)
+---
+id: AUD-01-03
+titulo: "Código de Ética, Princípios Fundamentais e Normas de Independência (NBC PG 01, NBC PG 100, NBC PG 200/300 e NBC PA 400)"
+disciplina: "Auditoria"
+eixo: "01 - Fundamentos e Normas Profissionais"
+bancas_prioritarias: ["FGV", "Cebraspe", "FCC"]
+relevancia_edital: "Alta"
+ultima_revisao: "2026-10-29"
+tags: ["etica-profissional", "nbc-pg-100", "nbc-pa-400", "independencia", "salvaguardas", "rodizio-de-auditoria"]
+---
+
+# Código de Ética, Princípios Fundamentais e Normas de Independência (NBC PG 01, NBC PG 100, NBC PG 200/300 e NBC PA 400)
 
 > A conduta ética do auditor assenta-se nos **cinco princípios fundamentais da NBC PG 100** (**Integridade, Objetividade, Competência Profissional e Devido Zelo, Sigilo Profissional e Comportamento Profissional**) e na aplicação obrigatória da **Estrutura Conceitual de Ética**, pela qual o profissional deve **identificar, avaliar e tratar as cinco categorias de ameaças** (**Interesse Próprio, Autorrevisão, Defesa de Interesse do Cliente, Familiaridade e Intimidação**). Nos trabalhos de auditoria e revisão (NBC PA 400 / NBC PA 290), exige-se **Independência de Pensamento** (atitude mental íntima) e **Independência na Aparência** (percepção de um terceiro razoável e informado), impondo salvaguardas rigorosas como o **rodízio obrigatório de sócios e responsáveis técnicos a cada 5 exercícios anuais** (com quarentena de 2 anos segundo a CVM) e a **proibição de honorários contingentes** (condicionados ao resultado).
 
@@ -219,13 +230,10 @@ Além da NBC PG 100 e da NBC PA 400, todo auditor independente no Brasil é um C
 > [!WARNING]
 > **Armadilha 01 — "Ter ceticismo profissional é um dos 5 princípios fundamentais de ética da NBC PG 100":**
 > **FALSO!** (Cobrado literalmente na questão `Q3606539` de 2025!). Os **5 princípios fundamentais de ética** da NBC PG 100 são: **(1) Integridade, (2) Objetividade, (3) Competência Profissional e Devido Zelo, (4) Sigilo Profissional (Confidencialidade) e (5) Comportamento Profissional**. O **Ceticismo Profissional** (e a Independência) apoia-se nesses princípios (especialmente na Integridade e na Objetividade), mas **não é listado como um dos 5 princípios fundamentais** do Código de Ética!
->
 > **Armadilha 02 — "A independência está vinculada ao princípio da impessoalidade na NBC PA 400":**
 > **FALSO!** (Cobrado literalmente pela FGV na questão `Q4368104` de 2026!). Segundo a NBC PA 400 (item 400.5 A1), a independência está vinculada aos princípios fundamentais da **objetividade e da integridade** (e **não** da "impessoalidade", que é princípio constitucional da Administração Pública do art. 37 da CF/88!).
->
 > **Armadilha 03 — "A independência deve ser mantida durante o período de contratação, o período do trabalho e o período das demonstrações":**
 > **FALSO!** (Cobrado pela FGV na mesma questão `Q4368104` de 2026!). Segundo o item 400.30 R400.30 da NBC PA 400, a independência deve ser mantida durante **dois** períodos: **(a) o período do trabalho** e **(b) o período coberto pelas demonstrações contábeis** (não existe "período de contratação" autônomo na regra!).
->
 > **Armadilha 04 — "A prática de autorrevisão, quando acompanhada de salvaguardas, não representa uma ameaça à independência":**
 > **FALSO!** (Cobrado na questão `Q3606538` de 2025!). A autorrevisão **é, por definição, uma das 5 categorias de ameaças à independência**! As salvaguardas servem para **reduzir a ameaça existente a um nível aceitável** (quando permitido pela norma), mas jamais descaracterizam a existência da ameaça.
 
@@ -244,7 +252,7 @@ Além da NBC PG 100 e da NBC PA 400, todo auditor independente no Brasil é um C
 
 ---
 
-## 9. Bateria de Questões Oficiais Comentadas Alternativa por Alternativa
+## 9. Questões Paradigmáticas Aplicadas
 
 ### [Questão 01](https://www.qconcursos.com/questoes-de-concursos/questoes/0b6f6897-c3) — [FGV — CFC / Exame de Qualificação Técnica Geral (QTG) — 2026]
 
@@ -455,8 +463,6 @@ Assinale a opção que apresenta a sequência correta, de cima para baixo:
 * **E)** 4 — 3 — 1 — 5 — 2.
 
 #### Gabarito: **A**
-
-**Comentário Analítico Alternativa por Alternativa:**
 * **(3) Defesa de interesse do cliente (*Advocacy*):** Ocorre quando o contador promove a posição do cliente a ponto de comprometer a sua objetividade (ex: atuar como advogado ou porta-voz em litígios judiciais).
 * **(4) Familiaridade:** Decorre de relacionamento próximo ou longo com o cliente, levando o auditor a ser excessivamente complacente ou solidário (cônjuge na diretoria financeira).
 * **(5) Intimidação:** Ocorre quando o auditor é dissuadido de agir objetivamente por causa de pressões reais ou percebidas, incluindo tentativas de exercer influência indevida (ameaça de rescisão contratual).
@@ -479,8 +485,6 @@ De acordo com a NBC PA 400 (Independência para Trabalho de Auditoria e Revisão
 * **E)** A fixação de honorários em valor excessivamente baixo constitui infração penal incondicionada sob a Lei de Falências.
 
 #### Gabarito: **B**
-
-**Comentário Analítico Alternativa por Alternativa:**
 * **A (Errada):** A cobrança de honorários contingentes (atrelados ao resultado da auditoria, como emissão de parecer limpo ou percentual de lucro) é **terminantemente PROIBIDA** em auditoria independente.
 * **B (Certa):** Conforme a seção 410 da NBC PA 400 e NBC PG 100 (item R410.10): honorários contingentes em trabalhos de auditoria geram ameaça de interesse próprio tão profunda que **nenhuma salvaguarda** é capaz de eliminá-la ou reduzi-la a nível aceitável. A proibição é absoluta!
 * **C (Errada):** O auditor não pode receber comissões ou corretagens por indicar serviços a clientes de auditoria, sob pena de violação da integridade e independência.
@@ -502,8 +506,6 @@ A respeito da rotação obrigatória de auditores (*rotatividade de firmas e só
 * **E)** O prazo máximo ininterrupto de atuação de uma mesma firma de auditoria independente em companhias abertas sem comitê de auditoria estatutário é de 10 anos.
 
 #### Gabarito: **A**
-
-**Comentário Analítico Alternativa por Alternativa:**
 * **A (Certa):** Conforme a NBC PA 400 (seção 540) e a Instrução/Resolução CVM aplicável: para combater a ameaça de familiaridade em entidades de interesse público, o sócio-chave da auditoria deve ser submetido à rotação obrigatória após um período máximo de **5 (cinco) anos consecutivos**, com período de resfriamento (*cooling-off*) de, no mínimo, **3 (três) anos consecutivos** (ou 5 anos na rotatividade da firma).
 * **B (Errada):** A rotação é compulsória e decorre de exigência legal/regulatória cogente, sem exceções por sustentabilidade.
 * **C (Errada):** Durante o período de resfriamento, o profissional não pode fazer parte da equipe de auditoria, nem exercer controle de qualidade, nem prestar consultoria sobre o cliente.
@@ -525,8 +527,6 @@ Segundo a NBC PA 400, a prestação de serviços diferentes de auditoria (*non-a
 * **E)** Pode exercer atividades de recrutamento e seleção de membros da Diretoria Executiva que tomarão decisões financeiras estratégicas na entidade.
 
 #### Gabarito: **A**
-
-**Comentário Analítico Alternativa por Alternativa:**
 * **A (Certa):** Conforme o item R601.7 da NBC PA 400: a firma de auditoria **não deve prestar serviços de contabilidade e escrituração** (como preparação de registros ou demonstrações contábeis) para um cliente de auditoria que seja **entidade de interesse público**! Essa prestação gera ameaça fatal de **autorrevisão** (o auditor estaria auditando os números que a sua própria firma gerou).
 * **B (Errada):** A preparação das demonstrações contábeis é responsabilidade exclusiva e intransferível da administração do cliente.
 * **C (Errada):** A assunção de responsabilidade de gestão operacional viola frontalmente a independência (ameaça que nenhuma salvaguarda mitiga).
@@ -534,4 +534,3 @@ Segundo a NBC PA 400, a prestação de serviços diferentes de auditoria (*non-a
 * **E (Errada):** Serviços de recrutamento de pessoal executivo-chave geram ameaça de interesse próprio e familiaridade, sendo vedados (seção 609 da NBC PA 400).
 
 > **Fique Ligado:** A firma de auditoria JAMAIS pode prestar serviços de escrituração contábil, preparação de demonstrações contábeis ou avaliações materiais para clientes que sejam entidades de interesse público (ameaça letal de AUTORREVISÃO).
-

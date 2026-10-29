@@ -1,4 +1,17 @@
+---
+id: AUD-06-04
+titulo: "Sigilo Bancário, Sigilo Fiscal e Presunções Decorrentes de Movimentação Financeira (LC nº 105/2001 e Art. 42 da Lei nº 9.430/1996)"
+disciplina: "Auditoria"
+eixo: "06 - Auditoria Fiscal e Tributária"
+bancas_prioritarias: ["FGV", "Cebraspe", "FCC"]
+relevancia_edital: "Crítica"
+ultima_revisao: "2026-10-29"
+tags: ["sigilo-bancario", "sigilo-fiscal", "lc-105-2001", "art-42-lei-9430", "rmf", "tema-225-stf"]
+---
+
 # Sigilo Bancário, Sigilo Fiscal e Presunções Decorrentes de Movimentação Financeira (LC nº 105/2001 e Art. 42 da Lei nº 9.430/1996)
+
+> O acesso da Administração Tributária a dados bancários é regido pela **Lei Complementar nº 105/2001** e pela jurisprudência vinculante do **STF (Temas 225 e 990 de Repercussão Geral)**, que firmaram a constitucionalidade da requisição direta de informações financeiras pelo Fisco sem prévia autorização judicial, mediante prévio procedimento administrativo instaurado (TDPF) e emissão fundamentada de **Requisição de Movimentação Financeira (RMF)**. Em tais circunstâncias, não há "quebra de sigilo", mas mera **transferência de sigilo** do ambiente bancário para o fiscal. Uma vez intimado sob o pálio do **art. 42 da Lei nº 9.430/1996**, se o titular não comprovar a origem dos depósitos ou saques, opera-se a **presunção legal de omissão de rendimentos**, tributável pelo IRPF ou IRPJ acrescido de multa de ofício de 75% ou 150%.
 
 ---
 
@@ -317,7 +330,7 @@ graph TD
 
 ---
 
-## 12. Bateria de Questões Oficiais Comentadas (QConcursos)
+## 12. Questões Paradigmáticas Aplicadas
 
 ### [Questão 01](https://www.qconcursos.com/questoes-de-concursos/questoes/dde2b7ce-c6) — [FEPESE — Prefeitura de Criciúma - SC / Auditor Fiscal da Receita Municipal — 2024]
 
@@ -330,7 +343,6 @@ Assinale a alternativa que preenche CORRETAMENTE as lacunas, na ordem em que apa
 * **E)** inscrição do débito em dívida ativa — indispensáveis
 
 #### Gabarito: **A**
-
 * **A (Certa):** O art. 6º da Lei Complementar nº 105/2001 estabelece expressamente: *"As autoridades e os agentes fiscais tributários da União, dos Estados, do Distrito Federal e dos Municípios somente poderão examinar documentos, livros e registros de instituições financeiras, inclusive os referentes a contas de depósitos e aplicações financeiras, quando houver **processo administrativo instaurado** ou procedimento fiscal em curso e tais exames sejam considerados **indispensáveis** pela autoridade administrativa competente."*
 * **B e D (Erradas):** Conforme fixado pelo STF no Tema 225, o art. 6º não exige autorização judicial prévia, tratando-se de transferência legal de sigilo.
 * **C (Errada):** A lei exige que os exames sejam "indispensáveis", e não meramente "pertinentes".
@@ -348,7 +360,6 @@ Em relação aos crimes contra a ordem tributária, bem como ao sigilo fiscal, j
 - ( ) Errado
 
 #### Gabarito: **A**
-
 - **Justificativa:** O item está frontalmente **ERRADO**. O Plenário do STF, ao fixar tese no **Tema 990 de Repercussão Geral (RE 1.055.941)**, assentou que é constitucional e legítimo o compartilhamento de relatórios da UIF (COAF) e da íntegra de procedimentos fiscais instaurados pela Receita Federal com os órgãos de persecução penal (Ministério Público e Polícia Judiciária) **sem necessidade de prévia autorização judicial**. A remessa de tais elementos fundamenta-se no dever de cooperação interinstitucional e no dever de prestar Representação Fiscal para Fins Penais (art. 83 da Lei nº 9.430/1996).
 
 > **Fique Ligado:** A assertiva correta consagra o dispositivo normativo estrito aplicável à matéria avaliada.
@@ -369,8 +380,6 @@ Estão corretas apenas as assertivas:
 * **E)** apenas a III.
 
 #### Gabarito: **B**
-
-- **Análise das Assertivas:**
 * **Item I (Errado):** O art. 1º, § 3º, inciso I, da LC 105/2001 preceitua que o fornecimento de dados cadastrais **não constitui violação do dever de sigilo**.
 * **Item II (Certo):** Expressa a previsão do art. 5º da LC 105/2001 (operacionalizado pela e-Financeira).
 * **Item III (Certo):** O art. 6º da LC 105/2001 estende expressamente aos agentes tributários estaduais e municipais o poder de exame de contas sob as condições de processo instaurado e indispensabilidade fundamentada.
@@ -389,7 +398,6 @@ De acordo com a Lei Complementar nº 105/2001, **NÃO** constitui violação do 
 * **E)** a disponibilização de microfilmes de cheques compensados a sindicatos de classe representativos da categoria do titular.
 
 #### Gabarito: **C**
-
 * **C (Certa):** O art. 1º, § 3º, inciso V, da LC nº 105/2001 ressalva de forma explícita que não constitui violação do dever de sigilo a revelação de informações confidenciais com o **consentimento expresso dos interessados**.
 * **A, B, D e E (Erradas):** Todas essas hipóteses configuram quebra ilícita e criminosa de sigilo bancário, sujeitando os responsáveis às sanções de reclusão de um a quatro anos e multa (art. 10 da LC 105/2001).
 
@@ -407,7 +415,6 @@ Sobre o sigilo das operações de instituições financeiras previsto na Lei Com
 * **E)** O fornecimento de dados consolidados sem identificação dos titulares na forma do art. 5º da lei complementar exige aprovação colegiada do Congresso Nacional.
 
 #### Gabarito: **C**
-
 * **C (Certa):** Literalidade do art. 6º da LC nº 105/2001, cuja validade para todos os entes federados foi confirmada pelo STF no Tema 225.
 * **A (Errada):** A jurisprudência pacificada do STF estabelece que CPIs municipais **não possuem** poderes instrutórios próprios de autoridades judiciais para quebrar sigilo bancário (art. 58, § 3º, da CF/88 aplica-se apenas a CPIs federais e estaduais).
 * **B (Errada):** No ordenamento pátrio inexistem direitos fundamentais de caráter absoluto.
@@ -428,7 +435,6 @@ A respeito do sigilo bancário e fiscal na ordem jurídica brasileira, assinale 
 * **E)** A responsabilidade pelo sigilo fiscal afasta-se integralmente quando os dados financeiros são compartilhados entre auditores fiscais do mesmo órgão fazendário.
 
 #### Gabarito: **C**
-
 * **C (Certa):** O art. 3º da LC nº 105/2001 dispõe que a quebra de sigilo poderá ser decretada pelo Poder Judiciário em qualquer fase do inquérito ou processo penal quando necessária para apuração de ilícitos penais tipificados em lei.
 * **A (Errada):** Trata-se de crime tipificado no art. 10 da LC nº 105/2001 e art. 325 do Código Penal (violação de sigilo funcional), punível com reclusão e perda do cargo público.
 * **B (Errada):** O STF no julgamento do art. 5º da LC 105/2001 reconheceu a plena constitucionalidade da sistemática da e-Financeira.
@@ -449,7 +455,6 @@ Em relação à presunção legal de omissão de receitas decorrente de crédito
 * **E)** A presunção do art. 42 da Lei nº 9.430/1996 aplica-se exclusivamente a pessoas jurídicas submetidas à apuração do imposto pelo regime do Lucro Real.
 
 #### Gabarito: **B**
-
 * **B (Certa):** Conforme art. 42 da Lei nº 9.430/1996, o cerne da presunção legal repousa no fato de o titular, **regularmente intimado**, não comprovar mediante documentação hábil e idônea a origem dos recursos creditados em suas contas de depósito ou investimento.
 * **A (Errada):** A intimação formal prévia é elemento constitutivo indispensável da infração; sua ausência enseja nulidade absoluta do lançamento.
 * **C (Errada):** Transferências entre contas da mesma titularidade devem ser expurgadas da base de cálculo.
@@ -470,7 +475,6 @@ Durante fiscalização tributária federal sobre uma sociedade empresária, a eq
 * **E)** a autuação fiscal depende de autorização do Banco Central do Brasil para homologação do descumprimento contábil.
 
 #### Gabarito: **B**
-
 * **B (Certa):** A jurisprudência consolidada do CARF (Súmula CARF nº 107) e do STJ é pacífica no sentido de que a alegação genérica de mútuo ou entrega de dinheiro em espécie sem comprovação da origem e sem trânsito bancário prévio não constitui prova idônea para afastar a presunção legal do art. 42 da Lei nº 9.430/1996, consolidando-se a autuação por omissão de receita.
 * **A, C, D e E (Erradas):** A boa-fé não ilide a presunção legal objetiva estabelecida em lei; o processo administrativo fiscal é autônomo e não depende de crivo judicial prévio nem de anuência do BACEN; e recursos sem comprovação auferidos por pessoa jurídica caracterizam receita operacional omitida da tributação federal.
 
@@ -488,7 +492,6 @@ Para os efeitos da Lei Complementar nº 105/2001, que dispõe sobre o sigilo das
 * **E)** apenas as entidades financeiras que possuam capital social subscrito e integralizado superior a cem milhões de reais.
 
 #### Gabarito: **C**
-
 * **C (Certa):** O art. 1º, § 1º, da LC nº 105/2001 cataloga expressamente entre as instituições submetidas ao regime de sigilo as distribuidoras e corretoras de títulos e valores mobiliários, as companhias de leasing (arrendamento mercantil) e as cooperativas de crédito.
 * **A, B, D e E (Erradas):** O rol não se limita a bancos públicos; órgãos ambientais não são instituições financeiras; o porte do capital ou número de acionistas não é critério para a caracterização legal.
 
@@ -506,7 +509,6 @@ O sigilo das informações contábeis e fiscais é tema nuclear na atuação das
 * **E)** o sigilo fiscal extingue-se automaticamente com a decadência ou prescrição do crédito tributário.
 
 #### Gabarito: **B**
-
 * **B (Certa):** O art. 198, § 3º, do CTN (com redação dada pela LC nº 104/2001) ressalva expressamente que **não é vedada** a divulgação de informações relativas a inscrições em Dívida Ativa da Fazenda Pública, nem a dados sobre incentivos fiscais concedidos a pessoas jurídicas.
 * **A (Errada):** A quebra indevida constitui crime funcional (art. 325 do Código Penal e art. 10 da LC 105/2001).
 * **C (Errada):** O art. 199 do CTN autoriza plenamente a assistência mútua e a permuta de informações fiscais entre entes federados.
@@ -527,7 +529,6 @@ Um Auditor Fiscal estadual teve acesso, em razão de procedimento de fiscalizaç
 * **E)** a penalidade restringe-se à advertência escrita se não for demonstrado prejuízo material imediato à sociedade empresária.
 
 #### Gabarito: **C**
-
 * **C (Certa):** A transferência de sigilo autorizada pela LC nº 105/2001 e chancelada pelo STF impõe ao auditor fiscal o dever indeclinável de custódia e sigilo absoluto. A revelação ou entrega indevida de dados fiscais/bancários a terceiros constitui crime tipificado no art. 10 da própria LC 105/2001 (reclusão de 1 a 4 anos e multa) e no art. 325 do Código Penal, acarretando responsabilidade penal, civil e disciplinar gravíssima (demissão do serviço público).
 * **A, B, D e E (Erradas):** Não há amparo em dever legal; o sigilo bancário-fiscal é bem indisponível tutelado pela ordem jurídica; o banco cumpriu ordem legal da RMF; e a sanção legal comina pena privativa de liberdade e demissão.
 
@@ -545,7 +546,6 @@ Em relação à disciplina legal e jurisprudencial do sigilo fiscal e da quebra 
 * **E)** Os dados obtidos licitamente pela Receita Federal não podem, em nenhuma hipótese, subsidiar investigações penais instauradas pelo Ministério Público.
 
 #### Gabarito: **B**
-
 * **B (Certa):** Síntese impecável da tese fixada pelo Supremo Tribunal Federal no RE 601.314 (Tema 225) e nas ADIs 2.390, 2.386, 2.397 e 2.859, que reconheceu a plena validade constitucional do art. 6º da LC nº 105/2001 como legítima transferência do dever de sigilo protegida pelo art. 198 do CTN.
 * **A (Errada):** O STF julgou o dispositivo CONSTITUCIONAL, e não inconstitucional.
 * **C (Errada):** O art. 6º aplica-se a todos os Municípios, desde que haja regulamentação local contendo garantias correlatas às do Decreto Federal nº 3.724/2001.

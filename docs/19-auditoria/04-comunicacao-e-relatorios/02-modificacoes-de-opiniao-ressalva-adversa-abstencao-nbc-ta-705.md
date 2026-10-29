@@ -1,4 +1,17 @@
+---
+id: AUD-04-02
+titulo: "Modificações de Opinião: Opinião com Ressalva, Opinião Adversa e Abstenção de Opinião (NBC TA 705)"
+disciplina: "Auditoria"
+eixo: "04 - Comunicação e Relatórios"
+bancas_prioritarias: ["FGV", "Cebraspe", "FCC"]
+relevancia_edital: "Crítica"
+ultima_revisao: "2026-10-29"
+tags: ["nbc-ta-705", "opiniao-modificada", "ressalva", "opiniao-adversa", "abstencao-de-opiniao", "disseminacao"]
+---
+
 # Modificações de Opinião: Opinião com Ressalva, Opinião Adversa e Abstenção de Opinião (NBC TA 705)
+
+> A **Modificação de Opinião (NBC TA 705)** ocorre quando o auditor conclui que as demonstrações contábeis contêm distorção relevante (desacordo com as normas) ou quando há impossibilidade de obter evidência apropriada e suficiente (limitação de escopo). A taxonomia tripartite orienta-se pela **Matriz 2D de Relevância vs. Disseminação**: se os efeitos forem relevantes mas **não disseminados**, emite-se **Opinião com Ressalva**; se forem relevantes e **disseminados**, emite-se **Opinião Adversa** (para distorções comprovadas) ou **Abstenção de Opinião / Disclaimer** (para limitações graves de evidência ou incertezas múltiplas).
 
 ---
 
@@ -221,7 +234,7 @@ Fomos contratados como auditores da Companhia após a ocorrência de um incêndi
 
 ---
 
-## 9. Bateria de Questões Oficiais Comentadas (QConcursos)
+## 9. Questões Paradigmáticas Aplicadas
 
 ### [Questão 01](https://www.qconcursos.com/questoes-de-concursos/questoes/0b8f1589-c3) — [FGV — CFC / Qualificação Técnica Geral (QTG) — 2026]
 
@@ -233,7 +246,6 @@ Uma firma de auditoria independente foi contratada para auditar as demonstraçõ
 * **E)** Relatório de Revisão Limitada com conclusão negativa.
 
 #### Gabarito: **B**
-
 * **B (Certa):** Pela matriz de decisão da NBC TA 705, quando o auditor obtém evidência apropriada e suficiente comprovando que há distorção relevante (desacordo com as normas contábeis) e que tal distorção é **disseminada** nas demonstrações contábeis (uma provisão de 50 mi que reduz o PL de 60 mi em mais de 80% e transforma o lucro em prejuízo vultoso representa parcela substancial de todo o balanço), a opinião a ser emitida é compulsoriamente a **Opinião Adversa**.
 * **A (Errada):** A ressalva é cabível se a distorção for relevante, mas NÃO disseminada.
 * **C (Errada):** A abstenção decorre de impossibilidade de obter evidência (limitação de escopo), e não de desacordo comprovado.
@@ -254,7 +266,6 @@ Um auditor independente foi contratado após o término do exercício social par
 * **E)** Opinião Modificada com recusa de assinatura.
 
 #### Gabarito: **B**
-
 * **B (Certa):** O auditor deparou-se com uma limitação de escopo (impossibilidade de obter evidência sobre os estoques físicos). Como os estoques representam apenas 4% do Ativo Total, o efeito potencial é relevante, mas **NÃO disseminado** (está confinado a uma rubrica menor e não compromete a totalidade do balanço). Portanto, a conclusão técnica é a **Opinião com Ressalva** (*"exceto pelos possíveis efeitos..."*).
 * **A (Errada):** A limitação em conta relevante impede a opinião limpa.
 * **C (Errada):** Opinião adversa exige desacordo comprovado com distorção disseminada.
@@ -275,7 +286,6 @@ Em uma auditoria de demonstrações contábeis na qual o auditor emite um relat�
 * **E)** A responsabilidade do auditor pela auditoria das demonstrações contábeis deve ser totalmente suprimida do texto do relatório.
 
 #### Gabarito: **B**
-
 * **B (Certa):** A NBC TA 705 (item 29) determina que, a menos que exigido por lei ou regulamento, quando o auditor se abstém de emitir opinião sobre as demonstrações contábeis, seu relatório **não deve incluir a seção de Principais Assuntos de Auditoria (PAA)** de acordo com a NBC TA 701. Isso decorre do fato de que a comunicação de PAA poderia sugerir que certas partes do balanço são fidedignas ou auditadas, contrariando a premissa da abstenção integral.
 * **A e C (Erradas):** PAA é proibido e a base não pode atestar evidência suficiente.
 * **D e E (Erradas):** O título mantém o padrão e as responsabilidades gerais permanecem descritas.
@@ -294,7 +304,6 @@ A companhia aberta Gama S.A., supervisionada pela CVM, recusou-se a fornecer à 
 * **E)** Relatório especial de consultoria pericial.
 
 #### Gabarito: **D**
-
 * **D (Certa):** A recusa de acesso a componentes que respondem por 75% do ativo e faturamento do grupo configura evidente limitação de escopo relevante e **disseminada** (*pervasive*). Inviabilizada a renúncia contratual, a NBC TA 705 (item 13, "b", "ii") impõe compulsoriamente a **Abstenção de Opinião**.
 * **A (Errada):** Ênfase aplica-se a assuntos devidamente divulgados em notas explicativas sem distorção.
 * **B (Errada):** Ressalva não se aplica a limitações que atinjam três quartos de todo o patrimônio consolidado.
@@ -315,7 +324,6 @@ Nos termos da NBC TA 705, a expressão *"exceto pelos efeitos do assunto descrit
 * **E)** Limitação de escopo que afete de forma disseminada todos os elementos do ativo circulante.
 
 #### Gabarito: **B**
-
 * **B (Certa):** A expressão *"exceto pelos efeitos..."* aplica-se quando o auditor obteve evidência comprovando a existência de distorção relevante não disseminada. Se a ressalva decorresse de limitação de escopo (falta de evidência), a redação normativa obrigatória seria *"exceto pelos **possíveis** efeitos..."* (NBC TA 705, item 16).
 * **A (Errada):** Limitação de escopo exige a fórmula "possíveis efeitos".
 * **C (Errada):** Incerteza sobre continuidade com divulgação adequada enseja seção específica de continuidade ou parágrafo de ênfase (NBC TA 570).
@@ -336,7 +344,6 @@ Em relação à seção "Base para Opinião" quando o auditor emite um relatóri
 * **E)** O auditor deve indicar que a responsabilidade civil pelo balanço passou a ser integralmente da equipe de auditoria independente.
 
 #### Gabarito: **B**
-
 * **B (Certa):** A NBC TA 705 (itens 20 a 23) determina que a seção deve intitular-se "Base para Opinião Adversa", fornecendo a descrição clara da matéria objeto de distorção relevante e disseminada e, a menos que impraticável, a mensuração quantitativa de seu impacto nos tributos, resultado e patrimônio líquido.
 * **A, C, D e E (Erradas):** A base é obrigatória; o auditor não tem poder jurisdicional de anulação societária; a independência deve ser sempre ratificada; e a responsabilidade da administração jamais é transferida.
 
@@ -354,7 +361,6 @@ O auditor independente de uma empresa de logística constatou que a companhia re
 * **E)** Parecer de irregularidade contábil fiscal.
 
 #### Gabarito: **B**
-
 * **B (Certa):** O erro está quantificado e comprovado (despesa de manutenção lançada indevidamente no imobilizado fere o regime de competência e o CPC 27). Como representa R\$ 40 mi em um Ativo de R\$ 500 mi (8%) e PL de R\$ 200 mi (20%), a distorção é relevante, porém confinada à conta de Imobilizado e Despesas Operacionais, **não sendo disseminada** a ponto de invalidar o conjunto das demonstrações. A opinião adequada é a **Opinião com Ressalva**.
 * **A, C, D e E (Erradas):** Distorção relevante comprovada não permite opinião limpa com ênfase; não é disseminada para opinião adversa; não decorre de limitação para abstenção; e não existe "parecer de irregularidade".
 
@@ -372,7 +378,6 @@ A respeito do conceito de "efeito disseminado" (*pervasive*) previsto na NBC TA 
 * **E)** O efeito disseminado afasta a obrigatoriedade de emissão de relatório formal de auditoria.
 
 #### Gabarito: **B**
-
 * **B (Certa):** A NBC TA 705 (item 5, "a", "ii") estabelece literalmente que é disseminado o efeito que, embora possa estar restrito a um elemento, conta ou item específico das demonstrações contábeis, represente ou possa representar uma **parcela substancial** dessas demonstrações.
 * **A (Errada):** Não se exige atingimento de 100% das contas.
 * **C (Errada):** A disseminação decorre de julgamento profissional complexo e qualitativo, não de fórmula matemática cega.
@@ -393,7 +398,6 @@ Um auditor independente identificou que a empresa auditada não reconheceu recei
 * **E)** Opinião Não Modificada com inclusão de Principais Assuntos de Auditoria.
 
 #### Gabarito: **B**
-
 * **B (Certa):** Havendo distorção relevante comprovada por evidência documental (desacordo com a NBC TG 47) e não sendo ela disseminada, emite-se **Opinião com Ressalva**. Como a causa é distorção (e não falta de evidência/limitação), a fórmula exata exigida pelo item 16 da NBC TA 705 é *"exceto pelos efeitos do assunto..."*, sem a palavra "possíveis".
 * **A (Errada):** "Possíveis efeitos" aplica-se apenas a limitações de escopo.
 * **C, D e E (Erradas):** A distorção não é disseminada para opinião adversa; não é limitação para abstenção; e distorção relevante impede opinião limpa com PAA.
@@ -412,7 +416,6 @@ Em uma auditoria de demonstrações contábeis na qual a administração do clie
 * **E)** Contratar peritos policiais para apreender à força os extratos bancários na agência bancária.
 
 #### Gabarito: **B**
-
 * **B (Certa):** Trata-se do rito procedimental cogente dos itens 11 e 12 da NBC TA 705: solicitação formal de remoção do obstáculo à diretoria; comunicação formal aos responsáveis pela governança; tentativa de procedimentos alternativos; e, em caso de impacto relevante e disseminado, rescisão/renúncia do contrato ou abstenção de opinião.
 * **A, C, D e E (Erradas):** Auditor independente não aceita restrição arbitrária de escopo; opinião adversa exige distorção comprovada (não limitação); auditor independente não tem poder de polícia fiscalizatória tributária estatal; e não há contratação de força policial pelo auditor privado.
 
@@ -430,7 +433,6 @@ O auditor independente concluiu que as demonstrações contábeis de uma socieda
 * **E)** Relatório especial de liquidação judicial antecipada.
 
 #### Gabarito: **B**
-
 * **B (Certa):** A NBC TA 705 (item 5, "a", "iii") estabelece que, em relação a notas explicativas e divulgações, o efeito é considerado **disseminado** (*pervasive*) quando a informação omitida ou distorcida for **fundamental para o entendimento dos usuários** sobre as demonstrações contábeis tomadas em conjunto. Como a perda da sede fabril inviabiliza a continuidade operacional, a omissão dolosa da divulgação contamina a totalidade da tomada de decisão dos investidores, ensejando a **Opinião Adversa**.
 * **A (Errada):** Outros assuntos não supre erro material nas demonstrações.
 * **C (Errada):** O auditor possui as evidências da perda iminente; a causa é desacordo sobre divulgação (distorção), não falta de prova.
@@ -450,7 +452,6 @@ Assinale a opção que apresenta a correta correlação entre a situação encon
 * **E)** Falta de inventário físico de estoques que representam 95% do patrimônio líquido da entidade $\rightarrow$ Opinião Não Modificada com Ênfase.
 
 #### Gabarito: **B**
-
 * **B (Certa):** Aplicação cristalina da matriz da NBC TA 705: limitação de escopo (falta de evidência) que seja relevante, mas NÃO disseminada, resulta em **Opinião com Ressalva**.
 * **A (Errada):** Distorção relevante e disseminada enseja Opinião Adversa.
 * **C (Errada):** Limitação de escopo disseminada enseja Abstenção de Opinião.

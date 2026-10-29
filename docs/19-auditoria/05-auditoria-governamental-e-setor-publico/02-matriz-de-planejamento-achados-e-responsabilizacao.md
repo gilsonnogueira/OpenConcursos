@@ -1,4 +1,17 @@
+---
+id: AUD-05-02
+titulo: "Matrizes de Auditoria Governamental: Planejamento, Achados e Responsabilização sob a LINDB (Padrões do TCU e NBASP)"
+disciplina: "Auditoria"
+eixo: "05 - Auditoria Governamental e Setor Público"
+bancas_prioritarias: ["FGV", "Cebraspe", "FCC"]
+relevancia_edital: "Altíssima"
+ultima_revisao: "2026-10-29"
+tags: ["matriz-de-planejamento", "matriz-de-achados", "achados-auditoria", "matriz-de-responsabilizacao", "lindb", "tcu"]
+---
+
 # Matrizes de Auditoria Governamental: Planejamento, Achados e Responsabilização sob a LINDB (Padrões do TCU e NBASP)
+
+> Os instrumentos de controle dos Tribunais de Contas (TCU e TCEs) materializam o método científico de auditoria governamental em três peças técnicas canônicas: a **Matriz de Planejamento** (que formula o problema, as questões de auditoria, as fontes e os procedimentos de coleta), a **Matriz de Achados** (que estrutura a evidência fática pelo quadrilátero **CCCE**: Critério, Condição, Causa e Efeito) e a **Matriz de Responsabilização** (que individualiza a conduta do agente público, o nexo de causalidade e o elemento subjetivo, exigindo comprovação de **erro grosseiro ou dolo** sob as balizas dos arts. 22 e 28 da LINDB e do Acórdão 2.012/2022-Plenário).
 
 ---
 
@@ -234,7 +247,7 @@ Determinação para instauração imediata de Tomada de Contas Especial (TCE); c
 
 ---
 
-## 9. Bateria de Questões Oficiais Comentadas (QConcursos)
+## 9. Questões Paradigmáticas Aplicadas
 
 ### [Questão 01](https://www.qconcursos.com/questoes-de-concursos/questoes/5cf3d9ca-92) — [CESPE / CEBRASPE — Auditor Federal de Controle Externo / TCU — 2022]
 
@@ -246,7 +259,6 @@ No processo de auditoria governamental executado sob os padrões das Normas de A
 * **E)** Relatório Preliminar de Fiscalização.
 
 #### Gabarito: **B**
-
 * **B (Certa):** A **Matriz de Planejamento** é o instrumento estruturador elaborado na fase preliminar da fiscalização pelo TCU, organizando o trabalho em torno das Questões de Auditoria (QA), procedimentos e critérios.
 * **A (Errada):** A Matriz de Responsabilização destina-se a individualizar condutas e culpabilidade de agentes sob a LINDB na fase final da auditoria.
 * **C (Errada):** A Matriz de Achados registra as irregularidades e constatações fáticas apuradas durante a execução.
@@ -266,7 +278,6 @@ Os achados de auditoria constituem a essência dos relatórios de controle exter
 * **E)** Recomedação.
 
 #### Gabarito: **C**
-
 * **C (Certa):** A **Condição** é a situação fática encontrada ("o que é"), apurada e comprovada documentalmente pelo auditor de controle externo.
 * **A (Errada):** O Critério é o padrão de comparação ("o que deveria ser").
 * **B (Errada):** A Causa é a razão ou motivo gerador da discrepância ("por que ocorreu").
@@ -287,7 +298,6 @@ Nos termos do art. 28 da Lei de Introdução às Normas do Direito Brasileiro (L
 * **E)** adoção de orientação jurídica fundamentada da procuradoria do órgão.
 
 #### Gabarito: **B**
-
 * **B (Certa):** O art. 28 da LINDB veda a punição do gestor público por culpa simples ou erro leve, fixando expressamente que o agente responde pessoalmente apenas em caso de **dolo** ou **erro grosseiro** (culpa grave com manifesta inobservância do dever elementar de cuidado).
 * **A e C (Erradas):** Culpa leve e responsabilidade objetiva sem culpa são rechaçadas na esfera pessoal punitiva sancionadora do direito administrativo.
 * **D e E (Erradas):** O art. 24 da LINDB e jurisprudência vinculante vedam punição quando a decisão baseou-se em jurisprudência ou parecer jurídico fundamentado da advocacia pública.
@@ -306,7 +316,6 @@ Em relação às propostas de deliberação a serem formuladas pelas equipes de 
 * **E)** As determinações e recomendações possuem efeitos idênticos no ordenamento jurídico, sendo sinônimos processuais.
 
 #### Gabarito: **B**
-
 * **B (Certa):** A distinção doutrinária e normativa é clássica no regimento interno do TCU: **Determinação** possui caráter mandamental e vinculante para sanar ilegalidade constatada em prazo estrito (seu descumprimento enseja multa do art. 58 da Lei 8.443/92); **Recomendação** tem natureza colaborativa e propositiva, permitindo ao gestor justificar alternativas viáveis.
 * **A, C, D e E (Erradas):** Invertem os conceitos, inexiste prisão administrativa por recomendação e não são instrumentos sinônimos.
 
@@ -324,7 +333,6 @@ Ao estruturar a Matriz de Responsabilização em uma auditoria de obras pública
 * **E)** Transferir a responsabilidade civil do gestor público para a associação de moradores da localidade.
 
 #### Gabarito: **B**
-
 * **B (Certa):** O art. 22 da LINDB impõe que na interpretação de normas sobre gestão pública sejam considerados os obstáculos e as dificuldades reais do gestor, avaliando a culpabilidade sob a ótica da **exigibilidade de conduta diversa** nas circunstâncias fáticas reais em que o agente atuou.
 * **A, C, D e E (Erradas):** A LINDB veda presunção cega de dolo sem considerar as circunstâncias práticas; não há prova tarifada testemunhal; afiliação partidária é juridicamente irrelevante; e a responsabilidade funcional é personalíssima.
 
@@ -342,7 +350,6 @@ Em uma auditoria de conformidade sobre a execução de um convênio federal, o a
 * **E)** A responsabilidade deve ser imputada exclusivamente ao Presidente da República que sancionou o orçamento federal.
 
 #### Gabarito: **B**
-
 * **B (Certa):** A Matriz de Responsabilização exige o preenchimento rigoroso dos 4 atributos: individualização da conduta específica, demonstração do nexo de causalidade direto com a liberação dos recursos públicos e demonstração inequívoca de dolo ou erro grosseiro sob o art. 28 da LINDB.
 * **A, C, D e E (Erradas):** Condutas genéricas violam a ampla defesa e o devido processo legal; fiscais de contrato respondem pessoalmente pelo ateste falso; o nexo causal é pressuposto obrigatório; e o Presidente não responde por desvios pontuais de fiscais de campo.
 
@@ -360,7 +367,6 @@ No âmbito do controle externo exercido pelos Tribunais de Contas, a comunicaç�
 * **E)** Decretação de intervenção federal.
 
 #### Gabarito: **C**
-
 * **C (Certa):** A **Ciência** é a deliberação utilizada pelo Tribunal de Contas para comunicar ao órgão jurisdicionado a ocorrência de impropriedade formal de menor potencial ofensivo, alertando sobre a desconformidade para que o gestor adote providências preventivas e não reincida na falha em exercícios futuros.
 * **A (Errada):** Determinação impõe obrigação de fazer/não fazer sob pena de multa.
 * **B (Errada):** Imputação de débito exige dano material comprovado ao erário.
@@ -380,7 +386,6 @@ O Decreto nº 9.830/2019, que regulamentou as alterações da LINDB na esfera ad
 * **E)** Cometido por servidor público em estágio probatório no primeiro mês de exercício.
 
 #### Gabarito: **B**
-
 * **B (Certa):** O art. 12 do Decreto nº 9.830/2019 e a jurisprudência pacificada do TCU (Acórdãos 2.391/2018 e 1.628/2020 do Plenário) definem o erro grosseiro do art. 28 da LINDB como a **culpa grave**, consubstanciada na conduta praticada com manifesto e elevado grau de negligência, imprudência ou imperícia, distanciando-se substancialmente do padrão médio de diligência exigível do administrador público.
 * **A, C, D e E (Erradas):** Divergência plausível e erro material leve não são erro grosseiro; e estrita observância de manuais oficiais exclui a culpabilidade.
 
@@ -398,7 +403,6 @@ Em relação à elaboração da Matriz de Achados de auditoria e à definição 
 * **E)** O critério de auditoria é definido privativamente pelo Ministério Público junto ao Tribunal de Contas após o término da fase de execução.
 
 #### Gabarito: **B**
-
 * **B (Certa):** A NBASP 100 e os Manuais de Auditoria do TCU estabelecem que o **Critério** é o padrão contra o qual a condição é comparada, devendo decorrer de normas jurídicas (leis, decretos), termos de contratos, metas de planos governamentais ou parâmetros técnicos e de boas práticas reconhecidas.
 * **A, C, D e E (Erradas):** A auditoria é estritamente técnica e veda subjetivismos; critérios podem advir de normas infralegais e manuais técnicos; todo achado exige critério obrigatório; e o critério é definido pela equipe técnica desde a fase de planejamento.
 
@@ -416,7 +420,6 @@ A respeito da relação entre a Matriz de Achados e a Matriz de Responsabilizaç
 * **E)** A Matriz de Responsabilização é assinada exclusivamente pelo juiz federal de plantão.
 
 #### Gabarito: **B**
-
 * **B (Certa):** A Matriz de Responsabilização não é gerada para simples oportunidades de melhoria ou recomendações; sua elaboração é acionada especificamente quando o achado de auditoria envolve conduta reprovável (comissiva ou omissiva) passível de cominação de penalidades legais (multas, inabilitação) ou instauração de Tomada de Contas Especial (TCE) para reparação de dano ao erário.
 * **A e C (Erradas):** Achados com propostas de recomendação não geram responsabilização pessoal punitiva; e os dois instrumentos possuem finalidades totalmente distintas.
 * **D e E (Erradas):** O nexo causal é pressuposto irrenunciável da responsabilidade pessoal e a matriz é instrumento interno da equipe de auditoria do Tribunal.
@@ -435,7 +438,6 @@ Ao concluir a auditoria sobre um programa de erradicação do analfabetismo infa
 * **E)** Concessão de anistia administrativa tácita.
 
 #### Gabarito: **B**
-
 * **B (Certa):** Para sanar falhas estruturais com prazo fixado e obrigatoriedade de apresentação de plano corretivo, o Tribunal de Contas utiliza a **Determinação**, fixando o prazo regulamentar (ex.: 90 ou 180 dias) para que o órgão comprove o cumprimento da deliberação.
 * **A (Errada):** Débito exige comprovação de prejuízo financeiro efetivo.
 * **C (Errada):** Inidoneidade sanciona licitantes privados que fraudam licitações.
@@ -456,7 +458,6 @@ Em relação à análise da "Causa" em um achado de auditoria governamental:
 * **E)** O auditor deve atribuir a causa de todos os achados sempre à escassez de recursos orçamentários do ente federado.
 
 #### Gabarito: **B**
-
 * **B (Certa):** Na metodologia dos Manuais do TCU e da INTOSAI, a **Causa** representa a raiz do problema (falha de supervisão, ausência de normativo interno, sistema de TI inadequado, conluio fraudulento). Atuar sobre a causa é a única forma de formular deliberações estruturantes e preventivas que impeçam a reincidência da desconformidade.
 * **A (Errada):** Identificação de pessoas é atributo da Matriz de Responsabilização.
 * **C (Errada):** A causa é atributo cardeal e obrigatório em todo achado de auditoria.

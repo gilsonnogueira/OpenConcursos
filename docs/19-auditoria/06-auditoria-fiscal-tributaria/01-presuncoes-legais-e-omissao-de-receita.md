@@ -1,4 +1,17 @@
+---
+id: AUD-06-01
+titulo: "Presunções Legais, Sentido dos Testes e Omissão de Receita (DL nº 1.598/1977, Lei nº 9.430/1996 e RIR/2018)"
+disciplina: "Auditoria"
+eixo: "06 - Auditoria Fiscal e Tributária"
+bancas_prioritarias: ["FGV", "Cebraspe", "FCC"]
+relevancia_edital: "Crítica"
+ultima_revisao: "2026-10-29"
+tags: ["auditoria-fiscal", "presuncoes-legais", "omissao-de-receita", "rir-2018", "lei-9430-1996", "vouching-tracing"]
+---
+
 # Presunções Legais, Sentido dos Testes e Omissão de Receita (DL nº 1.598/1977, Lei nº 9.430/1996 e RIR/2018)
+
+> A **Auditoria Fiscal e Tributária** é o procedimento administrativo de ofício em que o Auditor Fiscal confronta os fatos econômicos reais praticados pelo sujeito passivo com as declarações fiscais e registros contábeis para constituir o crédito tributário. Com base no **Decreto-Lei nº 1.598/1977**, na **Lei nº 9.430/1996** e no **RIR/2018 (arts. 293 a 301)**, o ordenamento confere ao Fisco **presunções legais relativas (*juris tantum*) de omissão de receitas** diante de anomalias contábeis graves (como saldo credor de caixa, suprimentos de caixa não comprovados e manutenção no passivo de obrigações inexistentes), invertendo o ônus da prova para o contribuinte fiscalizado.
 
 ---
 
@@ -201,7 +214,7 @@ $$
 
 ---
 
-## 8. Bateria de Questões Oficiais Comentadas (QConcursos)
+## 8. Questões Paradigmáticas Aplicadas
 
 ### [Questão 01](https://www.qconcursos.com/questoes-de-concursos/questoes/dde2b7ce-c6) — [FGV — Receita Federal do Brasil / Auditor-Fiscal da Receita Federal — 2023]
 
@@ -213,7 +226,6 @@ O auditor fiscal realizou testes de auditoria partindo dos registros contábeis 
 * **E)** Falta de registro de compras de mercadorias no livro fiscal Registro de Entradas.
 
 #### Gabarito: **B**
-
 * **B (Certa):** O teste que parte da escrituração contábil em direção à documentação comprobatória de suporte é o teste de **superavaliação (*vouching*)**, voltado a averiguar se as despesas registradas e ativos escriturados de fato **existem**, ocorreram e são válidos, identificando gastos fictícios e ativos inflados.
 * **A, C e E (Erradas):** A investigação de subavaliação (omissão de receitas, passivos ocultos ou compras omitidas) exige o teste em sentido inverso (*tracing*), partindo dos documentos físicos/fatos reais para a escrituração contábil.
 * **D (Errada):** O teste de superavaliação é método geral e não se restringe a JCP.
@@ -232,7 +244,6 @@ A respeito das presunções legais de omissão de receita previstas no Regulamen
 * **E)** O auditor fiscal é obrigado a provar judicialmente a má-fé do contribuinte antes de efetuar o lançamento de ofício por presunção legal.
 
 #### Gabarito: **B**
-
 * **B (Certa):** As presunções legais tributárias são *juris tantum*, operando a inversão legal do ônus da prova em benefício da Fazenda Pública a partir da demonstração cabal do fato-índice pela fiscalização.
 * **A (Errada):** O saldo credor de caixa é hipótese clássica de presunção de omissão de receitas (art. 293 do RIR/2018).
 * **C (Errada):** A comprovação de que a dívida é inexistente ou já quitada basta para configurar a presunção (Súmula CARF nº 26).
@@ -253,7 +264,6 @@ Em ação de auditoria fiscal sobre uma sociedade empresária, o Auditor Fiscal 
 * **E)** O lançamento fiscal deve ser anulado por violação à intimidade financeira dos sócios.
 
 #### Gabarito: **B**
-
 * **B (Certa):** A jurisprudência sumulada do CARF (Súmula CARF nº 107) e do STJ é taxativa: o suprimento de caixa por recursos atribuídos a sócios exige comprovação documental hábil da efetiva disponibilidade financeira do sócio na época do aporte e a comprovação da transferência bancária a partir de suas contas. Alegações desprovidas de lastro não afastam a presunção de omissão de receita.
 * **A, C, D e E (Erradas):** A presunção legal impõe a tributação; suprimentos fictícios caracterizam receitas omitidas; a competência fazendária é autônoma; e a exigência de prova bancária não viola a intimidade.
 
@@ -271,7 +281,6 @@ A respeito da aplicação de penalidades em autos de infração decorrentes de l
 * **E)** As multas de ofício de auditoria tributária são inexigíveis em pessoas jurídicas de capital fechado.
 
 #### Gabarito: **A**
-
 * **A (Certa):** O art. 44, inciso I, da Lei nº 9.430/1996 fixa a multa de ofício básica em **75%** nos casos de falta de declaração e nos de declaração inexata decorrente de lançamento de ofício.
 * **B (Errada):** 20% é o teto da multa de mora para pagamento espontâneo atrasado (art. 61 da Lei 9.430/96).
 * **C (Errada):** Em caso de evidente intuito de fraude, conluio ou sonegação (arts. 71 a 73 da Lei 4.502/64), a multa é qualificada para 150% (art. 44, § 1º).
@@ -291,7 +300,6 @@ Na realização de auditoria tributária para verificar a ocorrência de omissã
 * **E)** Teste de contingência retroativa.
 
 #### Gabarito: **B**
-
 * **B (Certa):** O exame que parte da realidade física/operacional (ordens de serviços executadas) em direção aos registros contábeis de faturamento é o teste de **subavaliação (*tracing*)**, destinado a verificar a completude e identificar serviços efetivamente prestados que não foram faturados (omissão de receita).
 * **A, C, D e E (Erradas):** Superavaliação parte da contabilidade para os documentos; dupla datação refere-se a eventos subsequentes; circularização é confirmação externa; e contingência retroativa não é teste de direcionamento.
 
@@ -309,7 +317,6 @@ Em auditoria fiscal sobre sociedade comercial atacadista, a equipe de fiscaliza�
 * **E)** Os pagamentos em dinheiro físico são considerados lícitos e isentos de qualquer controle fazendário.
 
 #### Gabarito: **B**
-
 * **B (Certa):** O art. 294 do RIR/2018 disciplina expressamente que o pagamento efetuado pela pessoa jurídica sem que haja comprovação da origem do numerário utilizado para sua quitação, ou a constatação de compras não escrituradas, gera a presunção legal de que os recursos empregados decorreram de receitas operacionais omitidas da tributação.
 * **A, C, D e E (Erradas):** A presunção é material com lançamento de tributos e multas; o BACEN não liquida empresas mercantis comuns; devoluções retroativas simuladas configuram fraude; e saídas em espécie sem trânsito contábil são o núcleo do caixa dois.
 
@@ -327,7 +334,6 @@ O passivo fictício é considerado uma das manobras mais recorrentes em fraudes 
 * **E)** Aguardar o encerramento do processo de recuperação judicial da empresa.
 
 #### Gabarito: **A**
-
 * **A (Certa):** O art. 296 do RIR/2018 e a Súmula CARF nº 26 fixam que a constatação de passivo fictício (manutenção de obrigações inexistentes ou já pagas) autoriza a presunção legal de omissão de receitas tributáveis correspondente ao valor mantido indevidamente no passivo da entidade.
 * **B e C (Erradas):** Violam as garantias constitucionais do contraditório e ampla defesa.
 * **D e E (Erradas):** Não há isenção para passivo fictício e o Fisco lança o tributo imediatamente.
@@ -346,7 +352,6 @@ O auditor fiscal, ao examinar os livros de escrituração contábil digital (ECD
 * **E)** O lançamento tributário depende de homologação prévia da Organização Mundial do Comércio.
 
 #### Gabarito: **A**
-
 * **A (Certa):** A manutenção no balanço de passivo já extinto e liquidado há dois anos configura passivo fictício clássico. A quitação sem trânsito contábil demonstra que foram utilizados recursos financeiros não contabilizados para pagar o credor no exterior, consumando-se a presunção legal de omissão de receitas (art. 296 do RIR/2018).
 * **B, C, D e E (Erradas):** Operações com o exterior submetem-se ao controle tributário e cambial; não há criação artificial de reserva de capital; a escrituração mercantil deve espelhar a verdade material; e inexiste subordinação à OMC.
 
@@ -364,7 +369,6 @@ Em relação à tributação sobre pagamentos a beneficiários não identificado
 * **E)** O imposto de renda retido na fonte pode ser compensado com o imposto a pagar pela empresa no encerramento do exercício.
 
 #### Gabarito: **B**
-
 * **B (Certa):** O art. 61 da Lei nº 8.981/1995 prescreve que todo pagamento efetuado pelas pessoas jurídicas a beneficiários não identificados ou sem causa econômica comprovada sujeita-se à **incidência exclusiva na fonte do imposto de renda à alíquota de 35%**, sem prejuízo da **indedutibilidade total** do gasto na apuração do Lucro Real e da CSLL.
 * **A (Errada):** A norma do art. 61 aplica-se indistintamente a todas as pessoas jurídicas, inclusive optantes pelo Lucro Presumido.
 * **C (Errada):** A alíquota legal punitiva é de 35%, e não 15%.
@@ -384,7 +388,6 @@ A respeito da desclassificação da escrituração contábil e de sua distinçã
 * **E)** O arbitramento do lucro é procedimento obrigatório para cobrança de omissão de receita decorrente de saldo credor de caixa.
 
 #### Gabarito: **B**
-
 * **B (Certa):** A jurisprudência consolidada do CARF (Súmula CARF nº 32) e do STJ pacifica que a ocorrência pontual de omissão de receitas por presunção legal (ex.: saldo credor de caixa ou depósito sem origem) não acarreta a desclassificação automática da escrituração. O Fisco adiciona os valores omitidos ao Lucro Real, preservando a contabilidade da empresa, salvo se a gravidade, extensão e generalização dos vícios tornarem a escrita totalmente inidônea.
 * **A (Errada):** Veda-se a desclassificação sumária por presunção pontual.
 * **C, D e E (Erradas):** A esfera administrativa independe da esfera penal; escrita desclassificada perde valor probatório; e o Fisco pode cobrar a omissão diretamente no Lucro Real sem arbitramento.
@@ -403,7 +406,6 @@ Em fiscalização tributária estadual, a autoridade fazendária apurou que um g
 * **E)** A presunção de omissão de receita afasta-se pela mera substituição do profissional de contabilidade da empresa.
 
 #### Gabarito: **A**
-
 * **A (Certa):** A movimentação de contas bancárias à margem da contabilidade mercantil constitui fraude contábil e fiscal gravíssima. Os recursos creditados presumem-se receitas omitidas (art. 42 da Lei 9.430/96 e normas estaduais) e a ocultação deliberada de contas bancárias torna a contabilidade imprestável, autorizando a sua desclassificação formal e material (art. 603 do RIR/2018).
 * **B, C, D e E (Erradas):** Não há insignificância em fraudes milionárias; inexiste presunção política; a atuação do auditor é vinculada; e troca de contador não apaga crimes fiscais pretéritos.
 
@@ -421,7 +423,6 @@ O auditor fiscal, ao realizar a auditoria da conta "Fornecedores" no Passivo Cir
 * **E)** O lançamento tributário fica condicionado à concordância do sócio majoritário da concessionária.
 
 #### Gabarito: **A**
-
 * **A (Certa):** A manutenção de obrigação já adimplida no passivo caracteriza passivo fictício (art. 296 do RIR/2018 c/c Súmula CARF nº 26). O pagamento efetuado por terceiro não identificado sem trânsito contábil comprova que foram introduzidos recursos clandestinos na operação da empresa, ensejando a autuação por omissão de receita tributável.
 * **B, C, D e E (Erradas):** Não há ressarcimento ao sonegador; circularização é procedimento legal de auditoria; dívida paga não é ativo intangível; e o lançamento tributário de ofício é ato plenamente vinculado.
 > **Fique Ligado:** A manutenção de obrigação já adimplida no passivo caracteriza passivo fictício (art.

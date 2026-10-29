@@ -1,4 +1,17 @@
+---
+id: AUD-04-03
+titulo: "Parágrafos de Ênfase, Outros Assuntos e Principais Assuntos de Auditoria (PAA / KAM) — NBC TA 706 e NBC TA 701"
+disciplina: "Auditoria"
+eixo: "04 - Comunicação e Relatórios"
+bancas_prioritarias: ["FGV", "Cebraspe", "FCC"]
+relevancia_edital: "Altíssima"
+ultima_revisao: "2026-10-29"
+tags: ["nbc-ta-706", "enfase", "outros-assuntos", "nbc-ta-701", "paa-kam", "principais-assuntos-auditoria"]
+---
+
 # Parágrafos de Ênfase, Outros Assuntos e Principais Assuntos de Auditoria (PAA / KAM) — NBC TA 706 e NBC TA 701
+
+> A comunicação de matérias complementares no relatório estrutura-se em três mecanismos distintos e inconfundíveis em provas: o **Parágrafo de Ênfase (NBC TA 706)**, que destaca assunto adequadamente apresentado ou divulgado nas notas explicativas essencial para o entendimento do usuário; o **Parágrafo de Outros Assuntos (NBC TA 706)**, que aborda matérias não apresentadas nas demonstrações relevantes para a compreensão da auditoria ou das responsabilidades legais; e os **Principais Assuntos de Auditoria - PAA / KAM (NBC TA 701)**, de divulgação obrigatória para entidades listadas, que detalham os temas de maior significatividade e julgamento complexo comunicados aos responsáveis pela governança.
 
 ---
 
@@ -200,7 +213,7 @@ Recuperabilidade do ágio pago por expectativa de rentabilidade futura (Goodwill
 
 ---
 
-## 9. Bateria de Questões Oficiais Comentadas (QConcursos)
+## 9. Questões Paradigmáticas Aplicadas
 
 ### [Questão 01](https://www.qconcursos.com/questoes-de-concursos/questoes/1f56860b-c3) — [FGV — CFC / Qualificação Técnica Geral (QTG) — 2026]
 
@@ -212,7 +225,6 @@ Em relação à comunicação de Principais Assuntos de Auditoria (PAA) no relat
 * **E)** O auditor deve se abster de emitir opinião sobre as demonstrações contábeis sempre que identificar mais de cinco PAAs no mesmo exercício.
 
 #### Gabarito: **C**
-
 * **C (Certa):** O item 8 da NBC TA 701 preconiza que os PAAs são selecionados entre os assuntos comunicados à governança corporativa que exigiram maior atenção do auditor independente durante a execução dos trabalhos.
 * **A (Errada):** PAA não substitui modificação de opinião (item 11).
 * **B (Errada):** O auditor não fornece opinião separada sobre os PAAs.
@@ -233,7 +245,6 @@ Um auditor independente incluiu em seu relatório um Parágrafo de Ênfase chama
 * **E)** O parágrafo de ênfase substitui a necessidade de manter o relatório arquivado pelo prazo decadencial.
 
 #### Gabarito: **B**
-
 * **B (Certa):** A NBC TA 706 (itens 6 e 7) determina que o parágrafo de ênfase deve remeter à nota explicativa correspondente onde o assunto está adequadamente divulgado e deve expressar formalmente que a opinião do auditor não foi modificada com relação à matéria enfatizada.
 * **A (Errada):** Ênfase não é ressalva e não modifica a opinião.
 * **C (Errada):** Eventos subsequentes divulgados em nota explicativa são hipótese clássica de ênfase (item A5).
@@ -253,7 +264,6 @@ De acordo com a NBC TA 706, a inclusão de um **Parágrafo de Outros Assuntos** 
 * **E)** A empresa é autuada pela Receita Federal e decide quitar o tributo no dia da assembleia geral.
 
 #### Gabarito: **B**
-
 * **B (Certa):** Reproduz a definição literal da NBC TA 706 (item 5, "b"): o parágrafo de outros assuntos trata de matéria não apresentada nem divulgada nas demonstrações contábeis que seja relevante para o entendimento da auditoria ou do relatório (ex.: informe sobre auditor antecessor).
 * **A (Errada):** Omissão de passivo provável é distorção relevante que enseja modificação de opinião (ressalva ou adversa), não outros assuntos.
 * **C (Errada):** O auditor não pode quebrar sigilo concorrencial.
@@ -274,7 +284,6 @@ Caso determinado assunto tenha sido avaliado como de alta relevância durante a 
 * **E)** Deve emitir uma conclusão de asseguração limitada negativa sobre o PAA específico.
 
 #### Gabarito: **A**
-
 * **A (Certa):** A NBC TA 706 (item 6, "b") estabelece que o parágrafo de ênfase somente pode ser utilizado se o assunto não tiver sido determinado como um PAA a ser comunicado no relatório segundo a NBC TA 701. Sendo o assunto tratado como PAA, veda-se a sua repetição como Parágrafo de Ênfase.
 * **B (Errada):** A duplicação é terminantemente proibida pelas normas.
 * **C (Errada):** A remissão à nota explicativa correspondente é requisito obrigatório da descrição do PAA (NBC TA 701, item 13).
@@ -294,7 +303,6 @@ Em relação às responsabilidades da auditoria de demonstrações contábeis co
 * **E)** Uma ordem de cancelamento das demonstrações contábeis anteriores arquivadas na Junta Comercial.
 
 #### Gabarito: **B**
-
 * **B (Certa):** Aplicação estrita da NBC TA 710 (item 13) e da NBC TA 706: a referência ao trabalho do auditor antecessor em demonstrações com valores correspondentes é feita por meio de um **Parágrafo de Outros Assuntos**, contendo o tipo de opinião, eventuais ênfases/ressalvas anteriores e a data do relatório antecedente.
 * **A (Errada):** Não cabe acusação sem devido processo e o parágrafo correto é Outros Assuntos, não Ênfase.
 * **C (Errada):** Honorários de terceiros não são PAA.
@@ -314,7 +322,6 @@ A respeito da comunicação de Principais Assuntos de Auditoria (PAA) e de sua r
 * **E)** A descrição de um PAA pode ser redigida em formulário padronizado emitido pelo Ministério do Planejamento e Orçamento.
 
 #### Gabarito: **B**
-
 * **B (Certa):** Literalidade do item 10 da NBC TA 701: o auditor contextualiza os PAAs na formação da opinião sobre as demonstrações tomadas em seu conjunto, esclarecendo que não emite uma opinião isolada ou separada sobre os assuntos relatados.
 * **A (Errada):** O relatório pode conter vários PAAs com opinião não modificada (sem ressalvas).
 * **C (Errada):** O auditor deve detalhar como o assunto foi endereçado nos testes (item 13, "c").
@@ -334,7 +341,6 @@ Uma companhia aberta do setor aéreo adotou pela primeira vez uma nova norma con
 * **E)** Incluir compulsoriamente um parágrafo de outros assuntos censurando a norma contábil emitida pelo CPC.
 
 #### Gabarito: **B**
-
 * **B (Certa):** A adoção de nova norma com impacto bilionário e alta complexidade de estimativas (taxas de desconto e prazos) enquadra-se com perfeição nos critérios da NBC TA 701 (itens 9 e A13) para classificação como **Principal Assunto de Auditoria (PAA)**. O auditor descreve a matéria, os riscos avaliados e os testes executados.
 * **A (Errada):** O reconhecimento correto segundo a norma não gera ressalva.
 * **C, D e E (Erradas):** Assuntos dessa magnitude em companhias abertas devem ser comunicados como PAA; complexidade matemática não gera abstenção; e o auditor não censura normas técnicas.
@@ -353,7 +359,6 @@ Sobre a inclusão de Parágrafo de Ênfase e Parágrafo de Outros Assuntos no re
 * **E)** É nulo o relatório de auditoria que contiver parágrafo de ênfase sem a aprovação unânime da assembleia de acionistas.
 
 #### Gabarito: **B**
-
 * **B (Certa):** A NBC TA 706 (item 7) prescreve que o parágrafo de ênfase deve trazer o título "Ênfase", descrever o fato enfatizado e fazer a remissão expressa à nota explicativa pertinente nas demonstrações financeiras.
 * **A (Errada):** A opinião vem sempre em primeiro lugar (NBC TA 700); o parágrafo de ênfase vem posicionado após a Base para Opinião ou após os PAAs.
 * **C (Errada):** A fundamentação da opinião adversa deve constar na seção "Base para Opinião Adversa", e não em outros assuntos.
@@ -374,7 +379,6 @@ O auditor independente de uma companhia aberta identificou uma incerteza relevan
 * **E)** Omitir a informação do relatório de auditoria para não acelerar a falência da sociedade.
 
 #### Gabarito: **B**
-
 * **B (Certa):** A NBC TA 570 (item 22) e a NBC TA 706 preveem que, quando a incerteza relevante sobre a continuidade operacional for **adequadamente divulgada** nas notas explicativas, a opinião do auditor permanece **NÃO MODIFICADA**, devendo o auditor incluir uma seção específica e destacada com o título padronizado **"Incerteza Relevante Relacionada com a Continuidade Operacional"**, chamando a atenção para a referida nota explicativa e atestando que sua opinião não está modificada quanto ao assunto.
 * **A e D (Erradas):** Opinião com ressalva ou adversa somente seria cabível se a administração se recusasse a divulgar a incerteza de continuidade de forma adequada (NBC TA 570, item 23).
 * **C e E (Erradas):** A seção é específica de continuidade (não outros assuntos) e a omissão deliberada geraria responsabilidade civil/disciplinar grave do auditor.
@@ -393,7 +397,6 @@ A respeito do momento e dos requisitos procedimentais para inclusão de Parágra
 * **E)** Deve condicionar a inclusão do parágrafo de outros assuntos ao pagamento tempestivo de honorários contratuais extras.
 
 #### Gabarito: **B**
-
 * **B (Certa):** O item 12 da NBC TA 706 estipula que, se o auditor espera incluir um parágrafo de ênfase ou de outros assuntos em seu relatório, ele **deve comunicar essa expectativa aos responsáveis pela governança** da entidade, bem como a minuta da redação pretendida, permitindo que a governança tome ciência tempestiva dos pontos destacados.
 * **A, C, D e E (Erradas):** O auditor não depende de crivo da CVM; a comunicação à governança é compulsória; o conselho não assina o relatório de auditoria independente; e a conduta ética veda qualquer barganha sobre honorários.
 
@@ -411,7 +414,6 @@ Em uma auditoria de demonstrações contábeis de uma sociedade anônima fechada
 * **E)** É obrigatória apenas para microempresas optantes pelo regime tributário simplificado.
 
 #### Gabarito: **B**
-
 * **B (Certa):** A NBC TA 701 (itens 4 e 5) esclarece que, embora obrigatória para companhias abertas, a aplicação da norma sobre PAA também é permitida quando o auditor, no exercício de seu julgamento profissional, decide comunicar os principais assuntos no relatório de entidades não cotadas em bolsa, ou quando exigida por legislação ou autoridade reguladora setorial específica.
 * **A, C, D e E (Erradas):** Não é vedada; não altera regime societário na Junta; inexiste intervenção do MPT; e não é voltada a microempresas.
 
@@ -429,7 +431,6 @@ O auditor independente concluiu a auditoria das demonstrações contábeis de um
 * **E)** Deve emitir uma opinião adversa exclusivamente sobre a conta de intangíveis.
 
 #### Gabarito: **B**
-
 * **B (Certa):** O item 13 da NBC TA 701 discrimina a tríade obrigatória da descrição de cada PAA: (1) referência à nota explicativa correspondente; (2) explicação das razões pelas quais o tema foi considerado mais significativo; e (3) descrição substantiva de como o assunto foi endereçado na auditoria.
 * **A (Errada):** O auditor não emite opinião separada sobre o PAA (item 10).
 * **C (Errada):** A descrição de como o assunto foi tratado é requisito irrenunciável.

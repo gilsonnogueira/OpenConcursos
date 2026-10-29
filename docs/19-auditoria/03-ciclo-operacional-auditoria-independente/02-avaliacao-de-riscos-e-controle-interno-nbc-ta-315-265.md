@@ -1,16 +1,17 @@
 ---
-id: AUD-302
+id: AUD-03-02
 titulo: "Avaliação de Riscos, Afirmações e Controle Interno (NBC TA 315 e NBC TA 265)"
 disciplina: "Auditoria"
+eixo: "03 - Ciclo Operacional da Auditoria Independente"
 bancas_prioritarias: ["FGV", "Cebraspe", "FCC"]
-relevancia_edital: "Altíssima (Núcleo da Auditoria Baseada em Riscos)"
-ultima_revisao: "2026-10-28"
-tags: ["avaliacao-de-riscos", "nbc-ta-315", "espectro-de-risco-inerente", "fatores-de-risco-inerente", "riscos-significativos", "afirmacoes", "controle-interno", "coso", "crime", "limitacoes-inerentes", "itgc", "deficiencias-de-controle-interno", "nbc-ta-265"]
+relevancia_edital: "Altíssima"
+ultima_revisao: "2026-10-29"
+tags: ["avaliacao-de-riscos", "nbc-ta-315", "nbc-ta-265", "afirmacoes", "controle-interno", "coso", "crime"]
 ---
 
 # Avaliação de Riscos, Afirmações e Controle Interno (NBC TA 315 e NBC TA 265)
 
-> > A auditoria moderna de demonstrações contábeis é integralmente **baseada em riscos**. Pela **NBC TA 315 (R2)**, o auditor executa procedimentos de avaliação de riscos (**indagações, procedimentos analíticos, observação e inspeção**) para obter o entendimento da entidade, do seu ambiente, da estrutura de relatório financeiro e do seu sistema de controle interno, identificando e avaliando os riscos de distorção relevante (causados por fraude ou erro) em dois níveis: **no nível das demonstrações contábeis** (global) e **no nível das afirmações** (onde o **risco inerente** e o **risco de controle** devem ser avaliados **separadamente**). A avaliação do risco inerente apoia-se em **5 fatores de risco inerente** (*complexidade, subjetividade, mudança, incerteza e suscetibilidade a viés/fraude*), situando cada risco no **espectro de risco inerente**; aqueles situados próximos à extremidade superior constituem **Riscos Significativos**, que exigem tratamento especial (avaliação obrigatória do desenho e implementação dos controles, vedação de confiar em testes de controle de anos anteriores e proibição de depender apenas de procedimentos analíticos substantivos). O **Sistema de Controle Interno (COSO I)** estrutura-se em **5 componentes (`C-R-I-M-E`)** e fornece apenas **segurança razoável** devido a suas limitações inerentes (erro humano, conluio, burla pela administração e custo-benefício). Por fim, segundo a **NBC TA 265**, toda **Deficiência Significativa de Controle Interno** identificada deve ser comunicada **tempestivamente e por escrito** aos responsáveis pela governança (e à administração, salvo se inapropriado), independentemente de uma distorção contábil ter efetivamente ocorrido.
+> A auditoria moderna de demonstrações contábeis é integralmente **baseada em riscos**. Pela **NBC TA 315 (R2)**, o auditor executa procedimentos de avaliação de riscos (**indagações, procedimentos analíticos, observação e inspeção**) para obter o entendimento da entidade, do seu ambiente, da estrutura de relatório financeiro e do seu sistema de controle interno, identificando e avaliando os riscos de distorção relevante (causados por fraude ou erro) em dois níveis: **no nível das demonstrações contábeis** (global) e **no nível das afirmações** (onde o **risco inerente** e o **risco de controle** devem ser avaliados **separadamente**). A avaliação do risco inerente apoia-se em **5 fatores de risco inerente** (*complexidade, subjetividade, mudança, incerteza e suscetibilidade a viés/fraude*), situando cada risco no **espectro de risco inerente**; aqueles situados próximos à extremidade superior constituem **Riscos Significativos**, que exigem tratamento especial (avaliação obrigatória do desenho e implementação dos controles, vedação de confiar em testes de controle de anos anteriores e proibição de depender apenas de procedimentos analíticos substantivos). O **Sistema de Controle Interno (COSO I)** estrutura-se em **5 componentes (`C-R-I-M-E`)** e fornece apenas **segurança razoável** devido a suas limitações inerentes (erro humano, conluio, burla pela administração e custo-benefício). Por fim, segundo a **NBC TA 265**, toda **Deficiência Significativa de Controle Interno** identificada deve ser comunicada **tempestivamente e por escrito** aos responsáveis pela governança (e à administração, salvo se inapropriado), independentemente de uma distorção contábil ter efetivamente ocorrido.
 
 ---
 
@@ -398,7 +399,7 @@ Na auditoria da *Varejista Ômega S.A.*, o auditor identificou que a rubrica de 
 
 ---
 
-## 8. Questões Oficiais Comentadas
+## 8. Questões Paradigmáticas Aplicadas
 
 ### [Questão 01](https://www.qconcursos.com/questoes-de-concursos/questoes/9b211895-0d) — [FGV — Receita Federal / Auditor-Fiscal — 2023]
 
@@ -411,9 +412,7 @@ Assinale a opção que apresenta **exclusivamente** fatores de risco inerente el
 * **D)** Ocorrência, integralidade, exatidão, corte (*cut-off*) e classificação contábil.
 * **E)** Segregação de funções, controles gerais de TI, controles de aplicação, alçadas de aprovação e conciliações bancárias.
 
-**Gabarito Oficial:** **A**
-
-**Comentário Analítico Alternativa por Alternativa:**
+#### Gabarito: **A**
 * **A (Certa):** Reproduz literalmente o **item 12 ("f") da NBC TA 315 (R2)**: os cinco fatores de risco inerente qualitativos ou quantitativos são **complexidade, subjetividade, mudança, incerteza e suscetibilidade à distorção devido à tendenciosidade (viés) da administração ou outros fatores de risco de fraude**, na medida em que afetam o risco inerente.
 * **B (Errada):** Estes são os **5 componentes do Sistema de Controle Interno (COSO I)**.
 * **C (Errada):** Estes são elementos do Risco de Auditoria (NBC TA 200), da Amostragem (NBC TA 530) e da Materialidade (NBC TA 320).
@@ -435,9 +434,7 @@ Diante desse cenário e à luz da NBC TA 265, o auditor deve:
 * **D)** Emitir obrigatoriamente uma opinião com ressalva sobre as demonstrações contábeis, pois toda deficiência significativa de controle interno impõe a modificação da opinião do auditor.
 * **E)** Quantificar obrigatoriamente em moeda corrente o valor exato da fraude potencial na carta de comunicação dirigida ao Conselho de Administração.
 
-**Gabarito Oficial:** **C**
-
-**Comentário Analítico Alternativa por Alternativa:**
+#### Gabarito: **C**
 * **A (Errada):** Conforme o **item A5 da NBC TA 265**, a importância de uma deficiência depende **não somente se uma distorção realmente ocorreu**, mas também da **probabilidade** de que uma distorção possa ocorrer e da possível **magnitude** da distorção. Podem existir deficiências significativas mesmo sem distorção contábil ocorrida no ano!
 * **B (Errada):** Conforme os **itens 9 e 10 ("a") da NBC TA 265**, as deficiências significativas devem ser comunicadas **obrigatoriamente por escrito** aos responsáveis pela governança e à administração.
 * **C (Certa):** Aplicação exata dos **itens 9, 10 ("a") e A5 da NBC TA 265**.
@@ -457,9 +454,7 @@ A respeito da identificação e avaliação dos riscos de distorção relevante 
 * **D)** A indagação aos colaboradores que executam um controle manual é suficiente, por si só, para que o auditor avalie o desenho desse controle e determine que ele foi efetivamente implementado.
 * **E)** Os controles gerais de tecnologia da informação (ITGCs) são controles diretos que atuam exclusivamente sobre o cálculo aritmético de uma única conta contábil, não afetando a integridade de outros aplicativos.
 
-**Gabarito Oficial:** **C**
-
-**Comentário Analítico Alternativa por Alternativa:**
+#### Gabarito: **C**
 * **A (Errada):** Conforme o **item 31 da NBC TA 315 (R2)**, para os riscos identificados no nível de afirmações, o auditor **deve avaliar separadamente o risco inerente e o risco de controle**.
 * **B (Errada):** Conforme o **item 34 da NBC TA 315 (R2)**, se o auditor **não planeja testar a eficácia operacional dos controles**, sua avaliação do risco de controle deve ser tal que a avaliação do risco de distorção relevante seja **a mesma que a avaliação do risco inerente** (ou seja, não pode reduzir o risco sem testar os controles!).
 * **C (Certa):** Transcrição literal da definição de **Risco Significativo** constante do **item 12 ("l") da NBC TA 315 (R2)**.
@@ -481,9 +476,7 @@ Ao realizar esse procedimento específico, o auditor está testando primordialme
 * **D)** Classificação entre ativo circulante e realizável a longo prazo.
 * **E)** Valorização e alocação por equivalência patrimonial.
 
-**Gabarito Oficial:** **C**
-
-**Comentário Analítico Alternativa por Alternativa:**
+#### Gabarito: **C**
 * **A (Errada):** Apresentação refere-se à agregação/desagregação clara das contas e compreensibilidade das notas explicativas.
 * **B (Errada):** Direitos e obrigações é uma afirmação sobre **saldos de contas no final do período** (titularidade jurídica sobre ativos e passivos).
 * **C (Certa):** Conforme o **item A190 ("a", "iv") da NBC TA 315**, a afirmação de **Corte (*Cut-off*)** atesta que as transações e eventos foram registrados no **período contábil correto** (observância estrita do regime de competência na virada do exercício social).
@@ -505,9 +498,7 @@ Assinale a opção que apresenta uma **limitação inerente** do controle intern
 * **D)** A vedação legal de que a auditoria interna avalie o componente de monitoramento dos controles internos.
 * **E)** A exigência de que todas as transações da entidade sejam revisadas previamente pelo Conselho Fiscal antes de sua liquidação financeira.
 
-**Gabarito Oficial:** **B**
-
-**Comentário Analítico Alternativa por Alternativa:**
+#### Gabarito: **B**
 * **A (Errada):** O rodízio de auditores independentes é uma salvaguarda de independência externa (NBC PA 290 / CVM), não tendo relação com limitações internas dos controles da empresa.
 * **B (Certa):** Expressa com perfeição as limitações inerentes clássicas previstas na **NBC TA 315 (Itens A90 a A95)**: falibilidade do julgamento humano, erros humanos simples, **conluio entre duas ou mais pessoas** e **burla de controles pela administração (*management override*)**, além da relação custo-benefício.
 * **C (Errada):** Os controles de processamento de informações são amplamente automatizados nos sistemas de TI (Controles de Aplicação).
@@ -529,9 +520,7 @@ Esse princípio basilar de controle interno denomina-se:
 * **D)** Controle geral de tecnologia da informação (*ITGC*).
 * **E)** Monitoramento contínuo de governança.
 
-**Gabarito Oficial:** **C**
-
-**Comentário Analítico Alternativa por Alternativa:**
+#### Gabarito: **C**
 * **A (Errada):** Revisão de desempenho consiste em comparar o desempenho real com orçamentos, previsões e resultados de períodos anteriores.
 * **B (Errada):** *Walk-through* (rastreamento passo a passo) é um procedimento executado pelo auditor para confirmar o entendimento do fluxo de transações e verificar o desenho e a implementação de controles.
 * **C (Certa):** Conforme a **NBC TA 315**, a **Segregação de Funções** consiste exatamente em atribuir a pessoas diferentes as funções incompatíveis de **autorizar** transações, **registrar** transações e manter a **custódia** dos ativos correlatos, evitando que um único indivíduo possa perpetrar e ocultar um erro ou fraude.
@@ -553,9 +542,7 @@ Sobre esse conteúdo obrigatório e as regras da NBC TA 265, é **correto** afir
 * **D)** O auditor é proibido de comunicar à administração outras deficiências de controle interno que não sejam classificadas como significativas.
 * **E)** Quando a própria diretoria executiva estiver diretamente envolvida em fraude dolosa revelada pela deficiência significativa, o auditor deve comunicar a deficiência primeiramente e exclusivamente à diretoria envolvida, abstendo-se de informar o Conselho de Administração.
 
-**Gabarito Oficial:** **C**
-
-**Comentário Analítico Alternativa por Alternativa:**
+#### Gabarito: **C**
 * **A (Errada):** É exatamente o oposto! O **item 11 ("b", "ii") da NBC TA 265** exige que o auditor explique que a auditoria considerou o controle interno para planejar procedimentos de auditoria, mas **NÃO com a finalidade de expressar uma opinião sobre a eficácia do controle interno**.
 * **B (Errada):** Conforme o **item A30 da NBC TA 265**, o auditor não pode atestar a inexistência de qualquer deficiência de controle interno (no máximo, pode informar que não identificou nenhuma deficiência **significativa** durante a auditoria).
 * **C (Certa):** Reproduz com fidelidade o **item A17 da NBC TA 265**: o fato de o auditor ter comunicado uma deficiência significativa aos responsáveis pela governança e à administração em auditoria anterior **não elimina a necessidade** de o auditor repetir a comunicação se ainda não tiver sido tomada medida corretiva!
@@ -575,9 +562,7 @@ Em relação aos controles manuais e aos controles automatizados no âmbito do s
 * **D)** A confiabilidade de um controle de aplicação totalmente automatizado independe da eficácia dos controles gerais de tecnologia da informação (ITGCs) da entidade.
 * **E)** O auditor está proibido de realizar testes sobre controles manuais, devendo restringir sua avaliação exclusivamente aos algoritmos de bancos de dados.
 
-**Gabarito Oficial:** **C**
-
-**Comentário Analítico Alternativa por Alternativa:**
+#### Gabarito: **C**
 * **A (Errada):** Em transações repetitivas de alto volume, os **controles automatizados** são muito mais confiáveis e consistentes, enquanto os controles manuais sofrem com fadiga, distração e erro humano.
 * **B (Errada):** Transações grandes, não usuais, não recorrentes e que exigem julgamento e discricionariedade são o campo típico de adequação dos **controles manuais**, e não dos automatizados.
 * **C (Certa):** Síntese perfeita da doutrina da **NBC TA 315** sobre as vantagens (julgamento/discricionariedade em itens atípicos) e vulnerabilidades (erro humano, fadiga e possibilidade de contorno) dos controles manuais em face dos automatizados.
@@ -599,9 +584,7 @@ Essas três técnicas obrigatórias nos procedimentos de avaliação de riscos s
 * **D)** Entrevista exclusiva com o Conselho Fiscal, perícia judicial e revisão pelos pares.
 * **E)** Testes substantivos de detalhes, testes de controle por rotação e carta de representação formal.
 
-**Gabarito Oficial:** **B**
-
-**Comentário Analítico Alternativa por Alternativa:**
+#### Gabarito: **B**
 * **A, C, D e E (Erradas):** Misturam procedimentos substantivos de detalhes (circularização, recálculo, contagem física), testes de controle (reexecução) e amostragem (NBC TA 530), que pertencem à fase de resposta aos riscos ou a normas específicas.
 * **B (Certa):** Reproduz literalmente os três incisos do **item 14 ("a", "b" e "c") da NBC TA 315**: os procedimentos de avaliação de riscos devem incluir **(a) indagações** à administração e a outros indivíduos apropriados na entidade (inclusive auditoria interna); **(b) procedimentos analíticos**; e **(c) observação e inspeção**.
 
@@ -620,9 +603,7 @@ Nessa hipótese, conforme o item 23 da NBC TA 315, cabe ao auditor:
 * **D)** Solicitar ao auditor interno que refaça toda a escrituração contábil dos últimos cinco exercícios.
 * **E)** Reduzir o risco de controle avaliado para zero, dispensando a realização de testes substantivos sobre a conta de estoques.
 
-**Gabarito Oficial:** **B**
-
-**Comentário Analítico Alternativa por Alternativa:**
+#### Gabarito: **B**
 * **A (Errada):** A falha no processo de avaliação de risco não gera automaticamente opinião adversa; exige investigação do motivo da falha, avaliação de deficiência significativa e resposta substantiva ao risco de avaliação do estoque.
 * **B (Certa):** Reproduz com exatidão cirúrgica o **item 23 da NBC TA 315**: se o auditor identificar um risco de distorção relevante que a administração deixou de identificar, e tal risco for do tipo que o auditor esperava que tivesse sido identificado pelo processo de avaliação de risco da entidade, o auditor deve **obter entendimento do motivo** pelo qual esse processo deixou de identificá-lo e avaliar se o processo é adequado ou determinar se existe uma **deficiência significativa de controle interno** com relação ao processo de avaliação de risco da entidade!
 * **C e D (Erradas):** Violam a independência e a separação de papéis entre administração, auditoria interna e auditoria independente.
@@ -645,8 +626,6 @@ No que se refere ao Modelo de Risco de Auditoria ($RA = RDR 	imes RD$, onde $RDR
 * **E)** O risco de auditoria é a possibilidade de a entidade auditada entrar em falência financeira nos doze meses subsequentes ao encerramento do exercício fiscal.
 
 #### Gabarito: **D**
-
-**Comentário Analítico Alternativa por Alternativa:**
 * **A (Errada):** A definição apresentada corresponde ao **Risco de Detecção (RD)**, e não ao Risco de Controle (RC). O RC é o risco de que o controle interno da entidade não previna, detecte e corrija tempestivamente uma distorção.
 * **B (Errada):** O auditor **não tem poder de reduzir ou alterar** o risco inerente nem o risco de controle da entidade auditada. Esses são riscos intrínsecos à gestão e às operações da entidade.
 * **C (Errada):** A relação entre o Risco de Distorção Relevante (RDR) e o Risco de Detecção (RD) é **estritamente INVERSA**: para manter o Risco de Auditoria ($RA$) em nível aceitavelmente baixo, quanto **maior** for o RDR avaliado, **menor** deve ser o RD aceito pelo auditor (exigindo testes substantivos mais profundos e tempestivos).
@@ -668,8 +647,6 @@ De acordo com a NBC TA 265 — Comunicação de Deficiências de Controle Intern
 * **E)** O compromisso formal de que nenhuma outra deficiência além daquelas listadas no documento existe na organização auditada.
 
 #### Gabarito: **B**
-
-**Comentário Analítico Alternativa por Alternativa:**
 * **A (Errada):** O item 11 da NBC TA 265 exige exatamente o **oposto**: o auditor deve declarar expressamente que o objetivo da auditoria era expressar uma opinião sobre as demonstrações contábeis, e **NÃO** expressar opinião sobre a eficácia do controle interno.
 * **B (Certa):** Transcreve a literalidade do item 11 da NBC TA 265: o auditor deve incluir na comunicação escrita a descrição das deficiências e uma explicação de seus **potenciais efeitos**, com informações suficientes para que a governança compreenda o contexto.
 * **C (Errada):** O auditor não tem autoridade disciplinar de gestão e não pode fixar prazos para demissões de empregados.

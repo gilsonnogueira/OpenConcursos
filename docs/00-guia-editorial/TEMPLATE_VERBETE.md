@@ -8,10 +8,9 @@ ultima_revisao: "AAAA-MM-DD"
 tags: ["termo1", "termo2"]
 ---
 
-# [Título do Verbete]
+# [Título do Verbete sem Prefixo Numérico]
 
-> **BLUF (Bottom Line Up Front):**  
-> Síntese executiva de 2 a 4 linhas definindo o conceito nuclear, a regra de ouro e a consequência prática imediata para provas.
+> Síntese de alto nível definindo o conceito nuclear, a fundamentação legal/normativa primária e a consequência prática imediata para provas. Deve estar em parágrafo único com blockquote simples.
 
 ---
 
@@ -74,23 +73,29 @@ flowchart TD
 
 ## 6. Questões Paradigmáticas Aplicadas
 
-### Questão 1 (Banca / Órgão / Ano / Cargo)
+### [Questão 01](https://www.qconcursos.com/questoes-de-concursos/questoes/...) — [Banca — Órgão / Cargo — Ano]
 **Enunciado:**  
 [...]
 
-- (A) [...]  
-- (B) [...]  
-- (C) [...]  
-- (D) [...]  
-- (E) [...]  
+* (A) [...]  
+* (B) [...]  
+* (C) [...]  
+* (D) [...]  
+* (E) [...]  
 
-**Gabarito Oficial:** `X`  
-**Fundamentação Objetiva:**  
-Justificativa curta, direta e fundamentada no artigo de lei ou súmula citado no início do verbete.
+#### Gabarito: **X**
+
+* **A (Errada):** Justificativa curta, direta e fundamentada no artigo de lei ou norma.
+* **B (Errada):** Justificativa curta e direta.
+* **C (Certa):** Dispositivo legal ou normativo que valida a alternativa.
+* **D (Errada):** Justificativa curta e direta.
+* **E (Errada):** Justificativa curta e direta.
+
+> **Fique Ligado:** Ponto-chave da questão para memorização rápida.
 
 ---
 
-## 7. Links Correlatos & Verbetes Conexos
+## 7. Verbetes Conexos & Próximos Passos
 
 - 🔗 [Verbete Antecessor ou Macro-tema](link.md)
 - 🔗 [Verbete Subsequente ou Aplicação Prática](link.md)

@@ -1,17 +1,17 @@
 ---
-id: AUD-INT-01
+id: AUD-02-01
 titulo: "Auditoria Interna e Governança Corporativa: Dissecação Integral da NBC TI 01 e Modelo das Três Linhas"
 disciplina: "Auditoria"
 eixo: "02 - Auditoria Interna e Governança"
 bancas_prioritarias: ["FGV", "Cebraspe", "FCC"]
 relevancia_edital: "Altíssima"
-ultima_revisao: "2026-10-28"
-tags: ["auditoria-interna", "nbc-ti-01", "resolucao-cfc-986-2003", "tres-linhas-iia", "testes-de-observancia", "testes-substantivos", "papeis-de-trabalho", "fraude-e-erro", "relatorio-auditoria-interna", "sufaco-ame-reco-um"]
+ultima_revisao: "2026-10-29"
+tags: ["auditoria-interna", "nbc-ti-01", "tres-linhas-iia", "testes-de-observancia", "testes-substantivos", "sufaco"]
 ---
 
 # Auditoria Interna e Governança Corporativa: Dissecação Integral da NBC TI 01 e Modelo das Três Linhas
 
-> > A **Auditoria Interna** é uma atividade de avaliação independente, objetiva e de assessoramento estratégico estruturada no interior da própria organização, projetada para **agregar valor**, aperfeiçoar as operações e fortalecer o sistema de controles internos, gerenciamento de riscos e governança. No ordenamento contábil brasileiro, sua norma técnica matriz é a **NBC TI 01 (aprovada pela Resolução CFC nº 986/2003 — antiga NBC T 12)**, complementada internacionalmente pelo *International Professional Practices Framework (IPPF)* e pelo **Modelo das Três Linhas** do *Institute of Internal Auditors (IIA)*. Diferentemente do auditor independente — cujo objetivo é emitir opinião sobre as demonstrações contábeis para usuários externos —, o auditor interno **possui vínculo funcional com a entidade**, **não emite parecer de asseguração para o mercado** e materializa seu trabalho por meio de um **Relatório de Auditoria Interna** confidencial, endereçado à alta administração ou ao órgão de governança, contendo conclusões e **recomendações de soluções** para as não conformidades detectadas.
+> A **Auditoria Interna** é uma atividade de avaliação independente, objetiva e de assessoramento estratégico estruturada no interior da própria organização, projetada para **agregar valor**, aperfeiçoar as operações e fortalecer o sistema de controles internos, gerenciamento de riscos e governança. No ordenamento contábil brasileiro, sua norma técnica matriz é a **NBC TI 01 (aprovada pela Resolução CFC nº 986/2003 — antiga NBC T 12)**, complementada internacionalmente pelo *International Professional Practices Framework (IPPF)* e pelo **Modelo das Três Linhas** do *Institute of Internal Auditors (IIA)*. Diferentemente do auditor independente — cujo objetivo é emitir opinião sobre as demonstrações contábeis para usuários externos —, o auditor interno **possui vínculo funcional com a entidade**, **não emite parecer de asseguração para o mercado** e materializa seu trabalho por meio de um **Relatório de Auditoria Interna** confidencial, endereçado à alta administração ou ao órgão de governança, contendo conclusões e **recomendações de soluções** para as não conformidades detectadas.
 
 ---
 
@@ -444,7 +444,7 @@ Para consolidar a aplicação prática da norma em questões discursivas e estud
 
 ---
 
-## 9. Bateria de Questões Oficiais Comentadas Alternativa por Alternativa
+## 9. Questões Paradigmáticas Aplicadas
 
 ### [Questão 01](https://www.qconcursos.com/questoes-de-concursos/questoes/1f625ea5-c3) — [FGV — ALESC / Auditor Interno — 2024]
 
@@ -457,8 +457,6 @@ De acordo com a NBC TI 01 – Da Auditoria Interna, os testes substantivos visam
 * **E)** A informação adequada, sendo confiável, propicia a melhor evidência alcançável, por meio do uso apropriado das técnicas de Auditoria Interna.
 
 #### Gabarito: **C**
-
-**Comentário Analítico Alternativa por Alternativa:**
 * **A (Certa):** Reproduz literalmente o item 12.2.3.5, I, "d", da NBC TI 01 (Mnemônico `UM`: **Ú**til $\rightarrow$ atingir **M**etas).
 * **B (Certa):** Reproduz literalmente o item 12.2.3.5, I, "c", da NBC TI 01 (Mnemônico `RECO`: **RE**levante $\rightarrow$ suporte às **CO**nclusões e recomendações).
 * **C (Errada):** A NBC TI 01 elenca apenas **quatro** características da informação probatória (Suficiente, Adequada, Relevante e Útil). A norma **não prevê** a característica "tempestiva" nesse rol, tampouco a define como "conservadora e livre de erros materiais".
@@ -481,8 +479,6 @@ Conforme a atualização do Modelo das Três Linhas do *Institute of Internal Au
 * **E)** Elaboração das matrizes de riscos corporativos e implementação direta de políticas de *compliance* e integridade.
 
 #### Gabarito: **A**
-
-**Comentário Analítico Alternativa por Alternativa:**
 * **A (Certa):** No Modelo das Três Linhas do IIA (2020), a **Terceira Linha** corresponde à **Auditoria Interna**, cuja missão primordial é fornecer avaliação (*assurance*) e assessoria independentes e objetivas ao Órgão de Governança e à Alta Administração sobre a adequação e a eficácia da governança e do gerenciamento de riscos (abrangendo a 1ª e a 2ª linhas).
 * **B (Errada):** O monitoramento contínuo da conformidade regulatória (*compliance*) subordinado à alta administração é papel típico da **Segunda Linha**.
 * **C (Errada):** A aprovação final do plano estratégico e a definição do apetite a risco competem ao **Órgão de Governança** (Conselho de Administração ou equivalente) em conjunto com a Alta Administração, jamais à Auditoria Interna.
@@ -505,8 +501,6 @@ A atividade da auditoria interna está estruturada em procedimentos, com enfoque
 * **E)** Análises, demonstrações ou quaisquer outros documentos devem ter sua integridade verificada sempre que forem anexados aos papéis de trabalho.
 
 #### Gabarito: **D**
-
-**Comentário Analítico Alternativa por Alternativa:**
 * **A (Certa):** Literalidade do item 12.2.3.4 da NBC TI 01 sobre os testes substantivos.
 * **B (Certa):** Literalidade do item 12.2.2.1 da NBC TI 01, que posiciona a análise de riscos na fase de planejamento.
 * **C (Certa):** Literalidade do item 12.1.2.1 da NBC TI 01 sobre os papéis de trabalho em meio físico ou eletrônico.
@@ -533,8 +527,6 @@ III. A análise dos riscos da auditoria interna deve ser realizada exclusivament
 * **E)** Todos os itens estão corretos.
 
 #### Gabarito: **B**
-
-**Comentário Analítico Alternativa por Alternativa:**
 * **Item I (Certo):** Transcreve fielmente o item 12.1.3.1 da NBC TI 01. Note os três elementos essenciais: (1) assessorar na prevenção; (2) informar **sempre por escrito** e de **maneira reservada**; (3) sobre quaisquer **indícios ou confirmações**.
 * **Item II (Certo):** Transcreve com exatidão o item 12.3.1.2 da NBC TI 01 sobre o destinatário e a confidencialidade do relatório da Auditoria Interna.
 * **Item III (Errado):** Segundo o item 12.2.2.1 da NBC TI 01, a análise dos riscos da Auditoria Interna deve ser feita na **fase de planejamento** dos trabalhos (e não exclusivamente na fase de execução).
@@ -570,8 +562,6 @@ Assinale a alternativa que apresenta a associação correta, de cima para baixo:
 * **E)** 3, 2, 4, 1.
 
 #### Gabarito: **D**
-
-**Comentário Analítico Alternativa por Alternativa:**
 * **1º Parêntese $\rightarrow$ (3) Testes substantivos:** Visam obter evidência quanto à **suficiência, exatidão e validade dos dados** (NBC TI 01, item 12.2.3.4).
 * **2º Parêntese $\rightarrow$ (1) Papéis de trabalho:** São os documentos e registros dos fatos, informações e provas obtidos no curso da auditoria para dar suporte às conclusões e recomendações (NBC TI 01, item 12.1.2.2).
 * **3º Parêntese $\rightarrow$ (4) Amostragem:** Método de seleção aplicado a menos de 100% da população para extrair conclusão sobre o universo (NBC TI 01, item 12.2.4.1).
@@ -594,8 +584,6 @@ As Normas Internacionais para o exercício profissional da Auditoria Interna, pr
 * **E)** obriga o auditor interno a emitir parecer contábil com ressalva caso o plano de reorganização não atinja a meta financeira no trimestre seguinte.
 
 #### Gabarito: **B**
-
-**Comentário Analítico Alternativa por Alternativa:**
 * **A (Errada):** A avaliação objetiva de evidências com escopo e critérios definidos pelo auditor interno caracteriza os serviços de **avaliação (*assurance*)**, e não os serviços de consultoria.
 * **B (Certa):** Nos **serviços de consultoria (*consulting*)** prestados pela Auditoria Interna (como assessoria para redesenho de processos), a **natureza e o escopo do trabalho são definidos mediante acordo com o cliente do trabalho** (o gestor solicitante), conforme o IPPF do IIA.
 * **C (Errada):** A relação tripartite (proprietário do processo, auditor interno e usuário da avaliação) é típica dos trabalhos de **avaliação (*assurance*)**. Na consultoria, a relação é **bipartite** (auditor interno e cliente do trabalho).
@@ -618,8 +606,6 @@ Em uma organização de médio porte, a auditoria interna foi incumbida de avali
 * **E)** aplicação de procedimentos que permitam avaliar a eficácia dos controles internos, com foco nos riscos que possam impactar os objetivos organizacionais.
 
 #### Gabarito: **E**
-
-**Comentário Analítico Alternativa por Alternativa:**
 * **A (Errada):** Quem emite opinião sobre as demonstrações contábeis para acionistas e usuários externos é a **Auditoria Independente (Externa)**, regida pela NBC TA 200/700.
 * **B (Errada):** A NBC TI 01 (itens 12.2.2 e 12.2.4) respalda a auditoria baseada em riscos e o emprego de **técnicas de amostragem**, não exigindo o exame de 100% das transações independentemente do risco.
 * **C (Errada):** A Auditoria Interna (3ª linha) avalia os controles internos, mas **jamais substitui os gestores** (1ª e 2ª linhas) na execução cotidiana desses controles.
@@ -642,8 +628,6 @@ A adoção de modelos avançados de governança tem sido fortemente incentivada 
 * **E)** provedores externos de asseguração.
 
 #### Gabarito: **B**
-
-**Comentário Analítico Alternativa por Alternativa:**
 * **A (Errada):** A **primeira linha** compreende os papéis diretamente voltados à entrega de produtos ou serviços aos clientes da organização (gestão operacional na ponta).
 * **B (Certa):** De acordo com o Modelo das Três Linhas do IIA, os papéis da **segunda linha** consistem em fornecer assistência, expertise complementar, suporte, monitoramento e questionamento construtivo sobre o gerenciamento de riscos, incluindo funções específicas como *compliance* (conformidade legal/regulatória), controle interno de gestão, segurança da informação, ética e qualidade.
 * **C (Errada):** A **terceira linha** é exercida pela Auditoria Interna, caracterizada pela avaliação (*assurance*) independente e objetiva reportada ao órgão de governança.
@@ -666,8 +650,6 @@ De acordo com as disposições da NBC TI 01 — Da Auditoria Interna, durante a 
 * **E)** assumir interinamente a chefia do almoxarifado até que os controles internos sejam redesenhados e o risco residual seja zerado.
 
 #### Gabarito: **B**
-
-**Comentário Analítico Alternativa por Alternativa:**
 * **A (Errada):** O auditor interno não lavra autos de infração punitivos (ato exclusivo de autoridade administrativa/fiscal competente) nem cancela o plano anual por conta própria.
 * **B (Certa):** Conforme o item **12.3.2.1 da NBC TI 01**, a Auditoria Interna deve emitir **relatório parcial** na hipótese de constatar impropriedades, irregularidades ou ilegalidades que necessitem de **providências imediatas da administração da entidade**, e que **não possam aguardar o final dos exames**.
 * **C (Errada):** Viola duplamente a NBC TI 01: indícios ou confirmações de fraudes e irregularidades devem ser comunicados à administração **sempre por escrito** e de maneira reservada (item 12.1.3.1), e casos urgentes exigem relatório parcial imediato (item 12.3.2.1).
@@ -696,8 +678,6 @@ Segundo a terminologia estrita da NBC TI 01, os procedimentos executados em I, I
 * **E)** Inspeção Física; Indagação Verbal; Exame Documental.
 
 #### Gabarito: **B**
-
-**Comentário Analítico Alternativa por Alternativa:**
 * **Análise do Item I $\rightarrow$ Observação:** Conforme o item 12.2.3.3, "b", da NBC TI 01, a **observação** consiste no *"acompanhamento de processo ou procedimento quando de sua execução"*.
 * **Análise do Item II $\rightarrow$ Investigação e Confirmação:** Conforme o item 12.2.3.3, "c", da NBC TI 01, a **investigação e confirmação** consistem na *"obtenção de informações perante pessoas físicas ou jurídicas conhecedoras das transações e das operações, dentro ou fora da entidade"*.
 * **Análise do Item III $\rightarrow$ Inspeção:** Conforme o item 12.2.3.3, "a", da NBC TI 01, a **inspeção** consiste na *"verificação de registros, documentos e ativos tangíveis"*.
@@ -789,8 +769,6 @@ Uma auditoria interna identificou que o mesmo servidor de determinado órgão re
 * **E)** A única incompatibilidade existente está na participação do servidor no inventário anual; todas as demais atividades de recebimento, atesto e registro podem ser concentradas sem elevação do risco de controle.
 
 #### Gabarito: **C**
-
-**Comentário Analítico Alternativa por Alternativa:**
 * **A (Errada):** O vínculo estatutário/efetivo do servidor jamais substitui a segregação de funções nem elimina o risco de erro não intencional ou de fraude.
 * **B (Errada):** A essência do controle interno é primordialmente **preventiva e detectiva**. O fato de ainda não ter ocorrido (ou não ter sido descoberto) um furto não retira a vulnerabilidade grave no desenho do controle (*deficiência de desenho*).
 * **C (Certa):** Pelo princípio da **Segregação de Funções** (Princípio 10 do COSO I e NBC TI 01), as funções de **autorização/atesto, execução/custódia física, registro contábil/patrimonial e revisão/conferência (inventário)** são funções incompatíveis e devem ser atribuídas a pessoas diferentes para reduzir o risco de erro ou ocultação de fraude.
@@ -813,8 +791,6 @@ Bruno, auditor interno de uma entidade fechada de previdência complementar (EFP
 * **E)** A utilização de técnicas de auditoria auxiliadas por computador sobre dados extraídos do sistema dispensa a equipe de auditoria interna de possuir conhecimento sobre tecnologia da informação e de verificar a integridade dos dados anexados aos papéis de trabalho.
 
 #### Gabarito: **C**
-
-**Comentário Analítico Alternativa por Alternativa:**
 * **A (Errada):** Examinar 100% dos itens de uma população **não é amostragem** (pois amostragem, por definição, é a aplicação de procedimentos a *menos de 100%* dos itens da população). Além disso, jamais se dispensa a avaliação de riscos no planejamento (item 12.2.2.1 da NBC TI 01).
 * **B (Errada):** Mesmo testando 100% dos itens de uma população, o auditor obtém apenas **segurança razoável** (nunca absoluta), pois os dados de origem podem conter fraudes documentais externas ou o algoritmo de teste pode conter falhas.
 * **C (Certa):** Quando o auditor examina 100% da população, o **risco de amostragem é reduzido a zero** (pois não houve amostra), mas **permanece vivo o risco de não amostragem** (*non-sampling risk*), que é o risco de o auditor chegar a uma conclusão errônea por razões não ligadas ao tamanho da amostra (ex.: usar um procedimento inadequado, interpretar mal uma evidência ou trabalhar sobre uma base de dados corrompida/incompleta).

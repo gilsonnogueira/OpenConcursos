@@ -2,16 +2,17 @@
 id: AUD-03-07
 titulo: "Eventos Subsequentes (NBC TA 560), Continuidade Operacional (NBC TA 570) e Representações Formais (NBC TA 580)"
 disciplina: "Auditoria"
-bancas_prioritarias: ["FGV", "Cebraspe", "FCC", "Vunesp"]
-relevancia_edital: "Altíssima (Tríade de Fechamento do Ciclo Operacional e Transição para o Relatório)"
-ultima_revisao: "2026-10-28"
-tags: ["nbc-ta-560", "eventos-subsequentes", "cpc-24", "dupla-datacao", "nbc-ta-570", "continuidade-operacional", "going-concern", "incerteza-relevante", "nbc-ta-580", "representacoes-formais", "carta-de-responsabilidade"]
+eixo: "03 - Ciclo Operacional da Auditoria Independente"
+bancas_prioritarias: ["FGV", "Cebraspe", "FCC"]
+relevancia_edital: "Altíssima"
+ultima_revisao: "2026-10-29"
+tags: ["nbc-ta-560", "eventos-subsequentes", "nbc-ta-570", "continuidade-operacional", "nbc-ta-580", "carta-de-responsabilidade"]
 ---
 
 # Eventos Subsequentes (NBC TA 560), Continuidade Operacional (NBC TA 570) e Representações Formais (NBC TA 580)
 
 > [!IMPORTANT]
-> > Na reta final do ciclo de auditoria, antes de assinar seu relatório, o auditor deve cumprir três normas vitais: **NBC TA 560**, **NBC TA 570** e **NBC TA 580**. Na **NBC TA 560 (Eventos Subsequentes)**, a responsabilidade do auditor divide-se em **três fases temporais**: (1) até a data do seu relatório, ele tem **dever ativo** de executar procedimentos para identificar eventos subsequentes; (2) após a data do relatório e antes da divulgação, e (3) após a divulgação das demonstrações, ele **não tem dever ativo** de busca, mas se tomar conhecimento de fato relevante deve agir (podendo utilizar a **dupla datação** ou emitir novo relatório com parágrafo de Ênfase/Outros Assuntos). Na **NBC TA 570 (Continuidade Operacional)**, se o pressuposto de continuidade for **inapropriado**, o auditor emite **Opinião Adversa**; se o pressuposto for apropriado mas existir **incerteza relevante**: com divulgação adequada emite **Opinião Não Modificada + seção separada *"Incerteza Relevante Relacionada com a Continuidade Operacional"***, e com divulgação inadequada/omissa emite **Opinião com Ressalva ou Adversa**. Por fim, na **NBC TA 580 (Representações Formais)**, a carta da administração **não substitui** evidência de auditoria disponível, sua data **nunca pode ser posterior** à data do relatório do auditor, e a **recusa da administração** em fornecê-la (ou dúvida grave sobre sua integridade) impõe obrigatoriamente a **Abstenção de Opinião**.
+> Na reta final do ciclo de auditoria, antes de assinar seu relatório, o auditor deve cumprir três normas vitais: **NBC TA 560**, **NBC TA 570** e **NBC TA 580**. Na **NBC TA 560 (Eventos Subsequentes)**, a responsabilidade do auditor divide-se em **três fases temporais**: (1) até a data do seu relatório, ele tem **dever ativo** de executar procedimentos para identificar eventos subsequentes; (2) após a data do relatório e antes da divulgação, e (3) após a divulgação das demonstrações, ele **não tem dever ativo** de busca, mas se tomar conhecimento de fato relevante deve agir (podendo utilizar a **dupla datação** ou emitir novo relatório com parágrafo de Ênfase/Outros Assuntos). Na **NBC TA 570 (Continuidade Operacional)**, se o pressuposto de continuidade for **inapropriado**, o auditor emite **Opinião Adversa**; se o pressuposto for apropriado mas existir **incerteza relevante**: com divulgação adequada emite **Opinião Não Modificada + seção separada *"Incerteza Relevante Relacionada com a Continuidade Operacional"***, e com divulgação inadequada/omissa emite **Opinião com Ressalva ou Adversa**. Por fim, na **NBC TA 580 (Representações Formais)**, a carta da administração **não substitui** evidência de auditoria disponível, sua data **nunca pode ser posterior** à data do relatório do auditor, e a **recusa da administração** em fornecê-la (ou dúvida grave sobre sua integridade) impõe obrigatoriamente a **Abstenção de Opinião**.
 
 ---
 
@@ -311,7 +312,7 @@ flowchart TD
 
 ---
 
-## 6. Bateria de Questões Oficiais Comentadas Alternativa por Alternativa
+## 6. Questões Paradigmáticas Aplicadas
 
 ### [Questão 01](https://www.qconcursos.com/questoes-de-concursos/questoes/f6211900-0b) — [FGV — Receita Federal / Auditor-Fiscal — 2023]
 
@@ -322,8 +323,7 @@ Em relação ao tratamento contábil e de auditoria dos eventos subsequentes nos
 * **D)** O anúncio oficial, em 12/01/20X2, de um plano de descontinuação de uma unidade operacional e início de programa de demissão voluntária.
 * **E)** A emissão de debêntures conversíveis em ações realizada pela companhia em 30/01/20X2 para financiar a expansão de suas plantas industriais.
 
-**Gabarito Oficial:** **B**
-
+#### Gabarito: **B**
 **Comentários Analíticos Alternativa por Alternativa:**
 * **A (Errada):** O incêndio ocorrido em 18/01/20X2 é indicativo de condição que surgiu **após** 31/12/20X1 (Evento Subsequente Tipo 2 — não origina ajuste, apenas divulgação em nota explicativa se relevante, visto que não destruiu a continuidade operacional).
 * **B (Certa):** Conforme o item 9(b)(i) do CPC 24 e a NBC TA 560, a falência de um cliente ocorrida após o período contábil a que se referem as demonstrações normalmente confirma que o cliente já estava com problemas financeiros e que a perda já existia no final daquele período, constituindo um **evento subsequente que origina ajuste** nas demonstrações contábeis de 31/12/20X1.
@@ -344,8 +344,7 @@ De acordo com a NBC TA 570 (Continuidade Operacional), quando o auditor conclui 
 * **D)** expressar uma opinião não modificada e descrever a incerteza exclusivamente dentro da seção de *"Principais Assuntos de Auditoria (PAA)"*, sem criar seção específica de continuidade operacional.
 * **E)** expressar uma opinião adversa, uma vez que a existência de incerteza relevante invalida automaticamente o pressuposto de continuidade operacional.
 
-**Gabarito Oficial:** **C**
-
+#### Gabarito: **C**
 **Comentários Analíticos Alternativa por Alternativa:**
 * **A (Errada):** A opinião com ressalva só seria emitida se a divulgação nas notas explicativas fosse **inadequada ou omissa** (item 23) ou se a administração se recusasse a fazer a avaliação (item 24).
 * **B (Errada):** A existência de uma incerteza relevante devidamente auditada e adequadamente divulgada nas notas explicativas não configura limitação de escopo para abstenção de opinião.
@@ -366,8 +365,7 @@ Acerca das disposições da NBC TA 560 (Eventos Subsequentes) sobre fatos que ch
 * **D)** É terminantemente vedado ao auditor alterar a data do seu relatório ou incluir data adicional após a assinatura original dos papéis de trabalho.
 * **E)** O auditor somente deve discutir o fato com a administração caso o evento subsequente tenha sido provocado por fraude dolosa dos próprios diretores.
 
-**Gabarito Oficial:** **B**
-
+#### Gabarito: **B**
 **Comentários Analíticos Alternativa por Alternativa:**
 * **A (Errada):** O item 10 da NBC TA 560 estabelece expressamente que o auditor **não tem obrigação de executar nenhum procedimento de auditoria** em relação às demonstrações contábeis após a data do seu relatório.
 * **B (Certa):** Reflete exatamente o disposto no item 12, alíneas (a) e (b), da NBC TA 560: quando a legislação ou a estrutura não proíbe restringir a alteração das demonstrações aos efeitos do evento subsequente, o auditor está autorizado a limitar a extensão dos procedimentos de eventos subsequentes a essa alteração e pode **ou** alterar o relatório para incluir uma **data adicional restrita a essa alteração** (*dupla datação*) **ou** fornecer um **relatório novo ou alterado** que inclua declaração em **Parágrafo de Ênfase** ou em **Parágrafo de Outros Assuntos** informando que os procedimentos sobre eventos subsequentes se restringiram exclusivamente à alteração descrita na nota explicativa.
@@ -388,8 +386,7 @@ De acordo com a NBC TA 580 (Representações Formais), na fase de conclusão dos
 * **D)** se a administração se recusar a fornecer as representações formais obrigatórias sobre o cumprimento de suas responsabilidades na elaboração das demonstrações contábeis, o auditor deve emitir uma opinião com ressalva.
 * **E)** as representações formais incluem os livros contábeis diário e razão, bem como os quadros demonstrativos do balanço patrimonial e da demonstração do resultado.
 
-**Gabarito Oficial:** **A**
-
+#### Gabarito: **A**
 **Comentários Analíticos Alternativa por Alternativa:**
 * **A (Certa):** Transcrição literal do item 14 da NBC TA 580: *"A data das representações formais deve ser tão próxima quanto praticável, mas não posterior, à data do relatório do auditor sobre as demonstrações contábeis"*.
 * **B (Errada):** Conforme os itens 3 e 4 da NBC TA 580, as representações formais **não fornecem, por si sós, evidência de auditoria apropriada e suficiente** sobre qualquer um dos assuntos a que se referem e não substituem outras evidências que se espera estarem disponíveis.
@@ -410,8 +407,7 @@ Durante a auditoria das demonstrações contábeis de uma sociedade empresária 
 * **D)** abstenção de opinião, por impossibilidade de mensurar os valores de liquidação forçada dos ativos.
 * **E)** opinião adversa, independentemente de as demonstrações contábeis incluírem ou não divulgação sobre a inadequação do uso do pressuposto de continuidade operacional pela administração.
 
-**Gabarito Oficial:** **E**
-
+#### Gabarito: **E**
 **Comentários Analíticos Alternativa por Alternativa:**
 * **A e B (Erradas):** A opinião não modificada com seção de incerteza relevante só se aplica quando o uso do pressuposto de continuidade operacional é **apropriado** (item 22). Quando o uso do pressuposto é **inapropriado**, jamais cabe opinião não modificada.
 * **C (Errada):** Elaborar o balanço inteiro sob um pressuposto contábil inapropriado gera distorção relevante e **generalizada** em todas as demonstrações contábeis, não cabendo simples ressalva.
@@ -431,8 +427,7 @@ Após a divulgação das demonstrações contábeis e do respectivo relatório d
 * **D)** expressar obrigatoriamente uma opinião adversa, ainda que a administração tenha corrigido integralmente a distorção nas novas demonstrações contábeis.
 * **E)** ser assinado exclusivamente pelo Conselho de Administração em conjunto com o auditor interno da companhia.
 
-**Gabarito Oficial:** **B**
-
+#### Gabarito: **B**
 **Comentários Analíticos Alternativa por Alternativa:**
 * **A (Errada):** É estritamente obrigatório alertar os usuários sobre a substituição das demonstrações anteriormente divulgadas e do relatório anterior.
 * **B (Certa):** Transcreve literalmente o comando do item 16 da NBC TA 560: quando as demonstrações contábeis são alteradas após a sua divulgação, o auditor deve incluir no relatório de auditoria novo ou alterado um **Parágrafo de Ênfase** ou um **Parágrafo de Outros Assuntos**, fazendo referência à **nota explicativa** que descreve mais detalhadamente a razão da alteração das demonstrações contábeis anteriormente divulgadas e ao **relatório anterior fornecido pelo auditor**.
@@ -457,8 +452,7 @@ Está correto o que se afirma em:
 * **D)** II e III, apenas.
 * **E)** I, II e III.
 
-**Gabarito Oficial:** **E**
-
+#### Gabarito: **E**
 **Comentários Analíticos Alternativa por Alternativa:**
 * **Item I (Certo):** Corresponde literalmente ao item 7(c) da NBC TA 560.
 * **Item II (Certo):** Corresponde literalmente ao item 7(d) da NBC TA 560.
@@ -478,8 +472,7 @@ De acordo com a NBC TA 570 (Continuidade Operacional), na avaliação da avalia�
 * **D)** emitir imediatamente uma opinião adversa por descumprimento da estrutura conceitual de contabilidade.
 * **E)** reportar o fato em parágrafo de outros assuntos sem solicitar qualquer complementação à diretoria da entidade.
 
-**Gabarito Oficial:** **C**
-
+#### Gabarito: **C**
 **Comentários Analíticos Alternativa por Alternativa:**
 * **A (Errada):** O período mínimo normativo é de **12 meses** a partir da data das demonstrações contábeis (item 13 da NBC TA 570 e CPC 26).
 * **B (Errada):** Conforme o item A35 da NBC TA 570, não é responsabilidade do auditor retificar a falta de análise da administração elaborando ele mesmo a avaliação que compete à administração.
@@ -500,8 +493,7 @@ A respeito do tratamento de inconsistências ou dúvidas quanto à confiabilidad
 * **D)** As representações formais podem ser prestadas exclusivamente de forma verbal em reunião gravada com o Conselho Fiscal, dispensando-se a forma escrita.
 * **E)** O auditor independente deve redigir e assinar sozinho a carta de representação formal caso o Diretor Financeiro esteja em viagem internacional na data do relatório.
 
-**Gabarito Oficial:** **B**
-
+#### Gabarito: **B**
 **Comentários Analíticos Alternativa por Alternativa:**
 * **A (Errada):** Conforme o item 16 da NBC TA 580, se as representações formais forem inconsistentes com outra evidência de auditoria, o auditor **deve executar procedimentos de auditoria para tentar resolver o assunto** e, se o assunto permanecer não resolvido, reconsiderar a avaliação da competência, integridade, valores éticos ou diligência da administração.
 * **B (Certa):** Reproduz literalmente o item 20(a) da NBC TA 580: o auditor **deve se abster de expressar uma opinião** sobre as demonstrações contábeis de acordo com a NBC TA 705 se concluir que há dúvidas suficientes sobre a integridade da administração, de tal modo que as representações formais exigidas pelos itens 10 e 11 não são confiáveis.
@@ -522,8 +514,7 @@ Na auditoria de uma instituição, o auditor identificou incerteza relevante rel
 * **D)** expressar uma opinião não modificada e incluir a seção *"Incerteza Relevante Relacionada com a Continuidade Operacional"*.
 * **E)** aguardar pelo prazo de até um ano após o encerramento do exercício para verificar o desfecho da renegociação antes de emitir seu relatório.
 
-**Gabarito Oficial:** **B**
-
+#### Gabarito: **B**
 **Comentários Analíticos Alternativa por Alternativa:**
 * **A e D (Erradas):** O auditor jamais pode emitir opinião não modificada nem usar Parágrafo de Ênfase/Outros Assuntos ou a seção do item 22 para "consertar" uma omissão relevante de nota explicativa que era obrigação da administração divulgar!
 * **B (Certa):** Transcreve com fidelidade absoluta o item 23, alíneas (a) e (b), da NBC TA 570: se não for feita divulgação adequada sobre a incerteza relevante nas demonstrações contábeis, o auditor **deve expressar uma opinião com ressalva ou uma opinião adversa**, conforme apropriado de acordo com a NBC TA 705, e declarar na seção *"Base para a Opinião com Ressalva (ou Adversa)"* que existe uma incerteza relevante que pode levantar dúvida significativa quanto à capacidade da entidade de manter sua continuidade operacional e que as demonstrações contábeis não divulgam adequadamente esse assunto.
@@ -546,8 +537,6 @@ Na hipótese de a administração de uma entidade alterar as demonstrações con
 * **E)** O auditor deve emitir parecer com abstenção de opinião sempre que houver alteração de notas explicativas após o encerramento do trabalho de campo.
 
 #### Gabarito: **B**
-
-**Comentário Analítico Alternativa por Alternativa:**
 * **A (Errada):** É terminantemente proibido retroagir a data do relatório (antidatar); a data do relatório deve refletir a data em que o auditor obteve evidência suficiente e apropriada para fundamentar sua opinião.
 * **B (Certa):** Reflete com fidelidade o item 12 da NBC TA 560: quando a lei ou as normas permitem que a administração limite a alteração das demonstrações contábeis aos efeitos do evento subsequente que causou a alteração, o auditor pode limitar os procedimentos a essa alteração e: (a) alterar o relatório para incluir uma **data adicional restrita à alteração (data dupla / *dual dating*)**, indicando que os procedimentos sobre eventos subsequentes estão restritos à alteração descrita na respectiva nota explicativa; ou (b) emitir um relatório novo ou reemitido com nova data integral.
 * **C (Errada):** O uso de data dupla é expressamente facultado pela NBC TA 560, item 12(a), exatamente para evitar o custo e o tempo de reabertura integral dos testes em áreas que não foram afetadas pelo evento subsequente.
@@ -569,8 +558,6 @@ De acordo com a NBC TA 580 (Representações Formais), se a administração da e
 * **E)** Presumir que o controle interno opera com eficácia máxima e emitir relatório com opinião favorável plena.
 
 #### Gabarito: **B**
-
-**Comentário Analítico Alternativa por Alternativa:**
 * **A (Errada):** O relatório de auditoria é documento formal e público; não existe "ressalva verbal em assembleia" que substitua a modificação escrita do relatório.
 * **B (Certa):** Literalidade categórica dos itens 19 e 20 da NBC TA 580: se a administração não fornecer uma ou mais das representações formais requeridas sobre o cumprimento de sua responsabilidade pela elaboração das demonstrações e integridade dos dados fornecidos, o auditor deve: (a) discutir o assunto com a administração; (b) reavaliar a integridade da administração e o impacto na confiabilidade das representações em geral; e (c) **abster-se de emitir opinião sobre as demonstrações contábeis** de acordo com a NBC TA 705!
 * **C (Errada):** As representações formais sobre as demonstrações contábeis constituem dever privativo e indelegável da administração (gestores da entidade), não podendo ser substituídas por terceiros ou advogados.

@@ -1,16 +1,17 @@
 ---
-id: AUD-301
+id: AUD-03-01
 titulo: "Planejamento da Auditoria (NBC TA 210, 300 e 510) e Documentação de Auditoria (NBC TA 230)"
 disciplina: "Auditoria"
+eixo: "03 - Ciclo Operacional da Auditoria Independente"
 bancas_prioritarias: ["FGV", "Cebraspe", "FCC"]
-relevancia_edital: "Crítica (Top 2 de Incidência em Provas Fiscais e de Controle)"
-ultima_revisao: "2026-10-28"
-tags: ["planejamento", "nbc-ta-210", "termos-do-trabalho", "carta-de-contratacao", "nbc-ta-300", "estrategia-global", "plano-de-auditoria", "nbc-ta-510", "saldos-iniciais", "auditoria-inicial", "documentacao-de-auditoria", "nbc-ta-230", "papeis-de-trabalho", "auditor-experiente", "arquivo-final", "prazo-retencao"]
+relevancia_edital: "Crítica"
+ultima_revisao: "2026-10-29"
+tags: ["planejamento", "nbc-ta-210", "nbc-ta-300", "nbc-ta-510", "nbc-ta-230", "papeis-de-trabalho"]
 ---
 
 # Planejamento da Auditoria (NBC TA 210, 300 e 510) e Documentação de Auditoria (NBC TA 230)
 
-> > O ciclo operacional da auditoria independente inicia-se antes mesmo da ida a campo, mediante a verificação das **Condições Prévias** e a formalização da **Carta de Contratação (NBC TA 210)**, sendo vedado aceitar o trabalho quando a administração impuser limitação de escopo prévia que conduza à **abstenção de opinião** (salvo exigência legal). Uma vez aceito o encargo, o **Planejamento da Auditoria (NBC TA 300)** desenvolve-se como um **processo contínuo, dinâmico e iterativo** que estrutura duas peças hierárquicas e interdependentes: a **Estratégia Global de Auditoria** (visão macro: alcance, época, direção e alocação de **recursos**) e o **Plano de Auditoria** (visão micro/operacional: natureza, época e extensão dos **procedimentos** de avaliação de riscos e procedimentos adicionais). Em **Auditorias Iniciais (NBC TA 510)**, o auditor deve obter evidência suficiente sobre os **saldos iniciais** e a uniformidade das políticas contábeis. Por fim, todo o trabalho deve ser materializado na **Documentação de Auditoria / Papéis de Trabalho (NBC TA 230)** sob o crivo objetivo do **Auditor Experiente** (sem conexão prévia com o trabalho), devendo a montagem administrativa do arquivo final ser concluída em até **60 dias** após a data do relatório e os arquivos custodiados pelo prazo mínimo de **5 (cinco) anos**.
+> O ciclo operacional da auditoria independente inicia-se antes mesmo da ida a campo, mediante a verificação das **Condições Prévias** e a formalização da **Carta de Contratação (NBC TA 210)**, sendo vedado aceitar o trabalho quando a administração impuser limitação de escopo prévia que conduza à **abstenção de opinião** (salvo exigência legal). Uma vez aceito o encargo, o **Planejamento da Auditoria (NBC TA 300)** desenvolve-se como um **processo contínuo, dinâmico e iterativo** que estrutura duas peças hierárquicas e interdependentes: a **Estratégia Global de Auditoria** (visão macro: alcance, época, direção e alocação de **recursos**) e o **Plano de Auditoria** (visão micro/operacional: natureza, época e extensão dos **procedimentos** de avaliação de riscos e procedimentos adicionais). Em **Auditorias Iniciais (NBC TA 510)**, o auditor deve obter evidência suficiente sobre os **saldos iniciais** e a uniformidade das políticas contábeis. Por fim, todo o trabalho deve ser materializado na **Documentação de Auditoria / Papéis de Trabalho (NBC TA 230)** sob o crivo objetivo do **Auditor Experiente** (sem conexão prévia com o trabalho), devendo a montagem administrativa do arquivo final ser concluída em até **60 dias** após a data do relatório e os arquivos custodiados pelo prazo mínimo de **5 (cinco) anos**.
 
 ---
 
@@ -544,7 +545,7 @@ A firma *Alfa Auditores Independentes* foi contratada em **agosto de 2025** para
 
 ---
 
-## 8. Questões Oficiais Comentadas
+## 8. Questões Paradigmáticas Aplicadas
 
 ### [Questão 01](https://www.qconcursos.com/questoes-de-concursos/questoes/8a211894-5c) — [FGV — Receita Federal / Auditor-Fiscal — 2023]
 
@@ -557,9 +558,7 @@ Assinale a opção que apresenta o procedimento **correto** do auditor caso conc
 * **D)** O auditor deve emitir dois relatórios simultâneos: um com abstenção de opinião sobre a auditoria interrompida e outro com conclusão de revisão sobre o novo trabalho.
 * **E)** O auditor só pode omitir a referência aos procedimentos executados na auditoria original se o trabalho for alterado para procedimentos previamente acordados (NBC TSC 4400).
 
-**Gabarito Oficial:** **C**
-
-**Comentário Analítico Alternativa por Alternativa:**
+#### Gabarito: **C**
 * **A (Errada):** A NBC TA 210 (Itens 14 e 15) permite que o auditor concorde com a mudança para um trabalho de nível mais baixo de asseguração **quando houver justificativa razoável** (como mudança nas circunstâncias que afete a necessidade do serviço ou mal-entendido quanto à natureza do trabalho original).
 * **B (Errada):** Conforme o **item 16 da NBC TA 210**, para não confundir o leitor do relatório, o relatório sobre o novo serviço **NÃO deve incluir referência** ao trabalho de auditoria original ou a quaisquer procedimentos que possam ter sido executados no trabalho original.
 * **C (Certa):** Reproduz com exatidão os **itens 15 e 16 da NBC TA 210**: havendo justificativa razoável, os novos termos são registrados em carta de contratação, o auditor aplica as normas do novo trabalho (revisão) e emite o relatório apropriado **sem mencionar** a auditoria original nem os procedimentos nela realizados.
@@ -581,9 +580,7 @@ Sobre a relação e o conteúdo desses dois instrumentos de planejamento, assina
 * **D)** A descrição da natureza, da época e da extensão dos procedimentos planejados de avaliação de risco (NBC TA 315) integra exclusivamente a estratégia global de auditoria.
 * **E)** O auditor deve submeter o plano de auditoria detalhado à aprovação prévia da diretoria financeira da entidade auditada para garantir a validade jurídica das evidências coletadas.
 
-**Gabarito Oficial:** **B**
-
-**Comentário Analítico Alternativa por Alternativa:**
+#### Gabarito: **B**
 * **A (Errada):** O **plano de auditoria é MAIS detalhado** que a estratégia global de auditoria (NBC TA 300, Item A11), e a definição das datas de entrega e objetivos de relatório pertence à **estratégia global** (Item 8, "b").
 * **B (Certa):** Literalidade dos **itens 7 e 8 ("e") da NBC TA 300**: a estratégia global define o alcance, a época e a direção da auditoria e inclui a determinação da natureza, da época e da extensão dos **recursos** necessários para realizar o trabalho.
 * **C (Errada):** Segundo o item A11, os dois processos **não são necessariamente isolados ou sequenciais**, mas intimamente inter-relacionados; além disso, o item 10 exige que o auditor **atualize e altere** ambos sempre que necessário no curso da auditoria.
@@ -603,9 +600,7 @@ Sobre a relação e o conteúdo desses dois instrumentos de planejamento, assina
 * **D)** Na montagem do arquivo final de auditoria, o auditor dispõe do prazo de até 90 dias para concluir procedimentos substantivos complementares que confirmem as conclusões preliminares do relatório.
 * **E)** Após a conclusão da montagem do arquivo final de auditoria, o auditor pode descartar papéis de trabalho considerados de baixo risco desde que decorridos 2 anos da data do relatório.
 
-**Gabarito Oficial:** **C**
-
-**Comentário Analítico Alternativa por Alternativa:**
+#### Gabarito: **C**
 * **A (Errada):** Conforme o item 7 e A1 da NBC TA 230, a documentação deve ser elaborada **durante a execução do trabalho**, antes da finalização do relatório; a documentação elaborada após o trabalho tende a ser menos precisa.
 * **B (Errada):** Viola frontalmente o **item 11 da NBC TA 230**: se o auditor identificar informações inconsistentes com a sua conclusão final sobre um assunto significativo, ele **deve documentar como tratou essa inconsistência**, jamais descartá-la!
 * **C (Certa):** Reproduz integralmente a regra de ouro do **item 8 da NBC TA 230** (o padrão objetivo do *Auditor Experiente*).
@@ -627,9 +622,7 @@ Nessa hipótese, de acordo com a NBC TA 510, assinale a alternativa **correta**.
 * **D)** O recebimento de contas a receber e o pagamento de contas a pagar durante o exercício de $20\text{X}2$ podem fornecer alguma evidência de auditoria sobre a existência, direitos e obrigações, integridade e avaliação desses saldos no início do período.
 * **E)** Se o relatório do auditor antecessor sobre $20\text{X}1$ contiver uma opinião com ressalva cujo efeito permaneça relevante e material para as demonstrações de $20\text{X}2$, o auditor atual deve emitir opinião limpa e apenas mencionar o fato em parágrafo de Outros Assuntos.
 
-**Gabarito Oficial:** **D**
-
-**Comentário Analítico Alternativa por Alternativa:**
+#### Gabarito: **D**
 * **A (Errada):** Segundo o item A6 da NBC TA 510, os procedimentos sobre o saldo final do estoque proporcionam **pouca evidência** a respeito do estoque em existência no início do período, exigindo procedimentos adicionais (conciliação retroativa, avaliação e testes de corte/lucro bruto).
 * **B (Errada):** O auditor atual assume responsabilidade integral pela sua opinião e é proibido de dividir a responsabilidade no relatório (NBC TA 600 / NBC TA 700).
 * **C (Errada):** A incapacidade de obter evidência suficiente configura **limitação de escopo**, que gera **Opinião com Ressalva ou Abstenção de Opinião** (Item 10), e nunca Opinião Adversa; ademais, o item A8 permite opinião limpa sobre o Balanço Patrimonial e modificada apenas sobre a DRE e a DFC.
@@ -651,9 +644,7 @@ Considerando o disposto na NBC TA 210, e sabendo que não há determinação leg
 * **D)** Aceitar o trabalho e substituir os testes nas controladas por uma Carta de Representação da Administração (NBC TA 580).
 * **E)** Aceitar o trabalho e emitir uma opinião com ressalva restrita às receitas das controladas.
 
-**Gabarito Oficial:** **C**
-
-**Comentário Analítico Alternativa por Alternativa:**
+#### Gabarito: **C**
 * **A, B e E (Erradas):** O **item 7 da NBC TA 210** é taxativo: se a administração ou os responsáveis pela governança impuserem uma limitação no alcance do trabalho do auditor nos termos de um trabalho de auditoria proposto, de tal forma que o auditor acredite que a limitação resultará na **abstenção de opinião** sobre as demonstrações contábeis, **o auditor NÃO deve aceitar esse trabalho limitado como trabalho de auditoria**, a menos que seja exigido por lei ou regulamento a fazê-lo.
 * **C (Certa):** Aplicação direta do comando proibitivo do **item 7 da NBC TA 210**.
 * **D (Errada):** Representações formais da administração (NBC TA 580) **jamais substituem** a evidência de auditoria apropriada e suficiente que o auditor deveria obter.
@@ -673,9 +664,7 @@ Nessa situação, de acordo com a NBC TA 230, o auditor deve:
 * **D)** Emitir obrigatoriamente uma opinião com ressalva no relatório de auditoria em razão do descumprimento do requisito normativo.
 * **E)** Registrar o afastamento apenas verbalmente em reunião com o sócio do trabalho, sendo vedado constar tal fato nos papéis de trabalho para não fragilizar a firma perante inspeções externas.
 
-**Gabarito Oficial:** **B**
-
-**Comentário Analítico Alternativa por Alternativa:**
+#### Gabarito: **B**
 * **A (Errada):** Tanto a NBC TA 200 (Item 22) quanto a NBC TA 230 (Item 12) preveem a possibilidade excepcional de afastamento de requisito relevante quando o procedimento exigido for ineficaz para atingir a finalidade do requisito nas circunstâncias específicas.
 * **B (Certa):** Reproduz com perfeição o **item 12 da NBC TA 230**: se, em circunstâncias excepcionais, o auditor julgar necessário deixar de cumprir um requisito relevante de uma norma de auditoria, ele deve documentar **como os procedimentos alternativos executados alcançam a finalidade daquele requisito** e **as razões para o não cumprimento**.
 * **C (Errada):** A administração ou a governança do cliente não têm competência técnica nem legal para dispensar o auditor do cumprimento das normas profissionais do CFC.
@@ -702,9 +691,7 @@ De acordo com a NBC TA 230, são procedimentos permitidos durante o processo adm
 * **D)** I, III e IV.
 * **E)** I, II, III e IV.
 
-**Gabarito Oficial:** **B**
-
-**Comentário Analítico Alternativa por Alternativa:**
+#### Gabarito: **B**
 * **Item I (Certo):** Apagar ou descartar documentação superada (rascunhos) é expressamente permitido pelo **item A22 da NBC TA 230**.
 * **Item II (Certo):** Selecionar, ordenar e fazer referências cruzadas de papéis de trabalho é procedimento administrativo permitido pelo **item A22**.
 * **Item III (Errado):** O processo de montagem do arquivo final é **estritamente administrativo** e **NÃO envolve a execução de novos procedimentos de auditoria** (como enviar novas circularizações) ou a obtenção de novas conclusões!
@@ -724,9 +711,7 @@ No que se refere às atividades preliminares do trabalho de auditoria e à docum
 * **D)** Em auditorias de entidades de pequeno porte, o auditor está dispensado de documentar a estratégia global de auditoria e o plano de auditoria nos papéis de trabalho.
 * **E)** O aumento no risco avaliado de distorção relevante para uma determinada área da auditoria permite ao sócio do trabalho reduzir a extensão da supervisão e revisão sobre a equipe, concentrando esforços apenas na emissão do relatório.
 
-**Gabarito Oficial:** **C**
-
-**Comentário Analítico Alternativa por Alternativa:**
+#### Gabarito: **C**
 * **A (Errada):** Conforme os itens 6 e A5 da NBC TA 300, as atividades preliminares são realizadas **no início do trabalho de auditoria corrente**, auxiliando na identificação e avaliação de eventos que possam afetar a capacidade do auditor de planejar e realizar o trabalho *antes* das demais atividades.
 * **B (Errada):** A avaliação da conformidade com os requisitos éticos relevantes, inclusive a independência, é uma das três **atividades preliminares obrigatórias** do item 6 da NBC TA 300.
 * **C (Certa):** Reproduz literalmente o **item 12 ("a", "b" e "c") da NBC TA 300** sobre a documentação obrigatória do planejamento.
@@ -746,9 +731,7 @@ Em relação ao registro das características identificadoras dos itens ou assun
 * **D)** A exigência de registrar quem revisou o trabalho de auditoria executado implica a obrigatoriedade de que cada página individual dos papéis de trabalho contenha a rubrica física e o carimbo do sócio revisor.
 * **E)** Caso o auditor realize um procedimento de observação da contagem de estoques, basta registrar a palavra "Observado" no programa de auditoria, sem necessidade de identificar onde, quando e quais indivíduos foram observados.
 
-**Gabarito Oficial:** **B**
-
-**Comentário Analítico Alternativa por Alternativa:**
+#### Gabarito: **B**
 * **A (Errada):** O registro das características identificadoras dos itens ou assuntos específicos testados é **obrigatório** ao documentar a natureza, a época e a extensão dos procedimentos executados (NBC TA 230, Item 9, "a").
 * **B (Certa):** Literalidade do **item A12 da NBC TA 230**: em uma amostragem sistemática, o auditor identifica os documentos selecionados registrando a **fonte, o ponto de partida e o intervalo de amostragem**.
 * **C (Errada):** Explicações verbais, por si sós, **não representam documentação adequada** (Item A5).
@@ -768,9 +751,7 @@ Sobre as auditorias recorrentes e os termos do trabalho de auditoria regulados p
 * **D)** Nas auditorias recorrentes, a administração fica eximida da responsabilidade pelo controle interno a partir do segundo ano de contrato, transferindo tal responsabilidade para a firma de auditoria independente.
 * **E)** O auditor independente não pode incluir na carta de contratação qualquer menção à utilização do trabalho de auditores internos ou de especialistas, pois tais temas são sigilosos.
 
-**Gabarito Oficial:** **B**
-
-**Comentário Analítico Alternativa por Alternativa:**
+#### Gabarito: **B**
 * **A (Errada):** Conforme o item 13 da NBC TA 210, em auditorias recorrentes o auditor **avalia se as circunstâncias exigem** que os termos sejam revistos ou se há necessidade de lembrar a entidade; não há obrigação automática de emitir nova carta todo ano quando nada mudou.
 * **B (Certa):** Expressa fielmente os fatores listados no **item A30 da NBC TA 210** que justificam a revisão dos termos ou o reenvio da carta de contratação em auditorias recorrentes.
 * **C (Errada):** Conforme o **item 21 da NBC TA 210**, nesse caso o auditor **não deve aceitar** o trabalho (salvo exigência legal) e, se for obrigado por lei a realizá-lo, **NÃO deve incluir no relatório qualquer referência** de que a auditoria foi conduzida de acordo com as NBC TAs!
@@ -794,8 +775,6 @@ A respeito da montagem do arquivo final de documentação de auditoria e do praz
 * **E)** Após a conclusão da montagem do arquivo final, o auditor é expressamente proibido de adicionar novas informações à documentação de auditoria, mesmo que surjam fatos novos excepcionais.
 
 #### Gabarito: **B**
-
-**Comentário Analítico Alternativa por Alternativa:**
 * **A (Errada):** A montagem do arquivo final é um processo puramente **administrativo** que não envolve a realização de novos procedimentos de auditoria ou a extração de novas conclusões (item A21 da NBC TA 230).
 * **B (Certa):** Conforme o item A21 da NBC TA 230 (R1), o prazo ordinário apropriado para concluir a montagem do arquivo final de documentação de auditoria não é geralmente superior a **60 dias após a data do relatório do auditor**.
 * **C (Errada):** Conforme o item A23 da NBC TA 230 (e NBC PA 01), o período de retenção da documentação de auditoria não é de apenas dois anos, mas de, no mínimo, **cinco (5) anos** a partir da data do relatório do auditor independente.
@@ -823,8 +802,6 @@ Assinale a opção correta:
 * **E)** Todos os itens estão certos.
 
 #### Gabarito: **C**
-
-**Comentário Analítico Alternativa por Alternativa:**
 * **Item I (Certo):** Transcreve fielmente o item 7 da NBC TA 300: a estratégia global define o alcance, época e direcionamento do trabalho, servindo de guia para o plano de auditoria.
 * **Item II (Errado):** O plano de auditoria é **MAIS detalhado** do que a estratégia global (item 9 da NBC TA 300), pois engloba a natureza, época e extensão dos procedimentos de avaliação de riscos e dos procedimentos adicionais de auditoria no nível das afirmações.
 * **Item III (Certo):** Reflete com precisão o item 10 da NBC TA 300: o planejamento não é uma fase estática e isolada da auditoria, mas um processo contínuo e iterativo que deve ser atualizado e alterado sempre que circunstâncias imprevistas ou novas evidências assim exigirem.
