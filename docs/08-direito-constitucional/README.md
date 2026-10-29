@@ -83,9 +83,9 @@ flowchart TD
 ### Eixo 03: Organização do Estado e Administração Pública
 | Arquivo | Tópicos Principais e Normas Primárias | Bancas-Alvo | Relevância | Status |
 | :--- | :--- | :---: | :---: | :---: |
-| [`01-organizacao-politico-administrativa-e-competencias.md`](03-organizacao-do-estado-e-administracao-publica/01-organizacao-politico-administrativa-e-competencias.md) | Federação brasileira, forma de Estado; repartição constitucional de competências: privativas, exclusivas, comuns e concorrentes (arts. 21 a 24). | FGV, Cebraspe, FCC | Crítica | ⚪ Planejado |
-| [`02-estados-municipios-distrito-federal-e-intervencao.md`](03-organizacao-do-estado-e-administracao-publica/02-estados-municipios-distrito-federal-e-intervencao.md) | Autonomia dos entes federativos; criação de Municípios; vedações federativas (art. 19); Intervenção Federal e Intervenção Estadual (arts. 34 a 36). | FGV, Cebraspe | Alta | ⚪ Planejado |
-| [`03-administracao-publica-e-servidores-publicos-na-cf88.md`](03-organizacao-do-estado-e-administracao-publica/03-administracao-publica-e-servidores-publicos-na-cf88.md) | Arts. 37 a 41 da CF/88; princípios expressos (LIMPE) e implícitos; concurso público, teto remuneratório, acumulação de cargos, estabilidade e regime previdenciário. | FGV, Cebraspe, FCC | Crítica | ⚪ Planejado |
+| [`01-organizacao-politico-administrativa-e-competencias.md`](03-organizacao-do-estado-e-administracao-publica/01-organizacao-politico-administrativa-e-competencias.md) | Federação brasileira, forma de Estado; repartição constitucional de competências: privativas, exclusivas, comuns e concorrentes (arts. 21 a 24). | FGV, Cebraspe, FCC | Crítica | 🟢 Concluído |
+| [`02-estados-municipios-distrito-federal-e-intervencao.md`](03-organizacao-do-estado-e-administracao-publica/02-estados-municipios-distrito-federal-e-intervencao.md) | Autonomia dos entes federativos; criação de Municípios; vedações federativas (art. 19); Intervenção Federal e Intervenção Estadual (arts. 34 a 36). | FGV, Cebraspe | Alta | 🟢 Concluído |
+| [`03-administracao-publica-e-servidores-publicos-na-cf88.md`](03-organizacao-do-estado-e-administracao-publica/03-administracao-publica-e-servidores-publicos-na-cf88.md) | Arts. 37 a 41 da CF/88; princípios expressos (LIMPE) e implícitos; concurso público, teto remuneratório, acumulação de cargos, estabilidade e regime previdenciário. | FGV, Cebraspe, FCC | Crítica | 🟢 Concluído |
 
 ### Eixo 04: Organização dos Poderes e Funções Essenciais
 | Arquivo | Tópicos Principais e Normas Primárias | Bancas-Alvo | Relevância | Status |
