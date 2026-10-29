@@ -204,37 +204,35 @@ flowchart TD
 
 ---
 
-### [Questão 01](https://www.qconcursos.com/questoes-de-concursos/questoes/791bcec1-c6) — [IGEDUC — Prefeitura de Alagoinha - PB / Agente Administrativo — 2026] • [Nível: Muito Fácil (Acertos: 81.8%)]
+
+### [Questão 01](https://www.qconcursos.com/questoes-de-concursos/questoes/791bcec1-c6) — [IGEDUC — Prefeitura de Alagoinha - PB / Agente Administrativo — 2026]
 
 Considerando as disposições constitucionais relativas aos agentes públicos, especialmente o art. 37, II, da Constituição Federal, acerca do provimento de cargos públicos, assinale a afirmativa correta:
 
 * **A)** O provimento de cargos públicos efetivos pode ocorrer mediante processo seletivo interno quando houver necessidade administrativa devidamente justificada.
-* **B)** A contratação temporária de agentes públicos depende de aprovação prévia em concurso público de provas e títulos com exigência de experiência profissional anterior.
-* **C)** A investidura em cargo ou emprego público depende de aprovação prévia em concurso público de provas ou de provas e títulos, de acordo com a natureza e a complexidade do cargo ou emprego, na forma prevista em lei, ressalvadas as nomeações para cargo em comissão declarado em lei de livre nomeação e exoneração.
-* **D)** A exigência constitucional de concurso público alcança indistintamente os cargos efetivos e as funções de confiança exercidas por cidadãos sem vínculo anterior.
-* **E)** A nomeação para cargos em comissão exige aprovação prévia em concurso público simplificado quando as atribuições envolverem atividades administrativas permanentes.
+* **B)** A contratação temporária de agentes públicos depende de aprovação em concurso público simplificado com avaliação de títulos e experiência profissional.
+* **C)** A investidura em cargo ou emprego público depende de concurso de provas ou provas e títulos, ressalvadas hipóteses legais de livre nomeação e exoneração.
+* **D)** A exigência constitucional de concurso público alcança os cargos efetivos e as funções de confiança exercidas por servidores ocupantes de carreira.
+* **E)** A nomeação para cargos em comissão exige aprovação prévia em concurso público quando as atribuições envolverem atividades administrativas permanentes.
 
 #### Gabarito: **C**
-
 * **A (Errada):** Processos seletivos internos para acesso a carreiras diversas configuram provimento derivado, repudiado categoricamente pela Súmula Vinculante 43 do STF.
 * **B (Errada):** A contratação temporária (art. 37, IX) opera-se mediante processo seletivo simplificado (PSS), dispensando o rito formal do concurso público comum.
 * **C (Certa):** Transcrição integral e perfeita do art. 37, inciso II, da Constituição da República de 1988.
-* **D e E (Erradas):** Funções de confiança destinam-se exclusivamente a servidores efetivos (art. 37, V); cargos em comissão são declarados em lei de livre nomeação e exoneração, dispensando concurso público.
 
 ---
 
-### [Questão 02](https://www.qconcursos.com/questoes-de-concursos/questoes/79240ad2-c6) — [IGEDUC — Prefeitura de Alagoinha - PB / Agente Administrativo — 2026] • [Nível: Muito Fácil (Acertos: 89.3%)]
+### [Questão 02](https://www.qconcursos.com/questoes-de-concursos/questoes/79240ad2-c6) — [IGEDUC — Prefeitura de Alagoinha - PB / Agente Administrativo — 2026]
 
 Considerando o disposto no art. 37, *caput*, da Constituição Federal, que estabelece os princípios expressos aplicáveis à Administração Pública, assinale a afirmativa correta:
 
-* **A)** O princípio da legalidade administrativa assegura ao agente público liberdade de atuação discricionária irrestrita, desde que não exista vedação literal expressa.
-* **B)** O princípio da moralidade administrativa possui conteúdo exclusivamente ético-social, sem qualquer repercussão na validade jurídica dos atos praticados pela Administração.
-* **C)** O princípio da eficiência permite que a Administração deixe de observar os procedimentos legais quando buscar resultados administrativos economicamente mais vantajosos.
-* **D)** O princípio da impessoalidade impede o uso da atuação administrativa para promoção pessoal de agentes públicos, exigindo atos voltados estritamente ao interesse da coletividade.
-* **E)** O princípio da publicidade autoriza a divulgação irrestrita de qualquer documento estatal, inclusive aqueles cobertos por sigilo imprescindível à segurança da sociedade e do Estado.
+* **A)** O princípio da legalidade administrativa assegura ao agente público liberdade de atuação conforme sua conveniência, desde que não exista vedação expressa.
+* **B)** O princípio da moralidade administrativa possui conteúdo exclusivamente ético, sem repercussão na validade dos atos praticados pela Administração Pública.
+* **C)** O princípio da eficiência permite que a Administração deixe de observar procedimentos legais quando buscar resultados administrativos mais adequados.
+* **D)** O princípio da impessoalidade impede o uso da atuação administrativa para promoção pessoal de agentes públicos, exigindo atos voltados ao interesse público.
+* **E)** O princípio da publicidade autoriza a divulgação irrestrita de qualquer informação administrativa, independentemente das limitações previstas no ordenamento jurídico.
 
 #### Gabarito: **D**
-
 * **A (Errada):** A legalidade administrativa impõe que o agente público somente atue quando e na conformidade autorizada pela lei.
 * **B (Errada):** A moralidade possui densidade jurídica e sua inobservância contamina o ato administrativo de nulidade insanável.
 * **C (Errada):** A busca por eficiência jamais autoriza a violação do princípio da legalidade estrita.
@@ -243,99 +241,84 @@ Considerando o disposto no art. 37, *caput*, da Constituição Federal, que esta
 
 ---
 
-### [Questão 03](https://www.qconcursos.com/questoes-de-concursos/questoes/5d93b513-c7) — [FGV — PC-PR / Agente de Polícia Judiciária — 2026] • [Nível: Fácil (Acertos: 78.8%)]
+### [Questão 03](https://www.qconcursos.com/questoes-de-concursos/questoes/5d93b513-c7) — [FGV — PC-PR / Agente de Polícia Judiciária — 2026]
 
 Deputado estadual propôs projeto de lei dispondo acerca da carga horária de trabalho e do regime de plantão dos Agentes de Polícia Judiciária estadual. No curso do processo legislativo, o projeto foi aprovado pela Assembleia Legislativa e o Governador do Estado o sancionou, resultando na edição de lei estadual sobre o tema.
-
 A respeito da (in)constitucionalidade do diploma legal estadual, assinale a afirmativa correta:
 
-* **A)** A lei é formalmente constitucional, já que a sanção expressa pelo Governador sana retroativamente qualquer vício de iniciativa parlamentar.
-* **B)** A propositura parlamentar é plenamente legítima, pois a iniciativa legislativa sobre servidores públicos é de competência concorrente no âmbito estadual.
-* **C)** A lei é formalmente inconstitucional porque dispõe sobre o regime jurídico de servidores públicos estaduais, matéria reservada à iniciativa privativa do Chefe do Poder Executivo.
-* **D)** Não houve usurpação de competência, haja vista que a disciplina de jornada de trabalho não acarreta aumento direto de despesa pública.
-* **E)** O princípio da simetria federativa desobriga o legislador estadual de observar as regras de iniciativa privativa do art. 61 da Constituição Federal.
+* **A)** A lei é constitucional, já que, em regra, a iniciativa legislativa é concorrente, cabendo aos parlamentares a propositura do projeto de lei no caso.
+* **B)** A sanção pelo Chefe do Poder Executivo acaba por sanar eventual vício de iniciativa da lei estadual em comento.
+* **C)** A lei é inconstitucional porque dispõe sobre o regime jurídico de servidores públicos estaduais, matéria reservada à iniciativa privativa do Governador do Estado, a Constituição da República.
+* **D)** Não houve usurpação da iniciativa privativa do Chefe do Poder Executivo considerando que a lei estadual não cria despesa para a Administração Pública.
+* **E)** O legislador estadual não está obrigado a observar as regras de iniciativa reservada instituídas pelo constituinte originário no Art. 61, § 1º, inciso II, alínea "c", da Constituição da República.
 
 #### Gabarito: **C**
-
 * **A (Errada):** A sanção do Chefe do Executivo **NÃO sana o vício de iniciativa** parlamentar reservada (Súmula 5 do STF superada pela jurisprudência consolidada que afirma a inconstitucionalidade formal insanável).
-* **B, D e E (Erradas):** As regras básicas do processo legislativo federal sobre reserva de iniciativa são de reprodução obrigatória pelos Estados-membros em virtude do princípio da simetria federativa.
 * **C (Certa):** O art. 61, § 1º, inciso II, alínea "c", da Constituição Federal estabelece que são de iniciativa **privativa do Presidente da República** (e do Governador de Estado, por simetria) as leis que disponham sobre servidores públicos, seu regime jurídico, provimento de cargos e estabilidade. Projeto de iniciativa parlamentar que discipline carga horária de policiais padece de **vício formal de iniciativa subjetiva insuprível**, sendo formalmente inconstitucional.
 
 ---
 
-### [Questão 04](https://www.qconcursos.com/questoes-de-concursos/questoes/1473673d-c7) — [Instituto IDEAP — Câmara de Santa Margarida - MG / Secretário do Legislativo — 2026] • [Nível: Muito Fácil (Acertos: 98.9%)]
+### [Questão 04](https://www.qconcursos.com/questoes-de-concursos/questoes/1473673d-c7) — [Instituto IDEAP — Câmara de Santa Margarida - MG / Secretário do Legislativo — 2026]
 
 Um Presidente de Câmara Municipal determina que uma contratação administrativa de reforma predial seja direcionada à empresa pertencente a pessoa de suas relações íntimas, sem prévia licitação ou justificativa técnica e afastando critérios objetivos de seleção.
-
 À luz do art. 37 da Constituição Federal de 1988, essa conduta afronta especialmente os princípios constitucionais expressos da:
 
 * **A)** Impessoalidade e Moralidade.
-* **B)** Soberania e Cidadania exclusivamente.
-* **C)** Unicidade partidária e tipicidade penal.
-* **D)** Isonomia tributária e anterioridade nonagesimal.
+* **B)** Soberania e cidadania exclusivamente.
+* **C)** Anterioridade Tributária e capacidade contributiva.
+* **D)** Autonomia partidária e fidelidade eleitoral.
 
 #### Gabarito: **A**
-
 * **A (Certa):** O direcionamento indevido de contratos públicos a particulares favorecidos viola frontalmente a **Impessoalidade** (dever de tratamento isonômico sem favoritismos) e a **Moralidade Administrativa** (dever de probidade, lealdade institucional e boa-fé na gestão dos recursos públicos).
-* **B, C e D (Erradas):** Princípios dissociados da temática de contratações públicas e probidade administrativa no art. 37.
 
 ---
 
-### [Questão 05](https://www.qconcursos.com/questoes-de-concursos/questoes/319fb51a-c8) — [FGV — PC-PR / Delegado de Polícia — 2026] • [Nível: Muito Fácil (Acertos: 92.0%)]
+### [Questão 05](https://www.qconcursos.com/questoes-de-concursos/questoes/319fb51a-c8) — [FGV — PC-PR / Delegado de Polícia — 2026]
 
 Durante regular operação policial, uma viatura oficial desgovernada atinge o muro de uma residência particular, causando severo dano material ao proprietário do imóvel. Posteriormente, apura-se em sindicância que o policial condutor atuou com manifesta imprudência ao trafegar em velocidade excessiva sem estar em perseguição de flagrante. O particular pretende obter a reparação integral do prejuízo.
-
 À luz do regime constitucional da responsabilidade civil do Estado (art. 37, § 6º da CF/88) e da jurisprudência do STF, é correto afirmar que:
 
-* **A)** o particular somente poderá ser indenizado se comprovar judicialmente dolo específico do agente público condutor da viatura.
-* **B)** a responsabilidade do Estado é subjetiva, exigindo a prova de culpa anônima do serviço (*faute du service*).
-* **C)** a responsabilidade civil do Estado exclui qualquer possibilidade de cobrança regressiva perante o policial que causou o dano.
-* **D)** o proprietário prejudicado deverá necessariamente demandar em litisconsórcio passivo obrigatório o Estado e o policial condutor.
-* **E)** a pessoa jurídica de direito público responderá objetivamente pelos danos causados pelo agente nessa qualidade, assegurado o direito de regresso contra o responsável em caso de culpa comprovada.
+* **A)** A excepcional imprescritibilidade reconhecida pelo STF alcança as ações de ressarcimento fundadas na prática de ato doloso tipificado na Lei de Improbidade Administrativa; o ressarcimento decorrente de ilícito civil e a pretensão fundada em decisão de Tribunal de Contas submetem-se à prescrição.
+* **B)** Todas as situações descritas são imprescritíveis, desde que demonstrada a ocorrência de prejuízo ao patrimônio público.
+* **C)** Apenas as hipóteses I e III são imprescritíveis, porque não dependem da caracterização de improbidade administrativa.
+* **D)** As hipóteses II e III são imprescritíveis, pois tanto o ato doloso de improbidade quanto a decisão do Tribunal de Contas envolvem proteção direta ao erário.
+* **E)** Somente a hipótese I é imprescritível, por decorrer diretamente da responsabilidade civil prevista constitucionalmente.
 
 #### Gabarito: **E**
-
-* **A e B (Erradas):** A responsabilidade da pessoa jurídica estatal é **objetiva** (teoria do risco administrativo), exigindo apenas a conduta oficial, o dano e o nexo causal, sem necessidade de provar dolo ou culpa do servidor.
 * **C (Errada):** A Constituição assegura expressamente o **direito de regresso** da Fazenda Pública contra o agente público nos casos de dolo ou culpa.
 * **D (Errada):** Conforme a tese da dupla garantia fixada pelo STF no **Tema 940**, o particular **não pode** incluir o servidor público no polo passivo da demanda indenizatória originária.
 * **E (Certa):** Transcrição exata da regra do art. 37, § 6º, da Constituição Federal.
 
 ---
 
-### [Questão 06](https://www.qconcursos.com/questoes-de-concursos/questoes/e4a20084-c8) — [VUNESP — TCE-SP / Auditor de Controle Externo — 2026] • [Nível: Média (Acertos: 61.1%)]
+### [Questão 06](https://www.qconcursos.com/questoes-de-concursos/questoes/e4a20084-c8) — [VUNESP — TCE-SP / Auditor de Controle Externo — 2026]
 
 O Município X pretende promover a desestatização de sociedade de economia mista municipal responsável pela prestação de saneamento básico, mediante alienação de seu controle acionário a consórcio privado. Com o objetivo de atenuar resistências sindicais, projeto de lei municipal estabeleceu que os empregados públicos celetistas da estatal desestatizada seriam automaticamente aproveitados e transpostos para cargos públicos estatutários de provimento efetivo no quadro da administração direta municipal.
-
 A referida disposição legislativa é:
 
-* **A)** constitucional, pois respeita a autonomia federativa municipal e resguarda a estabilidade social dos trabalhadores.
-* **B)** inconstitucional, devendo a dispensa dos empregados da sociedade de economia mista ser precedida obrigatoriamente de processo judicial civil.
-* **C)** válida, desde que os empregados públicos tenham ingressado na estatal por concurso público simplificado de títulos.
-* **D)** inconstitucional, pois configura modalidade de provimento derivado vedada pelo postulado do concurso público (Súmula Vinculante 43 do STF).
-* **E)** válida, caso a transposição tenha sido ratificada previamente pelo Tribunal de Contas do Estado.
+* **A)** Correta, pois o surgimento de vaga durante a validade do concurso sempre gera direito subjetivo à nomeação do candidato subsequente.
+* **B)** Correta somente se as novas vagas tiverem surgido no primeiro ano de validade do concurso.
+* **C)** Incorreta, porque candidatos classificados fora das vagas jamais adquirem direito subjetivo à nomeação.
+* **D)** Incorreta, pois o mero surgimento de novas vagas ou a abertura de novo concurso durante a validade do certame anterior não gera, por si só, direito à nomeação dos candidatos aprovados fora das vagas, sem prejuízo das hipóteses de preterição reconhecidas pela jurisprudência do STF.
+* **E)** Incorreta porque, havendo cadastro de reserva, a Administração fica juridicamente impedida de prover vagas surgidas durante a validade do concurso.
 
 #### Gabarito: **D**
-
-* **A, C e E (Erradas):** A transposição de empregados de estatais privatizadas para a administração direta é frontalmente inconstitucional, não sendo convalidada por lei local nem por aval de corte de contas.
 * **B (Errada):** A dispensa em estatais independe de processo judicial prévio, exigindo-se apenas motivação do ato de demissão (Tema 1.022/STF).
 * **D (Certa):** Aplicação estrita da **Súmula Vinculante 43 do STF**: *"É inconstitucional toda modalidade de provimento que propicie ao servidor investir-se, sem prévia aprovação em concurso público destinado ao seu provimento, em cargo que não integra a carreira na qual anteriormente investido"*. Empregados públicos celetistas de entidades da administração indireta não podem ser transpostos ou absorvidos em cargos efetivos estatutários da administração direta sem prestar novo concurso público.
 
 ---
 
-### [Questão 07](https://www.qconcursos.com/questoes-de-concursos/questoes/d1e38622-c9) — [VUNESP — TCE-SP / Auditor de Controle Externo — 2026] • [Nível: Difícil (Acertos: 39.3%)]
+### [Questão 07](https://www.qconcursos.com/questoes-de-concursos/questoes/d1e38622-c9) — [VUNESP — TCE-SP / Auditor de Controle Externo — 2026]
 
 Durante auditoria realizada em autarquia estadual, verificou-se controvérsia acerca da disciplina constitucional das contribuições previdenciárias destinadas ao custeio do Regime Próprio de Previdência Social (RPPS) dos servidores públicos estatutários.
-
 Considerando a Constituição Federal com as alterações introduzidas pela Emenda Constitucional nº 103/2019 (Reforma da Previdência), é correto afirmar que:
 
-* **A)** os Estados poderão instituir livremente contribuições sobre benefícios pagos aos segurados do Regime Geral de Previdência Social (RGPS).
-* **B)** a contribuição previdenciária dos aposentados e pensionistas do regime próprio incide compulsoriamente sobre a totalidade dos proventos, desde o primeiro real recebido.
-* **C)** os Municípios não podem fixar alíquotas de contribuição ordinária inferiores às alíquotas praticadas pelo regime próprio dos servidores da União, salvo se demonstrada a inexistência de déficit atuarial.
-* **D)** a contribuição previdenciária ordinária dos servidores titulares de cargos efetivos dos Estados poderá ter alíquotas progressivas fixadas em razão do valor da base de cálculo ou do rendimento.
-* **E)** a instituição de contribuição previdenciária extraordinária pelos Estados e Municípios depende de autorização prévia por lei complementar federal aprovada pelo Congresso.
+* **A)** C - C - E.
+* **B)** E - E - C.
+* **C)** C - E - E.
+* **D)** E - C - C.
 
 #### Gabarito: **D**
-
 * **A (Errada):** Os Estados não têm competência sobre as contribuições previdenciárias do RGPS (competência exclusiva da União).
 * **B (Errada):** A contribuição de inativos e pensionistas incide apenas sobre a parcela que supere o **limite máximo estabelecido para os benefícios do RGPS** (teto do INSS), podendo alcançar o salário mínimo apenas na hipótese excepcional de déficit atuarial comprovado (art. 40, §§ 18 e 1º-A).
 * **C (Errada):** É vedada alíquota inferior à da União, mas a exigência é vinculante sem dependência de déficit se houver desequilíbrio atuarial.
@@ -344,18 +327,16 @@ Considerando a Constituição Federal com as alterações introduzidas pela Emen
 
 ---
 
-### [Questão 08](https://www.qconcursos.com/questoes-de-concursos/questoes/d1e38623-c9) — [CESPE / CEBRASPE — Câmara dos Deputados / Analista Legislativo — 2026] • [Nível: Média (Acertos: 64.7%)]
+### [Questão 08](https://www.qconcursos.com/questoes-de-concursos/questoes/d1e38623-c9) — [CESPE / CEBRASPE — Câmara dos Deputados / Analista Legislativo — 2026]
 
 Em matéria de acumulação de cargos públicos e limites remuneratórios constitucionais, assinale a opção correta à luz da jurisprudência do Supremo Tribunal Federal:
 
-* **A)** O limite remuneratório constitucional (teto salarial) deve ser aplicado sobre a soma final das remunerações auferidas pelo servidor em caso de acumulação constitucionalmente legítima de dois cargos públicos.
-* **B)** É constitucional a acumulação de um cargo público de médico com outro cargo privativo de enfermeiro, desde que haja compatibilidade de horários.
-* **C)** A acumulação de dois cargos públicos privativos de professor independe de compatibilidade de horários quando a jornada semanal total não ultrapassar sessenta horas.
-* **D)** Nos casos autorizados constitucionalmente de acumulação de cargos, o teto remuneratório constitucional deve incidir sobre a remuneração de cada um dos cargos isoladamente.
-* **E)** A proibição constitucional de acumular cargos públicos remunerados não alcança os empregados de empresas públicas e sociedades de economia mista.
+* **A)** Aprovação em processo seletivo simplificado, inclusive para as nomeações para cargo em comissão.
+* **B)** Indicação do Secretário Municipal responsável pela pasta, dispensando-se processo seletivo prévio.
+* **C)** Aprovação prévia em concurso público de provas ou de provas e títulos, ressalvadas as nomeações para cargo em comissão.
+* **D)** Aprovação prévia em processo seletivo de títulos e indicação do Prefeito Municipal.
 
 #### Gabarito: **D**
-
 * **A (Errada):** Entendimento superado; o STF firmou tese vinculante em sentido oposto no Tema 377.
 * **B (Errada):** A Constituição autoriza a acumulação de *"dois cargos ou empregos privativos de profissionais de saúde, com profissões regulamentadas"* (art. 37, XVI, "c"), mas cada cargo deve ter qualificação própria preenchida pelo mesmo indivíduo.
 * **C (Errada):** A compatibilidade de horários é requisito inafastável em qualquer hipótese de acumulação lícita.
@@ -364,20 +345,18 @@ Em matéria de acumulação de cargos públicos e limites remuneratórios consti
 
 ---
 
-### [Questão 09](https://www.qconcursos.com/questoes-de-concursos/questoes/d1e38624-c9) — [FGV — OAB / Exame de Ordem Unificado — 2026] • [Nível: Fácil (Acertos: 75.3%)]
+### [Questão 09](https://www.qconcursos.com/questoes-de-concursos/questoes/d1e38624-c9) — [FGV — OAB / Exame de Ordem Unificado — 2026]
 
 Prefeito Municipal nomeou sua sobrinha carnal para ocupar o cargo de provimento em comissão de Assessora Especial de Comunicação Social de seu gabinete. O Ministério Público ajuizou ação civil pública por improbidade administrativa sustentando violação aos princípios da impessoalidade e moralidade.
-
 Considerando o teor da Súmula Vinculante 13 do Supremo Tribunal Federal sobre o nepotismo, a referida nomeação é:
 
-* **A)** lícita, pois a vedação ao nepotismo alcança apenas os parentes em linha reta e colateral até o segundo grau.
-* **B)** ilícita, pois a vedação abrange os parentes em linha reta, colateral ou por afinidade até o terceiro grau da autoridade nomeante.
-* **C)** lícita, desde que a nomeada comprove possuir diploma universitário de graduação em jornalismo.
-* **D)** ilícita unicamente se a nomeação tiver sido precedida de consulta desfavorável da Câmara Municipal.
-* **E)** lícita, haja vista que a Assessoria de Gabinete é classificada pela doutrina como cargo eminentemente político.
+* **A)** A veracidade dos fatos divulgados não basta para legitimar qualquer formato de publicidade estatal: a comunicação deve atender às finalidades educativa, informativa ou de orientação social e respeitar a impessoalidade, sem elementos que permitam associá-la à promoção da autoridade ou do grupo político responsável pela gestão.
+* **B)** Somente a utilização expressa do nome ou da fotografia da autoridade caracteriza promoção pessoal, não havendo impedimento ao emprego de slogans associados à gestão.
+* **C)** A identificação da administração responsável pela obra é admissível sempre que não houver pedido de voto ou referência expressa a partido político.
+* **D)** A impessoalidade está satisfeita quando a campanha omite o nome da autoridade, ainda que os demais elementos permitam relacionar o material diretamente ao grupo político responsável pela gestão.
+* **E)** Campanhas referentes a obras concluídas não estão submetidas às limitações do art. 37, § 1º, da Constituição, pois possuem natureza de prestação de contas.
 
 #### Gabarito: **B**
-
 * **A (Errada):** O parentesco na Súmula Vinculante 13 alcança o **terceiro grau** (a sobrinha é parente colateral de terceiro grau: tio -> avô -> irmão/pai -> sobrinha).
 * **B (Certa):** Conforme a **Súmula Vinculante 13 do STF**, a proibição do nepotismo na Administração Pública direta e indireta alcança o cônjuge, companheiro ou parente em linha reta, colateral ou por afinidade, até o **terceiro grau**, inclusive. A nomeação da sobrinha para cargo em comissão administrativo de assessoria configura hipótese típica de nepotismo inconstitucional.
 * **C (Errada):** A qualificação técnica não afasta o nepotismo em cargos em comissão comuns da administração direta.
@@ -386,37 +365,34 @@ Considerando o teor da Súmula Vinculante 13 do Supremo Tribunal Federal sobre o
 
 ---
 
-### [Questão 10](https://www.qconcursos.com/questoes-de-concursos/questoes/d1e38625-c9) — [CESPE / CEBRASPE — PGE-PA / Procurador do Estado — 2026] • [Nível: Média (Acertos: 62.5%)]
+### [Questão 10](https://www.qconcursos.com/questoes-de-concursos/questoes/d1e38625-c9) — [CESPE / CEBRASPE — PGE-PA / Procurador do Estado — 2026]
 
 No que se refere à estabilidade do servidor público e às hipóteses constitucionais de perda do cargo, assinale a opção correta:
 
-* **A)** O servidor público adquire estabilidade após dois anos de efetivo exercício, desde que não tenha sofrido penalidade de advertência.
-* **B)** A aquisição da estabilidade no serviço público prescinde de avaliação formal de desempenho, operando-se de forma automática pelo simples decurso do tempo.
-* **C)** É obrigatória, como condição para a aquisição da estabilidade, a avaliação especial de desempenho por comissão instituída para essa finalidade.
-* **D)** O servidor público estável não pode perder o cargo em razão de insuficiência de desempenho, garantia reservada apenas aos empregados celetistas.
-* **E)** A reintegração judicial do servidor demitido ilegalmente enseja a demissão sumária do eventual ocupante da vaga, ainda que este seja servidor estável.
+* **A)** o terceiro somente poderá ser indenizado se demonstrar, além do dano e do nexo causal, dolo específico do agente público.
+* **B)** a responsabilidade estatal é subjetiva, enquanto a responsabilidade pessoal do agente perante o terceiro é sempre objetiva.
+* **C)** a responsabilidade objetiva do Estado exclui, em qualquer hipótese, a possibilidade de ação regressiva contra o agente causador do dano.
+* **D)** o terceiro deverá necessariamente demandar simultaneamente o Estado e o agente público, formando litisconsórcio passivo necessário.
+* **E)** a pessoa jurídica responderá objetivamente pelo dano causado pelo agente nessa qualidade, assegurado o direito de regresso contra o responsável nos casos de dolo ou culpa.
 
 #### Gabarito: **C**
-
-* **A e B (Erradas):** A Emenda Constitucional nº 19/1998 elevou o prazo para **três anos de efetivo exercício** e vedou a estabilidade automática pelo mero decurso do tempo.
 * **C (Certa):** Transcrição exata do art. 41, § 4º, da Constituição Federal: *"Como condição para a aquisição da estabilidade, é **obrigatória a avaliação especial de desempenho por comissão instituída para essa finalidade**"*.
 * **D (Errada):** A avaliação periódica de desempenho (na forma de lei complementar) é uma das causas expressas de perda do cargo do servidor estável (art. 41, § 1º, III).
 * **E (Errada):** O ocupante estável da vaga é **reconduzido ao cargo de origem**, sem direito a indenização, aproveitado em outro cargo ou posto em disponibilidade (art. 41, § 2º).
 
 ---
 
-### [Questão 11](https://www.qconcursos.com/questoes-de-concursos/questoes/d1e38626-c9) — [FCC — TRT - 1ª Região (RJ) / Analista Judiciário — 2026] • [Nível: Fácil (Acertos: 77.8%)]
+### [Questão 11](https://www.qconcursos.com/questoes-de-concursos/questoes/d1e38626-c9) — [FCC — TRT - 1ª Região (RJ) / Analista Judiciário — 2026]
 
 Em relação às regras constitucionais aplicáveis ao concurso público e aos cargos em comissão (art. 37 da CF/88), assinale a assertiva correta:
 
-* **A)** O prazo de validade do concurso público será de dois anos, improrrogável sob qualquer hipótese.
-* **B)** As funções de confiança destinam-se exclusivamente aos servidores ocupantes de cargo efetivo, para atribuições de direção, chefia e assessoramento.
-* **C)** Os cargos em comissão podem ser atribuídos para a realização de atividades burocráticas ordinárias e permanentes de atendimento ao público.
-* **D)** É vedada a criação de reservas de vagas para pessoas com deficiência em editais de concursos públicos para cargos da administração direta.
-* **E)** A aprovação em concurso público dentro do número de vagas previsto no edital gera mera expectativa de direito à nomeação.
+* **A)** é constitucional, pois respeita os parâmetros fixados pelo STF para a adoção desse tipo de política.
+* **B)** é inconstitucional, devendo a dispensa dos empregados da empresa ser precedida de motivação e prévio processo administrativo, que assegurem o direito ao contraditório e à ampla defesa.
+* **C)** é inválida, pois a sua adoção depende, na verdade, de aprovação em lei em sentido formal.
+* **D)** é inconstitucional, pois configuraria provimento derivado que infringiria o princípio do concurso público.
+* **E)** será válida, caso os empregados tenham sido previamente aprovados em concurso público.
 
 #### Gabarito: **B**
-
 * **A (Errada):** O prazo de validade é de **até dois anos**, prorrogável uma vez, por igual período (art. 37, III).
 * **B (Certa):** Transcrição literal do art. 37, inciso V, da Carta Magna: *"as funções de confiança, exercidas exclusivamente por servidores ocupantes de cargo efetivo, e os cargos em comissão, a serem preenchidos por servidores de carreira nos casos, condições e percentuais mínimos previstos em lei, destinam-se apenas às atribuições de direção, chefia e assessoramento"*.
 * **C (Errada):** Atividades operacionais, técnicas e rotineiras exigem provimento efetivo via concurso público.
@@ -425,20 +401,21 @@ Em relação às regras constitucionais aplicáveis ao concurso público e aos c
 
 ---
 
-### [Questão 12](https://www.qconcursos.com/questoes-de-concursos/questoes/d1e38627-c9) — [CESPE / CEBRASPE — TCE-PR / Auditor de Controle Externo — 2026] • [Nível: Difícil (Acertos: 44.9%)]
+### [Questão 12](https://www.qconcursos.com/questoes-de-concursos/questoes/d1e38627-c9) — [CESPE / CEBRASPE — TCE-PR / Auditor de Controle Externo — 2026]
 
 Acerca da responsabilidade civil das concessionárias de serviço público e da jurisprudência consolidada do Supremo Tribunal Federal, assinale a opção correta:
 
-* **A)** As pessoas jurídicas de direito privado prestadoras de serviço público respondem objetivamente pelos danos causados a terceiros usuários, mas sua responsabilidade perante terceiros não usuários é de natureza estritamente subjetiva.
-* **B)** A responsabilidade civil objetiva das concessionárias de serviço público abrange indistintamente os danos causados tanto a usuários quanto a terceiros não usuários do serviço público prestado.
-* **C)** A demonstração de culpa concorrente da vítima afasta de modo absoluto o dever de indenizar do Estado e de suas concessionárias.
-* **D)** O particular lesado pode optar livremente por ajuizar a ação indenizatória diretamente contra o empregado da concessionária causador do dano, em litisconsórcio passivo facultativo.
-* **E)** As concessionárias de serviço público submetem-se à responsabilidade civil subjetiva fundada na culpa presumida em qualquer hipótese de acidente de trânsito.
+* **A)** os Estados poderão instituir contribuição previdenciária incidente sobre os benefícios pagos pelo Regime Geral de Previdência Social aos empregados públicos de suas autarquias e fundações.
+* **B)** a contribuição previdenciária dos aposentados e pensionistas vinculados ao regime próprio incidirá obrigatoriamente sobre a totalidade dos proventos e pensões sempre que houver déficit financeiro do regime previdenciário.
+* **C)** os Estados, o Distrito Federal e os Municípios poderão instituir contribuição extraordinária para o custeio de seus regimes próprios de previdência social, desde que comprovada a existência de déficit atuarial, na forma de lei complementar do respectivo ente federativo.
+* **D)** a contribuição previdenciária ordinária dos servidores titulares de cargos efetivos poderá ter alíquotas progressivas fixadas em razão da base de contribuição ou dos valores dos benefícios de aposentadoria e de pensão.
+* **E)** a instituição de contribuição previdenciária extraordinária pelos Estados depende de autorização prévia mediante lei complementar federal que estabeleça normas gerais sobre o respectivo tributo.
 
 #### Gabarito: **B**
-
 * **A (Errada):** Tese superada; o STF equiparou expressamente os usuários e não usuários.
 * **B (Certa):** Tese vinculante fixada pelo STF no **Tema 130 da Repercussão Geral** (RE 591.874): *"A responsabilidade civil das pessoas jurídicas de direito privado prestadoras de serviço público é objetiva relativamente a terceiros usuários e não usuários do serviço, com base no art. 37, § 6º, da Constituição Federal"*.
 * **C (Errada):** A culpa concorrente da vítima não exclui o dever de indenizar, mas gera a repartição proporcional e atenuação da indenização devida.
 * **D (Errada):** Conforme o Tema 940 do STF (tese da dupla garantia), a ação deve ser movida contra a pessoa jurídica, sendo o agente público parte ilegítima no polo passivo originário.
 * **E (Errada):** O regime constitucional é de responsabilidade civil **objetiva** fundada no risco administrativo.
+
+---

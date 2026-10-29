@@ -167,10 +167,10 @@ Identificam-se pelas disposições cuja eficácia jurídica e aplicabilidade já
 
 ---
 
-### [Questão 01](https://www.qconcursos.com/questoes-de-concursos/questoes/a583446e-cb) — [FGV — DATAPREV / Advocacia — 2026] • [Nível: Difícil (Acertos: 39.6%)]
+
+### [Questão 01](https://www.qconcursos.com/questoes-de-concursos/questoes/a583446e-cb) — [FGV — DATAPREV / Advocacia — 2026]
 
 Foi submetido a um advogado da DATAPREV a situação a seguir.
-
 A Emenda Constitucional nº X (ECX) veiculou um direito fundamental de segunda dimensão em norma de natureza programática, norma esta que versa sobre a temática submetida à apreciação do referido advogado no Processo Administrativo Y, o qual envolve a aplicação da legislação infraconstitucional editada antes da promulgação da referida Emenda Constitucional. O advogado concluiu acertadamente que a norma de natureza programática veiculada pela ECX:
 
 * **A)** carece de regulamentação pela legislação infraconstitucional para que produza algum efeito.
@@ -180,7 +180,6 @@ A Emenda Constitucional nº X (ECX) veiculou um direito fundamental de segunda d
 * **E)** produz a plenitude dos seus efeitos, independentemente de regulamentação, pois tem por objeto direito fundamental de segunda dimensão.
 
 #### Gabarito: **D**
-
 * **A (Errada):** As normas programáticas (espécie de normas de eficácia limitada) possuem eficácia jurídica imediata e mínima. Não é verdade que careçam de lei para produzir "algum" efeito; produzem desde logo efeito revogador/não receptivo sobre a ordem pré-constitucional incompatível e efeito impeditivo/interpretativo.
 * **B (Errada):** A norma programática ostenta eficácia limitada e aplicabilidade indireta e mediata quanto ao seu conteúdo prestacional principal, não se confundindo com normas de eficácia plena.
 * **C (Errada):** A norma de natureza programática possui densidade suficiente para fundamentar o juízo de recepção ou não recepção e orientar a hermenêutica do ordenamento de forma autônoma, sem necessidade obrigatória de associação com outro preceito fundamental.
@@ -189,23 +188,23 @@ A Emenda Constitucional nº X (ECX) veiculou um direito fundamental de segunda d
 
 ---
 
-### [Questão 02](https://www.qconcursos.com/questoes-de-concursos/questoes/8c4b20c0-cc) — [Quadrix — CREF - 20ª Região (SE) / Agente de Fiscalização — 2026] • [Nível: Muito Difícil (Acertos: 29.9%)]
+### [Questão 02](https://www.qconcursos.com/questoes-de-concursos/questoes/8c4b20c0-cc) — [Quadrix — CREF - 20ª Região (SE) / Agente de Fiscalização — 2026]
 
 Quanto aos princípios fundamentais da República Federativa do Brasil, aos direitos e garantias essenciais, ao controle de constitucionalidade e às finanças públicas, julgue o item a seguir:
-
 Os princípios fundamentais da República Federativa do Brasil constituem normas de eficácia plena que impõem deveres de atuação imediata a todos os Poderes.
-
 * ( ) Certo
 * ( ) Errado
 
-#### Gabarito: **Errado**
+* **C)** Certo
+* **E)** Errado
 
+#### Gabarito: **Errado**
 * **C (Errada):** A assertiva comete generalização indevida. Embora os princípios fundamentais (arts. 1º a 4º da CF/88) possuam força normativa imediata e vinculem todos os Poderes, nem todos são dotados de eficácia plena. Os objetivos fundamentais previstos no art. 3º (construir uma sociedade livre, justa e solidária; erradicar a pobreza e a marginalização), por exemplo, são normas de eficácia **limitada de cunho programático**, que traçam metas e fins sociais a serem concretizados progressivamente por meio de políticas estatais.
 * **E (Certa):** O item está incorreto ao classificar indistintamente a totalidade dos princípios fundamentais como normas de eficácia plena.
 
 ---
 
-### [Questão 03](https://www.qconcursos.com/questoes-de-concursos/questoes/9eb38d5c-b0) — [CESPE / CEBRASPE — TJ-MT / Outorga por Provimento — 2026] • [Nível: Fácil (Acertos: 65.5%)]
+### [Questão 03](https://www.qconcursos.com/questoes-de-concursos/questoes/9eb38d5c-b0) — [CESPE / CEBRASPE — TJ-MT / Outorga por Provimento — 2026]
 
 O artigo da Constituição Federal de 1988 (CF) que determina que lei regulará as atividades, disciplinará a responsabilidade civil e criminal dos notários, dos oficiais de registro e de seus prepostos, e definirá a fiscalização de seus atos pelo Poder Judiciário classifica-se como norma:
 
@@ -216,7 +215,6 @@ O artigo da Constituição Federal de 1988 (CF) que determina que lei regulará 
 * **E)** de eficácia limitada.
 
 #### Gabarito: **E**
-
 * **A (Errada):** Nas normas de eficácia contida, o preceito já traz a regulação básica autoaplicável, autorizando a lei a restringir; no art. 236 da CF/88, o próprio comando remete a disciplina da responsabilidade e atividades ao advento da lei.
 * **B (Errada):** Não se trata de norma programática, pois não visa a programas sociais ou metas socioeconômicas, mas sim à estruturação e regulamentação de serviços cartorários.
 * **C (Errada):** A norma não possui densidade suficiente para ser exercida sem a fixação legal dos deveres, regimes sancionatórios e procedimentos de fiscalização.
@@ -225,7 +223,7 @@ O artigo da Constituição Federal de 1988 (CF) que determina que lei regulará 
 
 ---
 
-### [Questão 04](https://www.qconcursos.com/questoes-de-concursos/questoes/26d12476-b1) — [CESPE / CEBRASPE — TJ-MT / Outorga por Remoção — 2026] • [Nível: Média (Acertos: 51.9%)]
+### [Questão 04](https://www.qconcursos.com/questoes-de-concursos/questoes/26d12476-b1) — [CESPE / CEBRASPE — TJ-MT / Outorga por Remoção — 2026]
 
 A previsão do art. 31 do Ato das Disposições Constitucionais Transitórias (ADCT), segundo a qual “Serão estatizadas as serventias do foro judicial, assim definidas em lei, respeitados os direitos dos atuais titulares”, é exemplo de norma:
 
@@ -236,7 +234,6 @@ A previsão do art. 31 do Ato das Disposições Constitucionais Transitórias (A
 * **E)** de eficácia absoluta.
 
 #### Gabarito: **D**
-
 * **A (Errada):** Normas programáticas veiculam diretrizes de ação estatal para fins sociais. A determinação de estatização de serventias judiciais cuida da organização do Poder Judiciário.
 * **B (Errada):** A norma não tem aplicabilidade imediata e integral, pois condiciona a estatização à definição legal específica ("assim definidas em lei").
 * **C (Errada):** Não é norma contida, visto que não operou a estatização automática com posterior faculdade restritiva, mas sim subordinou a própria operação à intervenção legal futura.
@@ -245,18 +242,14 @@ A previsão do art. 31 do Ato das Disposições Constitucionais Transitórias (A
 
 ---
 
-### [Questão 05](https://www.qconcursos.com/questoes-de-concursos/questoes/4cb2e694-b3) — [CESPE / CEBRASPE — TJ-AC / Juiz Substituto — 2026] • [Nível: Difícil (Acertos: 44.8%)]
+### [Questão 05](https://www.qconcursos.com/questoes-de-concursos/questoes/4cb2e694-b3) — [CESPE / CEBRASPE — TJ-AC / Juiz Substituto — 2026]
 
 Segundo a classificação de José Afonso da Silva quanto à aplicabilidade e eficácia das normas constitucionais, é correto afirmar que:
 
-* **A)** as normas de eficácia plena dependem de intervenção legislativa posterior para produzir todos os seus efeitos.
-* **B)** as normas de eficácia limitada não produzem nenhum efeito jurídico até que advenha a respectiva lei regulamentadora.
-* **C)** as normas de eficácia contida possuem aplicabilidade direta e imediata, mas não integral, sujeitando-se à restrição por parte do legislador infraconstitucional.
-* **D)** o direito de greve dos servidores públicos civis (art. 37, VII) é exemplo consolidado de norma constitucional de eficácia plena.
-* **E)** as normas programáticas são desprovidas de qualquer força vinculante para a atuação dos órgãos jurisdicionais.
+* **C)** Certo
+* **E)** Errado
 
 #### Gabarito: **C**
-
 * **A (Errada):** As normas de eficácia plena independem de qualquer lei posterior, produzindo seus efeitos integrais de plano.
 * **B (Errada):** Consoante a doutrina dominante e a jurisprudência do STF, as normas de eficácia limitada produzem ao menos eficácia jurídica mínima (efeito revogatório do direito antecedente contrário, efeito impeditivo de legislação posterior conflitante e vetor hermenêutico).
 * **C (Certa):** Definição perfeita e canônica: normas de eficácia contida aplicam-se direta e imediatamente com a promulgação do texto fundamental, mas o constituinte conferiu aptidão para que lei infraconstitucional posterior restrinja ou discipline o gozo integral desse direito.
@@ -265,18 +258,16 @@ Segundo a classificação de José Afonso da Silva quanto à aplicabilidade e ef
 
 ---
 
-### [Questão 06](https://www.qconcursos.com/questoes-de-concursos/questoes/c6bc3cf8-b3) — [FGV — TRT - 13ª Região (PB) / Analista Judiciário — 2026] • [Nível: Fácil (Acertos: 72.4%)]
+### [Questão 06](https://www.qconcursos.com/questoes-de-concursos/questoes/c6bc3cf8-b3) — [FGV — TRT - 13ª Região (PB) / Analista Judiciário — 2026]
 
 Considere o seguinte dispositivo constitucional: *"É livre o exercício de qualquer trabalho, ofício ou profissão, atendidas as qualificações profissionais que a lei estabelecer"* (CF/88, art. 5º, XIII). De acordo com a doutrina tradicional de Direito Constitucional, esse dispositivo classifica-se como norma de eficácia:
 
-* **A)** plena, pois não pode ser alterado por emenda constitucional.
-* **B)** contida, pois assegura o direito desde logo, permitindo que a lei posterior crie restrições ou qualificações.
-* **C)** limitada, pois nenhuma profissão pode ser exercida sem que antes haja lei que a regulamente.
-* **D)** programática, pois veicula princípio de estímulo ao pleno emprego sem caráter de direito subjetivo.
-* **E)** absoluta, por constituir cláusula pétrea imune a qualquer regulação.
+* **A)** É norma constitucional de eficácia plena, ressalvada a incidência de norma sobre atividade análoga que restrinja seu exercício.
+* **B)** Depende de norma constitucional de eficácia limitada, dependendo de legislação infraconstitucional regulamentadora para ser exercida.
+* **C)** É livre, conforme norma constitucional de aplicação imediata e eficácia contida, que pode ser restringida pela legislação infraconstitucional.
+* **D)** É livre, conforme norma constitucional de aplicação imediata, cuja aplicação não pode ser restringida por legislação infraconstitucional posterior.
 
 #### Gabarito: **B**
-
 * **A (Errada):** O dispositivo é contido, não pleno, pois admite expressamente a interferência restritiva da lei infraconstitucional.
 * **B (Certa):** O art. 5º, XIII, consagra o paradigma absoluto da norma de eficácia **contida**. Na ausência de lei regulamentadora, o exercício da profissão é plenamente livre. A lei posterior apenas poderá intervir se houver potencial lesivo à coletividade que justifique a exigência de habilitação técnica formal (como na Medicina, Advocacia, Engenharia).
 * **C (Errada):** Se fosse de eficácia limitada, ninguém poderia trabalhar enquanto não existisse lei regulamentando cada ocupação, o que subverteria a garantia fundamental da liberdade individual.
@@ -285,18 +276,16 @@ Considere o seguinte dispositivo constitucional: *"É livre o exercício de qual
 
 ---
 
-### [Questão 07](https://www.qconcursos.com/questoes-de-concursos/questoes/d1082ce0-b4) — [FCC — TRT - 22ª Região (PI) / Técnico Judiciário — 2026] • [Nível: Média (Acertos: 61.2%)]
+### [Questão 07](https://www.qconcursos.com/questoes-de-concursos/questoes/d1082ce0-b4) — [FCC — TRT - 22ª Região (PI) / Técnico Judiciário — 2026]
 
 O art. 14, § 9º, da Constituição Federal dispõe que *"lei complementar estabelecerá outros casos de inelegibilidade e os prazos de sua cessação, a fim de proteger a probidade administrativa, a moralidade para o exercício do mandato, considerada a vida pregressa do candidato, e a normalidade e legitimidade das eleições..."*. Essa norma constitucional ostenta eficácia:
 
-* **A)** plena, porque se aplica imediatamente sem demandar complementação.
-* **B)** contida, pois já esgota todos os casos de inelegibilidade, vedada ampliação.
-* **C)** limitada, pois a criação de novos casos de inelegibilidade depende imperativamente da edição de lei complementar integrativa.
-* **D)** exaurida, por ter sido consumada com a promulgação da Constituição de 1988.
-* **E)** absoluta, porque insuscetível de qualquer alteração legislativa superveniente.
+* **A)** Limitativosdisciplinam a ordem econômica e financeira.
+* **B)** Orgânicoscorrespondem às normas relativas aos direitos sociais e individuais.
+* **C)** Socioideológicosrestringem-se às normas de repartição de competências federativas.
+* **D)** Estabilizadoresdestinam-se à defesa da ordem constitucional diante de situações de crise institucional.
 
 #### Gabarito: **C**
-
 * **A (Errada):** A norma exige expressamente que lei complementar preveja as novas hipóteses de inelegibilidade; logo, os efeitos da norma constitucional nessa matéria dependem de interposição legislativa.
 * **B (Errada):** A norma não esgota os casos; pelo contrário, abre espaço para que a legislação ordinária qualificada (Lei Complementar, como a LC 64/90 e LC 135/2010 - Lei da Ficha Limpa) venha a constituí-los.
 * **C (Certa):** O constituinte remeteu a estipulação de novas hipóteses de inelegibilidade à futura atuação do legislador complementar. Trata-se de norma de eficácia **limitada de princípio institutivo/organizativo**, cuja eficácia integradora foi instrumentalizada pela edição da LC 64/1990.
@@ -305,18 +294,16 @@ O art. 14, § 9º, da Constituição Federal dispõe que *"lei complementar esta
 
 ---
 
-### [Questão 08](https://www.qconcursos.com/questoes-de-concursos/questoes/b8994b72-b5) — [FGV — OAB / Exame de Ordem Unificado — 2026] • [Nível: Difícil (Acertos: 42.3%)]
+### [Questão 08](https://www.qconcursos.com/questoes-de-concursos/questoes/b8994b72-b5) — [FGV — OAB / Exame de Ordem Unificado — 2026]
 
 A Constituição da República estatui, em seu art. 37, inciso VII, que *"o direito de greve será exercido nos termos e nos limites definidos em lei específica"*. Diante da persistente omissão legislativa na edição do referido diploma normativo, determinado sindicato de servidores públicos impetrou mandado de injunção perante o Supremo Tribunal Federal. Sobre a natureza da norma constitucional invocada e as consequências de sua eficácia, assinale a afirmativa correta:
 
-* **A)** A norma é de eficácia plena, razão pela qual o mandado de injunção é via processual inadequada.
-* **B)** A norma é de eficácia contida, de modo que os servidores podiam exercer a greve sem limites enquanto a lei não fosse editada.
-* **C)** Trata-se de norma de eficácia limitada, que, ante a inércia legislativa inconstitucional, autorizou o STF a determinar a aplicação supletiva da Lei nº 7.783/1989 (lei de greve da iniciativa privada).
-* **D)** Sendo norma de eficácia limitada de princípio institutivo, sua aplicação em juízo viola o princípio da separação dos poderes.
-* **E)** A norma é dotada de eficácia exaurida, haja vista que a Emenda Constitucional nº 19/1998 extinguiu a exigência de lei regulamentadora.
+* **A)** plena
+* **B)** contida
+* **C)** limitada
+* **D)** reduzida
 
 #### Gabarito: **C**
-
 * **A (Errada):** Se fosse norma de eficácia plena, o exercício não dependeria de lei e inexistiria omissão inconstitucional sindicável via Mandado de Injunção.
 * **B (Errada):** O STF expressamente rejeitou a tese da eficácia contida para a greve no serviço público. O texto impõe que ela seja exercida "nos termos e limites definidos em lei específica", consubstanciando eficácia limitada.
 * **C (Certa):** Conforme jurisprudência histórica do STF fixada no julgamento dos Mandados de Injunção 670, 708 e 712, o art. 37, VII, é norma de eficácia **limitada**. Diante da mora inconstitucional do Congresso, o STF adotou a postura concretista geral, determinando a incidência da lei do setor privado (Lei 7.783/89) no que couber até que o Poder Legislativo cumpra seu mister.
@@ -325,18 +312,17 @@ A Constituição da República estatui, em seu art. 37, inciso VII, que *"o dire
 
 ---
 
-### [Questão 09](https://www.qconcursos.com/questoes-de-concursos/questoes/73f32488-b8) — [CESPE / CEBRASPE — PGE-PA / Procurador do Estado — 2026] • [Nível: Média (Acertos: 58.7%)]
+### [Questão 09](https://www.qconcursos.com/questoes-de-concursos/questoes/73f32488-b8) — [CESPE / CEBRASPE — PGE-PA / Procurador do Estado — 2026]
 
 No tocante à eficácia e aplicabilidade das normas constitucionais, assinale a opção correta:
 
-* **A)** As normas de eficácia contida demandam intermediação legislativa para que passem a surtir efeitos jurídicos entre os particulares.
-* **B)** As normas de eficácia limitada subdividem-se doutrinariamente em normas definidoras de princípio institutivo e normas de princípio programático.
-* **C)** As cláusulas pétreas são classificadas pela doutrina de Maria Helena Diniz como normas de eficácia relativa complementável.
-* **D)** Uma norma constitucional programática não pode servir de fundamento autônomo para a declaração de inconstitucionalidade de lei superveniente.
-* **E)** As normas de eficácia plena são aquelas que autorizam restrições expressas no texto de leis ordinárias posteriores.
+* **A)** Segundo o Supremo Tribunal Federal, o direito de greve dos servidores públicos, reconhecido na Constituição Federal de 1988, classifica-se como norma de eficácia plena e não norma de eficácia contida.
+* **B)** A vedação ao anonimato prevista constitucionalmente pode ser exemplificada como uma norma de eficácia restritiva, já que é possível a construção de mecanismos de controle administrativo e processuais em que haja a necessidade de restrição das fontes informativas.
+* **C)** As normas constitucionais de eficácia plena são dotadas de aplicabilidade imediata, possuindo, pois, aptidão para gerar efeitos jurídicos, independentemente de atos legislativos infraconstitucionais.
+* **D)** As normas constitucionais de eficácia plena e contida são iguais em sua densidade normativa, podendo ser restringidas em caso de interesse público.
+* **E)** Normas de eficácia plena dizem respeito à completude da moldura constitucional, porém, exigindo, em certos casos, a edição de atos regulamentadores.
 
 #### Gabarito: **B**
-
 * **A (Errada):** As normas de eficácia contida produzem efeitos imediatos desde a promulgação da Constituição, dispensando qualquer ato legislativo posterior para iniciar sua incidência.
 * **B (Certa):** Exata formulação da doutrina de José Afonso da Silva: as normas de eficácia limitada dividem-se em *normas de princípio institutivo* (voltadas à estruturação e fundação de órgãos e entidades) e *normas de princípio programático* (que fixam fins, metas e políticas públicas do Estado).
 * **C (Errada):** Segundo Maria Helena Diniz, as cláusulas pétreas são normas de eficácia **absoluta** (ou supereficazes), por serem intocáveis até mesmo pelo constituinte reformador.
@@ -345,20 +331,18 @@ No tocante à eficácia e aplicabilidade das normas constitucionais, assinale a 
 
 ---
 
-### [Questão 10](https://www.qconcursos.com/questoes-de-concursos/questoes/d58c194a-bd) — [FGV — TJ-PE / Juiz Substituto — 2026] • [Nível: Difícil (Acertos: 46.1%)]
+### [Questão 10](https://www.qconcursos.com/questoes-de-concursos/questoes/d58c194a-bd) — [FGV — TJ-PE / Juiz Substituto — 2026]
 
 João ajuizou ação em desfavor do Município de Sigma, tendo por objeto a alegada inobservância de um direito fundamental consagrado em norma de eficácia limitada e princípio programático. De acordo com a petição inicial, o Art. X da Constituição da República, que consagra esse direito, gera deveres imediatos para a Administração Pública municipal. O Município contestou a demanda sustentando que preceitos programáticos não ostentam densidade jurídica vinculante, configurando meras aspirações políticas inexigíveis em juízo.
-
 Diante do quadro hipotético e da teoria geral das normas constitucionais, é correto afirmar que:
 
-* **A)** as normas de princípio programático são desprovidas de eficácia jurídica, consubstanciando diretrizes morais cujo descumprimento é insindicável pelo Poder Judiciário.
-* **B)** a tese do Município de Sigma colide frontalmente com a moderna dogmática constitucional, segundo a qual as normas programáticas possuem eficácia jurídica vinculante e balizam o controle de legalidade e constitucionalidade das omissões estatais.
-* **C)** o Poder Judiciário jamais pode determinar a implementação de políticas públicas decorrentes de normas programáticas, sob pena de usurpação absoluta do princípio da reserva do possível.
-* **D)** apenas as normas de eficácia plena podem figurar como parâmetro de controle de constitucionalidade de atos do Poder Executivo municipal.
-* **E)** as normas programáticas revogam o direito infraconstitucional anterior apenas se este dispuser sobre direitos de primeira dimensão.
+* **A)** as linhas argumentativas de João e do Município de Sigma se harmonizam com a tópica pura e a jurisprudência dos valores;
+* **B)** a tese de que o Art. X produz efeitos da forma defendida por João é incompatível com a sistemática constitucional;
+* **C)** as linhas argumentativas de João e do Município de Sigma se harmonizam com a concepção normativa defendida pela Escola do Direito Livre;
+* **D)** a linha argumentativa defendida por João é compatível com a lógica do razoável e a do Município de Sigma é incompatível com o confinamento da atividade do intérprete ao plano puramente cognoscitivo;
+* **E)** a utilização de referenciais semióticos, nas linhas argumentativas de João e do Município de Sigma, não obsta que esses referenciais sejam desconsiderados em prol de significados que se ajustem ao pragmatismo.
 
 #### Gabarito: **B**
-
 * **A (Errada):** A doutrina moderna e o STF superaram há décadas a concepção oitocentista de normas programáticas como meros conselhos morais; elas integram o ordenamento como preceitos jurídicos cogentes dotados de imperatividade.
 * **B (Certa):** A alegação do Município de que normas programáticas são meras aspirações inexigíveis contraria a força normativa da Constituição e a jurisprudência dominante (Tema 698/STF). As normas programáticas possuem eficácia jurídica vinculante mínima e impõem limites à discricionariedade administrativa, vedando o retrocesso e justificando o controle jurisdicional nas hipóteses de inação desarrazoada do Estado.
 * **C (Errada):** O Judiciário pode impor ao Estado a execução de políticas públicas previstas na Constituição quando caracterizada a omissão intolerável que ameace o núcleo essencial de direitos fundamentais (mínimo existencial), mitigando a alegação genérica de reserva do possível.
@@ -367,18 +351,17 @@ Diante do quadro hipotético e da teoria geral das normas constitucionais, é co
 
 ---
 
-### [Questão 11](https://www.qconcursos.com/questoes-de-concursos/questoes/27398976-c2) — [FEPESE — Prefeitura de Itajaí - SC / Assistente Jurídico — 2026] • [Nível: Muito Fácil (Acertos: 81.1%)]
+### [Questão 11](https://www.qconcursos.com/questoes-de-concursos/questoes/27398976-c2) — [FEPESE — Prefeitura de Itajaí - SC / Assistente Jurídico — 2026]
 
 Sobre a aplicabilidade das normas constitucionais, segundo a classificação doutrinária tradicionalmente adotada no direito brasileiro, é correto afirmar:
 
-* **A)** As normas constitucionais de eficácia limitada produzem, desde logo, todos os efeitos que o constituinte pretendeu regular, sendo incompatível com essa categoria qualquer espécie de regulamentação posterior.
-* **B)** As normas constitucionais de eficácia contida são de aplicabilidade direta e imediata desde a entrada em vigor da Constituição, podendo, contudo, ter seu alcance restringido pela legislação infraconstitucional.
-* **C)** As normas constitucionais de eficácia plena dependem de integração legislativa infraconstitucional para produzir seus efeitos, não sendo aplicáveis de plano.
-* **D)** As normas programáticas, espécie de norma constitucional de eficácia limitada, são desprovidas de qualquer efeito jurídico até a edição da lei integradora.
-* **E)** A classificação das normas constitucionais quanto à aplicabilidade é irrelevante para fins de controle de constitucionalidade, uma vez que todas as normas têm a mesma estrutura de exigibilidade prática.
+* **A)** As normas constitucionais de eficácia limitada produzem, desde logo, todos os efeitos que o constituinte pretendeu regular, sendo incompatível com essa categoria a exigência de lei posterior para sua integral aplicabilidade.
+* **B)** As normas constitucionais de eficácia contida são de aplicabilidade direta e imediata desde a entrada em vigor da Constituição, podendo, contudo, ter seu alcance reduzido pela atuação do legislador infraconstitucional, nos casos e limites por ela expressamente admitidos.
+* **C)** As normas constitucionais de eficácia plena dependem de integração legislativa infraconstitucional para produzir seus efeitos, não sendo aplicáveis de forma direta e imediata a partir da promulgação da Constituição.
+* **D)** As normas programáticas, espécie de norma constitucional de eficácia limitada, são desprovidas de qualquer efeito jurídico até a edição da lei integradora, não vinculando a atuação do legislador infraconstitucional.
+* **E)** A classificação das normas constitucionais quanto à aplicabilidade é irrelevante para fins de controle de constitucionalidade, uma vez que todas as normas da Constituição, independentemente de sua eficácia, produzem os mesmos efeitos jurídicos imediatos.
 
 #### Gabarito: **B**
-
 * **A (Errada):** Inverte o conceito: as normas que produzem todos os efeitos de imediato sem tolerar restrição são as normas de eficácia plena. As de eficácia limitada necessitam justamente de lei integradora posterior.
 * **B (Certa):** É a precisa enunciação das normas de eficácia contida: possuem aplicabilidade direta, imediata, porém não integral, admitindo que o legislador infraconstitucional reduza o seu âmbito originário de exercício.
 * **C (Errada):** As normas de eficácia plena aplicam-se por si sós, sem necessidade de integração legislativa infraconstitucional.
@@ -387,27 +370,25 @@ Sobre a aplicabilidade das normas constitucionais, segundo a classificação dou
 
 ---
 
-### [Questão 12](https://www.qconcursos.com/questoes-de-concursos/questoes/197d7fb8-cb) — [FSA — FSA-SP / Consultor Jurídico — 2026] • [Nível: Média (Acertos: 64.7%)]
+### [Questão 12](https://www.qconcursos.com/questoes-de-concursos/questoes/197d7fb8-cb) — [FSA — FSA-SP / Consultor Jurídico — 2026]
 
 Suponha-se que a Constituição Federal estabelecesse que *“a lei disciplinará mecanismos de proteção contra práticas abusivas em relações digitais de consumo”*. Durante o período de inércia legislativa, uma empresa alega em juízo que não pode ser sancionada por prática abusiva em ambiente digital pelo Procon sob o argumento de que a norma constitucional não possui autoexecutoriedade.
-
 Considere as seguintes assertivas:
-
 I. A norma sob comento é classificada como de eficácia plena, tendo aplicabilidade direta e imediata que prescinde de qualquer diploma regulamentador.  
 II. Por se tratar de norma de eficácia limitada de princípio institutivo, a referida disposição constitucional não revoga normas infraconstitucionais pretéritas que disciplinem a matéria em sentido oposto.  
 III. Embora a norma dependa de lei para disciplinar os mecanismos específicos ali referidos, ostenta eficácia jurídica mínima, exercendo função de vetor interpretativo das relações de consumo e impedindo a edição de diplomas legais que permitam práticas abusivas digitais.  
 IV. A ausência da lei referida no dispositivo inviabiliza que o cidadão utilize o mandado de segurança individual para a defesa de direito líquido e certo fundado na referida lacuna.  
-
 Assinale a opção correta:
 
 * **A)** Apenas as assertivas I e II estão corretas.
 * **B)** Apenas a assertiva I está correta.
-* **C)** Apenas as assertivas III e IV estão corretas.
-* **D)** Todas as assertivas estão corretas.
+* **C)** Apenas a assertiva III está correta.
+* **D)** Apenas as assertivas III e IV estão corretas.
 
 #### Gabarito: **C**
-
 * **Item I (Errado):** A redação "a lei disciplinará" denuncia a dependência imperativa de intermediação legislativa infraconstitucional. Cuida-se de norma de eficácia limitada, e não de eficácia plena.
 * **Item II (Errado):** Todas as normas constitucionais — inclusive as de eficácia limitada — possuem eficácia jurídica mínima e efeito revogatório/não receptivo automático sobre normas anteriores incompatíveis.
 * **Item III (Certo):** Exatamente: a norma tem eficácia limitada quanto ao direito prestacional novo, mas sua eficácia jurídica negativa e axiológica impede a edição de normas que tolerem abusos e condiciona a interpretação do Código de Defesa do Consumidor aos novos tempos tecnológicos.
 * **Item IV (Certo):** O Mandado de Segurança exige direito líquido e certo demonstrável de plano; para combater a omissão normativa que inviabiliza o exercício de prerrogativa constitucional, a ação constitucional cabível é o **Mandado de Injunção** (CF, art. 5º, LXXI), e não o Mandado de Segurança. Logo, a ausência de lei torna inadequado o MS para suprimir a lacuna regulamentar.
+
+---

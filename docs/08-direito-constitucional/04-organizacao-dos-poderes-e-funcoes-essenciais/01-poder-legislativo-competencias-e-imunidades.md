@@ -211,171 +211,220 @@ A equiparação funcional da CPI ao Judiciário é estritamente instrutória e p
 
 ## 5. Questões Paradigmáticas Aplicadas
 
-### [Questão 01](https://www.qconcursos.com/questoes-de-concursos/questoes/4375163) — [FGV — PC-PR / Delegado de Polícia — 2026] • [Nível: Média (Acertos: 60,1%)]
+
+### [Questão 01](https://www.qconcursos.com/questoes-de-concursos/questoes/4375163) — [FGV — PC-PR / Delegado de Polícia — 2026]
 
 Determinado projeto de lei de significativo impacto na seara da Segurança Pública do país foi aprovado na Câmara dos Deputados e no Senado Federal, sendo integralmente sancionado pelo Presidente da República, o qual, na sequência, editou ato normativo infralegal visando à regulamentação da legislação.
-
 Contudo, a Câmara dos Deputados, por intermédio da maioria absoluta de seus membros, sustou a regulamentação infralegal, sob o fundamento de que o Poder Executivo exorbitou o poder regulamentar a que faz jus.
-
 Nesse cenário, considerando as disposições da Constituição Federal, é correto afirmar que a Câmara dos Deputados agiu em
 
+* **A)** conformidade com a ordem jurídica, pois sustar atos normativos do Poder Executivo que exorbitem do poder regulamentar é uma competência concorrente entre a Câmara dos Deputados, o Senado Federal e o Supremo Tribunal Federal.
+* **B)** conformidade com a ordem jurídica, pois sustar atos normativos do Poder Executivo que exorbitem do poder regulamentar é uma competência concorrente entre a Câmara dos Deputados e o Senado Federal.
+* **C)** contrariedade à ordem jurídica, pois sustar atos normativos do Poder Executivo que exorbitem do poder regulamentar é uma competência exclusiva do Supremo Tribunal Federal.
+* **D)** contrariedade à ordem jurídica, pois sustar atos normativos do Poder Executivo que exorbitem do poder regulamentar é uma competência exclusiva do Congresso Nacional.
+* **E)** contrariedade à ordem jurídica, pois sustar atos normativos do Poder Executivo que exorbitem do poder regulamentar é uma competência exclusiva do Senado Federal.
+
+#### Gabarito: **D**
 * **A (Errada):** conformidade com a ordem jurídica, pois sustar atos normativos do Poder Executivo que exorbitem do poder regulamentar é uma competência concorrente entre a Câmara dos Deputados, o Senado Federal e o Supremo Tribunal Federal. O controle da legalidade regulamentar pelo Parlamento não é concorrente com o Judiciário nem pode ser praticado fracionadamente; trata-se de competência exclusiva do Congresso Nacional como órgão unificado.
 * **B (Errada):** conformidade com a ordem jurídica, pois sustar atos normativos do Poder Executivo que exorbitem do poder regulamentar é uma competência concorrente entre a Câmara dos Deputados e o Senado Federal. Não há atuação paralela ou isolada de uma das Casas, exigindo-se a manifestação colegiada do Congresso Nacional mediante Decreto Legislativo.
 * **C (Errada):** contrariedade à ordem jurídica, pois sustar atos normativos do Poder Executivo que exorbitem do poder regulamentar é uma competência exclusiva do Supremo Tribunal Federal. O STF realiza o controle repressivo jurisdicional de constitucionalidade, enquanto o art. 49, V, da CF outorga expressamente ao Congresso Nacional o controle político-normativo repressivo para sustar regulamentos exorbitantes.
 * **D (Certa):** contrariedade à ordem jurídica, pois sustar atos normativos do Poder Executivo que exorbitem do poder regulamentar é uma competência exclusiva do Congresso Nacional. Nos exatos termos do art. 49, V, da CF/88, compete exclusivamente ao Congresso Nacional (mediante Decreto Legislativo aprovado por ambas as Casas) sustar os atos normativos do Poder Executivo que exorbitem do poder regulamentar ou dos limites de delegação legislativa. A deliberação isolada da Câmara dos Deputados padece de nulidade formal e usurpação de competência congressionista.
 * **E (Errada):** contrariedade à ordem jurídica, pois sustar atos normativos do Poder Executivo que exorbitem do poder regulamentar é uma competência exclusiva do Senado Federal. A competência não pertence isoladamente ao Senado nem à Câmara, mas à comunhão representativa do Congresso Nacional.
 
-#### Gabarito: **D**
-
 ---
 
-### [Questão 02](https://www.qconcursos.com/questoes-de-concursos/questoes/4376773) — [OBJETIVA — Prefeitura de Cachoeira do Sul - RS / Agente — 2026] • [Nível: Muito Fácil (Acertos: 90,2%)]
+### [Questão 02](https://www.qconcursos.com/questoes-de-concursos/questoes/4376773) — [OBJETIVA — Prefeitura de Cachoeira do Sul - RS / Agente — 2026]
 
 Conforme a Lei Orgânica Municipal, sobre a inviolabilidade assegurada aos Vereadores no exercício do mandato, assinalar a alternativa CORRETA.
 
+* **A)** Aplica-se apenas às manifestações proferidas no recinto do Plenário da Câmara.
+* **B)** Estende-se a todo território nacional, independentemente de relação com o exercício do mandato.
+* **C)** Limita-se às manifestações feitas durante as sessões legislativas ordinárias.
+* **D)** Abrange as opiniões, palavras e votos proferidos no exercício do mandato, dentro dos limites da jurisdição do Município.
+
+#### Gabarito: **D**
 * **A (Errada):** Aplica-se apenas às manifestações proferidas no recinto do Plenário da Câmara. A inviolabilidade material protege opiniões no recinto e fora dele, desde que guardem pertinência temática com as funções do mandato edilício e ocorram nos limites territoriais do Município.
 * **B (Errada):** Estende-se a todo território nacional, independentemente de relação com o exercício do mandato. A imunidade material dos vereadores possui barreira espacial restrita à circunscrição do respectivo município (art. 29, VIII da CF/88).
 * **C (Errada):** Limita-se às manifestações feitas durante as sessões legislativas ordinárias. Não há limitação temporal atrelada a sessões ordinárias, incidindo a proteção durante toda a legislatura e atividade parlamentar.
 * **D (Certa):** Abrange as opiniões, palavras e votos proferidos no exercício do mandato, dentro dos limites da jurisdição do Município. Trata-se da reprodução direta do comando do art. 29, VIII, da CF/88: os vereadores gozam de inviolabilidade por suas opiniões, palavras e votos no exercício do mandato e na circunscrição do Município.
 
-#### Gabarito: **D**
-
 ---
 
-### [Questão 03](https://www.qconcursos.com/questoes-de-concursos/questoes/4378371) — [OBJETIVA — Prefeitura de Cachoeira do Sul - RS / Agente — 2026] • [Nível: Média (Acertos: 61,0%)]
+### [Questão 03](https://www.qconcursos.com/questoes-de-concursos/questoes/4378371) — [OBJETIVA — Prefeitura de Cachoeira do Sul - RS / Agente — 2026]
 
 A Lei Orgânica Municipal estabelece vedações aos Vereadores, que podem ser desde a diplomação ou desde a posse. Sobre essas vedações, analisar os itens.
-
 I. Exercer outro mandato público eletivo.  
 II. Ser proprietário de empresa beneficiada com isenção, em virtude de contrato com a administração pública municipal.  
 III. Ausentar-se das sessões da Câmara, por qualquer motivo.
-
 Está CORRETO o que se afirma:
 
+* **A)** Apenas no item I.
+* **B)** Apenas no item II.
+* **C)** Apenas nos itens I e II.
+* **D)** Apenas nos itens II e III.
+
+#### Gabarito: **C**
 * **A (Errada):** Apenas no item I. O item II também traduz vedação expressa aplicável a partir da posse (art. 54, II, "a", c/c art. 29, IX da CF/88).
 * **B (Errada):** Apenas no item II. O item I também consagra vedação explícita incidente desde a posse (art. 54, II, "d" da CF/88).
 * **C (Certa):** Apenas nos itens I e II. O modelo federal do art. 54 da CF/88, de reprodução obrigatória pelos entes municipais, veda desde a posse ser titular de mais de um cargo ou mandato eletivo (item I) e ser proprietário ou controlador de empresa favorecida por contrato administrativo (item II). Por sua vez, a ausência justificada ou motivada em sessões parlamentares não se confunde com vedação ao mandato (item III incorreto).
 * **D (Errada):** Apenas nos itens II e III. O item III não configura hipótese de incompatibilidade vedada, mas sim regulação de frequência sujeita a justificativa legal ou perda por infrequência habitual injustificada a 1/3 das sessões ordinárias.
 
-#### Gabarito: **C**
-
 ---
 
-### [Questão 04](https://www.qconcursos.com/questoes-de-concursos/questoes/4382723) — [ISET — Câmara de Seabra - BA / Procurador Jurídico — 2026] • [Nível: Muito Fácil (Acertos: 89,8%)]
+### [Questão 04](https://www.qconcursos.com/questoes-de-concursos/questoes/4382723) — [ISET — Câmara de Seabra - BA / Procurador Jurídico — 2026]
 
 Durante sessão plenária da Câmara Municipal, um Vereador, ao discutir contrato firmado pela Prefeitura, afirmou que determinado empresário havia sido beneficiado por “um esquema montado para direcionar a contratação”. O empresário ajuizou ação indenizatória diretamente contra o parlamentar, alegando ofensa à honra. Ficou demonstrado que a manifestação ocorreu da tribuna, durante debate sobre fiscalização do contrato, sem divulgação posterior pelo Vereador em contexto estranho à atividade parlamentar. A defesa invocou a inviolabilidade material prevista na Constituição. Nesse cenário, a conclusão juridicamente mais adequada é a de que:
 
+* **A)** A imunidade material dos Vereadores somente abrange responsabilidade penal, permanecendo íntegra a responsabilidade civil pelas opiniões proferidas durante o mandato.
+* **B)** Estando a manifestação vinculada ao exercício do mandato e tendo ocorrido na circunscrição do Município, incide, em princípio, a inviolabilidade material assegurada pelo art. 29, VIII, da Constituição, que alcança opiniões, palavras e votos do Vereador nos limites constitucionalmente estabelecidos.
+* **C)** A inviolabilidade parlamentar municipal depende de prévia autorização da Câmara para produzir efeitos nas relações civis, pois se trata de garantia institucional disponível pela Casa Legislativa.
+* **D)** A proteção somente alcançaria a manifestação caso o Vereador comprovasse posteriormente a veracidade integral da acusação, pois a imunidade constitucional não incide sobre afirmações potencialmente ofensivas.
+* **E)** Os Vereadores desfrutam da mesma extensão territorial da imunidade material conferida aos Deputados Federais e Senadores, sendo irrelevante que a manifestação tenha ou não relação com a circunscrição municipal.
+
+#### Gabarito: **B**
 * **A (Errada):** A imunidade material dos Vereadores somente abrange responsabilidade penal, permanecendo íntegra a responsabilidade civil pelas opiniões proferidas durante o mandato. A inviolabilidade material do art. 29, VIII da CF/88 exclui tanto o ilícito penal quanto a responsabilidade civil reparatória.
 * **B (Certa):** Estando a manifestação vinculada ao exercício do mandato e tendo ocorrido na circunscrição do Município, incide, em princípio, a inviolabilidade material assegurada pelo art. 29, VIII, da Constituição, que alcança opiniões, palavras e votos do Vereador nos limites constitucionalmente estabelecidos. A jurisprudência consolidada do STF (RE 600.063, Tema 289 de Repercussão Geral) assenta que as palavras do vereador proferidas na tribuna da Câmara no exercício da função fiscalizatória estão amparadas pela imunidade material absoluta, afastando o cabimento de indenização civil por danos morais.
 * **C (Errada):** A inviolabilidade parlamentar municipal depende de prévia autorização da Câmara para produzir efeitos nas relações civis, pois se trata de garantia institucional disponível pela Casa Legislativa. A imunidade material decorre diretamente do texto constitucional e opera de pleno direito, inexistindo autorização prévia da Mesa ou Plenário.
 * **D (Errada):** A proteção somente alcançaria a manifestação caso o Vereador comprovasse posteriormente a veracidade integral da acusação, pois a imunidade constitucional não incide sobre afirmações potencialmente ofensivas. A finalidade ontológica da imunidade material é precisamente viabilizar a livre manifestação crítica e investigativa do parlamentar sem que paira o risco do dever de indenizar pela contundência dos debates.
 * **E (Errada):** Os Vereadores desfrutam da mesma extensão territorial da imunidade material conferida aos Deputados Federais e Senadores, sendo irrelevante que a manifestação tenha ou não relação com a circunscrição municipal. A imunidade dos vereadores é espacialmente circunscrita ao território municipal respectivo.
 
-#### Gabarito: **B**
-
 ---
 
-### [Questão 05](https://www.qconcursos.com/questoes-de-concursos/questoes/4384061) — [FUNDATEC — Prefeitura de Tapera - RS / Oficial Administrativo — 2026] • [Nível: Muito Fácil (Acertos: 93,9%)]
+### [Questão 05](https://www.qconcursos.com/questoes-de-concursos/questoes/4384061) — [FUNDATEC — Prefeitura de Tapera - RS / Oficial Administrativo — 2026]
 
 No sistema político brasileiro, qual é o cargo exercido por um representante eleito de um estado ou do Distrito Federal, em Brasília, com mandato de oito anos?
 
+* **A)** Deputado Federal.
+* **B)** Deputado Estadual.
+* **C)** Senador.
+* **D)** Vereador.
+
+#### Gabarito: **C**
 * **A (Errada):** Deputado Federal. Deputados Federais representam o povo e possuem mandato de 4 anos.
 * **B (Errada):** Deputado Estadual. Atua na Assembleia Legislativa do Estado com mandato de 4 anos.
 * **C (Certa):** Senador. O Senado Federal compõe-se de representantes dos Estados e do Distrito Federal, eleitos segundo o princípio majoritário para mandato de 8 anos (art. 46, caput e § 1º da CF/88).
 * **D (Errada):** Vereador. Atua na Câmara Municipal com mandato de 4 anos.
 
-#### Gabarito: **C**
-
 ---
 
-### [Questão 06](https://www.qconcursos.com/questoes-de-concursos/questoes/4384112) — [FUNDATEC — Prefeitura de Tapera - RS / Oficial Administrativo — 2026] • [Nível: Fácil (Acertos: 72,5%)]
+### [Questão 06](https://www.qconcursos.com/questoes-de-concursos/questoes/4384112) — [FUNDATEC — Prefeitura de Tapera - RS / Oficial Administrativo — 2026]
 
 Em uma eleição geral no Brasil, os representantes de uma unidade da Federação são escolhidos para integrar uma das casas do Congresso Nacional. O número de cadeiras dessa unidade considera sua população e o mandato dos eleitos é de quatro anos. Qual cargo esses representantes exercem?
 
+* **A)** Senador.
+* **B)** Deputado Estadual.
+* **C)** Deputado Federal.
+* **D)** Vereador.
+
+#### Gabarito: **C**
 * **A (Errada):** Senador. Senadores representam o Estado/DF em número fixo e igualitário (3 por ente) com mandato de 8 anos.
 * **B (Errada):** Deputado Estadual. Integra a Assembleia Legislativa estadual, não integrando casa do Congresso Nacional.
 * **C (Certa):** Deputado Federal. A Câmara dos Deputados compõe-se de representantes do povo, eleitos pelo sistema proporcional em cada unidade da Federação com base na população (art. 45 da CF/88), para um mandato de 4 anos.
 * **D (Errada):** Vereador. Atua na esfera do Poder Legislativo municipal.
 
-#### Gabarito: **C**
-
 ---
 
-### [Questão 07](https://www.qconcursos.com/questoes-de-concursos/questoes/4393644) — [Gama Consult — Câmara de São Miguel do Guaporé - RO / Advogado — 2026] • [Nível: Fácil (Acertos: 76,8%)]
+### [Questão 07](https://www.qconcursos.com/questoes-de-concursos/questoes/4393644) — [Gama Consult — Câmara de São Miguel do Guaporé - RO / Advogado — 2026]
 
 Conforme o art. 29 da Constituição Federal, a Lei Orgânica municipal diferencia-se do Regimento Interno da Câmara porque:
 
+* **A)** disciplina apenas comissões legislativas.
+* **B)** depende de sanção executiva.
+* **C)** exige maioria absoluta simples.
+* **D)** estrutura o governo municipal.
+
+#### Gabarito: **D**
 * **A (Errada):** disciplina apenas comissões legislativas. A Lei Orgânica é o diploma fundamental estruturante de todo o ente municipal, indo muito além da dinâmica interna de comissões.
 * **B (Errada):** depende de sanção executiva. A Lei Orgânica é votada em dois turnos com interstício mínimo de dez dias, e aprovada por dois terços dos membros da Câmara, sendo **promulgada pela Mesa da Câmara Municipal**, sem qualquer participação ou sanção do Prefeito (art. 29, caput da CF/88).
 * **C (Errada):** exige maioria absoluta simples. A Lei Orgânica requer quórum qualificado agravado de dois terços (2/3) dos membros da Casa.
 * **D (Certa):** estrutura o governo municipal. Enquanto o Regimento Interno limita-se a disciplinar os procedimentos e a ordem interna dos trabalhos da Casa Legislativa, a Lei Orgânica opera como a verdadeira "constituição local", fixando a organização político-administrativa dos Poderes municipais e as regras fundamentais da administração e dos serviços públicos locais (art. 29 da CF/88).
 
-#### Gabarito: **D**
-
 ---
 
-### [Questão 08](https://www.qconcursos.com/questoes-de-concursos/questoes/4395141) — [Gama Consult — Câmara de São Miguel do Guaporé - RO / Controlador Geral — 2026] • [Nível: Média (Acertos: 63,5%)]
+### [Questão 08](https://www.qconcursos.com/questoes-de-concursos/questoes/4395141) — [Gama Consult — Câmara de São Miguel do Guaporé - RO / Controlador Geral — 2026]
 
 Em conformidade com as regras gerais sobre o processo legislativo e a competência da Câmara Municipal expressas na Lei Orgânica do Município de São Miguel do Guaporé/RO, as emendas à referida Lei Orgânica serão promulgadas pela(o):
 
+* **A)** Prefeito Municipal, no prazo de 15 (quinze) dias úteis.
+* **B)** Comissão Permanente de Constituição, Justiça e Redação.
+* **C)** Procurador-Geral do Município, após homologação judicial.
+* **D)** Mesa Diretora da Câmara Municipal, com o respectivo número de ordem.
+
+#### Gabarito: **D**
 * **A (Errada):** Prefeito Municipal, no prazo de 15 (quinze) dias úteis. Não há sanção, veto ou promulgação pelo Chefe do Poder Executivo em matéria de emenda constitucional ou emenda à Lei Orgânica.
 * **B (Errada):** Comissão Permanente de Constituição, Justiça e Redação. A competência é privativa do órgão diretor da Casa (Mesa Diretora).
 * **C (Errada):** Procurador-Geral do Município, após homologação judicial. Não existe homologação jurisdicional prévia para a eficácia das emendas à legislação orgânica municipal.
 * **D (Certa):** Mesa Diretora da Câmara Municipal, com o respectivo número de ordem. Em perfeita simetria com o modelo do art. 60, § 3º, da CF/88 (em que as Emendas Constitucionais são promulgadas pelas Mesas da Câmara e do Senado), as emendas à Lei Orgânica Municipal são formalmente promulgadas pela Mesa da Câmara dos Vereadores, com o respectivo número de ordem.
 
-#### Gabarito: **D**
-
 ---
 
-### [Questão 09](https://www.qconcursos.com/questoes-de-concursos/questoes/4395174) — [Gama Consult — Câmara de São Miguel do Guaporé - RO / Controlador Geral — 2026] • [Nível: Difícil (Acertos: 37,8%)]
+### [Questão 09](https://www.qconcursos.com/questoes-de-concursos/questoes/4395174) — [Gama Consult — Câmara de São Miguel do Guaporé - RO / Controlador Geral — 2026]
 
 Nos termos dos arts. 51, II, e 84, XXIV, da Constituição Federal, não apresentadas pelo Presidente da República as contas anuais em até sessenta dias da abertura da sessão legislativa, competirá tomá-las:
 
+* **A)** à Comissão Mista de Orçamento.
+* **B)** ao Tribunal de Contas da União.
+* **C)** à Câmara dos Deputados.
+* **D)** ao Congresso Nacional.
+
+#### Gabarito: **C**
 * **A (Errada):** à Comissão Mista de Orçamento. A CMO desempenha papel consultivo e de exame dos orçamentos e do parecer do TCU (art. 166, § 1º), mas não detém a competência privativa expressa para tomar as contas presidenciais.
 * **B (Errada):** ao Tribunal de Contas da União. O TCU aprecia as contas mediante emissão de parecer prévio conclusivo no prazo de 60 dias do seu recebimento (art. 71, I), prestando auxílio técnico ao Parlamento, mas o ato institucional de "tomada" das contas omissas recai sobre órgão legislativo.
 * **C (Certa):** à Câmara dos Deputados. O art. 51, II, da CF/88 é categórico ao dispor que compete privativamente à Câmara dos Deputados "proceder à tomada de contas do Presidente da República, quando não apresentadas ao Congresso Nacional dentro de sessenta dias após a abertura da sessão legislativa". Trata-se de competência privativa da Casa do Povo.
 * **D (Errada):** ao Congresso Nacional. O Congresso Nacional julga anualmente as contas presidenciais (art. 49, IX), mas o ato de *tomá-las* quando o Presidente se mantém inerte e não as apresenta compete privativamente à Câmara dos Deputados (art. 51, II).
 
-#### Gabarito: **C**
-
 ---
 
-### [Questão 10](https://www.qconcursos.com/questoes-de-concursos/questoes/4395469) — [Gama Consult — Câmara de São Miguel do Guaporé - RO / Advogado — 2026] • [Nível: Média (Acertos: 57,3%)]
+### [Questão 10](https://www.qconcursos.com/questoes-de-concursos/questoes/4395469) — [Gama Consult — Câmara de São Miguel do Guaporé - RO / Advogado — 2026]
 
 Em relação aos limites constitucionais dos poderes de investigação das Comissões Parlamentares de Inquérito (CPIs) e à jurisprudência pacificada do Supremo Tribunal Federal, assinale a opção correta:
 
+* **A)** A CPI detém poderes instrutórios judiciais amplos, sendo-lhe constitucionalmente legítimo decretar, por deliberação fundamentada de sua maioria, a quebra de sigilo bancário e a indisponibilidade cautelar de bens dos investigados.
+* **B)** As CPIs municipais instauradas no âmbito da Câmara de Vereadores possuem prerrogativa implícita para determinar diretamente a quebra de sigilo telefônico de autoridades municipais sem prévia intervenção jurisdicional.
+* **C)** É lícito à CPI estadual determinar a quebra do sigilo fiscal e de dados telemáticos de investigado, desde que mediante decisão colegiada devidamente motivada, restando-lhe vedada, contudo, a determinação de busca e apreensão domiciliar.
+* **D)** O investigado convocado para prestar depoimento perante CPI na condição de testemunha ostenta o dever legal irrestrito de depor, não podendo invocar o privilégio contra a autoincriminação (nemo tenetur se detegere).
+
+#### Gabarito: **C**
 * **A (Errada):** A CPI detém poderes instrutórios judiciais amplos, sendo-lhe constitucionalmente legítimo decretar, por deliberação fundamentada de sua maioria, a quebra de sigilo bancário e a indisponibilidade cautelar de bens dos investigados. A determinação de indisponibilidade cautelar ou arresto de bens submete-se à cláusula de estrita reserva de jurisdição, sendo incabível por deliberação de CPI.
 * **B (Errada):** As CPIs municipais instauradas no âmbito da Câmara de Vereadores possuem prerrogativa implícita para determinar diretamente a quebra de sigilo telefônico de autoridades municipais sem prévia intervenção jurisdicional. A jurisprudência consolidada do STF veda às CPIs municipais a decretação direta de quebra de sigilo bancário, fiscal ou telefônico, exigindo a prévia intervenção do Poder Judiciário em razão da ausência de correspondência funcional com magistratura na esfera local.
 * **C (Certa):** É lícito à CPI estadual determinar a quebra do sigilo fiscal e de dados telemáticos de investigado, desde que mediante decisão colegiada devidamente motivada, restando-lhe vedada, contudo, a determinação de busca e apreensão domiciliar. O STF reconhece às CPIs federais e estaduais a faculdade de decretar a quebra do sigilo fiscal, bancário e de dados cadastrais/telefônicos (registros pretéritos), desde que mediante fundamentação idônea e quórum deliberativo; todavia, a busca e apreensão domiciliar submete-se à cláusula intransponível de reserva de jurisdição (art. 5º, XI da CF).
 * **D (Errada):** O investigado convocado para prestar depoimento perante CPI na condição de testemunha ostenta o dever legal irrestrito de depor, não podendo invocar o privilégio contra a autoincriminação (*nemo tenetur se detegere*). O direito fundamental à não autoincriminação e a faculdade de permanecer em silêncio são plenamente oponíveis às CPIs por qualquer pessoa que figure materialmente como investigada, ainda que formalmente convocada como testemunha (STF, HC 89.269 e jurisprudência constante).
 
-#### Gabarito: **C**
-
 ---
 
-### [Questão 11](https://www.qconcursos.com/questoes-de-concursos/questoes/4400919) — [Instituto Fênix — Prefeitura de Tangará - SC / Agente Administrativo — 2026] • [Nível: Muito Fácil (Acertos: 96,8%)]
+### [Questão 11](https://www.qconcursos.com/questoes-de-concursos/questoes/4400919) — [Instituto Fênix — Prefeitura de Tangará - SC / Agente Administrativo — 2026]
 
 Em uma democracia, o exercício do poder público deve observar regras institucionais que possibilitem a elaboração das leis, a administração dos recursos e serviços públicos e a solução de conflitos conforme o ordenamento jurídico. Para evitar a concentração das funções estatais, a Constituição brasileira estabelece a existência de Poderes independentes e harmônicos entre si.
-
 A partir dessa organização, analise as alternativas e assinale aquela que apresenta corretamente uma função relacionada aos Poderes da República.
 
+* **A)** Cabe ao Poder Executivo exercer somente funções simbólicas, sem responsabilidade pela administração dos serviços e políticas públicas.
+* **B)** Cabe exclusivamente ao Poder Judiciário elaborar as leis que disciplinam o funcionamento dos Estados e Municípios.
+* **C)** Cabe ao Poder Legislativo, entre outras atribuições, elaborar leis e exercer a fiscalização dos atos do Poder Executivo, conforme as competências estabelecidas constitucionalmente.
+* **D)** Os Poderes Executivo, Legislativo e Judiciário possuem exatamente as mesmas atribuições, diferenciando-se apenas pelos nomes e pelos prédios onde funcionam.
+
+#### Gabarito: **C**
 * **A (Errada):** Cabe ao Poder Executivo exercer somente funções simbólicas, sem responsabilidade pela administração dos serviços e políticas públicas. O Executivo desempenha primordialmente as tarefas estruturantes de chefia de governo, administração pública e prestação de serviços.
 * **B (Errada):** Cabe exclusivamente ao Poder Judiciário elaborar as leis que disciplinam o funcionamento dos Estados e Municípios. A função legiferante típica pertence ao Poder Legislativo em suas respectivas esferas federativas.
 * **C (Certa):** Cabe ao Poder Legislativo, entre outras atribuições, elaborar leis e exercer a fiscalização dos atos do Poder Executivo, conforme as competências estabelecidas constitucionalmente. O Poder Legislativo ostenta duas funções primárias e indeclináveis: a função legiferante (inovação da ordem jurídica) e a função fiscalizatória/controladora (fiscalização contábil, financeira e política dos atos do Executivo - art. 49, X e arts. 70 a 75 da CF/88).
 * **D (Errada):** Os Poderes Executivo, Legislativo e Judiciário possuem exatamente as mesmas atribuições, diferenciando-se apenas pelos nomes e pelos prédios onde funcionam. A teoria da separação de poderes assenta na especialização das funções estatais primárias com o escopo de coibir o arbítrio e propiciar freios e contrapesos.
 
-#### Gabarito: **C**
-
 ---
 
-### [Questão 12](https://www.qconcursos.com/questoes-de-concursos/questoes/4408486) — [Avança SP — Autarquia Municipal de Saúde / Agente Administrativo — 2026] • [Nível: Muito Difícil (Acertos: 33.7%)]
+### [Questão 12](https://www.qconcursos.com/questoes-de-concursos/questoes/4408486) — [Avança SP — Autarquia Municipal de Saúde / Agente Administrativo — 2026]
 
 No último censo realizado no Município de Alfa, apurou-se uma população de 793.000 (setecentos e noventa e três mil) habitantes. Nos termos da Constituição Federal, assinale a alternativa correta quanto ao limite máximo de Vereadores para a composição da Câmara Municipal de Alfa.
 
+* **A)** 25 Vereadores.
+* **B)** 27 Vereadores.
+* **C)** 29 Vereadores.
+* **D)** 31 Vereadores.
+* **E)** 33 Vereadores.
+
+#### Gabarito: **C**
 * **A (Errada):** 25 Vereadores. O teto de 25 vereadores aplica-se a municípios com mais de 600.000 e até 750.000 habitantes (art. 29, IV, "n" da CF/88).
 * **B (Errada):** 27 Vereadores. O teto de 27 vereadores aplica-se a municípios com mais de 750.000 e até 900.000 habitantes na redação original antes dos desdobramentos atuais ou nas faixas superiores.
 * **C (Certa):** 29 Vereadores. O art. 29, IV, alínea "p", da CF/88 (com a redação introduzida pela EC 58/2009) estabelece que para a composição das Câmaras Municipais será observado o limite máximo de: "p) 29 vereadores, nos Municípios de mais de 750.000 (setecentos e cinquenta mil) habitantes e de até 900.000 (novecentos mil) habitantes". Com 793.000 habitantes, o Município de Alfa enquadra-se precisamente nessa faixa censitária.
 * **D (Errada):** 31 Vereadores. Aplica-se a municípios de mais de 900.000 até 1.050.000 habitantes (art. 29, IV, "q").
 * **E (Errada):** 33 Vereadores. Aplica-se a municípios de mais de 1.050.000 até 1.200.000 habitantes (art. 29, IV, "r").
 
-#### Gabarito: **C**
+---

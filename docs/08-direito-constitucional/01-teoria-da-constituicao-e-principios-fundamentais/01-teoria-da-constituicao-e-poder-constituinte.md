@@ -230,16 +230,15 @@ Encontra-se estritamente delimitado no **art. 60 da Constituição Federal de 19
 
 ## 7. Questões Paradigmáticas Aplicadas
 
-### [Questão 01](https://www.qconcursos.com/questoes-de-concursos/questoes/90304d66-d2) — [CESPE / CEBRASPE — AGEPAR / Especialista em Regulação — 2026] • [Nível: Muito Difícil (Acertos: 26,2%)]
+### [Questão 01](https://www.qconcursos.com/questoes-de-concursos/questoes/90304d66-d2) — [CESPE / CEBRASPE — AGEPAR / Especialista em Regulação — 2026]
 
-**Enunciado:**  
 Assinale a opção em que são corretamente citadas limitações ao poder constituinte derivado decorrente.
 
-* (A) simetria; mutação constitucional
-* (B) cláusula pétrea (limitação material) e sua vedação na vigência de estado de sítio; estado de defesa; intervenção federal (limitação circunstancial)
-* (C) princípio sensível e sua vedação na vigência de estado de sítio; estado de defesa; intervenção federal
-* (D) impossibilidade de alteração do texto constitucional na mesma sessão legislativa de proposta rejeitada; cláusula pétrea
-* (E) simetria; princípio sensível; princípio estabelecido
+* **A)** simetria; mutação constitucional
+* **B)** cláusula pétrea (limitação material) e sua vedação na vigência de estado de sítio; estado de defesa; intervenção federal (limitação circunstancial)
+* **C)** princípio sensível e sua vedação na vigência de estado de sítio; estado de defesa; intervenção federal
+* **D)** impossibilidade de alteração do texto constitucional na mesma sessão legislativa de proposta rejeitada; cláusula pétrea
+* **E)** simetria; princípio sensível; princípio estabelecido
 
 #### Gabarito: **E**
 
@@ -252,16 +251,15 @@ Assinale a opção em que são corretamente citadas limitações ao poder consti
 
 ---
 
-### [Questão 02](https://www.qconcursos.com/questoes-de-concursos/questoes/1b97808c-bb) — [FCC — PGM - Manaus - AM / Procurador do Município de 3ª Classe — 2026] • [Nível: Muito Fácil (Acertos: 84,2%)]
+### [Questão 02](https://www.qconcursos.com/questoes-de-concursos/questoes/1b97808c-bb) — [FCC — PGM - Manaus - AM / Procurador do Município de 3ª Classe — 2026]
 
-**Enunciado:**  
 São consideradas "cláusulas pétreas" da CF/88:
 
-* (A) Os direitos e garantias individuais; a forma federativa de Estado e o voto direto, secreto, universal e periódico.
-* (B) A forma federativa de Estado; a vedação à dupla revisão e a iniciativa popular para emendar a Constituição.
-* (C) Os direitos e garantias individuais; o voto direto, secreto, distrital e periódico e a separação dos Poderes.
-* (D) Os direitos e garantias individuais; a iniciativa popular para emendar a Constituição e o voto direto, secreto, universal e periódico.
-* (E) Os direitos e garantias individuais; o processo de emenda à Constituição estabelecido pelo constituinte originário e o voto direto, secreto, distrital e periódico.
+* **A)** Os direitos e garantias individuais; a forma federativa de Estado e o voto direto, secreto, universal e periódico.
+* **B)** A forma federativa de Estado; a vedação à dupla revisão e a iniciativa popular para emendar a Constituição.
+* **C)** Os direitos e garantias individuais; o voto direto, secreto, distrital e periódico e a separação dos Poderes.
+* **D)** Os direitos e garantias individuais; a iniciativa popular para emendar a Constituição e o voto direto, secreto, universal e periódico.
+* **E)** Os direitos e garantias individuais; o processo de emenda à Constituição estabelecido pelo constituinte originário e o voto direto, secreto, distrital e periódico.
 
 #### Gabarito: **A**
 
@@ -274,9 +272,8 @@ São consideradas "cláusulas pétreas" da CF/88:
 
 ---
 
-### [Questão 03](https://www.qconcursos.com/questoes-de-concursos/questoes/3142ab10-7f) — [CESPE / CEBRASPE — PC-DF / Delegado de Polícia — 2026] • [Nível: Fácil (Acertos: 65,2%)]
+### [Questão 03](https://www.qconcursos.com/questoes-de-concursos/questoes/3142ab10-7f) — [CESPE / CEBRASPE — PC-DF / Delegado de Polícia — 2026]
 
-**Enunciado:**  
 Acerca das classificações das constituições, do poder constituinte, da interpretação constitucional e do controle de constitucionalidade, julgue o item a seguir.
 
 Segundo a classificação ontológica de Karl Loewenstein, constituição semântica é aquela que não limita o poder do Estado, servindo como instrumento de legitimação do regime.
@@ -292,9 +289,8 @@ Segundo a classificação ontológica de Karl Loewenstein, constituição semân
 
 ---
 
-### [Questão 04](https://www.qconcursos.com/questoes-de-concursos/questoes/314538b7-7f) — [CESPE / CEBRASPE — PC-DF / Delegado de Polícia — 2026] • [Nível: Fácil (Acertos: 74,6%)]
+### [Questão 04](https://www.qconcursos.com/questoes-de-concursos/questoes/314538b7-7f) — [CESPE / CEBRASPE — PC-DF / Delegado de Polícia — 2026]
 
-**Enunciado:**  
 Acerca das classificações das constituições, do poder constituinte, da interpretação constitucional e do controle de constitucionalidade, julgue o item a seguir.
 
 No Brasil, entre as limitações ao poder constituinte derivado reformador há limitações materiais implícitas, a exemplo da vedação à dupla revisão das cláusulas pétreas.
@@ -310,16 +306,15 @@ No Brasil, entre as limitações ao poder constituinte derivado reformador há l
 
 ---
 
-### [Questão 05](https://www.qconcursos.com/questoes-de-concursos/questoes/6d5d7ea9-73) — [CESPE / CEBRASPE — PGE-RN / Analista Jurídico — 2026] • [Nível: Muito Fácil (Acertos: 82,7%)]
+### [Questão 05](https://www.qconcursos.com/questoes-de-concursos/questoes/6d5d7ea9-73) — [CESPE / CEBRASPE — PGE-RN / Analista Jurídico — 2026]
 
-**Enunciado:**  
 De acordo com a Constituição Federal de 1988 (CF), a proposta de emenda constitucional deve ser discutida e votada em cada uma das casas do Congresso Nacional, em dois turnos, sendo considerada aprovada se obtiver, em ambas, três quintos dos votos dos respectivos membros. Essa regra caracteriza o tipo de constituição denominada:
 
-* (A) rígida.
-* (B) flexível.
-* (C) formal.
-* (D) material.
-* (E) promulgada.
+* **A)** rígida.
+* **B)** flexível.
+* **C)** formal.
+* **D)** material.
+* **E)** promulgada.
 
 #### Gabarito: **A**
 
@@ -332,16 +327,15 @@ De acordo com a Constituição Federal de 1988 (CF), a proposta de emenda consti
 
 ---
 
-### [Questão 06](https://www.qconcursos.com/questoes-de-concursos/questoes/25be18e3-73) — [CESPE / CEBRASPE — Prefeitura de Porto Velho - RO / Procurador do Município — 2026] • [Nível: Difícil (Comentários Avançados)]
+### [Questão 06](https://www.qconcursos.com/questoes-de-concursos/questoes/25be18e3-73) — [CESPE / CEBRASPE — Prefeitura de Porto Velho - RO / Procurador do Município — 2026]
 
-**Enunciado:**  
 No que concerne ao poder constituinte, assinale a opção correta.
 
-* (A) Com base no princípio da simetria, o poder constituinte derivado decorrente pode estabelecer para o governador de estado a imunidade penal relativa, a fim de que ele somente responda pelos atos ligados ao exercício de seu mandato.
-* (B) Os municípios gozam de poder constituinte derivado decorrente, devendo observar as normas estabelecidas na Constituição Federal de 1988 e na respectiva Constituição estadual.
-* (C) Constituição estadual pode impor a prefeito municipal o dever de comparecimento perante a câmara de vereadores, haja vista as funções do poder constituinte derivado decorrente.
-* (D) No Brasil, adota-se a posição juspositivista em relação ao poder constituinte originário, de forma que não há possibilidade de declaração de inconstitucionalidade de norma oriunda dele.
-* (E) As limitações ao poder constituinte derivado reformador estão expressas no texto constitucional, não se admitindo limitações implícitas.
+* **A)** Com base no princípio da simetria, o poder constituinte derivado decorrente pode estabelecer para o governador de estado a imunidade penal relativa, a fim de que ele somente responda pelos atos ligados ao exercício de seu mandato.
+* **B)** Os municípios gozam de poder constituinte derivado decorrente, devendo observar as normas estabelecidas na Constituição Federal de 1988 e na respectiva Constituição estadual.
+* **C)** Constituição estadual pode impor a prefeito municipal o dever de comparecimento perante a câmara de vereadores, haja vista as funções do poder constituinte derivado decorrente.
+* **D)** No Brasil, adota-se a posição juspositivista em relação ao poder constituinte originário, de forma que não há possibilidade de declaração de inconstitucionalidade de norma oriunda dele.
+* **E)** As limitações ao poder constituinte derivado reformador estão expressas no texto constitucional, não se admitindo limitações implícitas.
 
 #### Gabarito: **D**
 
@@ -355,18 +349,17 @@ No que concerne ao poder constituinte, assinale a opção correta.
 
 ---
 
-### [Questão 07](https://www.qconcursos.com/questoes-de-concursos/questoes/5aeb930b-76) — [FGV — TJ-SC / Oficial de Justiça e Avaliador — 2026] • [Nível: Média (Acertos: 51,2%)]
+### [Questão 07](https://www.qconcursos.com/questoes-de-concursos/questoes/5aeb930b-76) — [FGV — TJ-SC / Oficial de Justiça e Avaliador — 2026]
 
-**Enunciado:**  
 A Emenda Constitucional nº X alterou o Art. Y da Constituição da República. A partir da interpretação desse preceito, obtinha-se, em sua redação original, norma de eficácia plena e aplicabilidade imediata. Após a alteração, passou-se a obter norma de eficácia contida e aplicabilidade imediata.
 
 Maria, que tinha sua situação abrangida por ambas as normas, a anterior e a vigente, concluiu corretamente, à luz dos balizamentos da narrativa, que:
 
-* (A) é possível que a legislação infraconstitucional venha a restringir o alcance do Art. Y, afetando a sua situação jurídica.
-* (B) sua situação jurídica não é afetada pela Emenda Constitucional nº X, em razão da garantia do direito adquirido.
-* (C) a substituição de uma norma de eficácia plena por outra de eficácia contida configura retrocesso social, razão pela qual a alteração é inconstitucional.
-* (D) somente será alcançada por direitos e deveres referidos no Art. Y, após a sua regulamentação pela legislação infraconstitucional.
-* (E) o Art. Y carece de eficácia, mas pode ser integrado por cláusulas gerais de ordem constitucional, como a proteção da dignidade humana, para que produza efeitos imediatos.
+* **A)** é possível que a legislação infraconstitucional venha a restringir o alcance do Art. Y, afetando a sua situação jurídica.
+* **B)** sua situação jurídica não é afetada pela Emenda Constitucional nº X, em razão da garantia do direito adquirido.
+* **C)** a substituição de uma norma de eficácia plena por outra de eficácia contida configura retrocesso social, razão pela qual a alteração é inconstitucional.
+* **D)** somente será alcançada por direitos e deveres referidos no Art. Y, após a sua regulamentação pela legislação infraconstitucional.
+* **E)** o Art. Y carece de eficácia, mas pode ser integrado por cláusulas gerais de ordem constitucional, como a proteção da dignidade humana, para que produza efeitos imediatos.
 
 #### Gabarito: **A**
 
@@ -380,20 +373,19 @@ Maria, que tinha sua situação abrangida por ambas as normas, a anterior e a vi
 
 ---
 
-### [Questão 08](https://www.qconcursos.com/questoes-de-concursos/questoes/a3e322ed-5e) — [FGV — MPE-RJ / Promotor de Justiça Substituto — 2026] • [Nível: Difícil (Acertos: 49,0%)]
+### [Questão 08](https://www.qconcursos.com/questoes-de-concursos/questoes/a3e322ed-5e) — [FGV — MPE-RJ / Promotor de Justiça Substituto — 2026]
 
-**Enunciado:**  
 O Ministério Público do Estado do Rio de Janeiro atuou como órgão interveniente em ação civil pública ajuizada pela Associação Alfa em face do Município Beta, na qual se discutia a interpretação a ser dispensada ao Art. Y da Constituição da República.
 
 O demandante sustentou que o ambiente sociopolítico era insuscetível de ser compartimentado e petrificado, a exemplo do que se verifica com o significado normativo. O demandado, por sua vez, afirmou que o significado normativo não pode variar ao sabor das conveniências do intérprete, que deve subsumir a situação fática *sub judice* a um significado normativo preexistente.
 
 O membro do Ministério Público, ao analisar as linhas argumentativas apresentadas, concluiu corretamente que:
 
-* (A) ambas são compatíveis com a lógica do razoável.
-* (B) ambas se harmonizam com a concepção de mutação constitucional.
-* (C) a do demandante é refratária à jurisprudência dos interesses e a do demandado valoriza a atividade criativa e decisória do intérprete.
-* (D) a do demandante se ajusta à concepção de declaração de nulidade sem redução de texto e a do demandado é refratária ao realismo jurídico.
-* (E) a do demandante se ajusta ao exercício de uma atividade puramente cognoscitiva pelo intérprete e a do demandado se harmoniza com a jurisprudência dos conceitos.
+* **A)** ambas são compatíveis com a lógica do razoável.
+* **B)** ambas se harmonizam com a concepção de mutação constitucional.
+* **C)** a do demandante é refratária à jurisprudência dos interesses e a do demandado valoriza a atividade criativa e decisória do intérprete.
+* **D)** a do demandante se ajusta à concepção de declaração de nulidade sem redução de texto e a do demandado é refratária ao realismo jurídico.
+* **E)** a do demandante se ajusta ao exercício de uma atividade puramente cognoscitiva pelo intérprete e a do demandado se harmoniza com a jurisprudência dos conceitos.
 
 #### Gabarito: **D**
 
@@ -405,18 +397,17 @@ O membro do Ministério Público, ao analisar as linhas argumentativas apresenta
 
 ---
 
-### [Questão 09](https://www.qconcursos.com/questoes-de-concursos/questoes/61798144-64) — [FGV — TJ-BA / Juiz Leigo — 2026] • [Nível: Média]
+### [Questão 09](https://www.qconcursos.com/questoes-de-concursos/questoes/61798144-64) — [FGV — TJ-BA / Juiz Leigo — 2026]
 
-**Enunciado:**  
 O Estado Alfa aprovou uma Emenda à sua Constituição Estadual prevendo que qualquer projeto de lei que disponha sobre aumento da remuneração de servidores públicos estaduais dependeria de referendo popular prévio para sua eficácia.
 
 Considerando os limites impostos ao Poder Constituinte Derivado Decorrente pela Constituição Federal de 1988, essa norma estadual é:
 
-* (A) constitucional, pois os Estados possuem autonomia irrestrita para ampliar as hipóteses de democracia direta em seu território.
-* (B) inconstitucional, por violação ao princípio da simetria e à iniciativa legislativa privativa do Chefe do Poder Executivo.
-* (C) constitucional, desde que aprovada por dois terços dos membros da Assembleia Legislativa.
-* (D) inconstitucional, apenas se não tiver sido antecedida de autorização prévia pelo Congresso Nacional.
-* (E) constitucional, tendo em vista que o referendo popular é cláusula pétrea imutável aplicável a todos os entes.
+* **A)** constitucional, pois os Estados possuem autonomia irrestrita para ampliar as hipóteses de democracia direta em seu território.
+* **B)** inconstitucional, por violação ao princípio da simetria e à iniciativa legislativa privativa do Chefe do Poder Executivo.
+* **C)** constitucional, desde que aprovada por dois terços dos membros da Assembleia Legislativa.
+* **D)** inconstitucional, apenas se não tiver sido antecedida de autorização prévia pelo Congresso Nacional.
+* **E)** constitucional, tendo em vista que o referendo popular é cláusula pétrea imutável aplicável a todos os entes.
 
 #### Gabarito: **B**
 
@@ -429,16 +420,15 @@ Considerando os limites impostos ao Poder Constituinte Derivado Decorrente pela 
 
 ---
 
-### [Questão 10](https://www.qconcursos.com/questoes-de-concursos/questoes/602e8297-1f) — [CESPE / CEBRASPE — Câmara dos Deputados / Consultor Legislativo — 2026] • [Nível: Média (Acertos: 57,4%)]
+### [Questão 10](https://www.qconcursos.com/questoes-de-concursos/questoes/602e8297-1f) — [CESPE / CEBRASPE — Câmara dos Deputados / Consultor Legislativo — 2026]
 
-**Enunciado:**  
 No que concerne ao processo de reforma da Constituição Federal de 1988, assinale a opção correta à luz da jurisprudência do Supremo Tribunal Federal.
 
-* (A) O Presidente da República pode vetar parcialmente proposta de emenda à Constituição aprovada pelo Congresso Nacional se julgar haver inconstitucionalidade manifesta.
-* (B) A promulgação da Emenda Constitucional compete conjuntamente ao Presidente da República e aos Presidentes da Câmara e do Senado.
-* (C) É admitida a iniciativa popular para apresentação de Proposta de Emenda à Constituição desde que subscrita por no mínimo 1% do eleitorado nacional.
-* (D) A deliberação de Emenda Constitucional fica sobrestada durante a vigência de Estado de Calamidade Pública decretado pelo Congresso Nacional.
-* (E) As Emendas Constitucionais estão sujeitas ao controle abstrato de constitucionalidade pelo Supremo Tribunal Federal, podendo ser declaradas nulas caso violem limitações formais, circunstanciais ou materiais.
+* **A)** O Presidente da República pode vetar parcialmente proposta de emenda à Constituição aprovada pelo Congresso Nacional se julgar haver inconstitucionalidade manifesta.
+* **B)** A promulgação da Emenda Constitucional compete conjuntamente ao Presidente da República e aos Presidentes da Câmara e do Senado.
+* **C)** É admitida a iniciativa popular para apresentação de Proposta de Emenda à Constituição desde que subscrita por no mínimo 1% do eleitorado nacional.
+* **D)** A deliberação de Emenda Constitucional fica sobrestada durante a vigência de Estado de Calamidade Pública decretado pelo Congresso Nacional.
+* **E)** As Emendas Constitucionais estão sujeitas ao controle abstrato de constitucionalidade pelo Supremo Tribunal Federal, podendo ser declaradas nulas caso violem limitações formais, circunstanciais ou materiais.
 
 #### Gabarito: **E**
 
@@ -451,18 +441,17 @@ No que concerne ao processo de reforma da Constituição Federal de 1988, assina
 
 ---
 
-### [Questão 11](https://www.qconcursos.com/questoes-de-concursos/questoes/603157c6-1f) — [CESPE / CEBRASPE — Câmara dos Deputados / Consultor Legislativo — 2026] • [Nível: Muito Fácil (Acertos: 80,7%)]
+### [Questão 11](https://www.qconcursos.com/questoes-de-concursos/questoes/603157c6-1f) — [CESPE / CEBRASPE — Câmara dos Deputados / Consultor Legislativo — 2026]
 
-**Enunciado:**  
 Considere que determinado grupo parlamentar pretende apresentar proposta de Emenda à Constituição alterando a periodicidade das eleições federais de 4 para 6 anos, e instituindo o voto censitário e indireto no Brasil.
 
 À luz da teoria do poder constituinte e do art. 60 da Constituição Federal de 1988:
 
-* (A) a proposta pode tramitar normalmente, pois o Congresso Nacional é soberano para decidir a periodicidade e a forma de votação.
-* (B) apenas a alteração do voto indireto é inconstitucional, sendo o voto censitário plenamente compatível com o sistema representativo.
-* (C) a alteração da periodicidade das eleições é vedada por configurar cláusula pétrea temporal expressa.
-* (D) a proposta viola cláusula pétrea quanto à abolição da forma republicana de governo.
-* (E) a proposta é manifestamente inconstitucional, pois o art. 60, § 4º, II, proíbe deliberação de emenda tendente a abolir o voto direto, secreto, universal e periódico.
+* **A)** a proposta pode tramitar normalmente, pois o Congresso Nacional é soberano para decidir a periodicidade e a forma de votação.
+* **B)** apenas a alteração do voto indireto é inconstitucional, sendo o voto censitário plenamente compatível com o sistema representativo.
+* **C)** a alteração da periodicidade das eleições é vedada por configurar cláusula pétrea temporal expressa.
+* **D)** a proposta viola cláusula pétrea quanto à abolição da forma republicana de governo.
+* **E)** a proposta é manifestamente inconstitucional, pois o art. 60, § 4º, II, proíbe deliberação de emenda tendente a abolir o voto direto, secreto, universal e periódico.
 
 #### Gabarito: **E**
 
@@ -475,9 +464,8 @@ Considere que determinado grupo parlamentar pretende apresentar proposta de Emen
 
 ---
 
-### [Questão 12](https://www.qconcursos.com/questoes-de-concursos/questoes/428aeb47-38) — [CESPE / CEBRASPE — Instituto Rio Branco / Diplomata (Terceiro Secretário) — 2026] • [Nível: Fácil (Acertos: 71,0%)]
+### [Questão 12](https://www.qconcursos.com/questoes-de-concursos/questoes/428aeb47-38) — [CESPE / CEBRASPE — Instituto Rio Branco / Diplomata (Terceiro Secretário) — 2026]
 
-**Enunciado:**  
 A respeito do poder constituinte originário e de suas repercussões na ordem jurídica internacional e nacional, julgue o item seguinte.
 
 A promulgação de uma nova Constituição opera a revogação de todo o ordenamento jurídico anterior que com ela for materialmente incompatível, operando-se o fenômeno da desconstitucionalização apenas se houver expressa manifestação em sentido contrário do novo texto fundamental.

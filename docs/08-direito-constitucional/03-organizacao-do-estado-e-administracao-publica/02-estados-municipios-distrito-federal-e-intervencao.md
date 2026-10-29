@@ -242,109 +242,97 @@ flowchart TD
 
 ---
 
-### [Questão 01](https://www.qconcursos.com/questoes-de-concursos/questoes/30a9ba18-c7) — [Instituto Fênix — Prefeitura de União do Oeste - SC / Professor — 2026] • [Nível: Muito Fácil (Acertos: 93.6%)]
+
+### [Questão 01](https://www.qconcursos.com/questoes-de-concursos/questoes/30a9ba18-c7) — [Instituto Fênix — Prefeitura de União do Oeste - SC / Professor — 2026]
 
 A Lei Orgânica do Município, como norma fundamental local, deve observar o princípio constitucional da autonomia municipal. Essa autonomia manifesta-se, entre outros aspectos, pela capacidade de o Município:
 
-* **A)** Elaborar sua própria Constituição e organizar os três Poderes estruturais da República no plano local.
-* **B)** Auto-organizar-se por meio de sua Lei Orgânica, eleger seus governantes e administrar seus próprios serviços e tributos.
-* **C)** Legislar sobre qualquer matéria de interesse geral, inclusive aquelas de competência legislativa privativa da União.
-* **D)** Criar tribunais de justiça municipais próprios para julgar causas e litígios cíveis locais.
+* **A)** Elaborar sua própria Constituição e organizar os três Poderes.
+* **B)** Auto-organizar-se por meio de sua Lei Orgânica, eleger seus governantes e administrar seus serviços.
+* **C)** Legislar sobre qualquer matéria, inclusive aquelas de competência exclusiva da União.
+* **D)** Criar tribunais de justiça próprios para julgar causas locais.
 
 #### Gabarito: **B**
-
-* **A e D (Erradas):** Municípios não possuem Poder Judiciário próprio (só possuem Executivo e Legislativo) e não editam "Constituições", mas sim Leis Orgânicas. O art. 31, § 4º, veda até mesmo novos órgãos de contas municipais.
 * **B (Certa):** A autonomia municipal manifesta-se pelo tripé clássico: auto-organização (Lei Orgânica votada em 2 turnos pela Câmara, art. 29), autogoverno (eleição direta de Prefeito, Vice e Vereadores) e autoadministração/autolegislação (gestão de serviços públicos locais e tributos municipais, art. 30).
 * **C (Errada):** Municípios legislam apenas sobre assuntos de interesse local e suplementam a legislação federal e estadual no que couber (art. 30, I e II).
 
 ---
 
-### [Questão 02](https://www.qconcursos.com/questoes-de-concursos/questoes/361e9591-c9) — [ISET — Câmara de Seabra - BA / Advogado — 2026] • [Nível: Média (Acertos: 60.3%)]
+### [Questão 02](https://www.qconcursos.com/questoes-de-concursos/questoes/361e9591-c9) — [ISET — Câmara de Seabra - BA / Advogado — 2026]
 
 Ao elaborar parecer sobre proposta de alteração da Lei Orgânica, a assessoria jurídica da Câmara Municipal discutiu a natureza da autonomia municipal e os limites impostos ao legislador local. Um dos pareceristas afirmou que a elaboração da Lei Orgânica municipal desempenha idêntica função à de uma Constituição Estadual.
-
 Sobre a disciplina constitucional da Lei Orgânica e dos limites federativos municipais, assinale a opção INCORRETA:
 
-* **A)** A Lei Orgânica deve observar os princípios estabelecidos na Constituição Federal e na Constituição do respectivo Estado.
-* **B)** A Constituição exige que a Lei Orgânica municipal seja votada em dois turnos, com interstício mínimo de dez dias, e aprovada por dois terços dos membros da Câmara Municipal.
-* **C)** A autonomia municipal possui dimensão política, administrativa, financeira e normativa, nos termos da ordem constitucional.
-* **D)** A competência do Município para legislar sobre assuntos de interesse local autoriza a suplementação da legislação federal e estadual no que couber.
-* **E)** A elaboração da Lei Orgânica municipal constitui exercício de poder constituinte derivado decorrente em sentido próprio, dotada de soberania originária equivalente à da Constituição Federal.
+* **A)** A Lei Orgânica deve observar os princípios estabelecidos na Constituição Federal e na Constituição do respectivo Estado, não dispondo o Município de autonomia normativa soberana.
+* **B)** A Constituição exige que a Lei Orgânica municipal seja votada em dois turnos, observado interstício mínimo de dez dias, e aprovada por dois terços dos membros da Câmara Municipal, à qual compete promulgá-la.
+* **C)** A autonomia municipal possui dimensão política, administrativa, financeira e normativa, dentro dos limites traçados pela ordem constitucional.
+* **D)** A competência do Município para legislar sobre assuntos de interesse local e suplementar a legislação federal e estadual, no que couber, decorre diretamente da Constituição Federal.
+* **E)** A elaboração da Lei Orgânica constitui exercício de poder constituinte derivado decorrente em sentido próprio, equivalente àquele conferido constitucionalmente aos Estados para elaboração de suas Constituições, razão pela qual a Lei Orgânica ocupa posição hierárquica imediatamente inferior à Constituição Federal e superior à Constituição Estadual.
 
 #### Gabarito: **E**
-
 * **A, B, C e D (Corretas no mérito):** Reproduzem com precisão os artigos 29 e 30 da Constituição Federal de 1988.
 * **E (Incorreta no mérito / Gabarito da questão):** Municípios **não possuem soberania** (a soberania é atributo exclusivo da República Federativa do Brasil como um todo) e a Lei Orgânica municipal submete-se a rígidas limitações subordinadas à Constituição Federal e à Constituição Estadual, não possuindo a densidade soberana originária conferida à Carta Política federal.
 
 ---
 
-### [Questão 03](https://www.qconcursos.com/questoes-de-concursos/questoes/d8d52859-cc) — [AMEOSC — Prefeitura de Barra Bonita - SC / Professor — 2026] • [Nível: Muito Fácil (Acertos: 89.2%)]
+### [Questão 03](https://www.qconcursos.com/questoes-de-concursos/questoes/d8d52859-cc) — [AMEOSC — Prefeitura de Barra Bonita - SC / Professor — 2026]
 
 Moradores de uma localidade rural procuraram a Prefeitura propondo que a área fosse transformada em distrito administrativo municipal. A assessoria jurídica esclareceu que a criação, organização e supressão de distritos em âmbito municipal depende de:
 
-* **A)** Decreto legislativo da Câmara, independentemente de consulta prévia à população.
-* **B)** Decreto executivo monocrático do Prefeito Municipal, ouvida previamente a comissão de finanças.
-* **C)** Lei municipal ordinária, observada a legislação estadual e precedida de consulta plebiscitária às populações interessadas.
-* **D)** Resolução administrativa da Mesa Diretora da Câmara Municipal, aprovada por maioria simples.
+* **A)** Decreto legislativo, independentemente de consulta prévia à população.
+* **B)** Decreto do Prefeito, depois de ouvida a Câmara Municipal de Vereadores.
+* **C)** Lei, precedida de consulta plebiscitária às populações interessadas.
+* **D)** Resolução da Câmara, aprovada pela maioria simples de seus membros.
 
 #### Gabarito: **C**
-
-* **A, B e D (Erradas):** A criação de distritos exige a edição de lei em sentido formal e estrita obediência às diretrizes da legislação estadual.
 * **C (Certa):** O art. 30, inciso IV, da Constituição Federal estabelece expressamente a competência dos Municípios para *"criar, organizar e suprimir distritos, observada a legislação estadual"*. A formalização faz-se por lei municipal ordinária precedida da manifestação popular comunitária nos termos das leis de divisão administrativa do respectivo Estado.
 
 ---
 
-### [Questão 04](https://www.qconcursos.com/questoes-de-concursos/questoes/71d23d3c-cc) — [VUNESP — TJ-SP / Programa de Residência Jurídica — 2026] • [Nível: Fácil (Acertos: 68.9%)]
+### [Questão 04](https://www.qconcursos.com/questoes-de-concursos/questoes/71d23d3c-cc) — [VUNESP — TJ-SP / Programa de Residência Jurídica — 2026]
 
 O Estado da Federação X deixou de adimplir integralmente o montante anual fixado para pagamento de precatórios judiciais nos últimos dois exercícios, alegando severa frustração na arrecadação tributária decorrente de calamidade pública climática. O credor de um precatório alimentar inadimplido requereu perante o Supremo Tribunal Federal a decretação de Intervenção Federal no referido Estado por descumprimento de ordem judicial (art. 34, VI da CF/88).
-
 À luz da jurisprudência consolidada do Supremo Tribunal Federal, o pedido de intervenção federal deve ser considerado:
 
-* **A)** procedente de plano, visto que a Constituição estabelece responsabilidade objetiva do ente federado pelo pagamento das requisições judiciais.
-* **B)** improcedente, pois a decretação de intervenção federal por inadimplemento de precatório exige descumprimento voluntário e intencional (doloso) da ordem judicial, afastando-se quando demonstrada a impossibilidade financeira fática.
-* **C)** inadmissível, em razão da ilegitimidade ativa do credor para provocar o tribunal, por ser matéria de competência do Procurador-Geral do Estado.
-* **D)** procedente, tendo em vista que o regime de precatórios goza de prioridade absoluta e intangível sobre qualquer despesa pública em saúde ou educação.
-* **E)** acolhido imediatamente com a destituição do Governador e fechamento da Assembleia Legislativa.
+* **A)** procedente, visto que a Constituição Federal estabelece responsabilidade objetiva do ente federado pelo descumprimento de decisões judiciais, sendo irrelevante a alegação de insuficiência financeira.
+* **B)** improcedente, pois a decretação de intervenção federal por inadimplemento de precatório exige descumprimento voluntário e intencional (doloso), premissa afastada quando a mora decorre de insuficiência transitória de recursos e da necessidade de resguardar serviços públicos essenciais.
+* **C)** inadmissível, em razão da ilegitimidade ativa do credor particular para provocar a intervenção federal, ato que é de iniciativa exclusiva e privativa do Procurador-Geral da República.
+* **D)** procedente, tendo em vista que a ordem de pagamento de precatórios possui caráter prioritário absoluto sobre as despesas correntes em saúde e educação, sob pena de violação à inafastabilidade da jurisdição.
+* **E)** extinto sem resolução do mérito, cabendo unicamente ao Presidente do Tribunal de origem determinar o sequestro de verbas públicas nas contas do Estado devedor, sendo o STF incompetente para analisar o pedido interventivo.
 
 #### Gabarito: **B**
-
-* **A e D (Erradas):** A jurisprudência do STF consolidou que o mero atraso não deflagra intervenção automática quando ausente o dolo de descumprir.
 * **B (Certa):** Entendimento pacífico e histórico do STF (precedentes nas IFs 5.105, 5.179 e 126): a intervenção federal fundada no art. 34, VI (inobservância de ordem judicial), **pressupõe o descumprimento voluntário e intencional (doloso)** da decisão pelo ente público. A frustração comprovada de receitas, crises sanitárias ou climáticas e a alocação de recursos em serviços essenciais básicos afastam o dolo, desautorizando a medida excepcionalíssima da intervenção federal.
 * **C (Errada):** O credor prejudicado pode provocar o Presidente do Tribunal de origem para que este encaminhe o pedido de requisição ao STF.
 * **E (Errada):** A intervenção não fecha assembleias legislativas e seu procedimento submete-se ao estrito controle de legalidade constitucional.
 
 ---
 
-### [Questão 05](https://www.qconcursos.com/questoes-de-concursos/questoes/9eb7ea69-b0) — [CESPE / CEBRASPE — TJ-MT / Outorga por Provimento — 2026] • [Nível: Média (Acertos: 57.0%)]
+### [Questão 05](https://www.qconcursos.com/questoes-de-concursos/questoes/9eb7ea69-b0) — [CESPE / CEBRASPE — TJ-MT / Outorga por Provimento — 2026]
 
 Assinale a opção correta acerca da incorporação, da subdivisão ou do desmembramento de Estados-membros do Estado federal brasileiro:
 
-* **A)** A consulta à população interessada no desmembramento de Estados deve englobar toda a área afetada (tanto a área a ser desmembrada quanto a área remanescente).
-* **B)** Para a incorporação ou desmembramento de Estados, há necessidade de oitiva da população interessada por intermédio de plebiscito convocado pelos prefeitos locais.
-* **C)** É competência privativa das Assembleias Legislativas aprovar em definitivo o desmembramento de Estados por meio de decreto legislativo conjunto.
-* **D)** A criação e o desmembramento de Estados far-se-ão mediante lei ordinária estadual aprovada em cada município participante.
-* **E)** Há necessidade de elaboração prévia de estudos de viabilidade municipal fixados por lei ordinária municipal.
+* **A)** 25 Vereadores.
+* **B)** 27 Vereadores.
+* **C)** 29 Vereadores.
+* **D)** 31 Vereadores.
+* **E)** 33 Vereadores.
 
 #### Gabarito: **A**
-
 * **A (Certa):** Conforme o art. 18, § 3º, da CF/88, regulamentado pela Lei nº 9.709/1998 e confirmado pelo STF (ADI 2.650/DF), a expressão "população diretamente interessada" abrange o **eleitorado de todo o Estado-membro original**, e não apenas a população da porção territorial que pretende a separação ou emancipação.
-* **B e C (Erradas):** O plebiscito para modificação de Estados é convocado privativamente pelo **Congresso Nacional** (art. 49, XV da CF), e a aprovação definitiva dá-se por **Lei Complementar Federal** (art. 18, § 3º).
-* **D e E (Erradas):** Confundem as regras de modificação de Estados com as exigências de criação de municípios (art. 18, § 4º).
 
 ---
 
-### [Questão 06](https://www.qconcursos.com/questoes-de-concursos/questoes/26d54060-b1) — [CESPE / CEBRASPE — TJ-MT / Outorga por Remoção — 2026] • [Nível: Difícil (Acertos: 35.5%)]
+### [Questão 06](https://www.qconcursos.com/questoes-de-concursos/questoes/26d54060-b1) — [CESPE / CEBRASPE — TJ-MT / Outorga por Remoção — 2026]
 
 Considerando o disposto na Constituição Federal de 1988 sobre os Territórios Federais, assinale a opção correta:
 
-* **A)** Lei complementar estadual disporá sobre a organização administrativa e judiciária dos territórios federais.
-* **B)** Os territórios federais não poderão ser divididos em municípios, pois integram a administração direta central da União.
-* **C)** As contas do governo do território federal serão submetidas a tribunal de contas municipal privativo com mandato vitalício.
-* **D)** Os territórios federais integram a União, e sua criação, transformação em estado ou reintegração ao estado de origem serão reguladas por lei ordinária federal.
-* **E)** Nos territórios federais com mais de cem mil habitantes, haverá órgãos judiciários de primeira e segunda instância, membros do Ministério Público e defensores públicos federais.
+* **A)** Plenamente adequado, visto que observa a legislação municipal vigente.
+* **B)** Plenamente inadequado, visto que em nada observa a legislação municipal vigente.
+* **C)** Parcialmente adequado, visto que a competência citada é do Poder Legislativo Municipal.
+* **D)** Parcialmente adequado, visto que a competência citada e do Poder Executivo Estadual.
+* **E)** Parcialmente adequado, visto que preparação de mão de obra não pode ser incluído no zelo pela promoção social.
 
 #### Gabarito: **E**
-
 * **A (Errada):** A organização dos territórios compete privativamente à União por meio de lei federal ordinária ou complementar da União (art. 33).
 * **B (Errada):** O art. 33, § 1º, da CF/88 estabelece expressamente que *"os Territórios poderão ser divididos em Municípios"*.
 * **C (Errada):** As contas do governo do território são submetidas ao **Congresso Nacional**, com parecer prévio do **Tribunal de Contas da União (TCU)** (art. 33, § 2º).
@@ -353,18 +341,17 @@ Considerando o disposto na Constituição Federal de 1988 sobre os Territórios 
 
 ---
 
-### [Questão 07](https://www.qconcursos.com/questoes-de-concursos/questoes/1deb5d17-b1) — [VUNESP — PREVCOM / Analista Jurídico — 2026] • [Nível: Média (Acertos: 64.5%)]
+### [Questão 07](https://www.qconcursos.com/questoes-de-concursos/questoes/1deb5d17-b1) — [VUNESP — PREVCOM / Analista Jurídico — 2026]
 
 De acordo com a previsão constitucional, é correto afirmar, sobre a organização político-administrativa do Estado brasileiro, que:
 
-* **A)** os territórios federais integram a soberania dos Estados-membros vizinhos, e sua criação independe de lei complementar.
-* **B)** os Estados podem incorporar-se entre si, subdividir-se ou desmembrar-se para se anexarem a outros, mediante aprovação da população diretamente interessada, através de plebiscito, e do Congresso Nacional, por lei complementar.
-* **C)** a incorporação de municípios far-se-á por lei municipal ordinária, dentro do período determinado por decreto executivo do Governador do Estado.
-* **D)** é permitido à União estabelecer cultos religiosos ou subvencioná-los mediante autorização de tratado internacional.
-* **E)** o desmembramento de municípios exige que o novo ente federativo possua obrigatoriamente mais de cem mil habitantes.
+* **A)** Competências do Município, no exercício de sua autonomia.
+* **B)** Competências da Câmara Municipal, no exercício de seu Poder Executivo.
+* **C)** Competências da Prefeitura Municipal, no exercício de seu Poder Legislativo.
+* **D)** Competências do Estado, no exercício de sua autonomia.
+* **E)** Competências dos cidadãos, em suas manifestações de agrupamentos populares.
 
 #### Gabarito: **B**
-
 * **A (Errada):** Os territórios federais integram a União e sua criação requer Lei Complementar Federal (art. 18, § 2º).
 * **B (Certa):** Transcrição literal do art. 18, § 3º, da Constituição da República de 1988: *"Os Estados podem incorporar-se entre si, subdividir-se ou desmembrar-se para se anexarem a outros, ou formarem novos Estados ou Territórios Federais, mediante aprovação da população diretamente interessada, através de plebiscito, e do Congresso Nacional, por lei complementar"*.
 * **C (Errada):** A incorporação de municípios requer Lei Ordinária Estadual dentro do período fixado por Lei Complementar Federal (art. 18, § 4º).
@@ -373,36 +360,33 @@ De acordo com a previsão constitucional, é correto afirmar, sobre a organizaç
 
 ---
 
-### [Questão 08](https://www.qconcursos.com/questoes-de-concursos/questoes/88eb64c2-b3) — [Instituto Consulplan — Prefeitura de Potirendaba - SP / Professor — 2026] • [Nível: Difícil (Acertos: 37.8%)]
+### [Questão 08](https://www.qconcursos.com/questoes-de-concursos/questoes/88eb64c2-b3) — [Instituto Consulplan — Prefeitura de Potirendaba - SP / Professor — 2026]
 
 Em determinada comarca, debatia-se a criação de guardas municipais destinadas à proteção de bens, serviços e instalações da municipalidade (art. 144, § 8º da CF/88), bem como a estruturação do plano de carreira de seus integrantes.
-
 Nos termos do ordenamento constitucional brasileiro, a criação de cargos na administração direta municipal e a disciplina das funções públicas exigem a edição de:
 
-* **A)** Decreto executivo autônomo e Resolução legislativa.
-* **B)** Lei em sentido formal aprovada pela Câmara Municipal e sancionada pelo Prefeito.
-* **C)** Portaria da Secretaria Municipal de Segurança Pública referendada pelo Ministério Público.
-* **D)** Decreto regulamentar sem participação da Câmara de Vereadores.
+* **A)** a iniciativa privada.
+* **B)** os partidos políticos.
+* **C)** os sindicatos.
+* **D)** outros Municípios.
+* **E)** entidades religiosas.
 
 #### Gabarito: **B**
-
-* **A, C e D (Erradas):** A criação de cargos, remunerações e órgãos públicos submete-se à cláusula de **estrita reserva legal** (princípio da legalidade formal, art. 37, I e art. 61, § 1º, II, "a").
 * **B (Certa):** Conforme os preceitos dos arts. 30, I e 61, § 1º, da Carta Magna, a criação de cargos, funções públicas e a estruturação de guardas municipais exigem a edição de **lei em sentido formal**, cuja iniciativa é privativa do Chefe do Poder Executivo (Prefeito), com posterior deliberação e aprovação pela Câmara Municipal.
 
 ---
 
-### [Questão 09](https://www.qconcursos.com/questoes-de-concursos/questoes/1deb5d18-b1) — [CESPE / CEBRASPE — PGE-PA / Procurador do Estado — 2026] • [Nível: Média (Acertos: 58.9%)]
+### [Questão 09](https://www.qconcursos.com/questoes-de-concursos/questoes/1deb5d18-b1) — [CESPE / CEBRASPE — PGE-PA / Procurador do Estado — 2026]
 
 Acerca dos princípios constitucionais sensíveis e da disciplina da Intervenção Federal na Constituição de 1988, assinale a opção correta:
 
-* **A)** A violação ao princípio da autonomia municipal por ato de Governador de Estado autoriza o Procurador-Geral da República a ajuizar Ação Direta de Inconstitucionalidade Interventiva perante o Supremo Tribunal Federal.
-* **B)** Os princípios constitucionais sensíveis restringem-se ao dever de prestar contas e à forma monárquica representativa.
-* **C)** O acolhimento de representação interventiva pelo STF em virtude de quebra de princípio sensível submete o decreto interventivo à aprovação prévia do Congresso Nacional no prazo de 24 horas.
-* **D)** Qualquer cidadão eleitor possui legitimidade ativa autônoma para ajuizar Ação Direta Interventiva perante o STF para compelir o Presidente da República a intervir em Estado-membro.
-* **E)** A intervenção federal suspende a vigência de todas as leis estaduais do ente intervindo durante o período da intervenção.
+* **A)** A consulta à população interessada no desmembramento de estados deve englobar toda a área afetada (desmembrada e remanescente).
+* **B)** Para incorporação, subdivisão ou desmembramento de estados, há necessidade de oitiva da população interessada por intermédio de plebiscito ou referendo.
+* **C)** É competência exclusiva do Congresso Nacional a aprovação do desmembramento, da subdivisão ou da incorporação de estados, por intermédio de decreto legislativo.
+* **D)** A criação, a incorporação e o desmembramento de estados far-se-ão por lei estadual, dentro do período determinado por lei complementar federal, e dependerão de consulta prévia, mediante plebiscito ou referendo, à população dos estados envolvidos.
+* **E)** Há necessidade de divulgação dos estudos de viabilidade estadual para a criação, a incorporação e o desmembramento de estados.
 
 #### Gabarito: **A**
-
 * **A (Certa):** A autonomia municipal figura expressamente no rol taxativo dos **princípios constitucionais sensíveis** insculpidos no art. 34, inciso VII, alínea "c", da Constituição Federal. Caso um Estado-membro afronte a autonomia municipal, compete com exclusividade ao Procurador-Geral da República instaurar a Representação Interventiva (ADI Interventiva) perante o Supremo Tribunal Federal (art. 36, III).
 * **B (Errada):** A forma de governo é republicana, não monárquica (art. 34, VII, "a").
 * **C (Errada):** Nos termos do art. 36, § 3º, a intervenção decorrente de representação por descumprimento de princípio sensível acolhida pelo STF **dispensa a apreciação pelo Congresso Nacional**.
@@ -411,57 +395,51 @@ Acerca dos princípios constitucionais sensíveis e da disciplina da Intervenç�
 
 ---
 
-### [Questão 10](https://www.qconcursos.com/questoes-de-concursos/questoes/1deb5d19-b1) — [FGV — OAB / Exame de Ordem Unificado — 2026] • [Nível: Difícil (Acertos: 43.1%)]
+### [Questão 10](https://www.qconcursos.com/questoes-de-concursos/questoes/1deb5d19-b1) — [FGV — OAB / Exame de Ordem Unificado — 2026]
 
 O Governador do Estado Alfa publicou decreto executivo estabelecendo que todos os diplomas de nível superior expedidos por universidades públicas situadas no Estado Beta dependeriam de prévia homologação e revalidação pela Secretaria de Educação do Estado Alfa para terem validade jurídica em território alfa, sob alegação de defesa da qualidade educacional regional.
-
 À luz das vedações federativas expressas no art. 19 da Constituição Federal de 1988, o referido decreto estadual é:
 
-* **A)** constitucional, pois os Estados possuem competência privativa plena para regular o exercício profissional de seus residentes.
-* **B)** inconstitucional, por afrontar expressamente a vedação de recusar fé aos documentos públicos e o princípio da igualdade entre os brasileiros.
-* **C)** constitucional, desde que a exigência tenha sido ratificada por resolução unânime do Conselho Estadual de Educação.
-* **D)** inconstitucional unicamente se a medida atingir universidades federais, sendo plenamente lícita em relação a universidades estaduais ou municipais.
-* **E)** constitucional, visto que o pacto federativo autoriza medidas defensivas locais de mercado de trabalho regional.
+* **A)** Lei complementar disporá sobre a organização administrativa e judiciária dos territórios.
+* **B)** Os territórios não poderão ser divididos em municípios, pois pertencem à União.
+* **C)** As contas do governo do território serão submetidas ao tribunal de contas do respectivo território federal, que as analisará, após parecer da área técnica.
+* **D)** Os territórios federais integram a União, e sua criação, transformação em estado ou reintegração ao estado de origem serão reguladas por lei ordinária, após aprovação da população diretamente interessada.
+* **E)** Nos territórios federais com mais de 100.000 habitantes, haverá órgãos judiciários de primeira e segunda instância, membros do Ministério Público e defensores públicos federais.
 
 #### Gabarito: **B**
-
-* **A, C, D e E (Erradas):** A autonomia dos Estados não pode subverter as cláusulas pétreas da unidade nacional e a validade de atos oficiais emanados de outros entes federativos.
 * **B (Certa):** O art. 19, inciso II, da Constituição da República veda terminantemente à União, aos Estados, ao DF e aos Municípios *"recusar fé aos documentos públicos"*, complementado pelo inciso III, que veda *"criar distinções entre brasileiros ou preferências entre si"*. Diplomas regularmente expedidos por instituições oficiais de um Estado-membro ostentam fé pública nacional, sendo manifestamente **inconstitucional** ato estadual que recuse sua validade ou crie embaraços discriminatórios.
 
 ---
 
-### [Questão 11](https://www.qconcursos.com/questoes-de-concursos/questoes/1deb5d20-b1) — [CESPE / CEBRASPE — PGE-PA / Procurador do Estado — 2026] • [Nível: Média (Acertos: 66.4%)]
+### [Questão 11](https://www.qconcursos.com/questoes-de-concursos/questoes/1deb5d20-b1) — [CESPE / CEBRASPE — PGE-PA / Procurador do Estado — 2026]
 
 Acerca da intervenção do Estado-membro nos Municípios localizados em seu território (art. 35 da CF/88), é correto afirmar:
 
-* **A)** O Estado-membro pode intervir no Município quando este deixar de pagar, sem motivo de força maior, por dois anos consecutivos, a dívida fundada municipal.
-* **B)** A intervenção estadual em município depende compulsoriamente de autorização do Presidente da República e do Congresso Nacional.
-* **C)** O Governador de Estado pode decretar a intervenção municipal de ofício para destituir vereadores de oposição que votem contra projetos orçamentários do Executivo.
-* **D)** A intervenção estadual independe de controle político da Assembleia Legislativa em qualquer circunstância.
-* **E)** O Tribunal de Justiça local é incompetente para julgar representações interventivas apresentadas pelo Procurador-Geral de Justiça contra municípios.
+* **A)** os territórios federais integram a União, e sua criação, transformação em Estado ou reintegração ao Estado de origem serão reguladas em lei ordinária.
+* **B)** os estados podem incorporar-se entre si, mediante aprovação da população diretamente interessada, por meio de plebiscito, e do Congresso Nacional, por lei complementar.
+* **C)** a incorporação de municípios far-se-á por lei municipal, dentro do período determinado por Lei Complementar estadual, e dependerá de consulta prévia, mediante plebiscito, às populações dos municípios envolvidos, após divulgação dos Estudos de Viabilidade Municipal, apresentados e publicados na forma da lei.
+* **D)** é vedado à União, aos estados, ao Distrito Federal e aos municípios estabelecer cultos religiosos ou igrejas, subvencioná-los, embaraçar-lhes o funcionamento ou manter com eles ou seus representantes relações de dependência ou aliança, inclusive de colaboração de interesse público.
+* **E)** o desmembramento de municípios será admitido se, além de outros requisitos constitucionais, o ente federativo possuir mais de 50 mil habitantes, de modo a justificar a necessidade de sua reorganização.
 
 #### Gabarito: **A**
-
 * **A (Certa):** Transcrição exata do art. 35, inciso I, da Constituição Federal: o Estado não intervirá em seus Municípios, exceto quando *"deixar de ser paga, sem motivo de força maior, por dois anos consecutivos, a dívida fundada"*.
-* **B e D (Erradas):** A intervenção estadual opera-se na esfera local (Governador decreta e submete o decreto à Assembleia Legislativa do Estado no prazo de 24 horas, art. 35 e art. 36 aplicados por simetria). A União e o Congresso não participam da intervenção estadual em municípios.
 * **C (Errada):** As hipóteses de intervenção são estritamente taxativas e de direito estrito (*numerus clausus*), configurando crime de responsabilidade o uso para perseguição política.
 * **E (Errada):** Cabe privativamente ao Tribunal de Justiça local processar e julgar a representação interventiva estadual proposta pelo Procurador-Geral de Justiça (art. 35, IV).
 
 ---
 
-### [Questão 12](https://www.qconcursos.com/questoes-de-concursos/questoes/1deb5d21-b1) — [FCC — TRT - 1ª Região (RJ) / Analista Judiciário — 2026] • [Nível: Fácil (Acertos: 79.1%)]
+### [Questão 12](https://www.qconcursos.com/questoes-de-concursos/questoes/1deb5d21-b1) — [FCC — TRT - 1ª Região (RJ) / Analista Judiciário — 2026]
 
 No tocante às regras orçamentárias e limites remuneratórios da Câmara Municipal previstos no art. 29-A da Constituição Federal de 1988, é correto afirmar:
 
-* **A)** O total da despesa do Poder Legislativo Municipal, excluídos os inativos, não poderá ultrapassar percentuais das receitas tributárias e transferências municipais, oscilando entre 3,5% e 7% a depender da faixa populacional do Município.
-* **B)** A Câmara Municipal pode comprometer até 95% de sua receita anual com a folha de pagamento de seus servidores e vereadores.
-* **C)** O descumprimento dos limites de gastos com folha de pagamento da Câmara constitui infração administrativa leve, sem ensejar crime de responsabilidade do Presidente da Casa.
-* **D)** Os limites de gastos do Poder Legislativo Municipal aplicam-se exclusivamente aos municípios com mais de um milhão de habitantes.
-* **E)** O Prefeito Municipal possui autorização constitucional expressa para reter os duodécimos orçamentários devidos à Câmara Municipal caso discorde de projetos de lei em tramitação.
+* **A)** Lei Ordinária e Lei Ordinária.
+* **B)** Lei Complementar e Lei Ordinária.
+* **C)** Lei Ordinária e Lei Complementar.
+* **D)** Lei Complementar e Lei Complementar.
 
 #### Gabarito: **A**
-
 * **A (Certa):** Reproduz fielmente a matriz do art. 29-A, *caput*, da CF/88, com os percentuais escalonados em faixas populacionais de 7% (até 100 mil hab.) a 3,5% (mais de 8 milhões de hab.).
-* **B e C (Erradas):** O art. 29-A, § 1º, veda que a Câmara Municipal gaste mais de **70% de sua receita com folha de pagamento**, e o § 2º tipifica expressamente o descumprimento como **crime de responsabilidade do Presidente da Câmara Municipal**.
 * **D (Errada):** Os limites aplicam-se indistintamente a todos os municípios brasileiros.
 * **E (Errada):** A retenção ou o não repasse dos duodécimos até o dia 20 de cada mês constitui crime de responsabilidade do Prefeito Municipal (art. 29-A, § 2º, II da CF/88).
+
+---

@@ -186,7 +186,8 @@ flowchart TD
 
 ---
 
-### [Questão 01](https://www.qconcursos.com/questoes-de-concursos/questoes/728c5d39-c6) — [IGEDUC — Prefeitura de Alagoinha - PB / Médico Plantonista — 2026] • [Nível: Muito Fácil (Acertos: 84.2%)]
+
+### [Questão 01](https://www.qconcursos.com/questoes-de-concursos/questoes/728c5d39-c6) — [IGEDUC — Prefeitura de Alagoinha - PB / Médico Plantonista — 2026]
 
 Considerando os fundamentos, objetivos e princípios que orientam a República Federativa do Brasil, assinale a afirmativa correta:
 
@@ -197,7 +198,6 @@ Considerando os fundamentos, objetivos e princípios que orientam a República F
 * **E)** A erradicação da pobreza integra os fundamentos da República e expressa a autonomia política dos entes federativos.
 
 #### Gabarito: **B**
-
 * **A (Errada):** A cidadania constitui **fundamento** da República Federativa do Brasil (art. 1º, II), e não princípio de relações internacionais (art. 4º).
 * **B (Certa):** O art. 1º, inciso III, da CF/88 elenca a **dignidade da pessoa humana** como um dos fundamentos basilares da República Federativa do Brasil. Trata-se do postulado matriz que ilumina e condiciona a interpretação de todas as normas do ordenamento jurídico brasileiro.
 * **C (Errada):** A soberania popular é elemento do regime democrático (art. 1º, parágrafo único), enquanto os objetivos fundamentais estão no art. 3º (construir, garantir, erradicar, promover).
@@ -206,14 +206,12 @@ Considerando os fundamentos, objetivos e princípios que orientam a República F
 
 ---
 
-### [Questão 02](https://www.qconcursos.com/questoes-de-concursos/questoes/7dcf7e80-c7) — [OBJETIVA — Prefeitura de Cachoeira do Sul - RS / Fiscal Fazendário e Outros — 2026] • [Nível: Muito Fácil (Acertos: 87.9%)]
+### [Questão 02](https://www.qconcursos.com/questoes-de-concursos/questoes/7dcf7e80-c7) — [OBJETIVA — Prefeitura de Cachoeira do Sul - RS / Fiscal Fazendário e Outros — 2026]
 
 De acordo com a Constituição Federal, quanto aos objetivos fundamentais da República Federativa do Brasil, analisar os itens:
-
 I. Construir uma sociedade livre, justa e solidária é objetivo fundamental da República.  
 II. Promover o bem de todos sem preconceitos e discriminações constitui objetivo fundamental da República.  
 III. O pluralismo político consubstancia objetivo fundamental da República Federativa do Brasil.  
-
 Está correto o que se afirma em:
 
 * **A)** Apenas no item I.
@@ -222,7 +220,6 @@ Está correto o que se afirma em:
 * **D)** Apenas nos itens II e III.
 
 #### Gabarito: **C**
-
 * **Item I (Certo):** Encontra-se expressamente previsto no art. 3º, inciso I, da Constituição Federal.
 * **Item II (Certo):** Trata-se do teor do art. 3º, inciso IV, da Constituição Federal.
 * **Item III (Errado):** O pluralismo político é **fundamento** da República (art. 1º, inciso V), e não objetivo fundamental.
@@ -230,7 +227,7 @@ Está correto o que se afirma em:
 
 ---
 
-### [Questão 03](https://www.qconcursos.com/questoes-de-concursos/questoes/62e52717-c8) — [OBJETIVA — Prefeitura de Cachoeira do Sul - RS / Técnico de Administração — 2026] • [Nível: Muito Fácil (Acertos: 89.1%)]
+### [Questão 03](https://www.qconcursos.com/questoes-de-concursos/questoes/62e52717-c8) — [OBJETIVA — Prefeitura de Cachoeira do Sul - RS / Técnico de Administração — 2026]
 
 Assinalar a alternativa que apresenta um dos fundamentos da República Federativa do Brasil previstos na Constituição Federal:
 
@@ -240,7 +237,6 @@ Assinalar a alternativa que apresenta um dos fundamentos da República Federativ
 * **D)** A dependência nacional.
 
 #### Gabarito: **A**
-
 * **A (Certa):** O **pluralismo político** integra o rol exaustivo dos fundamentos da República Federativa do Brasil expressos no art. 1º, inciso V, da CF/88 (*mnemônico SO-CI-DI-VA-PLU*).
 * **B (Errada):** A separação dos Poderes é princípio constitucional orgânico previsto no art. 2º da CF/88, e não fundamento do art. 1º.
 * **C (Errada):** A erradicação da pobreza é **objetivo fundamental** programático expresso no art. 3º, inciso III.
@@ -248,18 +244,16 @@ Assinalar a alternativa que apresenta um dos fundamentos da República Federativ
 
 ---
 
-### [Questão 04](https://www.qconcursos.com/questoes-de-concursos/questoes/1a2939b4-c8) — [FACAPE — Prefeitura de Petrolina - PE / Guarda Civil Municipal — 2026] • [Nível: Fácil (Acertos: 78.4%)]
+### [Questão 04](https://www.qconcursos.com/questoes-de-concursos/questoes/1a2939b4-c8) — [FACAPE — Prefeitura de Petrolina - PE / Guarda Civil Municipal — 2026]
 
 A República Federativa do Brasil rege-se em suas relações internacionais por uma série de princípios fundamentais expressamente previstos na Carta Magna de 1988. Assinale a alternativa que apresenta de forma incorreta um desses princípios:
 
-* **A)** Prevalência dos direitos humanos.
-* **B)** Defesa da paz e solução pacífica dos conflitos.
-* **C)** Intervenção nos assuntos internos de nações vizinhas que violem o princípio democrático.
-* **D)** Concessão de asilo político.
-* **E)** Igualdade entre os Estados e cooperação entre os povos para o progresso da humanidade.
+* **A)** Solução pacífica dos conflitos.
+* **B)** Repúdio ao terrorismo e ao racismo.
+* **C)** Autodeterminação dos povos.
+* **D)** Suspensão dos direitos humanos.
 
 #### Gabarito: **C**
-
 * **A (Certa na assertiva):** A prevalência dos direitos humanos é princípio expresso no art. 4º, II, da CF/88.
 * **B (Certa na assertiva):** A defesa da paz (art. 4º, VI) e a solução pacífica dos conflitos (art. 4º, VII) orientam a atuação diplomática brasileira.
 * **C (Incorreta no mérito / Gabarito da questão):** A Constituição consagra categoricamente o princípio da **não-intervenção** (art. 4º, IV). O Estado brasileiro é terminantemente proibido de intervir em assuntos internos de outros Estados soberanos, prevalecendo a autodeterminação dos povos (art. 4º, III).
@@ -268,18 +262,16 @@ A República Federativa do Brasil rege-se em suas relações internacionais por 
 
 ---
 
-### [Questão 05](https://www.qconcursos.com/questoes-de-concursos/questoes/00a58145-ca) — [COSEAC — UFF / Assistente em Administração — 2026] • [Nível: Média (Acertos: 62.5%)]
+### [Questão 05](https://www.qconcursos.com/questoes-de-concursos/questoes/00a58145-ca) — [COSEAC — UFF / Assistente em Administração — 2026]
 
 O art. 1º, parágrafo único, da Constituição Federal estabelece que *"Todo o poder emana do povo, que o exerce por meio de representantes eleitos ou diretamente, nos termos desta Constituição"*. A respeito do modelo de democracia adotado pela ordem constitucional brasileira, assinale a opção correta:
 
-* **A)** Adotou-se o modelo de democracia representativa pura, no qual o cidadão esgota seu papel político no momento da votação eleitoral.
-* **B)** O regime político brasileiro é a democracia semidireta ou participativa, combinando a representação política com institutos de democracia direta, como o plebiscito, o referendo e a iniciativa popular de leis.
-* **C)** O exercício direto do poder pelo povo dispensa previsão constitucional, autorizando a realização de consultas populares informais vinculantes promovidas por redes sociais.
-* **D)** A iniciativa popular de leis limita-se ao âmbito do Congresso Nacional, sendo vedada nas esferas estadual e municipal.
-* **E)** A soberania popular é exercida privativamente pelos partidos políticos, inexistindo qualquer instrumento constitucional de manifestação popular desvinculada de agremiações partidárias.
+* **A)** Brasil tem como fundamento a separação dos Poderes
+* **B)** dignidade da pessoa humana é um objetivo da República
+* **C)** soberania é fundamento da República Federativa do Brasil
+* **D)** defesa da paz é um fundamento da República Federativa do Brasil
 
 #### Gabarito: **B**
-
 * **A (Errada):** A democracia representativa pura não admite instrumentos diretos de manifestação popular. O Brasil adotou a democracia mista/semidireta.
 * **B (Certa):** O modelo brasileiro combina instrumentos de representação indireta (eleição de parlamentares e chefes do Poder Executivo) com instrumentos de participação direta do cidadão, consubstanciados no plebiscito, referendo, iniciativa popular (art. 14, I, II e III) e ação popular (art. 5º, LXXIII).
 * **C (Errada):** Os instrumentos de consulta e exercício direto do poder dependem de estrita previsão constitucional e legal (Lei nº 9.709/1998), descabendo consultas informais vinculantes.
@@ -288,18 +280,16 @@ O art. 1º, parágrafo único, da Constituição Federal estabelece que *"Todo o
 
 ---
 
-### [Questão 06](https://www.qconcursos.com/questoes-de-concursos/questoes/00a58146-ca) — [COSEAC — UFF / Técnico em Assuntos Educacionais — 2026] • [Nível: Fácil (Acertos: 75.3%)]
+### [Questão 06](https://www.qconcursos.com/questoes-de-concursos/questoes/00a58146-ca) — [COSEAC — UFF / Técnico em Assuntos Educacionais — 2026]
 
 No âmbito da teoria da interpretação constitucional, o método de hermenêutica que preceitua que a interpretação da Constituição deve partir da primazia do problema sobre a norma, estruturando a decisão com base em um catálogo de tópicos argumentativos (*topoi*), denomina-se método:
 
-* **A)** Hermenêutico-Concretizador.
-* **B)** Normativo-Estruturante.
-* **C)** Tópico-Problemático.
-* **D)** Científico-Espiritual.
-* **E)** Jurídico-Clássico.
+* **A)** cidadania é fundamento da República
+* **B)** saúde é fundamento da República Federativa
+* **C)** educação é fundamento da República Federativa do Brasil
+* **D)** defesa da paz é fundamento da República Federativa do Brasil
 
 #### Gabarito: **C**
-
 * **A (Errada):** O método hermenêutico-concretizador (Konrad Hesse) parte da primazia da norma sobre o problema, operando o círculo hermenêutico.
 * **B (Errada):** O método normativo-estruturante (Friedrich Müller) foca na cisão entre o programa da norma (texto) e o domínio da norma (realidade social).
 * **C (Certa):** O método **tópico-problemático**, formulado por **Theodor Viehweg**, parte do problema concreto (*pensamento aporético*) para então buscar a norma cabível como mero ponto de apoio (*topos* ou tópico).
@@ -308,20 +298,17 @@ No âmbito da teoria da interpretação constitucional, o método de hermenêuti
 
 ---
 
-### [Questão 07](https://www.qconcursos.com/questoes-de-concursos/questoes/1a58147-cb) — [FGV — OAB / Exame de Ordem Unificado — 2026] • [Nível: Difícil (Acertos: 43.8%)]
+### [Questão 07](https://www.qconcursos.com/questoes-de-concursos/questoes/1a58147-cb) — [FGV — OAB / Exame de Ordem Unificado — 2026]
 
 Durante o julgamento de importante controvérsia acerca da extensão de garantias fundamentais, o relator destacou que, na hermenêutica constitucional, *"não se deve interpretar preceitos constitucionais de forma isolada, cabendo ao intérprete harmonizar eventuais tensões entre normas de modo a evitar o sacrifício total de um direito fundamental em benefício de outro"*.
-
 O princípio específico de interpretação constitucional diretamente expresso pelo relator é o princípio da:
 
-* **A)** Conformidade funcional.
-* **B)** Concordância prática ou harmonização.
-* **C)** Força normativa da Constituição.
-* **D)** Justeza distributiva.
-* **E)** Interpretação retrospectiva.
+* **A)** Constituem fundamentos da República Federativa do Brasil a cidadania, a soberania, os valores sociais do trabalho e da livre iniciativa, a dignidade da pessoa humana e o pluralismo político.
+* **B)** Constituem fundamentos da República Federativa do Brasil a legalidade, a moralidade, a publicidade, a eficiência e a impessoalidade.
+* **C)** Constituem fundamentos da República Federativa do Brasil a independência nacional, a defesa da paz e a cooperação entre os povos para o progresso da humanidade.
+* **D)** Constituem fundamentos da República Federativa do Brasil a separação dos Poderes, o sufrágio universal e o voto direto e secreto.
 
 #### Gabarito: **B**
-
 * **A (Errada):** O princípio da conformidade funcional (justeza) determina que o intérprete não pode alterar a repartição de competências e funções estipulada pelo constituinte.
 * **B (Certa):** O princípio da **concordância prática ou harmonização** (desenvolvido por Konrad Hesse) impõe que os bens jurídicos constitucionalmente tutelados em aparente colisão sejam coordenados e ponderados, de modo a preservar o máximo de cada um, evitando-se o aniquilamento absoluto de qualquer preceito fundamental.
 * **C (Errada):** O princípio da força normativa impõe a adoção da interpretação que confira maior eficácia e permanência aos comandos constitucionais no tempo.
@@ -330,18 +317,16 @@ O princípio específico de interpretação constitucional diretamente expresso 
 
 ---
 
-### [Questão 08](https://www.qconcursos.com/questoes-de-concursos/questoes/2b58148-cb) — [CESPE / CEBRASPE — PGE-RN / Procurador do Estado — 2026] • [Nível: Média (Acertos: 54.6%)]
+### [Questão 08](https://www.qconcursos.com/questoes-de-concursos/questoes/2b58148-cb) — [CESPE / CEBRASPE — PGE-RN / Procurador do Estado — 2026]
 
 Com relação aos princípios de interpretação da Constituição e à dogmática constitucional moderna, assinale a opção correta:
 
-* **A)** Segundo o princípio da unidade da Constituição, admitem-se antinomias jurídicas reais e contradições insanáveis entre normas originárias da Constituição Federal de 1988, cabendo ao STF declarar a inconstitucionalidade de normas originárias.
-* **B)** O princípio da máxima efetividade orienta que se atribua à norma constitucional o sentido que lhe proporcione a maior eficácia e utilidade social, aplicando-se preferencialmente aos direitos fundamentais.
-* **C)** O princípio da justeza autoriza que o Poder Judiciário, sob o argumento de conferir máxima efetividade a normas de saúde, discipline diretamente tributos municipais sem autorização legislativa.
-* **D)** O método científico-espiritual de Rudolf Smend defende que a interpretação constitucional deve ignorar a realidade axiológica e focar com exclusividade na literalidade gramatical do texto.
-* **E)** A tese de Peter Häberle acerca da sociedade aberta dos intérpretes sustenta que a legitimidade da jurisdição constitucional depende da exclusão de qualquer debate público no âmbito do STF.
+* **A)** repúdio ao terrorismo e ao racismo orienta as relações internacionais do Brasil
+* **B)** pluralismo político é fundamentado na prevalência dos direitos humanos internos
+* **C)** dignidade da pessoa humana é um dos objetivos fundamentais expressos na Carta Magna
+* **D)** soberania e a cidadania constituem poderes da União, independentes e harmônicos entre si
 
 #### Gabarito: **B**
-
 * **A (Errada):** No direito brasileiro, sob a égide do princípio da unidade da Constituição, o STF consagrou que **não existe norma constitucional originária inconstitucional** (ADI 815/DF); a Constituição é um sistema harmônico unitário sem contradições reais.
 * **B (Certa):** O princípio da **máxima efetividade** (também chamado de princípio da eficiência ou da interpretação efetiva) orienta o aplicador a buscar o sentido que extraia a mais ampla aplicabilidade da norma, com especial relevo na concretização dos direitos e garantias fundamentais.
 * **C (Errada):** O princípio da justeza (ou conformidade funcional) veda categoricamente que o Judiciário invada o campo de competência reservado aos demais Poderes.
@@ -350,18 +335,17 @@ Com relação aos princípios de interpretação da Constituição e à dogmáti
 
 ---
 
-### [Questão 09](https://www.qconcursos.com/questoes-de-concursos/questoes/986b4a32-cb) — [CESPE / CEBRASPE — Câmara dos Deputados / Analista Legislativo — 2026] • [Nível: Difícil (Acertos: 41.2%)]
+### [Questão 09](https://www.qconcursos.com/questoes-de-concursos/questoes/986b4a32-cb) — [CESPE / CEBRASPE — Câmara dos Deputados / Analista Legislativo — 2026]
 
 A Constituição Federal estabelece objetivos fundamentais que orientam a atuação de todos os Poderes da República Federativa do Brasil. A esse respeito, assinale a afirmativa correta:
 
-* **A)** A garantia do desenvolvimento nacional constitui objetivo fundamental que vincula a formulação e a execução do planejamento econômico e financeiro estatal.
-* **B)** A erradicação do analfabetismo figura expressamente no art. 3º da CF/88 como um dos objetivos fundamentais autônomos.
-* **C)** A concessão de asilo político a perseguidos ideológicos qualifica-se como objetivo fundamental interno da República.
-* **D)** O pluralismo político, previsto entre os objetivos fundamentais, autoriza o Poder Executivo a descumprir limites fiscais em nome da diversidade partidária.
-* **E)** A República Federativa do Brasil é orientada, nas suas relações internacionais, pelo objetivo prioritário de formação de um bloco econômico mundial subordinado a organismos multilaterais.
+* **A)** A erradicação da pobreza e da marginalização constitui fundamento da República Federativa do Brasil, conforme dispõe o art. 1º da Constituição Federal, o que vai ao encontro da proposta do órgão público.
+* **B)** A dignidade da pessoa humana foi sinalizada, na Constituição Federal, como objetivo fundamental a ser alcançado pela República. O programa concretiza esse objetivo ao propor a transferência de renda para garantir dignidade às famílias.
+* **C)** A redução das desigualdades sociais e regionais figura entre os objetivos fundamentais da República Federativa do Brasil, o que caracteriza o programa descrito e concretiza finalidade expressamente inscrita no art. 3º da Constituição Federal.
+* **D)** A construção de uma sociedade livre, justa e solidária é o princípio que rege a República Federativa do Brasil em suas relações internacionais, o que é harmônico à situação hipotética analisada
+* **E)** O pluralismo político, previsto entre os objetivos fundamentais, autoriza o Distrito Federal a definir os critérios de acesso a benefícios sociais, razão pela qual o DF pode determinar qual valor recebido mensalmente pelas famílias representa extrema pobreza.
 
 #### Gabarito: **A**
-
 * **A (Certa):** Conforme o art. 3º, inciso II, da CF/88, *garantir o desenvolvimento nacional* é objetivo fundamental da República. Esse preceito possui natureza programática e vincula os Poderes Públicos na formulação de planos orçamentários (PPA, LDO e LOA) e nas diretrizes gerais da atividade econômica (art. 174).
 * **B (Errada):** A erradicação do analfabetismo está prevista no art. 214, I, da CF/88 (Plano Nacional de Educação), e não no rol dos objetivos fundamentais do art. 3º (onde consta expressamente erradicar a pobreza e a marginalização).
 * **C (Errada):** A concessão de asilo político é princípio regente das **relações internacionais** (art. 4º, X), e não objetivo fundamental interno.
@@ -370,34 +354,32 @@ A Constituição Federal estabelece objetivos fundamentais que orientam a atuaç
 
 ---
 
-### [Questão 10](https://www.qconcursos.com/questoes-de-concursos/questoes/8ee99792-b2) — [Quadrix — CREF - 21ª Região (MA) / Advogado — 2026] • [Nível: Média (Acertos: 58.7%)]
+### [Questão 10](https://www.qconcursos.com/questoes-de-concursos/questoes/8ee99792-b2) — [Quadrix — CREF - 21ª Região (MA) / Advogado — 2026]
 
 Acerca da organização do Estado e da Administração Pública na Constituição Federal de 1988 (CF/1988), julgue o item a seguir:
-
 A laicidade do Estado brasileiro está consagrada na vedação para estabelecer cultos religiosos ou igrejas, subvencioná‑los, embaraçar‑lhes o funcionamento ou manter com eles ou seus representantes relações de dependência ou aliança, ressalvada, na forma da lei, a colaboração de interesse público.
-
 * ( ) Certo
 * ( ) Errado
 
-#### Gabarito: **Certo**
+* **C)** Certo
+* **E)** Errado
 
-* **C (Certo):** A assertiva reproduz fielmente a matriz do Estado Laico insculpida no art. 19, inciso I, da Constituição Federal. O Brasil não possui religião oficial, garantindo a plena liberdade de consciência e de crença (art. 5º, VI), ao passo que veda a confusão institucional ou subvenção estatal a confissões religiosas, admitindo unicamente a cooperação voltada ao interesse público (como em áreas de assistência social, saúde e patrimônio histórico).
+#### Gabarito: **Certo**
 * **E (Errada):** O item é plenamente procedente à luz do texto constitucional expresso.
 
 ---
 
-### [Questão 11](https://www.qconcursos.com/questoes-de-concursos/questoes/bb81ea54-b4) — [VUNESP — UNESP / Médico do Trabalho e Clínica Geral — 2026] • [Nível: Média (Acertos: 58.2%)]
+### [Questão 11](https://www.qconcursos.com/questoes-de-concursos/questoes/bb81ea54-b4) — [VUNESP — UNESP / Médico do Trabalho e Clínica Geral — 2026]
 
 Tendo em vista os princípios fundamentais que regem a República Federativa do Brasil, pode-se corretamente afirmar que:
 
-* **A)** são objetivos fundamentais da República Federativa do Brasil a soberania, a cidadania, a dignidade da pessoa humana e os valores sociais do trabalho.
+* **A)** são objetivos fundamentais da República Federativa do Brasil a soberania, a cidadania, a dignidade da pessoa humana, os valores sociais do trabalho e da livre iniciativa e o pluralismo político.
 * **B)** todo o poder emana do povo, que o exerce unicamente por meio de representantes eleitos, nos termos da Constituição.
 * **C)** são Poderes da União, independentes e harmônicos entre si, o Legislativo, o Executivo, o Judiciário e o Ministério Público.
-* **D)** constituem fundamentos da República Federativa do Brasil: construir uma sociedade livre, justa e solidária e garantir o desenvolvimento nacional.
+* **D)** constituem fundamentos da República Federativa do Brasil, construir uma sociedade livre, justa e solidária, garantir o desenvolvimento nacional, erradicar a pobreza e a marginalização e reduzir as desigualdades sociais e regionais e promover o bem de todos, sem preconceitos de origem, raça, sexo, cor, idade e quaisquer outras formas de discriminação.
 * **E)** a República Federativa do Brasil buscará a integração econômica, política, social e cultural dos povos da América Latina, visando à formação de uma comunidade latino-americana de nações.
 
 #### Gabarito: **E**
-
 * **A (Errada):** Soberania, cidadania, dignidade e valores sociais do trabalho são **fundamentos** (art. 1º), e não objetivos (art. 3º).
 * **B (Errada):** O parágrafo único do art. 1º estipula que o povo exerce o poder por representantes eleitos **ou diretamente** (plebiscito, referendo, iniciativa popular).
 * **C (Errada):** O Ministério Público é função essencial à justiça (art. 127), e não um quarto Poder da União (art. 2º: Legislativo, Executivo e Judiciário).
@@ -406,20 +388,21 @@ Tendo em vista os princípios fundamentais que regem a República Federativa do 
 
 ---
 
-### [Questão 12](https://www.qconcursos.com/questoes-de-concursos/questoes/cc4a75a2-b7) — [FEPESE — Prefeitura de Itajaí - SC / Procurador do Município — 2026] • [Nível: Fácil (Acertos: 74.1%)]
+### [Questão 12](https://www.qconcursos.com/questoes-de-concursos/questoes/cc4a75a2-b7) — [FEPESE — Prefeitura de Itajaí - SC / Procurador do Município — 2026]
 
 Assinale a alternativa correta a respeito da livre iniciativa e da função social da propriedade disciplinadas na Constituição Federal de 1988:
 
 * **A)** A livre iniciativa constitui fundamento tanto da República Federativa do Brasil quanto da ordem econômica, sendo esta última também fundada na valorização do trabalho humano.
-* **B)** A função social da propriedade rural é cumprida exclusivamente pelo aproveitamento racional e adequado do imóvel, sendo irrelevante a observância das normas trabalhistas e ambientais.
-* **C)** A livre iniciativa constitui fundamento exclusivo da ordem econômica, não contemplada entre os fundamentos da República Federativa do Brasil.
-* **D)** A função social da propriedade urbana é cumprida quando o imóvel atende exclusivamente a interesses de arrecadação do IPTU municipal.
-* **E)** A propriedade privada e a função social da propriedade urbana constituem princípios contraditórios que inviabilizam a exploração comercial no direito brasileiro.
+* **B)** A função social da propriedade rural é cumprida exclusivamente pelo aproveitamento racional e adequado do imóvel, sendo irrelevantes a observância da legislação trabalhista e a utilização adequada dos recursos naturais disponíveis.
+* **C)** A livre iniciativa constitui fundamento exclusivo da ordem econômica, não contemplada entre os fundamentos da República Federativa do Brasil, os quais se limitam à soberania, à cidadania e à dignidade da pessoa humana.
+* **D)** A função social da propriedade urbana é cumprida quando o imóvel atende às exigências fundamentais de ordenação da cidade expressas no plano diretor, que será aprovado, quando obrigatório, por decreto do chefe do Poder Executivo municipal.
+* **E)** A propriedade privada e a função social da propriedade urbana constituem um princípio único e incindível da ordem econômica, enunciado de modo indissociável pela Constituição.
 
 #### Gabarito: **A**
-
 * **A (Certa):** A livre iniciativa goza de dupla consagração constitucional: figura como **fundamento da República Federativa do Brasil** no art. 1º, inciso IV (*"os valores sociais do trabalho e da livre iniciativa"*), e como **fundamento da ordem econômica** no art. 170, *caput* (*"A ordem econômica, fundada na valorização do trabalho humano e na livre iniciativa..."*).
 * **B (Errada):** O art. 186 da CF/88 exige cumulativamente: aproveitamento racional, preservação do meio ambiente, observância da legislação trabalhista e exploração que favoreça o bem-estar dos proprietários e trabalhadores.
 * **C (Errada):** A livre iniciativa está expressamente no art. 1º, IV, integrando os fundamentos da própria República.
 * **D (Errada):** A propriedade urbana cumpre sua função social quando atende às exigências fundamentais de ordenação da cidade expressas no **plano diretor** (art. 182, § 2º).
 * **E (Errada):** Propriedade privada e função social são princípios harmônicos e complementares da ordem econômica (art. 170, II e III).
+
+---

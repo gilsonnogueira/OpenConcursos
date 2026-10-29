@@ -167,18 +167,18 @@ flowchart TD
 
 ---
 
-### [Questão 01](https://www.qconcursos.com/questoes-de-concursos/questoes/62be6a4f-c6) — [IGEDUC — Prefeitura de Alagoinha - PB / Assistente Social — 2026] • [Nível: Muito Fácil (Acertos: 93.5%)]
+
+### [Questão 01](https://www.qconcursos.com/questoes-de-concursos/questoes/62be6a4f-c6) — [IGEDUC — Prefeitura de Alagoinha - PB / Assistente Social — 2026]
 
 Sobre a disciplina constitucional dos direitos sociais positivada na Carta Magna de 1988, assinale a afirmativa correta:
 
 * **A)** O transporte foi incorporado aos direitos sociais por interpretação judicial desvinculada do texto constitucional.
-* **B)** A assistência aos desamparados possui natureza puramente administrativa e não integra o catálogo constitucional de direitos sociais.
-* **C)** A previdência social integra os direitos individuais de primeira dimensão, recebendo proteção constitucional desvinculada da ordem social.
-* **D)** A moradia constitui matéria adstrita à política urbana municipal, sem previsão expressa entre os direitos sociais fundamentais.
-* **E)** A educação, a saúde, a alimentação e o trabalho integram expressamente o rol de direitos sociais reconhecidos pela Constituição Federal.
+* **B)** A assistência aos desamparados possui natureza administrativa e não integra o catálogo constitucional de garantias.
+* **C)** A previdência social integra os direitos individuais e recebe proteção constitucional distinta das prestações sociais.
+* **D)** A moradia constitui direito relacionado à política urbana, sem previsão expressa entre os direitos sociais.
+* **E)** A educação, a saúde, a alimentação e o trabalho integram o rol de direitos sociais reconhecidos pela Constituição Federal.
 
 #### Gabarito: **E**
-
 * **A (Errada):** O transporte foi expressamente inserido no texto da Carta Magna por meio da **Emenda Constitucional nº 90/2015**, constando literalmente do art. 6º.
 * **B (Errada):** A assistência aos desamparados integra formalmente o art. 6º da CF/88 como direito social fundamental expresso.
 * **C (Errada):** A previdência social é direito social típico de segunda dimensão prestacional, integrando o tripé da Seguridade Social (arts. 194 a 204).
@@ -187,52 +187,46 @@ Sobre a disciplina constitucional dos direitos sociais positivada na Carta Magna
 
 ---
 
-### [Questão 02](https://www.qconcursos.com/questoes-de-concursos/questoes/5a443e58-c7) — [OBJETIVA — Prefeitura de Cachoeira do Sul - RS / Contador e Advogado — 2026] • [Nível: Muito Fácil (Acertos: 90.5%)]
+### [Questão 02](https://www.qconcursos.com/questoes-de-concursos/questoes/5a443e58-c7) — [OBJETIVA — Prefeitura de Cachoeira do Sul - RS / Contador e Advogado — 2026]
 
 A Constituição Federal garante aos trabalhadores urbanos e rurais o direito de gozo de férias anuais. Conforme o ordenamento constitucional brasileiro, quanto às férias anuais, assinalar a alternativa correta:
 
 * **A)** O período de férias não será remunerado.
-* **B)** As férias devem ser concedidas sem remuneração e unicamente quando o trabalhador manifestar interesse.
-* **C)** O período de férias deve ser remunerado e, a critério do empregador, pode ser concedido adicional compensatório.
+* **B)** As férias devem ser concedidas sem remuneração e quando o trabalhador preferir.
+* **C)** O período de férias deve ser remunerado e, a critério do empregador, pode ser concedido adicional.
 * **D)** As férias devem ser remuneradas com, pelo menos, um terço a mais do que o salário normal.
 
 #### Gabarito: **D**
-
-* **A e B (Erradas):** As férias são direito fundamental de repouso remunerado, sendo inadmissível o afastamento sem pagamento de salário.
 * **C (Errada):** O terço constitucional de férias é direito subjetivo obrigatório e irrecusável, não constituindo mera liberalidade discricionária do empregador.
 * **D (Certa):** Trata-se da reprodução literal do art. 7º, inciso XVII, da Carta da República: *"gozo de férias anuais remuneradas com, pelo menos, um terço a mais do que o salário normal"*.
 
 ---
 
-### [Questão 03](https://www.qconcursos.com/questoes-de-concursos/questoes/6a5e2f28-c8) — [OBJETIVA — Prefeitura de Cachoeira do Sul - RS / Técnico em Contabilidade — 2026] • [Nível: Muito Fácil (Acertos: 88.4%)]
+### [Questão 03](https://www.qconcursos.com/questoes-de-concursos/questoes/6a5e2f28-c8) — [OBJETIVA — Prefeitura de Cachoeira do Sul - RS / Técnico em Contabilidade — 2026]
 
 O ordenamento constitucional brasileiro garante licença à gestante às trabalhadoras urbanas e rurais. Conforme a Constituição Federal de 1988, a referida licença será:
 
-* **A)** sem garantia de emprego e de salário, com a duração máxima de noventa dias.
-* **B)** sem prejuízo do emprego e do salário, com a duração de cento e vinte dias.
-* **C)** sem remuneração, devendo o período ser negociado livremente entre a gestante e o empregador.
-* **D)** sem prejuízo do emprego e do salário, com a duração de cento e oitenta dias, e com, pelo menos, um terço a mais de remuneração do que o salário normal.
+* **A)** Sem garantia do emprego e do salário, com a duração de 90 dias.
+* **B)** Sem prejuízo do emprego e do salário, com a duração de 120 dias.
+* **C)** Sem remuneração, devendo o período ser negociado entre gestante e empregador.
+* **D)** Sem prejuízo do emprego e do salário, com a duração de 180 dias, e com, pelo menos, um terço a mais de remuneração do que o salário normal.
 
 #### Gabarito: **B**
-
-* **A e C (Erradas):** A Constituição proíbe qualquer perda remuneratória ou rescisão arbitrária durante a estabilidade gestacional.
 * **B (Certa):** O art. 7º, inciso XVIII, da Constituição Federal dispõe literalmente: *"licença à gestante, sem prejuízo do emprego e do salário, com a duração de cento e vinte dias"*. (Nota: A prorrogação para 180 dias decorre de lei infraconstitucional voluntária no âmbito do Programa Empresa Cidadã — Lei 11.770/2008 —, mas a garantia constitucional expressa do piso é de 120 dias).
 * **D (Errada):** Confunde a regra geral de 120 dias com a ampliação infraconstitucional e adiciona indevidamente o terço de férias.
 
 ---
 
-### [Questão 04](https://www.qconcursos.com/questoes-de-concursos/questoes/6a5f2f29-c8) — [CESPE / CEBRASPE — Polícia Civil - PE / Agente de Polícia — 2026] • [Nível: Fácil (Acertos: 72.8%)]
+### [Questão 04](https://www.qconcursos.com/questoes-de-concursos/questoes/6a5f2f29-c8) — [CESPE / CEBRASPE — Polícia Civil - PE / Agente de Polícia — 2026]
 
 Acerca dos direitos sociais e das normas protetivas do trabalho na Constituição Federal de 1988, assinale a opção correta:
 
-* **A)** É permitida a contratação de trabalho noturno, perigoso ou insalubre a menores de dezoito anos, desde que autorizada pelos pais e pelo juizado da infância e juventude.
-* **B)** A jornada de trabalho para o trabalho realizado em turnos ininterruptos de revezamento é de seis horas diárias, admitida a alteração para oito horas exclusivamente por meio de negociação coletiva.
-* **C)** O princípio da irredutibilidade do salário veda qualquer redução salarial, ainda que haja previsão expressa em convenção ou acordo coletivo de trabalho.
-* **D)** É proibida a diferenciação de salário e de critérios de admissão de trabalhadores unicamente com base em cor, sendo permitida a fixação de idade máxima em anúncios de emprego sem justificativa funcional.
-* **E)** O trabalhador rural submete-se a prazos prescricionais diferenciados em relação ao trabalhador urbano para reclamar créditos trabalhistas em juízo.
+* **A)** Apenas no item I.
+* **B)** Apenas no item II.
+* **C)** Apenas nos itens I e III.
+* **D)** Apenas nos itens II e III.
 
 #### Gabarito: **B**
-
 * **A (Errada):** O art. 7º, XXXIII, impõe vedação absoluta e inafastável ao trabalho noturno, perigoso ou insalubre para menores de 18 anos.
 * **B (Certa):** Conforme o art. 7º, inciso XIV, da CF/88 e a Súmula 423 do TST, a jornada máxima para turnos ininterruptos de revezamento é de 6 horas diárias, sendo constitucionalmente válida a sua fixação em 8 horas mediante acordo ou convenção coletiva de trabalho.
 * **C (Errada):** A irredutibilidade do salário comporta a ressalva explícita: *"salvo o disposto em convenção ou acordo coletivo"* (art. 7º, VI).
@@ -241,20 +235,18 @@ Acerca dos direitos sociais e das normas protetivas do trabalho na Constituiçã
 
 ---
 
-### [Questão 05](https://www.qconcursos.com/questoes-de-concursos/questoes/6a602f30-c8) — [FGV — OAB / Exame de Ordem Unificado — 2026] • [Nível: Média (Acertos: 61.4%)]
+### [Questão 05](https://www.qconcursos.com/questoes-de-concursos/questoes/6a602f30-c8) — [FGV — OAB / Exame de Ordem Unificado — 2026]
 
 Determinado empregado celetista de uma indústria química registrou sua candidatura ao cargo de diretor do respectivo sindicato de trabalhadores no dia 10 de março. No dia 15 de março, a empresa tomou ciência formal da candidatura e demitiu o empregado sem justa causa.
-
 Considerando o estatuto constitucional da liberdade sindical (art. 8º da CF/88), a demissão operada pelo empregador é:
 
-* **A)** lícita, pois a estabilidade sindical somente se inicia com a efetiva posse do candidato eleito.
-* **B)** nula, pois a estabilidade provisória do dirigente sindical tem início com o registro da candidatura e estende-se até um ano após o final do mandato, se eleito, ainda que suplente.
-* **C)** lícita, desde que o empregador efetue o pagamento da indenização compensatória de 40% do FGTS acrescida de 10% a título de honorários sindicais.
-* **D)** lícita, haja vista que a estabilidade provisória no emprego aplica-se exclusivamente aos membros fundadores do sindicato.
-* **E)** nula apenas se a candidatura tiver sido homologada previamente perante o Ministério do Trabalho e Emprego.
+* **A)** É constitucional lei estadual que considera como despesa de manutenção e desenvolvimento do ensino os gastos com inativos do setor de educação.
+* **B)** A Constituição Federal assegura o direito à creche para as crianças de zero a cinco anos, condicionado o gozo à existência de disponibilidade orçamentária e financeira.
+* **C)** É constitucional regra da Constituição Estadual que concede autonomia financeira e orçamentária para Universidade Estadual.
+* **D)** Os municípios devem destinar, pelo menos, 30% (trinta por cento) de sua receita corrente líquida para os gastos com a manutenção e desenvolvimento do ensino.
+* **E)** É constitucional lei estadual que determina a reserva de vagas para que irmãos que cursem a mesma etapa ou mesmo ciclo escolar frequentem a mesma escola.
 
 #### Gabarito: **B**
-
 * **A (Errada):** O termo inicial da garantia é o registro da candidatura, e não a posse.
 * **B (Certa):** Transcrição exata do art. 8º, inciso VIII, da CF/88 e Súmula 369 do TST: *"é vedada a dispensa do empregado sindicalizado a partir do registro da candidatura a cargo de direção ou representação sindical e, se eleito, ainda que suplente, até um ano após o final do mandato, salvo se cometer falta grave nos termos da lei"*. A dispensa imotivada do candidato é nula de pleno direito, gerando direito à reintegração.
 * **C (Errada):** A indenização rescisória não supre a estabilidade constitucional; o empregado detém direito subjetivo à manutenção do posto de trabalho para resguardar a representatividade da categoria.
@@ -263,18 +255,17 @@ Considerando o estatuto constitucional da liberdade sindical (art. 8º da CF/88)
 
 ---
 
-### [Questão 06](https://www.qconcursos.com/questoes-de-concursos/questoes/6a612f31-c8) — [FCC — TRT - 1ª Região (RJ) / Analista Judiciário — 2026] • [Nível: Difícil (Acertos: 41.5%)]
+### [Questão 06](https://www.qconcursos.com/questoes-de-concursos/questoes/6a612f31-c8) — [FCC — TRT - 1ª Região (RJ) / Analista Judiciário — 2026]
 
 No tocante ao custeio das organizações sindicais e à recente evolução da jurisprudência do Supremo Tribunal Federal fixada no Tema 935 da Repercussão Geral, assinale a afirmativa correta:
 
-* **A)** A contribuição assistencial prevista em acordo ou convenção coletiva só pode ser cobrada dos trabalhadores estritamente filiados ao sindicato profissional.
-* **B)** É constitucional a instituição, por acordo ou convenção coletivos, de contribuições assistenciais a serem impostas a todos os empregados da categoria, ainda que não sindicalizados, desde que assegurado o direito de oposição.
-* **C)** A contribuição confederativa prevista no art. 8º, IV, da CF/88 é de recolhimento compulsório para toda a categoria, independentemente de filiação sindical.
-* **D)** O imposto sindical legal obrigatório restabeleceu a sua cobrança automática a partir da Emenda Constitucional nº 132/2023.
-* **E)** O direito de oposição do trabalhador não sindicalizado à cobrança da contribuição assistencial depende de homologação prévia da Justiça do Trabalho.
+* **A)** é compatível com a Constituição Federal de 1988 (CF/1988), desde que preserve a gratuidade do ensino público e assegure vaga aos estudantes em alguma unidade da rede.
+* **B)** é admissível, pois a Constituição assegura a liberdade de organização dos sistemas de ensino para estabelecer critérios próprios de distribuição das vagas.
+* **C)** é legítima quando for destinada a melhorar os indicadores de desempenho da rede, desde que os critérios sejam previamente divulgados à comunidade escolar.
+* **D)** contraria o princípio constitucional da igualdade de condições para o acesso e para a permanência na escola, ao estabelecer tratamento diferenciado entre estudantes com base em seu desempenho acadêmico para acesso a determinadas unidades.
+* **E)** é legítima, pois a violação só ocorre quando há exclusão absoluta para o aluno e, no caso em questão, a escola adotou critérios de restrição com base apenas no desempenho acadêmico.
 
 #### Gabarito: **B**
-
 * **A (Errada):** Tese superada pelo STF no julgamento do Tema 935 em setembro de 2023.
 * **B (Certa):** Trata-se da literalidade da tese vinculante do **Tema 935 do STF**: *"É constitucional a instituição, por acordo ou convenção coletivos, de contribuições assistenciais a serem impostas a todos os empregados da categoria, ainda que não sindicalizados, desde que assegurado o direito de oposição"*. O STF compreendeu que os acordos coletivos beneficiam a integralidade da categoria, justificando a cobrança proporcional desde que haja possibilidade formal de o trabalhador opor-se ao desconto.
 * **C (Errada):** A contribuição confederativa (art. 8º, IV) só é exigível de filiados (*Súmula Vinculante 40 do STF*).
@@ -283,18 +274,17 @@ No tocante ao custeio das organizações sindicais e à recente evolução da ju
 
 ---
 
-### [Questão 07](https://www.qconcursos.com/questoes-de-concursos/questoes/6a622f32-c8) — [CESPE / CEBRASPE — PGE-RN / Procurador do Estado — 2026] • [Nível: Média (Acertos: 56.3%)]
+### [Questão 07](https://www.qconcursos.com/questoes-de-concursos/questoes/6a622f32-c8) — [CESPE / CEBRASPE — PGE-RN / Procurador do Estado — 2026]
 
 Acerca da disciplina constitucional do direito de greve no ordenamento jurídico brasileiro, assinale a opção correta:
 
-* **A)** O direito de greve dos trabalhadores regidos pela CLT é norma de eficácia limitada, subordinado à prévia autorização da autoridade ministerial competente.
-* **B)** É constitucionalmente assegurado aos policiais civis e militares o exercício amplo do direito de greve, desde que mantido o efetivo de 30% em patrulhamento ostensivo.
-* **C)** Aos militares estaduais e das Forças Armadas é terminantemente proibida a greve e a sindicalização.
-* **D)** Em virtude da ausência de lei específica para o serviço público civil, os servidores públicos não podem deflagrar greve sob nenhuma hipótese.
-* **E)** A greve deflagrada por trabalhadores de serviços essenciais na iniciativa privada suspende integralmente as obrigações de atendimento a necessidades inadiáveis da comunidade.
+* **A)** Estão corretos apenas os itens I, III e IV.
+* **B)** Estão corretos apenas os itens III, IV e V.
+* **C)** Estão corretos apenas os itens I, II e III.
+* **D)** Estão corretos apenas os itens II, III e IV.
+* **E)** Está correto apenas o item V.
 
 #### Gabarito: **C**
-
 * **A (Errada):** O art. 9º é norma de eficácia contida na iniciativa privada, aplicando-se de plano com os parâmetros da Lei 7.783/1989.
 * **B (Errada):** Militares têm vedação expressa (arts. 42 e 142). Os policiais civis e demais agentes de segurança pública têm o direito de greve expressamente vedado por jurisprudência vinculante do STF (ARE 654.432/GO).
 * **C (Certa):** Transcrição exata das normas dos arts. 42, § 1º, e 142, § 3º, IV, da Constituição Federal: aos militares são proibidas a sindicalização e a greve.
@@ -303,33 +293,29 @@ Acerca da disciplina constitucional do direito de greve no ordenamento jurídico
 
 ---
 
-### [Questão 08](https://www.qconcursos.com/questoes-de-concursos/questoes/671c6dc0-d2) — [IBAM — Prefeitura de Santos - SP / Operador Social — 2026] • [Nível: Fácil (Acertos: 78.2%)]
+### [Questão 08](https://www.qconcursos.com/questoes-de-concursos/questoes/671c6dc0-d2) — [IBAM — Prefeitura de Santos - SP / Operador Social — 2026]
 
 A Constituição Federal estabelece que a assistência social será prestada a quem dela necessitar, independentemente de contribuição à seguridade social. A esse respeito, o benefício de prestação continuada (BPC), que assegura a garantia de um salário mínimo mensal, destina-se:
 
-* **A)** exclusivamente a idosos com mais de setenta anos e com comprovada contribuição previdenciária de cinco anos.
-* **B)** à pessoa com deficiência e ao idoso que comprovem não possuir meios de prover à própria manutenção ou de tê-la provida por sua família.
-* **C)** a qualquer trabalhador desempregado que esteja há mais de dois anos sem vínculo formal de trabalho.
-* **D)** privativamente a famílias numerosas que possuam crianças matriculadas no ensino fundamental obrigatório.
-* **E)** aos segurados especiais da previdência rural que sofreram perdas de safras por estiagem.
+* **A)** Programa de Proteção Social Básica (PSB).
+* **B)** Beneficio de Acompanhamento Especializado (BAE).
+* **C)** Auxílio de Reabilitação Profissional (ARP).
+* **D)** Benefício de Prestação Continuada (BPС).
+* **E)** Programa de Garantia de Renda Mínima (PGRM).
 
 #### Gabarito: **B**
-
 * **A (Errada):** A assistência social independe de qualquer contribuição prévia à previdência social. O BPC alcança idosos a partir de 65 anos (art. 20 da LOAS).
 * **B (Certa):** Transcrição literal do art. 203, inciso V, da Carta Magna: *"a garantia de um salário mínimo de benefício mensal à pessoa com deficiência e ao idoso que comprovem não possuir meios de prover à própria manutenção ou de tê-la provida por sua família, conforme dispuser a lei"*.
 * **C (Errada):** O desemprego involuntário é amparado pelo seguro-desemprego e previdência social, e não pelo BPC.
-* **D e E (Erradas):** Hipóteses dissociadas da matriz constitucional do Benefício de Prestação Continuada.
 
 ---
 
-### [Questão 09](https://www.qconcursos.com/questoes-de-concursos/questoes/671f083c-d2) — [IBAM — Prefeitura de Santos - SP / Operador Social — 2026] • [Nível: Fácil (Acertos: 75.9%)]
+### [Questão 09](https://www.qconcursos.com/questoes-de-concursos/questoes/671f083c-d2) — [IBAM — Prefeitura de Santos - SP / Operador Social — 2026]
 
 Analise as assertivas quanto à Seguridade Social na Constituição de 1988, classificando-as em (V) para verdadeiras e (F) para falsas:
-
 (__) A seguridade social compreende um conjunto integrado de ações de iniciativa dos Poderes Públicos e da sociedade, destinadas a assegurar os direitos relativos à saúde, à previdência e à assistência social.  
 (__) O acesso às ações e serviços de saúde pública no Brasil é condicionado ao prévio recolhimento de contribuições previdenciárias mensais.  
 (__) A previdência social tem caráter contributivo e de filiação obrigatória, preservando o equilíbrio financeiro e atuarial.  
-
 A sequência correta de preenchimento dos parênteses é:
 
 * **A)** F, F, V.
@@ -338,7 +324,6 @@ A sequência correta de preenchimento dos parênteses é:
 * **D)** F, V, V.
 
 #### Gabarito: **B**
-
 * **1ª Assertiva (Verdadeira):** Reproduz fielmente o conceito do *caput* do art. 194 da CF/88 (*tripé da Seguridade Social: Saúde, Previdência e Assistência Social*).
 * **2ª Assertiva (Falsa):** A saúde é direito de todos e dever do Estado (art. 196), tendo **acesso universal e gratuito, independente de qualquer contribuição**. Quem exige contribuição é a previdência.
 * **3ª Assertiva (Verdadeira):** É o texto do art. 201 da CF/88: a previdência social é contributiva e de filiação compulsória.
@@ -346,19 +331,17 @@ A sequência correta de preenchimento dos parênteses é:
 
 ---
 
-### [Questão 10](https://www.qconcursos.com/questoes-de-concursos/questoes/67222974-d2) — [IBAM — Prefeitura de Santos - SP / Operador Social — 2026] • [Nível: Difícil (Acertos: 42.9%)]
+### [Questão 10](https://www.qconcursos.com/questoes-de-concursos/questoes/67222974-d2) — [IBAM — Prefeitura de Santos - SP / Operador Social — 2026]
 
 Ao registrar que a assistência social será prestada *"independentemente de contribuição à seguridade social"* (art. 203 da CF/88), o texto constitucional estabelece uma distinção essencial em relação aos outros ramos da Seguridade.
-
 Essa ressalva exprime corretamente que:
 
-* **A)** a necessidade do beneficiário é aferida pela sua contribuição pretérita aos cofres da União.
-* **B)** a assistência social prescinde de financiamento orçamentário estatal, subsistindo de doações filantrópicas privadas.
-* **C)** a assistência social distingue-se da previdência social, visto que esta última exige filiação contributiva e recolhimento prévio para a concessão de seus benefícios.
-* **D)** a dispensa de contribuição estende-se indistintamente a todos os benefícios previdenciários e assistenciais da Seguridade.
+* **A)** A ressalva supõe que a necessidade do beneficiário seja aferida pela sua contribuição pretérita, critério que o dispositivo constitucional presume.
+* **B)** A ressalva indica que a assistência social prescinde da garantia estatal, sustentando-se na iniciativa e na procura de quem dela necessita.
+* **C)** A ressalva ganha sentido pleno diante de proteções da seguridade cujo acesso pressupõe contribuição do beneficiário, situação em que se encontra a previdência.
+* **D)** A ressalva estende a dispensa de contribuição à saúde e à previdência, componentes submetidos, na seguridade, a idêntico regime de acesso.
 
 #### Gabarito: **C**
-
 * **A (Errada):** A assistência não aufere contribuição pretérita, mas sim a vulnerabilidade socioeconômica fática presente.
 * **B (Errada):** A assistência integra o orçamento público da Seguridade Social (art. 195 da CF).
 * **C (Certa):** A ressalva ganha relevância dogmática quando confrontada com o ramo da **Previdência Social**, cujo regime é estritamente **contributivo e de filiação obrigatória** (art. 201). Enquanto a saúde é universal e a assistência atende a quem dela necessitar sem contribuição, a previdência exige contraprestação financeira direta do segurado.
@@ -366,14 +349,12 @@ Essa ressalva exprime corretamente que:
 
 ---
 
-### [Questão 11](https://www.qconcursos.com/questoes-de-concursos/questoes/6725194a-d2) — [IBAM — Prefeitura de Santos - SP / Operador Social — 2026] • [Nível: Muito Difícil (Acertos: 28.3%)]
+### [Questão 11](https://www.qconcursos.com/questoes-de-concursos/questoes/6725194a-d2) — [IBAM — Prefeitura de Santos - SP / Operador Social — 2026]
 
 Avalie as asserções a seguir e a relação proposta entre elas:
-
 I. A Constituição Federal de 1988 dissocia a assistência social da seguridade social, determinando que ela seja prestada como ato de caridade civil e discricionariedade governamental.  
 PORQUE  
 II. O texto constitucional de 1988 erigiu a assistência social à condição de direito subjetivo da cidadania e componente estrutural e indissociável da Seguridade Social.  
-
 A respeito dessas asserções, assinale a opção correta:
 
 * **A)** A asserção I é falsa, e a II é verdadeira.
@@ -382,25 +363,25 @@ A respeito dessas asserções, assinale a opção correta:
 * **D)** A asserção I é verdadeira, e a II é falsa.
 
 #### Gabarito: **A**
-
 * **Asserção I (Falsa):** A Constituição de 1988 não dissociou a assistência da Seguridade nem a tratou como caridade ou favor; pelo contrário, integrou a assistência social ao tripé da Seguridade Social (art. 194) como política pública estatal imperativa.
 * **Asserção II (Verdadeira):** A Carta Magna superou a ótica do favor e transformou a assistência em direito fundamental subjetivo da cidadania voltado à dignidade da pessoa humana e amparo aos vulneráveis.
 * **Conclusão:** A asserção **I é falsa e a II é verdadeira**, conferindo acerto à alternativa **A**.
 
 ---
 
-### [Questão 12](https://www.qconcursos.com/questoes-de-concursos/questoes/67275912-d2) — [IBAM — Prefeitura de Santos - SP / Operador Social — 2026] • [Nível: Média (Acertos: 60.5%)]
+### [Questão 12](https://www.qconcursos.com/questoes-de-concursos/questoes/67275912-d2) — [IBAM — Prefeitura de Santos - SP / Operador Social — 2026]
 
 No sistema de proteção constitucional inaugurado pela Carta de 1988, a estruturação da Assistência Social como ramo autônomo da Seguridade Social produziu como efeito primordial:
 
-* **A)** desfazer a compreensão da assistência como favor estatal ou mera caridade filantrópica, opondo-lhe o estatuto de direito público subjetivo que a Constituição assegura na salvaguarda do mínimo existencial.
-* **B)** condicionar a concessão de amparo social ao pagamento de taxas administrativas cartorárias prévias pelo requerente.
-* **C)** vedar que entidades privadas filantrópicas atuem no acolhimento de pessoas em vulnerabilidade social.
-* **D)** restringir o atendimento assistencial com exclusividade a cidadãos brasileiros natos, vedando o acesso a estrangeiros residentes.
+* **A)** desfazer a compreensão da assistência social como favor estatal, opondo-lhe o estatuto de direito que a Constituição lhe confere no âmbito da seguridade.
+* **B)** expor a arquitetura da seguridade social brasileira, de que a assistência é apresentada como o componente de maior alcance protetivo entre os três.
+* **C)** demonstrar que a gratuidade da assistência social a distingue das demais políticas públicas, condicionadas a alguma contraprestação do usuário.
+* **D)** historiar a inovação trazida pela Constituição de 1988, cujo texto teria superado a associação entre assistência social e vulnerabilidade.
 
 #### Gabarito: **A**
-
 * **A (Certa):** O marco histórico da Constituição Cidadã de 1988 foi desvincular a assistência social da noção de assistencialismo caritativo ou clientelismo político, positivando-a como **direito fundamental prestacional do cidadão** e **dever inescusável do Estado**, garantidor do mínimo existencial e da dignidade humana.
 * **B (Errada):** A assistência social é gratuita e repudia taxas cartorárias que obstem o acesso do necessitado.
 * **C (Errada):** O art. 199 e o art. 204 da CF autorizam e estimulam a participação complementar da sociedade civil e entidades beneficentes.
 * **D (Errada):** O princípio da universalidade da seguridade social (art. 194, I) e a igualdade (art. 5º) resguardam qualquer residente no território nacional em situação de miserabilidade comprovada.
+
+---

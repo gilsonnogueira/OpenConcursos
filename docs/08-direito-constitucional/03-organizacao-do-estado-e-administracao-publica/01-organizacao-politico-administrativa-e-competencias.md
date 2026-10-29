@@ -187,87 +187,73 @@ flowchart TD
 
 ---
 
-### [Questão 01](https://www.qconcursos.com/questoes-de-concursos/questoes/642d6a13-c7) — [IGEDUC — Prefeitura de São Bento do Una - PE / Professor — 2026] • [Nível: Difícil (Acertos: 39.9%)]
+
+### [Questão 01](https://www.qconcursos.com/questoes-de-concursos/questoes/642d6a13-c7) — [IGEDUC — Prefeitura de São Bento do Una - PE / Professor — 2026]
 
 Durante a elaboração de um acordo de cooperação educacional, Estado e Município discutem a distribuição constitucional das responsabilidades sobre a educação básica. Um dos técnicos sustenta que a definição das áreas prioritárias de atuação impede a atuação colaborativa entre os entes federados.
-
 À luz do art. 211 da Constituição Federal de 1988, a repartição de prioridades no ensino estabelece que:
 
-* **A)** os Municípios atuam prioritariamente no ensino fundamental, enquanto Estados e Distrito Federal priorizam a educação infantil e o ensino médio.
-* **B)** os Municípios atuam prioritariamente na educação infantil, enquanto Estados e Distrito Federal assumem prioridade no ensino fundamental e médio.
-* **C)** os Municípios atuam prioritariamente no ensino fundamental e na educação infantil, enquanto Estados e Distrito Federal atuam prioritariamente no ensino fundamental e médio.
-* **D)** os Municípios atuam prioritariamente na educação infantil e no ensino médio, enquanto Estados e Distrito Federal priorizam com exclusividade o ensino superior.
-* **E)** os Municípios concentram sua atuação no ensino infantil, cabendo privativamente à União o ensino fundamental em regime centralizado.
+* **A)** Os Municípios atuam prioritariamente no ensino fundamental, enquanto Estados e Distrito Federal priorizam a educação infantil e o ensino médio, conforme a demanda educacional identificada em cada território.
+* **B)** Os Municípios atuam prioritariamente na educação infantil, enquanto Estados e Distrito Federal assumem prioridade no ensino fundamental e médio, admitida cooperação financeira entre suas respectivas redes.
+* **C)** Os Municípios atuam prioritariamente no ensino fundamental e na educação infantil, enquanto Estados e Distrito Federal atuam prioritariamente nos ensinos fundamental e médio, preservado o regime de colaboração.
+* **D)** Os Municípios atuam prioritariamente na educação infantil e no ensino fundamental, enquanto Estados e Distrito Federal priorizam o ensino médio, cabendo à União organizar as demais etapas da educação básica.
+* **E)** Os Municípios atuam prioritariamente na educação infantil e no ensino fundamental, enquanto os Estados concentram sua atuação prioritária no ensino médio, compartilhando o ensino fundamental por delegação municipal.
 
 #### Gabarito: **C**
-
-* **A, B, D e E (Erradas):** Distorcem a previsão expressa dos parágrafos do art. 211 da Constituição da República.
 * **C (Certa):** Exata conjugação do art. 211, §§ 2º e 3º, da Carta Magna:
-  * § 2º: *"Os Municípios atuarão prioritariamente no **ensino fundamental** e na **educação infantil**"*;
-  * § 3º: *"Os Estados e o Distrito Federal atuarão prioritariamente no **ensino fundamental** e **médio**"*.
-  * O ensino fundamental é campo prioritário comum e compartilhado de atuação colaborativa entre Estados e Municípios, desmentindo a tese de impedimento cooperativo.
 
 ---
 
-### [Questão 02](https://www.qconcursos.com/questoes-de-concursos/questoes/5d9184a4-c7) — [FGV — PC-PR / Agente de Polícia Judiciária — 2026] • [Nível: Fácil (Acertos: 74.4%)]
+### [Questão 02](https://www.qconcursos.com/questoes-de-concursos/questoes/5d9184a4-c7) — [FGV — PC-PR / Agente de Polícia Judiciária — 2026]
 
 Lei editada pela União vedou expressamente ao Estado Alfa a exploração de apostas de quota fixa, modalidade lotérica prevista e autorizada pelas Leis federais nº 13.756/2018 e nº 14.790/2023.
-
 À luz da repartição constitucional de competências entre os entes federativos e da jurisprudência do Supremo Tribunal Federal, assinale a afirmativa correta:
 
-* **A)** Conforme o disposto no Art. 22, inciso XX, da CRFB/88, o legislador constituinte reservou com exclusividade à União a exploração material do serviço de loterias.
-* **B)** A competência privativa da União para legislar sobre sistemas de sorteios (Art. 22, XX) não impede aos Estados-membros a exploração material de serviços públicos lotéricos no âmbito de seus territórios.
-* **C)** Os Estados-membros possuem competência legislativa plena para instituir novas modalidades de sistemas de sorteios desprovidas de amparo em lei federal.
-* **D)** É formalmente constitucional lei estadual que disponha de forma autônoma sobre direito penal e sistemas de sorteios e bingos.
-* **E)** A Constituição da República expressamente proibiu aos Estados-membros o exercício de competência material para prestação de serviços públicos econômicos.
+* **A)** Conforme o disposto no Art. 22, inciso XX, CRFB/88, o legislador constituinte reservou exclusivamente à União a exploração do serviço de loterias.
+* **B)** A competência privativa da União para legislar sobre sistemas de sorteios, prevista no Art. 22, inciso XX, CRFB/88, não impede aos Estados-membros a exploração do serviço público lotérico em seus territórios nas modalidades já previamente definidas em lei editada pela União.
+* **C)** Nos termos do Art. 25, § 1º da CRFB, os Estados-membros possuem competência para instituir novas modalidades de serviços lotéricos, ainda que não estejam previamente autorizadas em leis oriundas da União.
+* **D)** É constitucional lei estadual que disponha sobre sistemas de sorteios, inclusive bingos e loterias.
+* **E)** A Constituição da República expressamente proibiu aos Estados-membros o exercício de competência material para prestação de serviço público de loterias.
 
 #### Gabarito: **B**
-
 * **A (Errada):** A Constituição reservou à União a competência para *legislar* sobre sistemas de sorteios e loterias, mas não outorgou monopólio exclusivo material de sua prestação estatal.
 * **B (Certa):** Tese pacificada pelo STF no julgamento conjunto das **ADPFs 492 e 493**: a competência privativa da União para legislar sobre sistemas de consórcios e sorteios (art. 22, XX e Súmula Vinculante 2) não exclui a competência material dos Estados e do DF para explorar as atividades lotéricas regulamentadas em âmbito federal. Logo, a União não pode alijar os Estados da exploração dos serviços públicos de loteria.
-* **C e D (Erradas):** Leis estaduais não podem legislar inovando sobre a tipologia dos sorteios ou autorizando bingos clandestinos (a competência legislativa é privativa da União).
 * **E (Errada):** Os Estados possuem ampla competência material para prestar serviços públicos estaduais de relevância econômica.
 
 ---
 
-### [Questão 03](https://www.qconcursos.com/questoes-de-concursos/questoes/318ad3f7-c8) — [FGV — PC-PR / Delegado de Polícia — 2026] • [Nível: Difícil (Acertos: 44.2%)]
+### [Questão 03](https://www.qconcursos.com/questoes-de-concursos/questoes/318ad3f7-c8) — [FGV — PC-PR / Delegado de Polícia — 2026]
 
 Foi editada a Lei nº X, no âmbito do Estado Alfa, dispondo sobre as regras a serem observadas para que despachantes documentalistas pudessem atuar perante os órgãos de trânsito do respectivo ente federativo (Detran local), estatuindo requisitos mínimos de escolaridade, causas de impedimento e cominando penalidades disciplinares de suspensão e cassação de credenciamento.
-
 À luz da ordem constitucional brasileira, a referida lei estadual é:
 
-* **A)** inconstitucional, por afrontar competência legislativa privativa da União para legislar sobre trânsito e condições para o exercício de profissões.
-* **B)** inconstitucional, por afrontar competência privativa indelegável dos Municípios.
-* **C)** constitucional, por versar sobre matéria de competência legislativa residual reservada aos Estados-membros.
-* **D)** constitucional, por cuidar de competência administrativa material comum entre todos os entes federados.
-* **E)** constitucional, por versar sobre competência legislativa concorrente entre União e Estados sobre direito administrativo local.
+* **A)** inconstitucional, por afrontar competência legislativa privativa e delegável da União.
+* **B)** inconstitucional, por afrontar competência legislativa privativa e indelegável da União.
+* **C)** constitucional, por versar sobre matéria de competência legislativa residual do Estado Alfa.
+* **D)** constitucional, por versar sobre matéria de competência legislativa comum entre os entes federativos.
+* **E)** constitucional, por versar sobre matéria de competência legislativa concorrente com a União, desde que observadas eventuais normas gerais.
 
 #### Gabarito: **A**
-
 * **A (Certa):** Conforme jurisprudência firme e pacificada do STF (precedentes diretos nas ADIs 4.387, 6.744 e 7.218), é **inconstitucional** lei estadual que discipline o exercício da atividade de despachante perante órgãos de trânsito, por violar a competência legislativa privativa da União para legislar sobre **trânsito e transporte** (art. 22, XI) e sobre **condições para o exercício de profissões** (art. 22, XVI).
 * **B (Errada):** Municípios não possuem competência para regulamentar profissões ou sistemas de habilitação de trânsito.
-* **C, D e E (Erradas):** A matéria não se insere no campo residual (art. 25, § 1º) nem no campo concorrente (art. 24); cuida-se de competência expressa privativa da União, impassível de usurpação pelo legislador estadual.
 
 ---
 
-### [Questão 04](https://www.qconcursos.com/questoes-de-concursos/questoes/a58bcc79-cb) — [FGV — DATAPREV / Advocacia — 2026] • [Nível: Difícil (Acertos: 47.0%)]
+### [Questão 04](https://www.qconcursos.com/questoes-de-concursos/questoes/a58bcc79-cb) — [FGV — DATAPREV / Advocacia — 2026]
 
 Foi apresentada proposta no âmbito do governo federal para o encaminhamento de projeto de lei visando à consolidação das ações governamentais na área de assistência social. A proposta continha três diretrizes estruturais:
-
 I. Centralização político-administrativa das ações assistenciais na esfera federal, subordinando as secretarias municipais e estaduais à supervisão hierárquica direta do Ministério do Desenvolvimento Social.  
 II. Participação da população, por meio de organizações representativas, na formulação das políticas e no controle das ações em todos os níveis federativos.  
 III. Financiamento exclusivo das ações assistenciais pelo orçamento da União, vedada a alocação de receitas tributárias próprias dos Estados e Municípios para tais finalidades.  
-
 Considerando a ordem constitucional da seguridade e assistência social (art. 204 da CF/88), está correto concluir que:
 
-* **A)** apenas a diretriz II é constitucional.
+* **A)** apenas a diretriz I é constitucional.
 * **B)** apenas as diretrizes I e II são constitucionais.
 * **C)** apenas as diretrizes I e III são constitucionais.
-* **D)** todas as diretrizes são constitucionais.
-* **E)** todas as diretrizes são inconstitucionais.
+* **D)** apenas as diretrizes II e III são constitucionais.
+* **E)** todas são constitucionais.
 
 #### Gabarito: **A**
-
 * **Diretriz I (Inconstitucional):** O art. 204, inciso I, da Carta Magna estabelece categoricamente a **descentralização político-administrativa**, cabendo a coordenação geral à esfera federal, mas a execução dos programas às esferas estadual e municipal, sendo vedada a subordinação hierárquica que viole a autonomia dos entes federados.
 * **Diretriz II (Constitucional):** Transcreve com perfeição o art. 204, inciso II, da CF/88: *"participação da população, por meio de organizações representativas, na formulação das políticas e no controle das ações em todos os níveis"*.
 * **Diretriz III (Inconstitucional):** A assistência social é financiada por recursos de todos os entes da Federação (orçamento da seguridade social da União, dos Estados, DF e Municípios — arts. 195 e 204, parágrafo único), sendo vedada a exclusão dos aportes locais.
@@ -275,18 +261,17 @@ Considerando a ordem constitucional da seguridade e assistência social (art. 20
 
 ---
 
-### [Questão 05](https://www.qconcursos.com/questoes-de-concursos/questoes/cc74faf4-d2) — [CESPE / CEBRASPE — AGEPAR / Especialista em Regulação — 2026] • [Nível: Muito Fácil (Acertos: 85.6%)]
+### [Questão 05](https://www.qconcursos.com/questoes-de-concursos/questoes/cc74faf4-d2) — [CESPE / CEBRASPE — AGEPAR / Especialista em Regulação — 2026]
 
 No que diz respeito à repartição constitucional de competências entre União, estados, Distrito Federal e municípios, assinale a opção correta:
 
-* **A)** A lei estadual que fixar normas gerais sobre direito urbanístico terá preferência hierárquica sobre a lei federal, em razão do princípio da predominância do interesse regional.
-* **B)** As competências legislativas privativas da União são inteiramente indelegáveis, não havendo qualquer hipótese de autorização constitucional para atuação dos estados.
-* **C)** Direito penal, direito processual, direito tributário e direito financeiro são matérias de competência legislativa privativa da União.
-* **D)** A superveniência de lei federal sobre normas gerais suspende a eficácia da lei estadual anterior no que lhe for contrário.
-* **E)** Diante da inexistência de lei federal sobre normas gerais, os estados não poderão exercer a competência legislativa concorrente até a manifestação formal do Congresso Nacional.
+* **A)** Válida, pois o Município detém competência constitucional privativa para instituir e manter sistemas autônomos de educação superior, cabendo-lhe definir discricionariamente as prioridades de investimento público dentro de seus limites territoriais.
+* **B)** Inválida, pois a atuação dos Municípios no ensino superior é meramente residual, subordinada ao atendimento pleno e prioritário da educação infantil e do ensino fundamental, cabendo precipuamente à União o papel redistributivo e a coordenação do sistema federal e do ensino superior.
+* **C)** Válida, desde que a instituição de ensino superior municipal seja fiscalizada e regulada diretamente pelo Ministério da Educação (MEC), dada a competência legislativa exclusiva da União para fiscalizar e autorizar cursos em todas as esferas federativas.
+* **D)** Inválida, na medida em que a Constituição Federal veda expressamente a criação e manutenção de instituições públicas de ensino superior pelo Poder Público municipal em qualquer hipótese fática.
+* **E)** Válida, por força do princípio da colaboração federativa, segundo o qual Estados e Municípios exercem competência material concorrente e linear em todos os níveis educacionais sem vinculação de prioridade funcional.
 
 #### Gabarito: **D**
-
 * **A (Errada):** Na competência concorrente, a competência para fixar normas gerais pertence privativamente à União (art. 24, § 1º).
 * **B (Errada):** O parágrafo único do art. 22 admite que Lei Complementar da União autorize os Estados a legislar sobre questões específicas de matérias privativas.
 * **C (Errada):** Direito penal e processual são de competência privativa (art. 22, I); direito tributário e financeiro são de competência **concorrente** (art. 24, I).
@@ -295,36 +280,31 @@ No que diz respeito à repartição constitucional de competências entre União
 
 ---
 
-### [Questão 06](https://www.qconcursos.com/questoes-de-concursos/questoes/71ccdacd-d2) — [CESPE / CEBRASPE — AGEPAR / Especialista em Regulação — 2026] • [Nível: Fácil (Acertos: 65.4%)]
+### [Questão 06](https://www.qconcursos.com/questoes-de-concursos/questoes/71ccdacd-d2) — [CESPE / CEBRASPE — AGEPAR / Especialista em Regulação — 2026]
 
 O transporte coletivo intermunicipal rodoviário de passageiros que se realiza no âmbito de um mesmo Estado-membro caracteriza-se como um serviço público cuja competência de exploração e regulação, nos termos da Constituição Federal de 1988, cabe:
 
-* **A)** ao consórcio público intermunicipal constituído pelos municípios limítrofes, por exigir obrigatoriamente a gestão compartilhada das rotas locais.
-* **B)** ao ente federal, por demandar a unificação nacional das tarifas de transporte público rodoviário.
-* **C)** ao respectivo Estado-membro, por configurar matéria de interesse regional que ultrapassa os limites de uma só municipalidade.
-* **D)** ao Município de origem da linha, por envolver o ponto de partida do fluxo de passageiros.
-* **E)** à agência reguladora federal de transportes terrestres (ANTT), sob coordenação do Ministério dos Transportes.
+* **A)** O Município poderá legislar sobre assuntos de interesse local e suplementar a legislação federal e estadual, desde que a matéria não tenha recebido regulamentação específica de outro ente.
+* **B)** O Município poderá legislar sobre assuntos de interesse local e suplementar a legislação federal e estadual, afastando normas gerais quando identificar peculiaridades administrativas na regulamentação municipal.
+* **C)** O Município poderá legislar sobre assuntos de interesse local e suplementar a legislação federal e estadual no que couber, respeitados os limites constitucionais de sua competência.
+* **D)** O Município poderá legislar sobre assuntos de interesse local e complementar normas estaduais, ficando a suplementação da legislação federal condicionada à autorização legislativa expressa da União.
+* **E)** O Município poderá legislar sobre assuntos de interesse local e suplementar a legislação estadual, cabendo à União autorizar previamente a regulamentação municipal de matérias disciplinadas por normas federais.
 
 #### Gabarito: **C**
-
-* **A e D (Erradas):** Municípios detêm competência apenas sobre o transporte coletivo estritamente intramunicipal (art. 30, V); ultrapassadas as fronteiras municipais, cessa a jurisdição local.
-* **B e E (Erradas):** A União detém competência para explorar e regular o transporte interestadual e internacional (art. 21, XII, "e").
 * **C (Certa):** O transporte intermunicipal rodoviário opera dentro dos limites de um mesmo Estado, mas conectando municípios diferentes. Trata-se de matéria de **interesse regional**, inserida na competência residual dos **Estados-membros** (art. 25, § 1º da CF/88), cabendo às agências reguladoras estaduais (como AGEPAR, ARTESP, ARCE) a sua outorga e fiscalização tarifária.
 
 ---
 
-### [Questão 07](https://www.qconcursos.com/questoes-de-concursos/questoes/76b36f38-d2) — [CESPE / CEBRASPE — AGEPAR / Especialista em Regulação — 2026] • [Nível: Fácil (Acertos: 69.1%)]
+### [Questão 07](https://www.qconcursos.com/questoes-de-concursos/questoes/76b36f38-d2) — [CESPE / CEBRASPE — AGEPAR / Especialista em Regulação — 2026]
 
 No tocante à repartição vertical de competências legislativas na Constituição Federal de 1988, é correto afirmar:
 
-* **A)** A lei estadual que dispuser sobre direito urbanístico prevalece sobre a lei federal em caso de divergência sobre diretrizes nacionais.
-* **B)** É vedado aos Estados-membros editar normas de direito ambiental suplementares à legislação federal.
-* **C)** A competência legislativa concorrente obsta que os Estados editem normas enquanto a União não houver publicado o código de normas gerais da matéria.
-* **D)** As matérias tributária e orçamentária integram o rol das competências privativas indelegáveis da União.
-* **E)** A superveniência de lei federal sobre normas gerais suspende a eficácia de lei estadual anterior no que lhe for contrário.
+* **A)** A existência de lei federal sobre a matéria impede sempre qualquer atuação legislativa estadual, pois a competência concorrente somente permite aos Estados editar normas enquanto inexistir legislação federal.
+* **B)** A lei estadual, embora possa suplementar a legislação federal para atender às peculiaridades regionais, não pode estabelecer disciplina incompatível com norma geral federal válida, inclusive para afastar autorização nela prevista.
+* **C)** O Estado pode estabelecer disciplina contrária à lei federal, desde que demonstre que sua norma atende a peculiaridades regionais, pois a competência concorrente assegura autonomia legislativa plena aos Estados.
+* **D)** A repercussão da matéria no comércio interestadual é suficiente para convertê-la em competência privativa da União, ainda que a Constituição a tenha expressamente incluído na competência concorrente.
 
 #### Gabarito: **E**
-
 * **A (Errada):** As normas gerais da União fixadas nos termos do art. 24, § 1º, subordinam a legislação suplementar dos Estados.
 * **B (Errada):** A tutela ambiental é de competência concorrente (art. 24, VI) e comum material (art. 23, VI), podendo os Estados suplementar as normas federais com padrões mais protetivos.
 * **C (Errada):** Os Estados adquirem competência legislativa plena perante a inércia federal (art. 24, § 3º).
@@ -333,78 +313,68 @@ No tocante à repartição vertical de competências legislativas na Constituiç
 
 ---
 
-### [Questão 08](https://www.qconcursos.com/questoes-de-concursos/questoes/bc959347-b1) — [Avança SP — Câmara de Três Corações - MG / Advogado — 2026] • [Nível: Difícil (Acertos: 48.2%)]
+### [Questão 08](https://www.qconcursos.com/questoes-de-concursos/questoes/bc959347-b1) — [Avança SP — Câmara de Três Corações - MG / Advogado — 2026]
 
 O art. 20 da Lei Orgânica do Município dispõe sobre as competências outorgadas pela Constituição Federal para tornar ampla e efetiva a sua autonomia no plano local.
-
 À luz da repartição constitucional de competências estabelecida nos artigos 23 e 30 da Constituição Federal de 1988, assinale a alternativa que descreve uma competência privativa municipal de interesse local:
 
-* **A)** Proporcionar os meios de acesso à cultura, à educação e à ciência.
-* **B)** Participar de tratado internacional com potência estrangeira sem anuência do Senado Federal.
-* **C)** Estabelecer preferências tributárias ou privilégios de navegação em relação aos demais Municípios do Estado.
-* **D)** Promover programas de construção de moradias populares e a melhoria das condições habitacionais e de saneamento básico.
-* **E)** Disciplinar os serviços de carga e descarga e fixar a tonelagem máxima permitida a veículos de transporte de carga que circulem em vias públicas municipais.
+* **A)** elaborar planos nacionais e regionais de ordenação do território e de desenvolvimento econômico e social.
+* **B)** organizar a inspeção do trabalho.
+* **C)** explorar, diretamente ou mediante autorização, concessão ou permissão dos serviços e instalações de energia elétrica e o aproveitamento energético dos cursos de água.
+* **D)** promover a melhoria das condições habitacionais e de saneamento básico.
+* **E)** promover a defesa permanente contra as calamidades públicas, especialmente as secas e as inundações.
 
 #### Gabarito: **E**
-
-* **A e D (Erradas):** Proporcionar acesso à cultura e promover moradia e saneamento básico constituem competências **materiais comuns** de todos os entes da Federação (art. 23, V e IX da CF/88), e não competências privativas exclusivas dos municípios.
 * **B (Errada):** Celebrar tratados internacionais é atribuição privativa do Presidente da República perante a União soberana (art. 84, VIII).
 * **C (Errada):** Estabelecer preferências entre entes ou brasileiros é conduta expressamente vedada a todos os entes pelo art. 19, III da CF/88.
 * **E (Certa):** Conforme jurisprudência pacificada do STF (Súmula Vinculante 38 e precedentes), compete ao Município legislar sobre assuntos de **interesse local** e disciplinar o tráfego urbano e as regras de carga e descarga nas vias públicas municipais (art. 30, I e V).
 
 ---
 
-### [Questão 09](https://www.qconcursos.com/questoes-de-concursos/questoes/cc74faf5-d2) — [CESPE / CEBRASPE — PGE-PA / Procurador do Estado — 2026] • [Nível: Média (Acertos: 62.1%)]
+### [Questão 09](https://www.qconcursos.com/questoes-de-concursos/questoes/cc74faf5-d2) — [CESPE / CEBRASPE — PGE-PA / Procurador do Estado — 2026]
 
 Determinado Estado-membro da Federação editou lei instituindo cadastro estadual obrigatório de consumidores devedores de serviços de telefonia móvel e impondo aos fornecedores de telefonia o dever de prestar informações cadastrais sob pena de multa.
-
 À luz da repartição constitucional de competências e da jurisprudência do Supremo Tribunal Federal, a referida lei estadual é:
 
-* **A)** constitucional, pois versa sobre matéria concorrente de proteção e defesa do consumidor (art. 24, V da CF/88).
-* **B)** inconstitucional, uma vez que a prestação e a regulação das telecomunicações são matérias inseridas na competência legislativa privativa da União (art. 22, IV da CF/88).
-* **C)** constitucional, desde que os recursos arrecadados com as multas sejam repassados integralmente ao Fundo Nacional de Telecomunicações.
-* **D)** inconstitucional unicamente se a matéria não houver sido autorizada previamente por resolução da Anatel.
-* **E)** constitucional, haja vista que os Estados possuem competência privativa expressa para disciplinar o direito comercial e societário.
+* **A)** A lei estadual que fixar normas gerais sobre direito urbanístico terá preferência sobre a lei federal, em razão do princípio da predominância do interesse local.
+* **B)** As competências legislativas privativas da União são indelegáveis, não havendo hipótese de autorização constitucional para que os estados legislem sobre matérias originalmente atribuídas à União.
+* **C)** Direito penal, direito processual, direito tributário e orçamento são matérias de competência legislativa privativa da União.
+* **D)** A superveniência de lei federal sobre normas gerais suspende a eficácia de lei estadual no que lhe for contrário.
+* **E)** Diante da inexistência de lei federal sobre normas gerais, os estados não poderão exercer a competência legislativa sobre a matéria até a manifestação do Congresso Nacional.
 
 #### Gabarito: **B**
-
 * **A (Errada):** Embora os Estados tenham competência concorrente para legislar sobre defesa do consumidor, o STF consagrou que o legislador estadual não pode, a pretexto de proteger o consumidor, interferir na prestação, regulação técnica ou contratos de serviços públicos de telecomunicações.
 * **B (Certa):** Conforme jurisprudência vinculante reiterada do STF (Súmula Vinculante 46 e precedentes das ADIs 3.322, 3.845 e 4.407), compete privativamente à União legislar sobre **telecomunicações** (art. 22, IV) e explorar esses serviços (art. 21, XI). Leis estaduais que interfiram nas operadoras de telefonia e em seus cadastros e serviços são formalmente **inconstitucionais**.
-* **C, D e E (Erradas):** A competência é privativa da União; não se convalida por destinação de multas nem por ato de agência reguladora.
 
 ---
 
-### [Questão 10](https://www.qconcursos.com/questoes-de-concursos/questoes/cc74faf6-d2) — [FGV — OAB / Exame de Ordem Unificado — 2026] • [Nível: Fácil (Acertos: 76.2%)]
+### [Questão 10](https://www.qconcursos.com/questoes-de-concursos/questoes/cc74faf6-d2) — [FGV — OAB / Exame de Ordem Unificado — 2026]
 
 O Governador do Estado Alfa sancionou lei estadual que dispõe sobre a proibição do uso de animais em testes para o desenvolvimento de produtos cosméticos, de higiene pessoal e perfumes no território do respectivo Estado, cominando multas elevadas em caso de descumprimento. Determinada associação nacional de fabricantes questionou a validade da norma sustentando que apenas a União poderia legislar sobre a matéria.
-
 À luz da ordem constitucional brasileira e do entendimento do Supremo Tribunal Federal, a lei estadual é:
 
-* **A)** inconstitucional, por usurpar a competência legislativa privativa da União para legislar sobre comércio exterior e interestadual.
-* **B)** constitucional, pois os Estados possuem competência legislativa concorrente para legislar sobre proteção do meio ambiente e da fauna (art. 24, VI da CF/88), podendo fixar normas mais restritivas de proteção.
-* **C)** inconstitucional, porque qualquer restrição ao uso de animais em testes laboratoriais submete-se à cláusula de reserva de código federal de processo civil.
-* **D)** inconstitucional, pois a proteção à fauna integra o rol das competências materiais exclusivas da União no art. 21 da CF/88.
-* **E)** constitucional unicamente se houver convênio formal celebrado entre o Estado Alfa e o Ministério do Meio Ambiente.
+* **A)** ao consórcio público intermunicipal, por exigir obrigatoriamente a gestão compartilhada das rotas locais.
+* **B)** ao ente federal, por demandar a unificação das tarifas de transporte público do país.
+* **C)** o estado-membro, por configurar interesse regional que ultrapassa os limites de uma só municipalidade.
+* **D)** ao município de origem, por envolver o ponto de partida do fluxo de passageiros.
+* **E)** à agência reguladora federal de transportes terrestres, sob a coordenação do Ministério das Cidades.
 
 #### Gabarito: **B**
-
-* **A, C, D e E (Erradas):** A proteção animal e ambiental não é monopólio exclusivo da União.
 * **B (Certa):** O art. 24, inciso VI, da CF/88 estabelece a competência legislativa concorrente entre União, Estados e DF sobre florestas, caça, pesca, fauna, conservação da natureza, defesa do solo e dos recursos naturais, proteção do meio ambiente e controle da poluição. O STF pacificou (ADI 5.996/AM e ADI 4.616/SP) que os Estados-membros podem editar legislação suplementar protetiva proibindo testes em animais para cosméticos, ampliando o patamar de salvaguarda da fauna sem colidir com as normas gerais federais.
 
 ---
 
-### [Questão 11](https://www.qconcursos.com/questoes-de-concursos/questoes/cc74faf7-d2) — [CESPE / CEBRASPE — TCE-PR / Auditor de Controle Externo — 2026] • [Nível: Média (Acertos: 61.8%)]
+### [Questão 11](https://www.qconcursos.com/questoes-de-concursos/questoes/cc74faf7-d2) — [CESPE / CEBRASPE — TCE-PR / Auditor de Controle Externo — 2026]
 
 Acerca dos bens constitucionais dos entes federados e da repartição de competências na Carta de 1988, assinale a opção correta:
 
-* **A)** As ilhas fluviais e lacustres situadas em zonas limítrofes com outros países pertencem ao patrimônio dos Estados em cujo território estiver a respectiva foz.
-* **B)** Pertencem aos Estados-membros as terras devolutas não compreendidas entre as da União.
-* **C)** A exploração direta ou mediante concessão dos serviços locais de gás canalizado compete privativamente à União, sendo vedada a edição de medida provisória para sua regulamentação.
-* **D)** Os potenciais de energia hidráulica situados em rios de domínio estadual integram o patrimônio indisponível do respectivo Estado-membro.
-* **E)** Os municípios possuem domínio originário sobre as praias marítimas situadas em seu litoral territorial.
+* **A)** A lei estadual que fixar normas gerais sobre direito urbanístico terá preferência sobre a lei federal, em razão do princípio da predominância do interesse local.
+* **B)** As competências legislativas privativas da União são indelegáveis, não havendo hipótese de autorização constitucional para que os estados legislem sobre matérias originalmente atribuídas à União.
+* **C)** Diante da inexistência de lei federal sobre normas gerais, os estados não poderão exercer a competência legislativa sobre a matéria até a manifestação do Congresso Nacional.
+* **D)** Direito penal, direito processual, direito tributário e orçamento são matérias de competência legislativa privativa da União.
+* **E)** A superveniência de lei federal sobre normas gerais suspende a eficácia de lei estadual no que lhe for contrário.
 
 #### Gabarito: **B**
-
 * **A (Errada):** As ilhas situadas em zonas limítrofes com outros países integram os bens da União (art. 20, IV).
 * **B (Certa):** É a regra residual expressa do art. 26, inciso IV, da Constituição Federal: incluem-se entre os bens dos Estados *"as terras devolutas não compreendidas entre as da União"*.
 * **C (Errada):** Os serviços locais de gás canalizado competem aos **Estados-membros** (art. 25, § 2º), sendo vedada a edição de medida provisória para a sua regulamentação.
@@ -413,19 +383,18 @@ Acerca dos bens constitucionais dos entes federados e da repartição de compet�
 
 ---
 
-### [Questão 12](https://www.qconcursos.com/questoes-de-concursos/questoes/cc74faf8-d2) — [FCC — TRT - 1ª Região (RJ) / Analista Judiciário — 2026] • [Nível: Fácil (Acertos: 77.5%)]
+### [Questão 12](https://www.qconcursos.com/questoes-de-concursos/questoes/cc74faf8-d2) — [FCC — TRT - 1ª Região (RJ) / Analista Judiciário — 2026]
 
 Suponha que determinado Estado da Federação tenha exercido competência legislativa plena sobre direito financeiro e controle de gastos na ausência de lei federal sobre normas gerais, editando a Lei Estadual nº 1.000. Dois anos depois, o Congresso Nacional promulgou a Lei Federal nº 5.000, estatuindo normas gerais uniformes sobre a matéria, cujo conteúdo colide frontalmente com três artigos da lei estadual anteriormente em vigor.
-
 Diante do advento da referida lei federal de normas gerais, os dispositivos conflitantes da lei estadual anterior:
 
-* **A)** são tacitamente revogados com eficácia definitiva erga omnes.
-* **B)** são declarados nulos de pleno direito pelo Governador de Estado em sede de veto posterior.
-* **C)** têm sua eficácia suspensa no que for contrário à lei federal de normas gerais.
-* **D)** prevalecem sobre a lei federal em virtude do princípio da anterioridade cronológica da norma estadual.
-* **E)** submetem-se compulsoriamente a plebiscito popular perante a assembleia legislativa estadual.
+* **A)** Proporcionar os meios de acesso à cultura, à educação e à ciência.
+* **B)** Participar da criação de entidade intermunicipal para a realização de obra, exercício de atividade ou execução de serviço específico de interesse comum;
+* **C)** Estabelecer preferências em relação aos demais Municípios e entidades do Estado.
+* **D)** Promover programas de construção de moradias populares e a melhoria das condições habitacionais e de saneamento básico.
+* **E)** Disciplinar os serviços de carga e descarga e fixar a tonelagem máxima permitida a veículos que circulem em vias públicas municipais.
 
 #### Gabarito: **C**
-
-* **A, B, D e E (Erradas):** Não há revogação, anulação automática ou prevalência temporal do diploma estadual.
 * **C (Certa):** Aplicação literal do art. 24, § 4º, da Constituição Federal de 1988: *"A superveniência de lei federal sobre normas gerais **suspende a eficácia** da lei estadual, no que lhe for contrário"*. Os dispositivos da Lei Estadual nº 1.000 incompatíveis com a Lei Federal nº 5.000 têm apenas sua eficácia suspensa.
+
+---

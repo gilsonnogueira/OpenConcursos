@@ -211,18 +211,18 @@ flowchart TD
 
 ---
 
-### [Questão 01](https://www.qconcursos.com/questoes-de-concursos/questoes/72879ab5-c6) — [IGEDUC — Prefeitura de Alagoinha - PB / Médico Plantonista — 2026] • [Nível: Muito Fácil (Acertos: 91.6%)]
+
+### [Questão 01](https://www.qconcursos.com/questoes-de-concursos/questoes/72879ab5-c6) — [IGEDUC — Prefeitura de Alagoinha - PB / Médico Plantonista — 2026]
 
 A respeito das regras constitucionais sobre nacionalidade e exercício da cidadania, assinale a afirmativa correta:
 
-* **A)** A naturalização ordinária confere ao estrangeiro condição idêntica à do brasileiro nato em todas as situações constitucionais, inclusive para a Presidência da República.
-* **B)** Os portugueses com residência permanente no Brasil recebem nacionalidade brasileira originária em razão do vínculo histórico entre os dois países.
+* **A)** A naturalização ordinária confere ao estrangeiro condição idêntica à do brasileiro nato em todas as situações constitucionais.
+* **B)** Os portugueses com residência permanente no Brasil recebem nacionalidade brasileira originária em razão do vínculo histórico entre os países.
 * **C)** São brasileiros natos os nascidos no território nacional, ainda que de pais estrangeiros, desde que estes não estejam a serviço de seu país.
-* **D)** A perda da nacionalidade brasileira de pessoa naturalizada ocorre mediante decisão administrativa discricionária irrecorrível do Ministro da Justiça.
+* **D)** A perda da nacionalidade brasileira ocorre mediante decisão administrativa definitiva, sem necessidade de previsão constitucional.
 * **E)** O alistamento eleitoral representa faculdade atribuída aos brasileiros maiores de idade em qualquer circunstância jurídica.
 
 #### Gabarito: **C**
-
 * **A (Errada):** A Constituição Federal estabelece distinções expressas no art. 12, § 3º, vedando o acesso de naturalizados aos cargos privativos de brasileiro nato (como a Presidência da República).
 * **B (Errada):** Os portugueses equiparados (art. 12, § 1º) continuam ostentando nacionalidade originária portuguesa; eles apenas recebem os direitos inerentes aos brasileiros naturalizados sob condição de reciprocidade, sem se tornarem brasileiros natos.
 * **C (Certa):** Trata-se da reprodução literal do critério originário do *ius soli* consagrado no art. 12, inciso I, alínea "a", da Carta Magna: *"os nascidos na República Federativa do Brasil, ainda que de pais estrangeiros, desde que estes não estejam a serviço de seu país"*.
@@ -231,41 +231,36 @@ A respeito das regras constitucionais sobre nacionalidade e exercício da cidada
 
 ---
 
-### [Questão 02](https://www.qconcursos.com/questoes-de-concursos/questoes/31811b59-c8) — [FGV — PC-PR / Delegado de Polícia — 2026] • [Nível: Fácil (Acertos: 68.9%)]
+### [Questão 02](https://www.qconcursos.com/questoes-de-concursos/questoes/31811b59-c8) — [FGV — PC-PR / Delegado de Polícia — 2026]
 
 João tem 21 anos de idade e pretende prestar concurso público para a carreira de Delegado de Polícia do Estado do Paraná. No entanto, tem dúvidas quanto ao preenchimento da condição de nacionalidade brasileira. Affinal, nasceu no território brasileiro quando seus pais, ambos de nacionalidade canadense, residiam no Brasil trabalhando para uma empresa privada de exploração de minérios.
-
 Diante do quadro hipotético e da ordem constitucional vigente, João é considerado:
 
 * **A)** brasileiro nato.
 * **B)** brasileiro naturalizado.
-* **C)** estrangeiro, mas pode optar pela nacionalidade brasileira após atingida a maioridade civil.
-* **D)** estrangeiro, tendo perdido a nacionalidade brasileira nata que possuía ao completar 18 anos de idade.
-* **E)** estrangeiro, mas pode adquirir a nacionalidade brasileira caso preencha os requisitos ordinários da Lei de Migração.
+* **C)** estrangeiro, mas pode optar pela nacionalidade brasileira.
+* **D)** estrangeiro, tendo perdido a nacionalidade brasileira nata que possuía.
+* **E)** estrangeiro, mas pode adquirir a nacionalidade brasileira caso preencha os requisitos exigidos na legislação infraconstitucional e se naturalize.
 
 #### Gabarito: **A**
-
 * **A (Certa):** Aplica-se com perfeição o art. 12, I, "a", da CF/88. João nasceu em território brasileiro (*ius soli*). Embora ambos os genitores fossem estrangeiros (canadenses), eles **não estavam a serviço oficial do Estado canadense**, mas sim prestando serviços a uma empresa privada de mineração. Por conseguinte, João é **brasileiro nato** de pleno direito desde o momento de seu nascimento.
 * **B (Errada):** A naturalização decorre de ato posterior para estrangeiros; quem nasce em solo brasileiro sob essas condições é brasileiro nato originário.
-* **C e D (Erradas):** A exigência de opção confirmativa potestativa ao atingir a maioridade aplica-se exclusivamente aos nascidos no **estrangeiro** filhos de pai ou mãe brasileira não registrados em consulado (art. 12, I, "c").
 * **E (Errada):** Não necessita de processo de naturalização, gozando do estatuto pleno de nacional originário.
 
 ---
 
-### [Questão 03](https://www.qconcursos.com/questoes-de-concursos/questoes/eb8060c9-cc) — [IASPE — UNIFAI / Analista Jurídico — 2026] • [Nível: Média (Acertos: 62.7%)]
+### [Questão 03](https://www.qconcursos.com/questoes-de-concursos/questoes/eb8060c9-cc) — [IASPE — UNIFAI / Analista Jurídico — 2026]
 
 Manuel, cidadão de nacionalidade originária exclusivamente portuguesa, reside de forma contínua no Brasil há 3 anos, com visto de permanência regular, e nunca sofreu condenação penal. Recentemente, foi aprovado em concurso público de provas e títulos para o cargo de docente de nível superior em universidade pública municipal.
-
 À luz do art. 12, § 1º, da Constituição Federal de 1988, a investidura de Manuel no cargo público:
 
-* **A)** possui direito subjetivo automático e irrecusável, pois o texto constitucional equiparou plenamente os portugueses aos brasileiros natos em todas as esferas.
-* **B)** é condicionada à obtenção da naturalização extraordinária quinzenária, única modalidade admitida para investidura no magistério público.
-* **C)** é plenamente viável caso haja reciprocidade em favor de brasileiros em Portugal e tenha havido o reconhecimento formal do estatuto de igualdade de direitos pelo Ministério da Justiça.
-* **D)** é constitucionalmente inviável, visto que o regime de reciprocidade não autoriza o provimento de cargos públicos por não naturalizados.
-* **E)** depende de prévia renúncia expressa e irrevogável à cidadania portuguesa originária perante o Consulado de Portugal.
+* **A)** Manuel possui direito subjetivo automático à investidura no cargo independentemente de manifestação formal, porquanto o gozo dos direitos inerentes ao brasileiro decorre diretamente do texto constitucional aos originários de países de língua portuguesa com mais de 1 (um) ano de residência ininterrupta.
+* **B)** A investidura de Manuel é condicionada à aquisição da nacionalidade brasileira pela via da naturalização extraordinária (quinzenária), única modalidade que supre a vedação constitucional de acesso de estrangeiros a cargos públicos de provimento efetivo.
+* **C)** Caso haja reciprocidade em favor de brasileiros e tenha havido o reconhecimento formal do estatuto de igualdade, serão atribuídos a Manuel os direitos inerentes ao brasileiro, sendo vedado à lei municipal criar distinções de acesso ao cargo público não previstas expressamente na Constituição Federal.
+* **D)** A investidura é constitucionalmente inviável enquanto Manuel não for naturalizado, pois o regime de reciprocidade assegurado aos portugueses limita-se ao gozo de direitos fundamentais individuais e civis, não alcançando o acesso a cargos e funções públicas remuneradas pela Fazenda Pública.
+* **E)** O provimento do cargo por Manuel exige autorização expressa do Ministério da Justiça e Segurança Pública com base em juízo de conveniência e oportunidade, ressalvado que, por se tratar de cargo de natureza técnico-científica, incide a reserva constitucional privativa de brasileiro nato.
 
 #### Gabarito: **C**
-
 * **A (Errada):** A fruição dos direitos exige o preenchimento de requisitos formais: residência permanente, requerimento do interessado e deferimento do estatuto pelo Ministério da Justiça, sob cláusula de reciprocidade.
 * **B (Errada):** A naturalização extraordinária exige 15 anos de residência ininterrupta; os portugueses residentes têm acesso facilitado pelo estatuto de reciprocidade do art. 12, § 1º.
 * **C (Certa):** O art. 12, § 1º, da CF/88 estabelece que aos portugueses com residência permanente no País, se houver reciprocidade em favor de brasileiros, serão atribuídos os direitos inerentes ao brasileiro (salvo cargos privativos de nato). Reconhecido o estatuto de igualdade pelo ato formal competente, Manuel pode ser empossado no cargo público de docente.
@@ -274,135 +269,126 @@ Manuel, cidadão de nacionalidade originária exclusivamente portuguesa, reside 
 
 ---
 
-### [Questão 04](https://www.qconcursos.com/questoes-de-concursos/questoes/4895e005-ce) — [Instituto Fênix — Prefeitura de Coronel Martins - SC / Professor — 2026] • [Nível: Muito Difícil (Acertos: 29.8%)]
+### [Questão 04](https://www.qconcursos.com/questoes-de-concursos/questoes/4895e005-ce) — [Instituto Fênix — Prefeitura de Coronel Martins - SC / Professor — 2026]
 
 Em relação à aquisição e à perda da nacionalidade brasileira segundo a disciplina estabelecida pela Constituição Federal e com as alterações introduzidas pela Emenda Constitucional nº 131/2023, assinale a opção correta:
 
-* **A)** O brasileiro nato que adquire voluntariamente outra nacionalidade por processo de naturalização comum em país estrangeiro perde automaticamente a nacionalidade brasileira, ressalvada a imposição de permanência para o exercício de direitos civis.
-* **B)** A declaração de perda da nacionalidade do brasileiro que fizer pedido expresso de renúncia perante autoridade competente é nula se esse ato importar em situação de apatridia.
-* **C)** O cancelamento da naturalização por sentença judicial transitada em julgado autoriza a reaquisição imediata da nacionalidade por mera via administrativa sumária perante a Polícia Federal.
-* **D)** O brasileiro naturalizado que reside há mais de dez anos ininterruptos no exterior perde compulsoriamente a nacionalidade brasileira adquirida.
-* **E)** A perda da nacionalidade brasileira atinge indistintamente o indivíduo que cometer crime doloso contra o patrimônio privado no exterior.
+* **A)** I, II e III
+* **B)** I, II e IV
+* **C)** II, III e IV
+* **D)** I, III e IV
 
 #### Gabarito: **B**
-
 * **A (Errada):** Essa era a regra anterior a outubro de 2023. A **EC nº 131/2023 revogou expressamente a perda automática** da nacionalidade pela mera aquisição voluntária de outra cidadania estrangeira.
 * **B (Certa):** O art. 12, § 4º, inciso II, com a redação dada pela EC nº 131/2023, estipula taxativamente que a perda da nacionalidade será declarada quando o brasileiro *"fizer pedido expresso de perda da nacionalidade brasileira perante autoridade competente, **ressalvadas situações que acarretem apatridia**"*. O Brasil adota a Convenção para a Redução dos Casos de Apatridia, vedando que a renúncia gere uma pessoa sem pátria.
 * **C (Errada):** O cancelamento judicial por fraude ou atentado ao Estado Democrático opera a perda definitiva com trânsito em julgado, impedindo reaquisição administrativa simplificada.
-* **D e E (Erradas):** Hipóteses sem qualquer respaldo no ordenamento constitucional brasileiro.
 
 ---
 
-### [Questão 05](https://www.qconcursos.com/questoes-de-concursos/questoes/8b58551c-b2) — [IV - UFG — Câmara de Ipameri - GO / Assistente Parlamentar — 2026] • [Nível: Média (Acertos: 58.7%)]
+### [Questão 05](https://www.qconcursos.com/questoes-de-concursos/questoes/8b58551c-b2) — [IV - UFG — Câmara de Ipameri - GO / Assistente Parlamentar — 2026]
 
 No tocante às condições constitucionais de elegibilidade insculpidas no art. 14 da Constituição Federal de 1988, a idade mínima de trinta anos é exigida para a candidatura ao cargo de:
 
-* **A)** Presidente da República.
-* **B)** Senador da República.
-* **C)** Governador e Vice-Governador de Estado e do Distrito Federal.
-* **D)** Prefeito e Vice-Prefeito Municipal.
+* **A)** Obter, nas eleições para a Câmara dos Deputados, no mínimo, 3% dos votos válidos, distribuídos em pelo menos um terço das unidades da Federação, com um mínimo de 2% dos votos válidos em cada uma delas; ou eleger pelo menos 15 Deputados Federais, distribuídos em pelo menos um terço das unidades da Federação.
+* **B)** Obter, nas eleições para a Câmara dos Deputados, no mínimo, 3% dos votos válidos, distribuídos em pelo menos metade das unidades da Federação, ou eleger pelo menos 20 Deputados Federais, distribuídos em pelo menos um terço das unidades da Federação.
+* **C)** Obter, nas eleições para a Câmara dos Deputados, no mínimo, 5% dos votos válidos, distribuídos em pelo menos um terço das unidades da Federação, com um mínimo de 3% dos votos válidos em cada uma delas; ou eleger pelo menos 15 Deputados Federais, distribuídos em pelo menos metade das unidades da Federação.
+* **D)** Obter, nas eleições para a Câmara dos Deputados, no mínimo, 5% dos votos válidos, distribuídos em pelo menos um terço das unidades da Federação; ou eleger pelo menos 25 Deputados Federais, distribuídos em pelo menos um terço das unidades da Federação.
+* **E)** Obter, nas eleições para a Câmara dos Deputados, no mínimo, 10% dos votos válidos, distribuídos em pelo menos um terço das unidades da Federação, com um mínimo de 5% dos votos válidos em cada uma delas; ou eleger pelo menos 20 Deputados Federais, distribuídos em pelo menos metade das unidades da Federação.
 
 #### Gabarito: **C**
-
-* **A e B (Erradas):** Para Presidente, Vice-Presidente da República e Senador, a idade mínima exigida é de **35 anos** (art. 14, § 3º, VI, "a").
 * **C (Certa):** O art. 14, § 3º, inciso VI, alínea "b", da Carta Magna estipula expressamente a idade mínima de **30 anos** para os cargos de Governador e Vice-Governador de Estado e do Distrito Federal.
 * **D (Errada):** Para Prefeito, Vice-Prefeito, Deputados e Juiz de Paz, a idade mínima é de **21 anos** (art. 14, § 3º, VI, "c").
 
 ---
 
-### [Questão 06](https://www.qconcursos.com/questoes-de-concursos/questoes/8b58551d-b2) — [IV - UFG — Câmara de Ipameri - GO / Assistente Parlamentar — 2026] • [Nível: Fácil (Acertos: 71.4%)]
+### [Questão 06](https://www.qconcursos.com/questoes-de-concursos/questoes/8b58551d-b2) — [IV - UFG — Câmara de Ipameri - GO / Assistente Parlamentar — 2026]
 
 A Constituição Federal veda a cassação de direitos políticos, cuja perda ou suspensão só se dará nos casos taxativamente previstos no art. 15. Assinale a opção que apresenta hipótese expressa de privação dos direitos políticos:
 
-* **A)** Ajuizamento de ação popular contra autoridade do Poder Executivo.
-* **B)** Condenação criminal transitada em julgado, enquanto durarem seus efeitos.
-* **C)** Filiação voluntária a partido político de oposição ideológica ao governo de plantão.
-* **D)** Recusa de comparecimento a sessão pública de audiência legislativa sobre orçamento municipal.
+* **A)** Lei de maio de 2026 que altere o processo eleitoral não poderá ser aplicada nas eleições de outubro desse mesmo ano.
+* **B)** O aposentado filiado tem direito a votar nas organizações sindicais, apesar de não poder ser votado.
+* **C)** Para a organização sindical impetrar mandado de segurança coletivo, é necessária a autorização de seus filiados.
+* **D)** O brasileiro que adquirir outra nacionalidade, salvo nos casos de reconhecimento de nacionalidade originária pela lei estrangeira ou imposição de naturalização, perderá a nacionalidade brasileira.
+* **E)** O brasileiro nato poderá ser extraditado por crime cometido antes do reconhecimento da nacionalidade originária.
 
 #### Gabarito: **B**
-
-* **A e C (Erradas):** Exercício legítimo de garantias constitucionais (ação popular) e liberdade partidária (art. 17).
 * **B (Certa):** O art. 15, inciso III, da Constituição Federal estabelece expressamente a **suspensão dos direitos políticos** em caso de *"condenação criminal transitada em julgado, enquanto durarem seus efeitos"*.
 * **D (Errada):** Não configura causa de suspensão ou perda de direitos políticos.
 
 ---
 
-### [Questão 07](https://www.qconcursos.com/questoes-de-concursos/questoes/8b58551e-b2) — [IV - UFG — Câmara de Ipameri - GO / Assistente Parlamentar — 2026] • [Nível: Muito Fácil (Acertos: 83.7%)]
+### [Questão 07](https://www.qconcursos.com/questoes-de-concursos/questoes/8b58551e-b2) — [IV - UFG — Câmara de Ipameri - GO / Assistente Parlamentar — 2026]
 
 Os atos de improbidade administrativa importarão a suspensão dos direitos políticos, a perda da função pública, a indisponibilidade dos bens e o ressarcimento ao erário, na forma e gradação previstas em lei:
 
-* **A)** ressalvada qualquer ação penal que culmine em reclusão.
-* **B)** exceto ações que envolvam penas privativas de liberdade.
-* **C)** ressalvada qualquer ação penal com trânsito em julgado.
-* **D)** sem prejuízo da ação penal cabível.
+* **A)** Ao menos uma.
+* **B)** Ao menos duas.
+* **C)** Ao menos três.
+* **D)** Terça parte.
+* **E)** Quinta parte.
 
 #### Gabarito: **D**
-
-* **A, B e C (Erradas):** As sanções civis-administrativas de improbidade não obstam a persecução penal.
 * **D (Certa):** Transcrição exata do art. 37, § 4º, da Constituição Federal: *"Os atos de improbidade administrativa importarão a suspensão dos direitos políticos, a perda da função pública, a indisponibilidade dos bens e o ressarcimento ao erário, na forma e gradação previstas em lei, **sem prejuízo da ação penal cabível**"*.
 
 ---
 
-### [Questão 08](https://www.qconcursos.com/questoes-de-concursos/questoes/8b5a77e2-b2) — [IV - UFG — Câmara de Ipameri - GO / Assistente Parlamentar — 2026] • [Nível: Muito Fácil (Acertos: 86.3%)]
+### [Questão 08](https://www.qconcursos.com/questoes-de-concursos/questoes/8b5a77e2-b2) — [IV - UFG — Câmara de Ipameri - GO / Assistente Parlamentar — 2026]
 
 De acordo com a Constituição Federal de 1988, a eleição do prefeito, do vice-prefeito e dos vereadores, para mandato de quatro anos, deverá ser realizada mediante pleito:
 
-* **A)** direto e simultâneo em todo o País.
-* **B)** direto e assíncrono.
-* **C)** indireto e simultâneo.
-* **D)** indireto e facultativo.
+* **A)** naturalizados, na forma de decreto regulamentar.
+* **B)** estrangeiros, na forma da lei.
+* **C)** estrangeiros, na forma de decreto regulamentar.
+* **D)** naturalizados, na forma de convenções internacionais de direitos humanos.
 
 #### Gabarito: **A**
-
 * **A (Certa):** O art. 29, incisos I e II, da Constituição da República determina que as eleições municipais (Prefeito, Vice-Prefeito e Vereadores) realizam-se mediante **pleito direto e simultâneo** em todo o território nacional, no primeiro domingo de outubro do último ano do mandato dos que devam suceder.
-* **B, C e D (Erradas):** As eleições municipais no regime republicano democrático brasileiro são diretas e simultâneas em âmbito nacional.
 
 ---
 
-### [Questão 09](https://www.qconcursos.com/questoes-de-concursos/questoes/a43f7b6e-b2) — [Quadrix — CREF - 15ª Região (PI - MA) / Advogado — 2026] • [Nível: Muito Fácil (Acertos: 89.1%)]
+### [Questão 09](https://www.qconcursos.com/questoes-de-concursos/questoes/a43f7b6e-b2) — [Quadrix — CREF - 15ª Região (PI - MA) / Advogado — 2026]
 
 Acerca dos direitos políticos e do regime constitucional da Administração Pública, julgue o item a seguir:
-
 A condenação por atos de improbidade administrativa transitada em julgado importará a perda definitiva dos direitos políticos do condenado.
-
 * ( ) Certo
 * ( ) Errado
 
-#### Gabarito: **Errado**
+* **A)** ressalvada qualquer ação penal que culmine em reclusão.
+* **B)** exceto ações que envolvam penas privativas de liberdade.
+* **C)** ressalvada qualquer ação penal.
+* **D)** sem prejuízo da ação penal cabível.
 
+#### Gabarito: **Errado**
 * **C (Errada):** A assertiva erra ao afirmar que acarreta a "perda definitiva". O art. 15, V, e o art. 37, § 4º da Constituição Federal estabelecem que os atos de improbidade administrativa importarão a **suspensão** dos direitos políticos, com duração temporária graduada em lei (Lei nº 8.429/1992 com redação da Lei nº 14.230/2021).
 * **E (Certa):** O gabarito é Errado devido à confusão técnica entre perda e suspensão.
 
 ---
 
-### [Questão 10](https://www.qconcursos.com/questoes-de-concursos/questoes/a443d012-b2) — [Quadrix — CREF - 15ª Região (PI - MA) / Advogado — 2026] • [Nível: Fácil (Acertos: 74.3%)]
+### [Questão 10](https://www.qconcursos.com/questoes-de-concursos/questoes/a443d012-b2) — [Quadrix — CREF - 15ª Região (PI - MA) / Advogado — 2026]
 
 No tocante ao mandato parlamentar na Constituição Federal de 1988, julgue o item a seguir:
-
 Perderá o mandato o deputado ou o senador que perder ou tiver suspensos os seus direitos políticos, sendo que a perda será declarada pela mesa da Casa respectiva.
-
 * ( ) Certo
 * ( ) Errado
 
-#### Gabarito: **Certo**
+* **A)** direto e simultâneo.
+* **B)** direto e assíncrono.
+* **C)** indireto e simultâneo.
+* **D)** indireto e assíncrono.
 
-* **C (Certo):** Exata aplicação do art. 55, inciso IV e § 3º, da Constituição Federal. O parlamentar federal perde o mandato quando perder ou tiver suspensos seus direitos políticos (art. 55, IV). Nessa hipótese específica (assim como na decretação de perda pela Justiça Eleitoral), a perda **não é decidida por voto secreto do plenário**, mas simplesmente **declarada pela Mesa da Câmara dos Deputados ou do Senado Federal**, de ofício ou mediante provocação de qualquer de seus membros, ou de partido político representado no Congresso, assegurada ampla defesa.
+#### Gabarito: **Certo**
 * **E (Errada):** A assertiva descreve perfeitamente o procedimento constitucional do art. 55, § 3º.
 
 ---
 
-### [Questão 11](https://www.qconcursos.com/questoes-de-concursos/questoes/c443d013-b2) — [CESPE / CEBRASPE — PGE-PA / Procurador do Estado — 2026] • [Nível: Média (Acertos: 64.1%)]
+### [Questão 11](https://www.qconcursos.com/questoes-de-concursos/questoes/c443d013-b2) — [CESPE / CEBRASPE — PGE-PA / Procurador do Estado — 2026]
 
 A respeito da inelegibilidade reflexa e da jurisprudência consolidada do Supremo Tribunal Federal, assinale a opção correta:
 
-* **A)** A dissolução da sociedade conjugal pelo divórcio no curso do mandato afasta imediatamente a inelegibilidade reflexa do ex-cônjuge do Chefe do Poder Executivo para o pleito subsequente.
-* **B)** A inelegibilidade reflexa não alcança o cônjuge de prefeito se este estiver concorrendo ao cargo de vereador no território de um município vizinho que pertença à mesma comarca judiciária.
-* **C)** O cônjuge do Governador de Estado que já seja titular de mandato eletivo de deputado estadual pode concorrer à reeleição para o mesmo cargo parlamentar sem que incida o impedimento do art. 14, § 7º da CF/88.
-* **D)** A restrição por parentesco incide até o terceiro grau na linha reta e colateral, alcançando inclusive os sobrinhos do Presidente da República.
-* **E)** O falecimento do titular do Poder Executivo antes da metade do mandato mantém hígida a inelegibilidade reflexa de seu cônjuge para qualquer cargo no território.
+* **C)** Certo
+* **E)** Errado
 
 #### Gabarito: **C**
-
 * **A (Errada):** A **Súmula Vinculante 18 do STF** preconiza exatamente o oposto: a dissolução da sociedade conjugal pelo divórcio no curso do mandato **não afasta** a inelegibilidade reflexa para o pleito subsequente na mesma jurisdição.
 * **B (Errada):** A jurisdição do prefeito é o município; contudo, a formação de municípios limítrofes gerados por desmembramento mantém o impedimento se pertencerem à mesma base de influência política.
 * **C (Certa):** O art. 14, § 7º, da CF/88 contém expressa ressalva à inelegibilidade reflexa: *"salvo se já titular de mandato eletivo e candidato à reeleição"*. Se o cônjuge já exercia o mandato parlamentar de deputado estadual antes ou durante o governo, ele tem direito subjetivo de disputar a reeleição.
@@ -411,21 +397,17 @@ A respeito da inelegibilidade reflexa e da jurisprudência consolidada do Suprem
 
 ---
 
-### [Questão 12](https://www.qconcursos.com/questoes-de-concursos/questoes/d443d014-b2) — [FGV — OAB / Exame de Ordem Unificado — 2026] • [Nível: Difícil (Acertos: 45.8%)]
+### [Questão 12](https://www.qconcursos.com/questoes-de-concursos/questoes/d443d014-b2) — [FGV — OAB / Exame de Ordem Unificado — 2026]
 
 Carlos, cidadão brasileiro nato de 32 anos de idade, preenche todas as condições de elegibilidade e pretende candidatar-se ao cargo de Senador da República no pleito geral subsequente. Paralelamente, seu irmão mais velho, de 34 anos de idade, pretende disputar a reeleição ao cargo de Governador do mesmo Estado.
-
 À luz das normas constitucionais sobre direitos políticos, Carlos:
 
-* **A)** não poderá concorrer ao cargo de Senador, pois não atinge a idade mínima de trinta e cinco anos exigida pela Constituição Federal para a representação dos Estados no Senado.
-* **B)** poderá concorrer validamente, tendo em vista que a idade mínima para o Senado Federal é de trinta anos e o parentesco com o Governador não gera inelegibilidade reflexa para cargos federais.
-* **C)** não poderá concorrer unicamente em razão do vínculo de parentesco em segundo grau com o Governador de Estado, que gera inelegibilidade reflexa para qualquer cargo na mesma circunscrição.
-* **D)** poderá concorrer, desde que comprove previamente filiação a partido político coligado com a agremiação de seu irmão.
-* **E)** poderá disputar o mandato de Senador, pois a idade mínima para o cargo deve ser aferida exclusivamente no momento da homologação da convenção partidária.
+* **C)** Certo
+* **E)** Errado
 
 #### Gabarito: **A**
-
 * **A (Certa):** O art. 14, § 3º, inciso VI, alínea "a", da Constituição Federal exige a idade mínima de **trinta e cinco anos** para o cargo de Senador da República (aferida na data da posse). Tendo Carlos 32 anos, ele carece de condição essencial de elegibilidade, sendo inviável sua postulação ao Senado.
-* **B e E (Erradas):** A idade para Senador é de 35 anos, e não 30 anos. A idade mínima afere-se como regra na data da posse (art. 11, § 2º da Lei 9.504/97).
 * **C (Errada):** A inelegibilidade reflexa do art. 14, § 7º, ressalva a reeleição do titular, mas para o parente disputar cargo federal na mesma base a idade mínima já obsta de plano a pretensão.
 * **D (Errada):** A coligação partidária não supre requisitos constitucionais objetivos de idade mínima.
+
+---

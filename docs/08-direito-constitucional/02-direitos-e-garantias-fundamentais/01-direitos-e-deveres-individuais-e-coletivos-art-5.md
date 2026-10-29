@@ -191,17 +191,17 @@ flowchart TD
 
 ---
 
-### [Questão 01](https://www.qconcursos.com/questoes-de-concursos/questoes/5a484906-c7) — [OBJETIVA — Prefeitura de Cachoeira do Sul - RS / Contador e Advogado — 2026] • [Nível: Muito Fácil (Acertos: 93.1%)]
+
+### [Questão 01](https://www.qconcursos.com/questoes-de-concursos/questoes/5a484906-c7) — [OBJETIVA — Prefeitura de Cachoeira do Sul - RS / Contador e Advogado — 2026]
 
 Acerca dos direitos e das garantias fundamentais previstos na Constituição Federal, assinalar a alternativa correta:
 
-* **A)** É permitida a manifestação de pensamento anônima em determinadas situações reguladas por decreto executivo.
-* **B)** A reunião pacífica em locais abertos ao público depende de autorização prévia da autoridade competente.
-* **C)** A expressão da atividade artística e científica depende de licença estatal prévia.
-* **D)** Ninguém será obrigado a fazer ou deixar de fazer alguma coisa senão em virtude de lei.
+* **A)** É permitida manifestação de pensamento anônima em determinadas situações.
+* **B)** A reunião em locais abertos ao público depende de autorização prévia da autoridade competente.
+* **C)** A expressão da atividade artística depende de licença estatal.
+* **D)** Ninguém será obrigado a fazer alguma coisa senão em virtude de lei.
 
 #### Gabarito: **D**
-
 * **A (Errada):** O art. 5º, inciso IV, da CF/88 estabelece que *"é livre a manifestação do pensamento, sendo vedado o anonimato"*. Não há qualquer exceção em nível infralegal que autorize o anonimato.
 * **B (Errada):** A liberdade de reunião (art. 5º, XVI) independe de autorização estatal, exigindo-se apenas que seja pacífica, sem armas, em locais abertos e precedida de prévio aviso (que, consoante o STF no Tema 855, pode ser suprido pela notoriedade do ato).
 * **C (Errada):** O art. 5º, inciso IX, garante que *"é livre a expressão da atividade intelectual, artística, científica e de comunicação, independentemente de censura ou licença"*.
@@ -209,20 +209,18 @@ Acerca dos direitos e das garantias fundamentais previstos na Constituição Fed
 
 ---
 
-### [Questão 02](https://www.qconcursos.com/questoes-de-concursos/questoes/4d0f4b99-c7) — [ISET — Câmara de Seabra - BA / Técnico em Comunicação — 2026] • [Nível: Muito Fácil (Acertos: 93.4%)]
+### [Questão 02](https://www.qconcursos.com/questoes-de-concursos/questoes/4d0f4b99-c7) — [ISET — Câmara de Seabra - BA / Técnico em Comunicação — 2026]
 
 Na página oficial de uma instituição pública, um cidadão publica comentário severamente crítico à qualidade de determinado serviço, afirmando que o atendimento é “desorganizado e incapaz de resolver problemas básicos”. A manifestação não contém ameaça, conteúdo discriminatório ou divulgação de dados pessoais de servidores. Paralelamente, em outra publicação, são expostos dados privados e residenciais de uma servidora com o intuito de intimidação.
-
 Considerando o regime constitucional da liberdade de expressão e a tutela dos direitos fundamentais, assinale a opção correta:
 
-* **A)** Ambas as publicações devem receber o mesmo tratamento censório, pois críticas ao serviço público e divulgação de dados privados atingem igualmente a honorabilidade da Administração.
-* **B)** A crítica severa ao serviço público não deve ser equiparada, apenas por seu conteúdo negativo, à exposição indevida de informações pessoais, sendo a primeira assegurada pela liberdade de manifestação e a segunda ilícita por violar a privacidade.
-* **C)** A crítica ao serviço deve ser compulsoriamente excluída se gerar repercussão desfavorável para a imagem institucional do órgão público.
-* **D)** Qualquer intervenção da Administração Pública em manifestações de usuários, ainda que veiculem dados pessoais sigilosos ou ameaças, configura censura estatal inconstitucional.
-* **E)** Somente declarações estritamente laudatórias ou favoráveis ao Poder Público recebem proteção constitucional em canais oficiais de comunicação.
+* **A)** Ambas devem receber o mesmo tratamento, pois críticas e divulgação de informações pessoais são igualmente protegidas quando relacionadas à prestação de serviço público.
+* **B)** A crítica severa ao serviço público não deve ser equiparada, apenas por seu conteúdo negativo, à exposição indevida de informações pessoais; a segunda manifestação pode receber tratamento distinto em razão dos direitos potencialmente atingidos, enquanto a simples inconveniência da crítica para a imagem da instituição não basta, por si só, para qualificá-la como manifestação ilícita.
+* **C)** A crítica pode ser retirada sempre que produzir repercussão negativa para a instituição, enquanto os dados da servidora devem permanecer acessíveis por se tratar de agente público.
+* **D)** Ambas devem ser mantidas integralmente, pois qualquer intervenção realizada por órgão público em manifestação de terceiros configura censura.
+* **E)** Somente afirmações factuais recebem proteção constitucional, razão pela qual opiniões negativas sobre a qualidade do serviço podem ser excluídas independentemente de seu conteúdo.
 
 #### Gabarito: **B**
-
 * **A (Errada):** A crítica ao serviço estatal constitui legítimo exercício da liberdade de expressão e controle social (art. 5º, IV e XIV); em contrapartida, a exposição de dados pessoais sigilosos fere o direito à intimidade e à vida privada (art. 5º, X).
 * **B (Certa):** O ordenamento constitucional assegura a livre circulação de opiniões e críticas aos serviços estatais, vedando o arbítrio censório da Administração. Contudo, tal liberdade encontra limite constitucional expresso na inviolabilidade da intimidade e segurança dos agentes públicos.
 * **C (Errada):** A imagem institucional da repartição não autoriza a supressão ilegítima de descontentamentos populares expressados civilizadamente.
@@ -231,14 +229,12 @@ Considerando o regime constitucional da liberdade de expressão e a tutela dos d
 
 ---
 
-### [Questão 03](https://www.qconcursos.com/questoes-de-concursos/questoes/62e8e736-c8) — [OBJETIVA — Prefeitura de Cachoeira do Sul - RS / Técnico em Administração — 2026] • [Nível: Muito Fácil (Acertos: 96.0%)]
+### [Questão 03](https://www.qconcursos.com/questoes-de-concursos/questoes/62e8e736-c8) — [OBJETIVA — Prefeitura de Cachoeira do Sul - RS / Técnico em Administração — 2026]
 
 Nos termos da Constituição Federal, a casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem consentimento do morador, salvo:
-
 I. Em caso de flagrante delito ou desastre.  
 II. Para prestar socorro.  
 III. Durante o dia, por determinação judicial.  
-
 Está correto o que se afirma em:
 
 * **A)** Apenas nos itens I e II.
@@ -247,27 +243,24 @@ Está correto o que se afirma em:
 * **D)** Em todos os itens.
 
 #### Gabarito: **D**
-
 * **Itens I e II (Certos):** Em caso de flagrante delito, desastre ou para prestar socorro, o ingresso é autorizado a qualquer hora (tanto durante o dia quanto no período noturno).
 * **Item III (Certo):** A determinação judicial constitui hipótese que somente autoriza a entrada forçada **durante o dia**.
 * **Conclusão:** Todos os itens reproduzem expressamente as ressalvas do art. 5º, inciso XI, da CF/88.
 
 ---
 
-### [Questão 04](https://www.qconcursos.com/questoes-de-concursos/questoes/b5a48491-c7) — [CESPE / CEBRASPE — Polícia Civil - PE / Agente de Polícia — 2026] • [Nível: Fácil (Acertos: 71.5%)]
+### [Questão 04](https://www.qconcursos.com/questoes-de-concursos/questoes/b5a48491-c7) — [CESPE / CEBRASPE — Polícia Civil - PE / Agente de Polícia — 2026]
 
 Policiais militares realizavam patrulhamento rotineiro em via pública quando avistaram um indivíduo que, ao notar a presença da viatura policial, demonstrou nervosismo e empreendeu fuga para o interior de sua residência. Sem mandado judicial e sem qualquer outra investigação prévia, os policiais adentraram o imóvel e localizaram drogas no interior do quarto.
-
 À luz da jurisprudência vinculante fixada pelo Supremo Tribunal Federal (Tema 280 da Repercussão Geral), a atuação policial descrita é:
 
-* **A)** lícita, haja vista que o crime de tráfico de drogas é de natureza permanente, autorizando a entrada a qualquer hora independentemente de fundadas razões.
-* **B)** ilícita, pois a entrada forçada em domicílio sem mandado judicial exige a demonstração prévia de fundadas razões lastreadas em justa causa, não bastando a mera fuga do indivíduo.
-* **C)** lícita, desde que a autoridade policial elabore auto de prisão em flagrante ratificado pelo delegado de polícia no prazo improrrogável de 24 horas.
-* **D)** lícita, porque o direito à inviolabilidade do domicílio cede em face de qualquer suspeita subjetiva fundada na experiência dos policiais militares.
-* **E)** ilícita unicamente se a diligência tiver ocorrido no período noturno, sendo plenamente válida se executada durante o dia.
+* **A)** válida, pois a denúncia anônima, somada à experiência dos policiais e à posterior apreensão de drogas, demonstra situação de flagrante delito no interior da residência.
+* **B)** válida, pois o tráfico é crime permanente e a autoridade policial pode ingressar no imóvel sempre que houver notícia prévia de possível armazenamento de drogas.
+* **C)** inválida, pois a posterior apreensão de drogas não convalida o ingresso, que deve ser precedido de elementos objetivos, concretos e documentados, não bastando denúncia anônima ou impressão subjetiva.
+* **D)** válida, pois a autoridade policial pode justificar posteriormente a entrada, ainda que não registre os elementos prévios nem demonstre a urgência concreta da medida realizada.
+* **E)** inválida apenas se o morador provar que não consentiu, pois os relatos dos policiais presumem-se verdadeiros e a apreensão posterior confirma a legalidade da entrada.
 
 #### Gabarito: **B**
-
 * **A (Errada):** A natureza permanente do delito não confere salvo-conduto irrestrito para invasão arbitrária de residências sem indícios consistentes e verificáveis previamente.
 * **B (Certa):** Tese vinculante fixada pelo STF no **Tema 280**: *"A entrada forçada em domicílio sem mandado judicial só é lícita, mesmo em período noturno, quando amparada em fundadas razões, devidamente justificadas a posteriori, que indiquem que dentro da casa ocorre situação de flagrante delito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade e de nulidade dos atos praticados"*. A simples fuga desacompanhada de diligências anteriores não configura fundada razão.
 * **C (Errada):** A ratificação administrativa por delegado de polícia não convalida a ilicitude originária da invasão constitucional domiciliar.
@@ -276,20 +269,18 @@ Policiais militares realizavam patrulhamento rotineiro em via pública quando av
 
 ---
 
-### [Questão 05](https://www.qconcursos.com/questoes-de-concursos/questoes/c5a48492-c7) — [FGV — SEFAZ-MT / Auditor Fiscal da Receita Estadual — 2026] • [Nível: Difícil (Acertos: 44.1%)]
+### [Questão 05](https://www.qconcursos.com/questoes-de-concursos/questoes/c5a48492-c7) — [FGV — SEFAZ-MT / Auditor Fiscal da Receita Estadual — 2026]
 
 Em regular procedimento de fiscalização tributária instaurado contra determinada sociedade empresária do ramo atacadista, a autoridade fazendária estadual requisitou diretamente a instituições bancárias as movimentações financeiras da empresa, com base no art. 6º da Lei Complementar nº 105/2001, dispensando autorização judicial prévia. A contribuinte impetrou mandado de segurança sustentando violação ao art. 5º, inciso XII e X, da Constituição Federal.
-
 Considerando o entendimento pacificado pelo Supremo Tribunal Federal sobre o tema (Tema 990 da Repercussão Geral), é correto afirmar que:
 
-* **A)** a requisição direta de dados bancários pelo Fisco é inconstitucional, uma vez que toda e qualquer quebra de sigilo submete-se à cláusula de reserva absoluta de jurisdição.
-* **B)** a requisição é constitucional, pois não configura quebra de sigilo, mas sim transferência de sigilo do âmbito bancário para o âmbito fiscal, exigindo-se a instauração de processo administrativo e o dever de sigilo funcional.
-* **C)** a obtenção de dados bancários pelo Fisco prescinde de processo administrativo instaurado, bastando a constatação de inadimplência tributária no sistema da fazenda pública.
-* **D)** os estados e municípios não possuem legitimidade para requisitar diretamente movimentações bancárias, competência restrita com exclusividade à Receita Federal do Brasil.
-* **E)** os dados fiscais obtidos diretamente não podem, em nenhuma hipótese, ser compartilhados com o Ministério Público para fins de persecução penal de crimes tributários.
+* **A)** ainda que não seja regulamentada, a entrada em vigor da NEC obsta a aplicação da LFX.
+* **B)** a LFX continuará a produzir efeitos até que a sua invalidade seja reconhecida em sede de controle concentrado de constitucionalidade.
+* **C)** a NEC carece de regulamentação para a integração de sua eficácia, logo, a LFX continuará a ser aplicada até que sobrevenha essa regulamentação.
+* **D)** apesar de carecer de regulamentação para a produção da integralidade dos seus efeitos, a NEC pode ser integrada pelo princípio da dignidade da pessoa humana e afastar a aplicação da LFX.
+* **E)** o nível de proteção oferecido pela NEC e pela LFX deve ser considerado, o que exige um juízo de ponderação entre os bens e valores envolvidos, de modo a verificar qual delas deve ser aplicada no caso concreto.
 
 #### Gabarito: **B**
-
 * **A (Errada):** O STF afastou a necessidade de prévia intervenção judicial para que o Fisco obtenha informações sobre movimentações financeiras, julgando constitucionais os arts. 5º e 6º da LC 105/2001.
 * **B (Certa):** Exata aplicação do **Tema 990/STF**: o fornecimento direto de informações financeiras ao Fisco não configura quebra indevida de sigilo, mas transferência legítima de sigilo da instituição bancária para a administração tributária, ambas vinculadas à guarda rigorosa dos dados sob pena de responsabilização funcional e penal.
 * **C (Errada):** A instauração de processo administrativo fiscal prévio e formal é requisito indispensável fixado expressamente pelo STF para validar a requisição.
@@ -298,18 +289,16 @@ Considerando o entendimento pacificado pelo Supremo Tribunal Federal sobre o tem
 
 ---
 
-### [Questão 06](https://www.qconcursos.com/questoes-de-concursos/questoes/d5a48493-c7) — [FCC — TRT - 1ª Região (RJ) / Analista Judiciário — 2026] • [Nível: Média (Acertos: 62.8%)]
+### [Questão 06](https://www.qconcursos.com/questoes-de-concursos/questoes/d5a48493-c7) — [FCC — TRT - 1ª Região (RJ) / Analista Judiciário — 2026]
 
 Em relação à disciplina constitucional da liberdade de associação insculpida no art. 5º da CF/88, assinale a assertiva correta:
 
-* **A)** A criação de associações depende de prévia autorização do Poder Executivo, sendo vedada a criação de cooperativas na forma da lei.
-* **B)** A dissolução compulsória de uma associação por prática de atos ilícitos graves pode ser determinada monocraticamente por autoridade policial em sede de inquérito.
-* **C)** As associações só poderão ter suas atividades suspensas por decisão judicial, exigindo-se o trânsito em julgado para a sua dissolução compulsória.
-* **D)** Ninguém poderá ser compelido a associar-se ou a permanecer associado, salvo se houver previsão em convenção coletiva de trabalho autorizando a filiação compulsória.
-* **E)** As entidades associativas possuem legitimidade para representar seus filiados perante o Poder Judiciário independentemente de qualquer autorização expressa em assembleia.
+* **A)** É livre o exercício de qualquer trabalho, ofício ou profissão, independentemente de qualificações profissionais.
+* **B)** O exercício do direito de reunião em locais abertos ao público depende de autorização prévia da autoridade competente.
+* **C)** A intimidade, a vida privada, a honra e a imagem das pessoas são invioláveis.
+* **D)** Ninguém será obrigado a fazer ou deixar de fazer alguma coisa, independentemente da situação.
 
 #### Gabarito: **C**
-
 * **A (Errada):** Consoante o art. 5º, XVIII, a criação de associações e a de cooperativas independem de qualquer autorização estatal.
 * **B (Errada):** A dissolução compulsória jamais pode emanar de autoridade administrativa ou policial; exige pronunciamento emanado privativamente do Poder Judiciário.
 * **C (Certa):** Transcrição exata da regra constitucional constante do art. 5º, XIX: para a *suspensão de atividades*, basta decisão judicial (mesmo liminar ou interlocutória); todavia, para a *dissolução compulsória*, exige-se **decisão judicial transitada em julgado**.
@@ -318,18 +307,16 @@ Em relação à disciplina constitucional da liberdade de associação insculpid
 
 ---
 
-### [Questão 07](https://www.qconcursos.com/questoes-de-concursos/questoes/e5a48494-c7) — [CESPE / CEBRASPE — DPE-MG / Defensor Público — 2026] • [Nível: Difícil (Acertos: 38.9%)]
+### [Questão 07](https://www.qconcursos.com/questoes-de-concursos/questoes/e5a48494-c7) — [CESPE / CEBRASPE — DPE-MG / Defensor Público — 2026]
 
 Acerca da teoria dos direitos fundamentais e de sua aplicabilidade às relações privadas (*eficácia horizontal ou Drittwirkung*), assinale a opção correta:
 
-* **A)** Os direitos fundamentais foram concebidos historicamente para reger as relações interpessoais privadas, não possuindo eficácia perante o Estado.
-* **B)** A teoria da eficácia horizontal indireta ou mediata preconiza que os direitos fundamentais vinculam os particulares de modo imediato, sem dependência de conformação por normas de direito privado.
-* **C)** O Supremo Tribunal Federal adota no Brasil a teoria da eficácia direta e imediata dos direitos fundamentais nas relações privadas, admitindo que preceitos como o contraditório e a ampla defesa incidam em entidades associativas particulares.
-* **D)** A eficácia horizontal dos direitos fundamentais não se aplica ao direito civil ou societário, em respeito absoluto e intangível à autonomia da vontade e ao princípio do *pacta sunt servanda*.
-* **E)** As pessoas jurídicas de direito privado não podem ser compelidas a observar direitos fundamentais nas suas contratações de consumo.
+* **A)** A obtenção de certidões em repartições públicas, para defesa de direitos, depende do pagamento da taxa correspondente.
+* **B)** A gratuidade do direito de petição é assegurada quando destinado à defesa de direitos, mas não quando utilizado contra ilegalidade ou abuso de poder.
+* **C)** A obtenção gratuita de certidões em repartições públicas restringe-se às solicitações destinadas à defesa de direitos coletivos.
+* **D)** O direito de petição aos Poderes Públicos pode ser exercido, independentemente do pagamento de taxas, em defesa de direitos ou contra ilegalidade ou abuso de poder.
 
 #### Gabarito: **C**
-
 * **A (Errada):** Historicamente, os direitos fundamentais nasceram sob a dimensão vertical (limitação do poder estatal absolutista perante os cidadãos).
 * **B (Errada):** A teoria da eficácia *indireta ou mediata* (defendida por Günter Dürig na Alemanha) afirma exatamente o contrário: os direitos fundamentais só incidem nas relações privadas por meio de cláusulas gerais abertas do direito civil (boa-fé, função social).
 * **C (Certa):** O STF (precedente clássico do RE 201.819/RJ) consagrou no ordenamento nacional a **teoria da eficácia direta e imediata** (*unmittelbare Drittwirkung*), segundo a qual as normas constitucionais definidoras de direitos e garantias fundamentais incidem de plano sobre os atos privados, devendo os estatutos associativos resguardar as garantias do devido processo legal antes da exclusão de qualquer membro.
@@ -338,20 +325,18 @@ Acerca da teoria dos direitos fundamentais e de sua aplicabilidade às relaçõe
 
 ---
 
-### [Questão 08](https://www.qconcursos.com/questoes-de-concursos/questoes/f5a48495-c7) — [FGV — OAB / Exame de Ordem Unificado — 2026] • [Nível: Fácil (Acertos: 76.8%)]
+### [Questão 08](https://www.qconcursos.com/questoes-de-concursos/questoes/f5a48495-c7) — [FGV — OAB / Exame de Ordem Unificado — 2026]
 
 Mariana foi presa em flagrante pela suposta prática de crime de estelionato. Durante o interrogatório na delegacia de polícia, a autoridade policial advertiu a investigada de que o seu silêncio seria interpretado como presunção de veracidade das acusações formuladas pelas vítimas.
-
 Diante do quadro hipotético e das garantias fundamentais insculpidas no art. 5º da CF/88, assinale a afirmativa correta:
 
-* **A)** A conduta da autoridade policial é lícita, pois o princípio da ampla defesa não alcança a fase pré-processual do inquérito policial.
-* **B)** A Constituição Federal assegura ao preso o direito de permanecer calado, sendo vedada a valoração de seu silêncio em prejuízo da defesa (*nemo tenetur se detegere*).
-* **C)** O investigado tem o dever legal de responder a todas as perguntas formuladas pelo delegado de polícia, respondendo por desobediência se permanecer em silêncio.
-* **D)** A prerrogativa contra a autoincriminação alcança apenas as pessoas investigadas que comprovem documentalmente insuficiência de recursos financeiros.
-* **E)** O direito ao silêncio só pode ser exercido se o investigado estiver assistido por advogado constituído no momento da lavratura do flagrante.
+* **A)** Os direitos fundamentais são marcados pela historicidade e por permitir que sejam utilizados, no sistema jurídico, como mecanismo de oposição aos interesses da maioria, pois a sua outorga não depende da ação do legislador.
+* **B)** Os direitos fundamentais nascem, originalmente, como direitos sociais, instituídos com a finalidade de impor ao Poder Público o dever de assegurar a igualdade material entre os indivíduos.
+* **C)** Os direitos fundamentais e os direitos humanos são tratados, em geral, como institutos jurídicos idênticos, recebendo o mesmo grau de proteção do ordenamento jurídico.
+* **D)** O sistema constitucional brasileiro estipula que somente podem ser enquadrados como direitos fundamentais aqueles expressamente previstos formalmente na Constituição Federal.
+* **E)** Os direitos fundamentais não podem ter o seu grau de proteção limitado pela ação do legislador infraconstitucional.
 
 #### Gabarito: **B**
-
 * **A (Errada):** O direito fundamental ao silêncio incide tanto no processo judicial quanto na esfera investigativa policial e administrativa.
 * **B (Certa):** O art. 5º, inciso LXIII, da CF/88 estabelece categoricamente que *"o preso será informado de seus direitos, entre os quais o de permanecer calado, sendo-lhe assegurada a assistência da família e de advogado"*. Trata-se do corolário do princípio universal da não autoincriminação (*nemo tenetur se detegere*), sendo absolutamente vedado ao Estado presumir a culpa com esteio no silêncio do réu.
 * **C (Errada):** Não existe dever jurídico de responder sobre os fatos imputados, descabendo qualquer cominação por desobediência.
@@ -360,18 +345,33 @@ Diante do quadro hipotético e das garantias fundamentais insculpidas no art. 5�
 
 ---
 
-### [Questão 09](https://www.qconcursos.com/questoes-de-concursos/questoes/f8e447e3-cb) — [ISET — Câmara de Seabra - BA / Vigilante — 2026] • [Nível: Muito Fácil (Acertos: 87.6%)]
+### [Questão 09](https://www.qconcursos.com/questoes-de-concursos/questoes/f8e447e3-cb) — [ISET — Câmara de Seabra - BA / Vigilante — 2026]
 
 Em uma repartição pública, um cidadão, insatisfeito com a excessiva demora do atendimento, passa a reclamar em voz alta, sem ameaçar pessoas, proferir agressões físicas ou danificar bens públicos. Um servidor solicita ao vigilante que retire o usuário imediatamente do prédio “para servir de exemplo”.
-
 Considerando os direitos e deveres individuais e as garantias processuais fundamentais, avalie os seguintes itens:
-
 I. O usuário do serviço público possui o direito de petição e o direito de reclamar contra abusos de autoridade e defeitos na prestação de serviços.  
 II. O princípio da legalidade impede que agentes públicos imponham sanções ou medidas restritivas de liberdade a cidadãos sem respaldo estrito em lei.  
 III. O servidor público possui prerrogativa de determinar a prisão arbitrária de qualquer usuário que manifeste desagrado nas dependências do órgão.  
 IV. A intervenção física da segurança patrimonial exige a constatação de conduta ilícita, ameaça iminente ou quebra ostensiva da ordem indispensável ao funcionamento regular do serviço.  
-
 Estão corretos os itens:
+
+* **A)** A Constituição admite ações afirmativas apenas por critério social ou econômico, mas veda qualquer recorte racial, ainda que associado a outros fatores, porque o art. 5º consagra igualdade formal incompatível com classificações baseadas em raça.
+* **B)** A adoção de subcotas raciais por universidade estadual é inconstitucional por vício formal, pois apenas lei federal pode instituir política afirmativa em instituição pública de ensino.
+* **C)** A comissão de heteroidentificação é incompatível com a dignidade da pessoa humana, pois a autodeclaração racial não pode ser submetida a controle administrativo.
+* **D)** A ação afirmativa só seria constitucional se assegurasse vagas exclusivamente a candidatos em situação de pobreza extrema, porque a Constituição não autoriza a consideração conjunta de raça, escola de origem e renda como fatores de discrímen.
+* **E)** A política apenas será constitucionalmente admissível se for fundada em critérios objetivos, finalidade legítima, proporcionalidade e mecanismos de controle, já que a igualdade constitucional autoriza medidas diferenciadoras destinadas a enfrentar desigualdades historicamente produzidas.
+
+#### Gabarito: **E**
+* **Itens I, II e IV (Certos):** O direito de representação contra a má prestação do serviço é assegurado pelo art. 5º, XXXIV, e pela Lei nº 13.460/2017; a legalidade (art. 5º, II) veda arbitrariedades de agentes públicos; o uso proporcional da força patrimonial requer perturbação real da ordem ou ameaça.
+* **Item III (Errado):** Inexiste prerrogativa funcional que legitime prisões arbitrárias no regime constitucional democrático. A prisão só cabe em flagrante delito ou por ordem judicial escrita e fundamentada (art. 5º, LXI).
+* **Conclusão:** Os itens corretos são **I, II e IV**, consolidando a alternativa **E**.
+
+---
+
+### [Questão 10](https://www.qconcursos.com/questoes-de-concursos/questoes/f92db085-cb) — [ISET — Câmara de Seabra - BA / Vigilante — 2026]
+
+Em uma área comum de atendimento de uma repartição pública, sem qualquer restrição formal à captação de imagens e sem exposição de documentos sob sigilo legal, um cidadão insatisfeito passa a gravar com o próprio telefone a conversa que mantém com os servidores públicos responsáveis pelo setor. A chefia da repartição ordena que a equipe de vigilância apreenda imediatamente o aparelho celular do cidadão e apague o vídeo gravado.
+À luz da Constituição Federal e do entendimento pretoriano dominante, a ordem expedida:
 
 * **A)** I e III, apenas.
 * **B)** II e IV, apenas.
@@ -379,49 +379,25 @@ Estão corretos os itens:
 * **D)** II, III e IV, apenas.
 * **E)** I, II e IV, apenas.
 
-#### Gabarito: **E**
-
-* **Itens I, II e IV (Certos):** O direito de representação contra a má prestação do serviço é assegurado pelo art. 5º, XXXIV, e pela Lei nº 13.460/2017; a legalidade (art. 5º, II) veda arbitrariedades de agentes públicos; o uso proporcional da força patrimonial requer perturbação real da ordem ou ameaça.
-* **Item III (Errado):** Inexiste prerrogativa funcional que legitime prisões arbitrárias no regime constitucional democrático. A prisão só cabe em flagrante delito ou por ordem judicial escrita e fundamentada (art. 5º, LXI).
-* **Conclusão:** Os itens corretos são **I, II e IV**, consolidando a alternativa **E**.
-
----
-
-### [Questão 10](https://www.qconcursos.com/questoes-de-concursos/questoes/f92db085-cb) — [ISET — Câmara de Seabra - BA / Vigilante — 2026] • [Nível: Muito Fácil (Acertos: 87.3%)]
-
-Em uma área comum de atendimento de uma repartição pública, sem qualquer restrição formal à captação de imagens e sem exposição de documentos sob sigilo legal, um cidadão insatisfeito passa a gravar com o próprio telefone a conversa que mantém com os servidores públicos responsáveis pelo setor. A chefia da repartição ordena que a equipe de vigilância apreenda imediatamente o aparelho celular do cidadão e apague o vídeo gravado.
-
-À luz da Constituição Federal e do entendimento pretoriano dominante, a ordem expedida:
-
-* **A)** deve ser integralmente cumprida, pois o domínio patrimonial do edifício confere à Administração o poder de apreender bens móveis de terceiros.
-* **B)** é legítima sempre que a gravação alcançar a voz de servidor público em serviço, haja vista o sigilo intrínseco aos atos estatais.
-* **C)** somente poderia ser legitimamente recusada se o usuário comprovasse perante o setor registro profissional de jornalista.
-* **D)** não confere poder legítimo aos agentes de segurança para apreender o telefone ou coagir o cidadão a deletar a mídia, ressalvada a atuação em caso de ilícito penal flagrante.
-* **E)** deve ser cumprida compulsoriamente porque a gravação de atendimento administrativo viola, por si só, o núcleo essencial da intimidade do agente estatal.
-
 #### Gabarito: **D**
-
 * **A (Errada):** A Administração Pública não possui poder de autoexecutoriedade para desapossar cidadãos de seus bens particulares sem respaldo legal ou mandado judicial.
-* **B e E (Erradas):** A atuação dos agentes estatais na prestação de serviços públicos submete-se ao **princípio da publicidade** (CF, art. 37, *caput*). Conforme jurisprudência do STF e do STJ, a gravação de conversa própria mantida com agente público em repartição aberta não constitui violação de sigilo nem ato ilícito per se.
 * **C (Errada):** A liberdade de documentação e informação de fatos públicos pertence a qualquer cidadão, não sendo monopólio restrito da imprensa formal.
 * **D (Certa):** Apreender o telefone ou forçar a eliminação de gravações caracteriza arbitrariedade e confisco sumário que atenta contra a garantia do direito de propriedade (art. 5º, XXII) e o devido processo legal (art. 5º, LIV), configurando potencial crime de abuso de autoridade (Lei nº 13.869/2019).
 
 ---
 
-### [Questão 11](https://www.qconcursos.com/questoes-de-concursos/questoes/f9834352-cb) — [ISET — Câmara de Seabra - BA / Vigilante — 2026] • [Nível: Muito Fácil (Acertos: 90.8%)]
+### [Questão 11](https://www.qconcursos.com/questoes-de-concursos/questoes/f9834352-cb) — [ISET — Câmara de Seabra - BA / Vigilante — 2026]
 
 Durante o controle de acesso a um edifício do Poder Legislativo, um visitante recusa-se a apresentar o documento de identificação exigido pelas normas regulamentares do órgão, argumentando que o art. 5º da Constituição assegura a liberdade de locomoção e a igualdade de todos perante a lei, razão pela qual nenhuma pessoa poderia ser impedida de ingressar em prédio público.
-
 Sobre a controvérsia instaurada sob o prisma dos limites aos direitos fundamentais, assinale a opção correta:
 
-* **A)** O argumento do visitante procede integralmente, pois repartições públicas devem manter portas abertas de modo irrestrito a qualquer pessoa sem controles de identificação.
-* **B)** O controle de identificação é válido apenas se a segurança demonstrar documentalmente e com antecedência que aquele cidadão específico planeja praticar atos hostis.
-* **C)** O princípio da isonomia impede a instituição de barreiras de acesso entre áreas parlamentares de livre circulação e setores restritos onde tramitam matérias reservadas.
-* **D)** A liberdade de locomoção afasta medidas preventivas de triagem, restando à Administração atuar unicamente após a ocorrência de crimes consumados.
-* **E)** O princípio da igualdade não veda a fixação de controles de acesso gerais, impessoais, objetivos e razoáveis voltados à segurança das instalações e das pessoas, devendo ser exigidos indistintamente de todos.
+* **A)** Deve ser cumprida, porque a propriedade pública do edifício autoriza a Administração a apreender equipamentos utilizados para gravação.
+* **B)** É legítima sempre que a gravação alcançar a imagem ou a voz de servidor público no exercício de suas funções.
+* **C)** Somente poderia ser recusada se o cidadão comprovasse previamente finalidade jornalística para a gravação.
+* **D)** Não confere, nas circunstâncias descritas, poder automático ao vigilante para apreender o aparelho ou apagar seu conteúdo, sem prejuízo da observância de restrições legítimas previstas em lei ou justificadas pela natureza de determinados ambientes e informações.
+* **E)** Deve ser cumprida porque a gravação de atendimento administrativo caracteriza, por si só, violação da intimidade do agente público.
 
 #### Gabarito: **E**
-
 * **A (Errada):** Os direitos fundamentais não são absolutos. A liberdade de locomoção em prédios públicos submete-se aos regulamentos internos de ordem e segurança institucional.
 * **B (Errada):** O controle de acesso é preventivo e abstrato; a exigência de identificação independe de suspeita prévia individualizada.
 * **C (Errada):** A isonomia consiste em tratar igualmente os iguais e desigualmente os desiguais; a separação entre setores de circulação pública e setores administrativos reservados é plenamente compatível com a Constituição.
@@ -430,22 +406,22 @@ Sobre a controvérsia instaurada sob o prisma dos limites aos direitos fundament
 
 ---
 
-### [Questão 12](https://www.qconcursos.com/questoes-de-concursos/questoes/a5a48496-c7) — [CESPE / CEBRASPE — PGE-PA / Procurador do Estado — 2026] • [Nível: Média (Acertos: 57.4%)]
+### [Questão 12](https://www.qconcursos.com/questoes-de-concursos/questoes/a5a48496-c7) — [CESPE / CEBRASPE — PGE-PA / Procurador do Estado — 2026]
 
 Considere que determinada lei complementar estadual estabeleça a possibilidade de o Ministério Público requisitar, diretamente e sem autorização judicial, a quebra de sigilo de correspondência física epistolar de cidadãos investigados por crimes funcionais.
-
 À luz da jurisprudência do Supremo Tribunal Federal e do regime constitucional das inviolabilidades do art. 5º da CF/88, a referida previsão legislativa é:
 
-* **A)** constitucional, tendo em vista que o Ministério Público é titular privativo da ação penal pública e goza de poderes instrutórios ilimitados.
-* **B)** inconstitucional, uma vez que a inviolabilidade do sigilo da correspondência é garantia fundamental que apenas pode ser mitigada em situações excepcionais de estado de defesa, estado de sítio ou por decisão judicial fundamentada.
-* **C)** constitucional, desde que a requisição seja assinada conjuntamente pelo Procurador-Geral de Justiça e pelo Presidente do Tribunal de Justiça.
-* **D)** constitucional unicamente se os investigados forem servidores públicos ocupantes de cargos de provimento efetivo.
-* **E)** inconstitucional apenas se a correspondência versar sobre matéria eminentemente tributária.
+* **A)** O argumento do visitante procede, pois edifícios públicos devem possuir acesso irrestrito a qualquer pessoa durante o horário de funcionamento.
+* **B)** A exigência é válida somente se o vigilante puder demonstrar previamente que aquele visitante específico representa risco à segurança.
+* **C)** O princípio da igualdade impede qualquer diferenciação entre áreas de livre circulação e setores administrativos de acesso controlado.
+* **D)** O direito de acesso a repartições públicas afasta controles preventivos de segurança, restando à Administração agir somente depois de uma ocorrência.
+* **E)** A igualdade não impede controles de acesso gerais, objetivos e justificáveis destinados à segurança de pessoas e instalações, desde que aplicados sem discriminação arbitrária e com fundamento nas regras institucionais legítimas.
 
 #### Gabarito: **B**
-
 * **A (Errada):** O Ministério Público, conquanto titular da ação penal, não possui poderes jurisdicionais para afastar unilateralmente cláusulas de reserva de jurisdição.
 * **B (Certa):** Conforme jurisprudência histórica do STF, a quebra do sigilo de correspondência (art. 5º, XII) submete-se à cláusula de **reserva de jurisdição** (salvo no âmbito prisional, onde a administração penitenciária pode interceptar cartas de detentos excepcionalmente por razões estritas de segurança penitenciária). Logo, a lei que autoriza o Ministério Público a requisitar quebra de correspondência diretamente sem autorização judicial é manifestamente **inconstitucional**.
 * **C (Errada):** A intervenção do Presidente do TJ em ato administrativo conjunto com o PGJ não substitui a necessária ordem judicial proferida no bojo de processo ou inquérito por juízo competente.
 * **D (Errada):** A condição de servidor público não retira a proteção constitucional à intimidade e à correspondência pessoal.
 * **E (Errada):** A inconstitucionalidade atinge qualquer modalidade de crime investigado.
+
+---
