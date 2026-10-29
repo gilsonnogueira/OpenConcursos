@@ -29,19 +29,13 @@ Todavia, a evolução da **Governança Corporativa** — impulsionada por marcos
 3. **Alinhamento aos Objetivos Organizacionais:** Toda recomendação emitida pela Auditoria Interna tem uma única bússola teleológica: auxiliar a organização a **atingir suas metas estratégicas** com integridade, eficiência, eficácia e economicidade.
 
 ```mermaid
-flowchart LR
-    subgraph PASSADO["Paradigma Clássico (Século XX)"]
-        P1["Foco estritamente contábil e financeiro"]
-        P2["Atuação reativa e punitiva (Policialesca)"]
-        P3["Verificação de 100% das transações passadas"]
-        P4["Subordinação à Diretoria Financeira"]
+flowchart TD
+    subgraph PASSADO["1. Paradigma Clássico (Século XX)"]
+        P1["• Foco estritamente contábil e financeiro<br/>• Atuação reativa e policialesca<br/>• Verificação mecânica de 100% dos atos<br/>• Subordinação à Diretoria Financeira"]
     end
 
-    subgraph PRESENTE["Paradigma Contemporâneo (NBC TI 01 e IIA)"]
-        M1["Foco em Processos, Riscos, Controles e Governança"]
-        M2["Atuação proativa, preventiva e consultiva (Agregar Valor)"]
-        M3["Auditoria Baseada em Riscos (ABR) e Amostragem"]
-        M4["Reporte Funcional ao Conselho / Comitê de Auditoria"]
+    subgraph PRESENTE["2. Paradigma Contemporâneo (NBC TI 01 e IIA)"]
+        M1["• Foco em Riscos, Controles e Governança<br/>• Atuação preventiva: agregar valor estratégico<br/>• Auditoria Baseada em Riscos (ABR)<br/>• Reporte ao Conselho / Comitê de Auditoria"]
     end
 
     PASSADO ==>|Evolução da Governança Corporativa| PRESENTE
@@ -374,14 +368,17 @@ O relatório da Auditoria Interna deve abordar, no mínimo, os seguintes aspecto
 7. **g) As conclusões e as recomendações** resultantes dos fatos constatados.
 
 ```mermaid
-flowchart LR
+flowchart TD
     subgraph ESTRUTURA["Conteúdo Mínimo do Relatório (Item 12.3.1.3)"]
-        E1["1. Escopo<br/>Objetivo e Extensão"]
-        E2["2. Método<br/>Metodologia e Procedimentos"]
-        E3["3. Restrições<br/>Eventuais Limitações de Alcance"]
-        E4["4. Achados e Riscos<br/>Fatos Constatados, Evidências e Riscos Associados"]
-        E5["5. Desfecho<br/>Conclusões e Recomendações de Soluções"]
-        E1 --> E2 --> E3 --> E4 --> E5
+        E1["<b>1. Escopo:</b> Objetivo e Extensão do Trabalho"]
+        E2["<b>2. Método:</b> Metodologia e Procedimentos Aplicados"]
+        E3["<b>3. Restrições:</b> Eventuais Limitações de Alcance"]
+        E4["<b>4. Achados e Riscos:</b> Fatos Constatados e Riscos Associados"]
+        E5["<b>5. Desfecho:</b> Conclusões e Recomendações de Soluções"]
+        E1 --> E2
+        E2 --> E3
+        E3 --> E4
+        E4 --> E5
     end
 ```
 

@@ -43,13 +43,13 @@ A Matriz de Planejamento compõe-se de colunas estruturadas:
 | **Critérios de Auditoria** | Parâmetro legal, contratual ou regulamentar com o qual a situação será confrontada. | *"O que deveria ser segundo a norma?"* |
 
 ```mermaid
-graph LR
-    QA["Questão de Auditoria"] --> IR["Informações Requeridas"]
-    IR --> FI["Fontes de Informação"]
-    FI --> PA["Procedimentos de Auditoria"]
-    PA --> MA["Métodos de Análise"]
-    MA --> RP["Respostas Permitidas"]
-    RP --> CR["Critérios Legais"]
+flowchart TD
+    QA["1. Questão de Auditoria"] --> IR["2. Informações Requeridas"]
+    IR --> FI["3. Fontes de Informação"]
+    FI --> PC["4. Procedimentos de Coleta"]
+    PC --> PA["5. Procedimentos de Análise"]
+    PA --> LI["6. Limitações de Auditoria"]
+    LI --> DP["7. Diagnóstico e Prognóstico"]
 ```
 
 ---
@@ -155,10 +155,17 @@ Conforme o **Decreto Federal nº 9.830/2019** (art. 12) e jurisprudência vincul
 A Matriz de Responsabilização deve preencher de forma cumulativa e individualizada 4 campos fundamentais:
 
 ```mermaid
-flowchart LR
-    R["1. Identificação do Responsável (Nome, CPF, Cargo e Período de Atuação)"] --> C["2. Conduta Comprovada (Ação ou Omissão Ilícita Individualizada)"]
-    C --> N["3. Nexo de Causalidade (Como a Conduta causou o Achado de Auditoria)"]
-    N --> CL["4. Culpabilidade (Demonstração de Dolo ou Erro Grosseiro sob a LINDB)"]
+flowchart TD
+    R["1. Identificação do Responsável<br/>(Nome, CPF, Cargo e Período de Atuação)"]
+    C["2. Conduta Comissiva ou Omissiva<br/>(Ato praticado ou dever legal descumprido)"]
+    N["3. Nexo de Causalidade<br/>(Vínculo direto entre a conduta e o resultado danoso)"]
+    CU["4. Elemento Subjetivo / Culpa em Sentido Amplo<br/>(Dolo ou Erro Grosseiro - Art. 28 da LINDB)"]
+    EV["5. Evidências Probatórias<br/>(Documentos, despachos e assinaturas)"]
+
+    R --> C
+    C --> N
+    N --> CU
+    CU --> EV
 ```
 
 1. **Responsável:** Identificação completa da pessoa física (nome, CPF, cargo, função formal e período exato de competência funcional);

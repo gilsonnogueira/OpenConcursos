@@ -53,19 +53,19 @@ As demonstrações contábeis podem ser afetadas por determinados eventos que oc
 Para compreender exatamente até onde vai a obrigação do auditor em cada fase, a NBC TA 560 define quatro marcos cronológicos distintos:
 
 ```mermaid
-flowchart LR
-    D1["1. Data das Demonstrações Contábeis<br/>(Ex: 31/12/20X1)<br/>Encerramento do último período coberto."]
+flowchart TD
+    D1["<b>1. Data das Demonstrações Contábeis</b><br/><i>(Ex.: 31/12/20X1)</i><br/>Encerramento do período contábil auditado"]
     
-    D2["2. Data de Aprovação das Demonstrações<br/>(Ex: 20/02/20X2)<br/>Diretoria/Governança afirma que todos os<br/>quadros e notas foram elaborados e assume<br/>responsabilidade por eles."]
+    D2["<b>2. Data de Aprovação das Demonstrações</b><br/><i>(Ex.: 20/02/20X2)</i><br/>Administração declara responsabilidade pelas demonstrações"]
     
-    D3["3. Data do Relatório do Auditor<br/>(Ex: 25/02/20X2)<br/>Data escolhida pelo auditor para assinar.<br/>⚠️ Nunca anterior à aprovação (D2)!"]
+    D3["<b>3. Data do Relatório do Auditor</b><br/><i>(Ex.: 25/02/20X2)</i><br/>Emissão formal da opinião (nunca anterior a D2)"]
     
-    D4["4. Data de Divulgação das Demonstrações<br/>(Ex: 05/03/20X2)<br/>Data em que o relatório do auditor e as<br/>demonstrações auditadas são disponibilizados<br/>a terceiros (CVM, jornal, internet)."]
-    
-    D1 -->|FASE 1: Dever ATIVO de busca pelo auditor| D3
-    D2 --- D3
-    D3 -->|FASE 2: Sem dever ativo<br/>(Antes da divulgação)| D4
-    D4 -->|FASE 3: Sem dever ativo<br/>(Após a divulgação)| FIM["Futuro Pós-Publicação"]
+    D4["<b>4. Data de Divulgação das Demonstrações</b><br/><i>(Ex.: 05/03/20X2)</i><br/>Publicação oficial ao mercado e reguladores"]
+
+    D1 -->|FASE 1: Obrigação ATIVA de executar procedimentos| D3
+    D2 -.->|Requisito Prévio| D3
+    D3 -->|FASE 2: Sem obrigação ativa (Antes da divulgação)| D4
+    D4 -->|FASE 3: Sem obrigação ativa (Após a divulgação)| POS["Fatos supervenientes com impacto societário"]
 ```
 
 * **DefiniçãoEstrita de "Eventos Subsequentes" na NBC TA 560 (Item 5, "e"):** Na terminologia estrita da NBC TA 560, a expressão *"eventos subsequentes"* refere-se aos eventos ocorridos **entre a data das demonstrações contábeis (D1) e a data do relatório do auditor (D3)**, enquanto os eventos descobertos depois de D3 são chamados pela norma de *"fatos que chegaram ao conhecimento do auditor após a data do seu relatório"*.

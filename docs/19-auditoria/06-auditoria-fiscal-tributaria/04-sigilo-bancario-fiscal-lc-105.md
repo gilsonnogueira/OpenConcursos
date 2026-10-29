@@ -215,14 +215,12 @@ O próprio CTN elenca as situações em que a divulgação ou o compartilhamento
 No paradigmático julgamento do **RE 1.055.941 / Tema 990 de Repercussão Geral**, o plenário do Supremo Tribunal Federal fixou a seguinte tese de eficácia vinculante:
 
 ```mermaid
-flowchart LR
-    A["Receita Federal do Brasil (RFB)"] -->|Identificação de Indícios de Crimes Tributários ou Conexos| B["Representação Fiscal para Fins Penais - RFFP (Art. 83 Lei 9.430/96)"]
-    B -->|Compartilhamento Direto da Íntegra dos Autos e Dados Bancários| C["Ministério Público Federal / Estadual (MP)"]
-    C -->|Oferecimento Direto de Denúncia Criminal| D["Poder Judiciário (Ação Penal)"]
-    E["UIF / COAF (Relatórios de Inteligência Financeira - RIF)"] -->|Comunicação Espontânea ou por Requisição do MP| C
-    
-    style B fill:#e1f5fe,stroke:#0288d1,stroke-width:2px;
-    style C fill:#fff3e0,stroke:#f57c00,stroke-width:2px;
+flowchart TD
+    A["1. Receita Federal do Brasil (RFB)"] -->|Identificação de Indícios de Crimes Tributários| B["2. Lavratura de Auto de Infração"]
+    B -->|Encerramento do Processo Administrativo Fiscal| C["3. Constituição Definitiva do Crédito (Súmula Vinculante 24)"]
+    C -->|Envio Obrigatório| D["4. Representação Fiscal para Fins Penais (RFFP)"]
+    D -->|Art. 40 do CPP e Dec. 982/93| E["5. Ministério Público Federal (MPF)"]
+    E -->|Titular da Ação Penal| F["6. Oferecimento de Denúncia Criminal"]
 ```
 
 > [!IMPORTANT]

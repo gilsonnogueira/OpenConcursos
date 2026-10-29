@@ -76,14 +76,14 @@ Para os riscos identificados de distorção relevante **no nível de afirmaçõe
 **Fatores de Risco Inerente** são características de eventos ou condições que afetam a suscetibilidade à distorção, independentemente se causada por fraude ou erro, de uma afirmação sobre uma classe de transações, saldo contábil ou divulgação, **antes da consideração dos controles**. Tais fatores podem ser qualitativos ou quantitativos e incluem **5 elementos canônicos**:
 
 ```mermaid
-flowchart LR
-    FRI["OS 5 FATORES DE RISCO INERENTE<br/>(NBC TA 315 R2, Item 12 'f')"]
+flowchart TD
+    FRI["<b>OS 5 FATORES DE RISCO INERENTE</b><br/><i>(NBC TA 315 R2, Item 12 'f')</i>"]
     
-    FRI --> F1["1. COMPLEXIDADE<br/>Regras contábeis ou cálculos intrincados<br/>(Ex.: Derivativos exóticos, consolidação)"]
-    FRI --> F2["2. SUBJETIVIDADE<br/>Liberdade de julgamento na escolha de premissas<br/>(Ex.: Vida útil de intangíveis, taxas de desconto)"]
-    FRI --> F3["3. MUDANÇA<br/>Alterações no modelo de negócios, economia ou normas<br/>(Ex.: Reestruturação societária, nova lei fiscal)"]
-    FRI --> F4["4. INCERTEZA<br/>Impossibilidade de medição exata por depender de eventos futuros<br/>(Ex.: Provisões judiciais, teste de Impairment)"]
-    FRI --> F5["5. SUSCETIBILIDADE A VIÉS DA ADMINISTRAÇÃO<br/>OU OUTROS FATORES DE RISCO DE FRAUDE<br/>(Ex.: Pressão por metas de bônus, partes relacionadas)"]
+    FRI --> F1["<b>1. Complexidade:</b> Cálculos ou regras contábeis intrincadas<br/><i>(Ex.: Derivativos exóticos, consolidações complexas)</i>"]
+    FRI --> F2["<b>2. Subjetividade:</b> Liberdade de julgamento nas premissas<br/><i>(Ex.: Vida útil de intangíveis, taxas de desconto)</i>"]
+    FRI --> F3["<b>3. Mudança:</b> Alterações no modelo de negócio ou regulação<br/><i>(Ex.: Reestruturação societária, novas leis fiscais)</i>"]
+    FRI --> F4["<b>4. Incerteza:</b> Dependência de eventos futuros imprevisíveis<br/><i>(Ex.: Provisões para litígios, teste de recuperabilidade)</i>"]
+    FRI --> F5["<b>5. Suscetibilidade a Viés ou Fraude:</b> Pressões da gestão<br/><i>(Ex.: Metas de bônus agressivas, transações entre partes)</i>"]
 ```
 
 #### C) O Espectro de Risco Inerente (*Spectrum of Inherent Risk* — Item A9 e A208-A211)

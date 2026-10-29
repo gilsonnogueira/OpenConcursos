@@ -10,51 +10,19 @@
 
 ```mermaid
 flowchart TD
-    subgraph P1["01. Fundamentos & Normas Profissionais"]
-        T01["01. Estrutura Conceitual & NBC TA 200"]
-        T02["02. Controle de Qualidade (NBC PA 01, NBC QM 01/02 & TA 220)"]
-        T03["03. Código de Ética & Postura Profissional (NBC PG 100 & PA 400)"]
-    end
+    ROOT["<b>TRILHA INTEGRADA DE AUDITORIA</b><br/><i>Matriz Estruturante dos 20 Tratados</i>"]
 
-    subgraph P2["02. Auditoria Interna & Governança"]
-        T04["01. Auditoria Interna (NBC TI 01 & Modelo 3 Linhas IIA)"]
-        T05["02. Normas do Auditor Interno (NBC PI 01 & NBC TA 610)"]
-    end
+    ROOT --> P1["<b>01. Fundamentos & Normas Profissionais</b><br/>• Estrutura Conceitual & NBC TA 200 (Teoria da Agência e Risco)<br/>• Controle de Qualidade (NBC PA 01, NBC QM 01/02 & TA 220)<br/>• Código de Ética & Independência (NBC PG 100 & PA 400)"]
 
-    subgraph P3["03. Ciclo Operacional da Auditoria Independente"]
-        T06["01. Planejamento & Documentação (NBC TA 300, 210, 510 & 230)"]
-        T07["02. Avaliação de Riscos & Controle Interno (NBC TA 315, COSO & 265)"]
-        T08["03. Materialidade, Tolerância & Fraude (NBC TA 320, 450 & 240)"]
-        T09["04. Evidências, Procedimentos & Circularização (NBC TA 500, 501, 505 & 520)"]
-        T10["05. Amostragem em Auditoria (NBC TA 530, MUS & Riscos Amostrais)"]
-        T11["06. Estimativas Contábeis & Partes Relacionadas (NBC TA 540 & 550)"]
-        T12["07. Eventos Subsequentes, Continuidade & Representações (NBC TA 560, 570 & 580)"]
-    end
+    P1 --> P2["<b>02. Auditoria Interna & Governança</b><br/>• Auditoria Interna (NBC TI 01 & Modelo das 3 Linhas IIA)<br/>• Normas do Auditor Interno & Relação com Auditor Externo (NBC PI 01 & TA 610)"]
 
-    subgraph P4["04. Comunicação & Relatórios"]
-        T13["01. Formação da Opinião & Relatório Padrão (NBC TA 700, 710 & 720)"]
-        T14["02. Opiniões Modificadas (Ressalva, Adversa & Abstenção - NBC TA 705)"]
-        T15["03. Ênfase, Outros Assuntos & Principais Assuntos (NBC TA 706 & 701)"]
-    end
+    P2 --> P3["<b>03. Ciclo Operacional da Auditoria Independente</b><br/>• Planejamento (TA 300/210/510) & Documentação/Custódia (TA 230)<br/>• Avaliação de Riscos & Controles Internos (TA 315 & 265)<br/>• Materialidade & Fraude (TA 320/450 & TA 240)<br/>• Procedimentos, Evidências & Circularização (TA 500, 501, 505 & 520)<br/>• Amostragem Estatística & MUS (TA 530)<br/>• Estimativas Contábeis & Partes Relacionadas (TA 540 & 550)<br/>• Eventos Subsequentes & Continuidade Operacional (TA 560 & 570)"]
 
-    subgraph P5["05. Auditoria Governamental & Setor Público"]
-        T16["01. Normas NBASP / ISSAI & Tribunais de Contas (Financeira, Operacional & Conformidade)"]
-        T17["02. Matrizes de Auditoria (Planejamento, Achados CCCE & Responsabilização LINDB)"]
-    end
+    P3 --> P4["<b>04. Comunicação & Relatórios</b><br/>• Formação da Opinião e Relatório Padrão (NBC TA 700/710/720)<br/>• Opiniões Modificadas: Ressalva, Adversa & Abstenção (NBC TA 705)<br/>• Parágrafos de Ênfase, Outros Assuntos & PAA/KAM (NBC TA 706 & 701)"]
 
-    subgraph P6["06. Auditoria Fiscal Tributária"]
-        T18["01. Presunções Legais & Omissão de Receita (DL 1.598/77 & Lei 9.430/96)"]
-        T19["02. Auditoria Contábil de Caixa, Passivo Fictício & Estoques"]
-        T20["03. Arbitramento de Lucro, Fluxo de Caixa & Comércio Exterior"]
-        T21["04. Sigilo Bancário, Sigilo Fiscal & LC nº 105/2001 (STF Tema 225 & 990)"]
-        T22["05. Auditoria Digital, SPED, EFD ICMS/IPI & NF-e (Ajustes SINIEF)"]
-    end
+    P4 --> P5["<b>05. Auditoria Governamental & Setor Público</b><br/>• Normas NBASP / ISSAI & Tribunais de Contas (Financeira, Operacional & Conformidade)<br/>• Matrizes Técnicas do TCU: Planejamento, Achados (CCCE) & Responsabilização (LINDB)"]
 
-    P1 --> P2
-    P1 --> P3
-    P3 --> P4
-    P1 --> P5
-    P1 --> P6
+    P5 --> P6["<b>06. Auditoria Fiscal Tributária</b><br/>• Presunções Legais & Omissão de Receita (DL 1.598/77 & Lei 9.430/96)<br/>• Auditoria Contábil de Caixa, Passivo Fictício & Estoques (RIR/2018)<br/>• Arbitramento de Lucro, Fluxo de Caixa & Preços de Transferência<br/>• Sigilo Bancário & Fiscal (LC nº 105/2001 - Temas 225 e 990 STF)<br/>• Auditoria Digital: SPED, EFD ICMS/IPI & Malhas Fiscais da NF-e"]
 ```
 
 ---

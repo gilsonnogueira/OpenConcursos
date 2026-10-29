@@ -163,16 +163,16 @@ As empresas divulgam relatórios anuais que contêm, além das demonstrações c
 A **NBC TA 720 (R1)** disciplina a responsabilidade do auditor sobre essas "Outras Informações":
 
 ```mermaid
-flowchart LR
-    A["Outras Informações (Relatório da Administração / ESG)"] --> B["Auditor lê para identificar Inconsistência Relevante"]
-    B --> C{"Há contradição flagrante com as Demonstrações Contábeis ou Evidência?"}
+flowchart TD
+    A["Outras Informações<br/>(Relatório da Administração / ESG)"] --> B["Auditor lê para identificar<br/>Inconsistência Relevante"]
+    B --> C{"Há contradição flagrante com as<br/>Demonstrações Contábeis ou Evidências?"}
     
-    C -- Não --> D["Seção de Outras Informações no Relatório sem Ressalvas"]
-    C -- Sim --> E{"A Distorção está nas Demonstrações ou nas Outras Informações?"}
+    C -- Não --> D["Seção de Outras Informações<br/>Sem Ressalvas no Relatório"]
+    C -- Sim --> E{"A Distorção está nas Demonstrações<br/>ou nas Outras Informações?"}
     
-    E -- "Nas Demonstrações" --> F["Opinião Modificada nas Demonstrações (NBC TA 705)"]
-    E -- "Nas Outras Informações" --> G["Solicitação de Correção à Administração"]
-    G -->|Recusa da Gestão| H["Comunicação à Governança e Descrição da Inconsistência no Relatório"]
+    E -- "Nas Demonstrações" --> F["Opinião Modificada nas Demonstrações<br/>(NBC TA 705)"]
+    E -- "Nas Outras Informações" --> G["Solicitação de Correção<br/>à Administração"]
+    G -->|Recusa da Gestão| H["Comunicação aos Responsáveis pela Governança<br/>e Descrição da Inconsistência no Relatório"]
 ```
 
 > [!CAUTION]

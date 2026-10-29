@@ -7,20 +7,28 @@
 Em auditoria contábil e fiscal tributária, o direcionamento metodológico dos testes é a ferramenta cardeal para detecção de fraudes patrimoniais e evasão fiscal. O auditor orienta seus exames conforme a afirmação contábil que pretende validar:
 
 ```mermaid
-flowchart LR
-    subgraph "TESTE DE SUPERAVALIAÇÃO (VOUCHING / SENTIDO DESCENDENTE)"
-        A1["Registros Contábeis (Livro Razão / Diário)"] -->|Sentido do Teste: Razão para o Documento| A2["Documentação Suporte (Notas Fiscais / Contratos / Recibos)"]
-        A2 -->|Valida Afirmações de| A3["Existência, Ocorrência e Validade"]
-        A3 -->|Objetivo Típico de Fiscalização| A4["Detectar ATIVOS FICTÍCIOS ou DESPESAS INFLADAS"]
+flowchart TD
+    subgraph VOUCHING["TESTE DE SUPERAVALIAÇÃO (VOUCHING / DESCENDENTE)"]
+        A1["1. Registros Contábeis / Livro Diário"]
+        A2["2. Documentos Fiscais Comprobatórios"]
+        A3["3. Fato Econômico Real"]
+        A1 -->|Auditor parte da escrita e busca o suporte| A2
+        A2 -->|Confirmação de autenticidade| A3
+        AVISO1["Objetivo: Verificar Existência e Autenticidade.<br/>Se não houver suporte = LANÇAMENTO FICTÍCIO / INFLADO!"]
+        A3 -.-> AVISO1
     end
 ```
 
 ```mermaid
-flowchart LR
-    subgraph "TESTE DE SUBAVALIAÇÃO (TRACING / SENTIDO ASCENDENTE)"
-        B1["Fatos Reais / Documentos Físicos (NF de Entrada, Estoque Físico, Extratos)"] -->|Sentido do Teste: Fato para a Contabilidade| B2["Registros Contábeis (Livro Razão / Diário)"]
-        B2 -->|Valida Afirmações de| B3["Completude, Integridade e Exaustividade"]
-        B3 -->|Objetivo Típico de Fiscalização| B4["Detectar RECEITAS OMITIDAS ou PASSIVOS OCULTOS"]
+flowchart TD
+    subgraph TRACING["TESTE DE SUBAVALIAÇÃO (TRACING / ASCENDENTE)"]
+        B1["1. Fatos Reais / Operações Físicas"]
+        B2["2. Documentos de Entrada e Saída"]
+        B3["3. Registros Contábeis e Fiscais"]
+        B1 -->|Auditor parte do fato físico e busca a nota| B2
+        B2 -->|Verifica se foi escriturado| B3
+        AVISO2["Objetivo: Verificar Integralidade e Completude.<br/>Se houver operação sem escrituração = OMISSÃO DE RECEITA!"]
+        B3 -.-> AVISO2
     end
 ```
 
@@ -108,14 +116,15 @@ A caracterização da omissão de receitas acarreta repercussões materiais em c
 ### 4.2. Gradação das Multas de Ofício (Art. 44 da Lei nº 9.430/1996):
 
 ```mermaid
-flowchart LR
-    A["Lançamento de Ofício por Omissão de Receita"] --> B{"Houve Sonegação, Fraude ou Conluio (Arts. 71, 72 e 73 Lei 4.502/64)?"}
+flowchart TD
+    A["Lançamento de Ofício por Omissão de Receita"] --> B{"Houve Sonegação, Fraude ou Conluio?<br/>(Arts. 71, 72 e 73 da Lei nº 4.502/64)"}
     
-    B -- Não --> C["Multa Básica de Ofício: 75% sobre a Totalidade do Tributo"]
-    B -- Sim --> D["Multa Qualificada por Fraude: 150% sobre o Tributo Omitido"]
+    B -- Não --> C["Multa de Ofício Padrão: 75%<br/>(Art. 44, I, da Lei nº 9.430/96)"]
+    B -- Sim --> D["Multa Qualificada / Agravada: 150%<br/>(Art. 44, § 1º, da Lei nº 9.430/96)"]
     
-    C -->|Não atendimento à Notificação Fiscal| E["Agravamento em 50%: Multa sobe para 112,5%"]
-    D -->|Não atendimento à Notificação Fiscal| F["Agravamento em 50%: Multa sobe para 225%"]
+    D --> E{"Contribuinte não atendeu à notificação<br/>ou embaraçou a fiscalização?"}
+    E -- Sim --> F["Agravamento em mais 50%:<br/>Multa atinge 225% (Piso STF: 100% / Teto 150%)"]
+    E -- Não --> G["Mantém a Multa Qualificada de 150%"]
 ```
 
 ---

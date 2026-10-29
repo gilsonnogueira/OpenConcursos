@@ -156,9 +156,10 @@ Para auditorias de demonstrações contábeis de entidades listadas (companhias 
 A **NBC PA 01** (em total harmonia com a **NBC TA 230**) estabelece regras imperativas sobre o arquivo final, a confidencialidade, a retenção e a propriedade dos papéis de trabalho:
 
 ```mermaid
-flowchart LR
-    DATA_REL["Data do Relatório do Auditor<br/>(Marco Zero = Dia D)"] --> PRAZO_60["Até D + 60 dias (Máximo):<br/>Conclusão da Montagem do Arquivo Final<br/>(Processo meramente administrativo)"]
-    DATA_REL --> PRAZO_5A["Até D + 5 anos (Mínimo):<br/>Retenção e Guarda da Documentação<br/>(Ou da data do relatório do grupo, se posterior)"]
+flowchart TD
+    DATA_REL["<b>Data do Relatório do Auditor</b><br/>(Marco Zero = Dia D)"]
+    DATA_REL --> PRAZO_60["<b>Até D + 60 dias (Máximo):</b><br/>Conclusão da Montagem do Arquivo Final<br/><i>(Processo administrativo, sem novos testes)</i>"]
+    PRAZO_60 --> PRAZO_5A["<b>Até D + 5 anos (Mínimo):</b><br/>Custódia e Retenção da Documentação<br/><i>(Ou da data do relatório consolidado do grupo)</i>"]
 ```
 
 1. **Prazo para Conclusão da Montagem do Arquivo Final (Item A54 da NBC PA 01 c/c NBC TA 230):**

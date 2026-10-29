@@ -536,16 +536,15 @@ As Normas do IIA dividem-se em duas categorias principais e um desdobramento pr�
    Expandem as Normas de Atributos e de Desempenho fornecendo os requisitos aplicáveis especificamente aos serviços de **Avaliação (*Assurance* — sufixo `.A`, ex.: 1130.A1)** ou aos serviços de **Consultoria (*Consulting* — sufixo `.C`, ex.: 1130.C1)**.
 
 ```mermaid
-flowchart LR
+flowchart TD
     subgraph NORMAS_IIA["Estrutura das Normas Internacionais do IIA (IPPF)"]
-        direction TB
-        S1000["NORMAS DE ATRIBUTOS (Série 1000)<br/>Quem somos e quais nossas características?<br/>• 1000: Estatuto (Propósito, Autoridade, Responsabilidade)<br/>• 1100: Independência (Unidade) e Objetividade (Indivíduo)<br/>• 1200: Proficiência Coletiva e Zelo Profissional Devido<br/>• 1300: Programa de Garantia e Melhoria da Qualidade (QAIP)"]
+        S1000["<b>NORMAS DE ATRIBUTOS (Série 1000)</b><br/>• 1000: Propósito, Autoridade e Responsabilidade<br/>• 1100: Independência e Objetividade<br/>• 1200: Proficiência Coletiva e Zelo Devido<br/>• 1300: Programa de Qualidade (QAIP)"]
         
-        S2000["NORMAS DE DESEMPENHO (Série 2000)<br/>O que fazemos e com qual padrão de qualidade?<br/>• 2000: Gerenciamento da Unidade (PAINT baseado em riscos)<br/>• 2100: Natureza do Trabalho (Governança, Riscos e Controles)<br/>• 2200 a 2400: Planejamento, Execução e Comunicação<br/>• 2500 e 2600: Monitoramento e Aceitação Excessiva de Riscos"]
+        S2000["<b>NORMAS DE DESEMPENHO (Série 2000)</b><br/>• 2000: Gestão da Atividade de Auditoria<br/>• 2100: Governança, Riscos e Controles<br/>• 2200-2400: Planejamento, Execução e Relatório<br/>• 2500-2600: Monitoramento e Aceitação de Risco"]
         
-        IMP["NORMAS DE IMPLANTAÇÃO<br/>• Sufixo .A -> Trabalhos de Avaliação (Assurance)<br/>• Sufixo .C -> Trabalhos de Consultoria (Consulting)"]
+        IMP["<b>NORMAS DE IMPLANTAÇÃO</b><br/>• Sufixo .A: Trabalhos de Avaliação (Assurance)<br/>• Sufixo .C: Trabalhos de Consultoria (Consulting)"]
         
-        S1000 --> IMP
+        S1000 --> S2000
         S2000 --> IMP
     end
 ```

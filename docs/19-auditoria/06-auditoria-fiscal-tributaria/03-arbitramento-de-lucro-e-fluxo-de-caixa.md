@@ -236,14 +236,13 @@ flowchart TD
 A interposição fraudulenta ocorre quando a importação é realizada por intermédio de pessoa jurídica interposta ("laranja" ou importador de fachada), com o objetivo de ocultar o real encomendante, adquirente ou financiador das operações:
 
 ```mermaid
-flowchart LR
-    A["Fabricante no Exterior"] -->|Venda Formal| B["Importadora 'Fachada' (Interposta Fraudulenta)"]
-    B -->|Entrega Física / Faturamento Interno Simulado| C["Real Importador Oculto (Beneficiário Efetivo)"]
-    C -.->|Financiamento Clandestino / Transferências não Declaradas| B
-    C -.->|Dólar Cabo / Câmbio Paralelo| A
-    D["Fiscalização Aduaneira RFB"] -->|Termo de Retenção de Mercadorias| B
-    D -->|Constatação de Não Comprovação da Origem dos Recursos| D1["Pena de Perdimento das Mercadorias (Art. 23, V, DL 1.455/76)"]
-    D -->|Constatação de Dissimulação Subjetiva Simples| D2["Multa de 10% da Operação (Art. 33 da Lei 10.637/2002)"]
+flowchart TD
+    A["1. Fabricante no Exterior"] -->|Venda Formal| B["2. Importadora Fachada<br/>(Interposta Pessoa Fraudulenta)"]
+    B -->|Transferência Simulada| C["3. Importador Real Oculto<br/>(Beneficiário Efetivo)"]
+    
+    C --> D{"Auditor Fiscal Identifica:<br/>Ocultação do Real Adquirente?"}
+    D -- Sim --> E["Pena de Perdimento das Mercadorias<br/>(Art. 23, V, DL 1.455/76)"]
+    D -- "Cessão de Nome Sem Ocultação" --> F["Multa de 10% do Valor da Operação<br/>(Art. 33 da Lei nº 11.488/2007)"]
 ```
 
 #### Distinção Crítica para Concursos Fiscais:

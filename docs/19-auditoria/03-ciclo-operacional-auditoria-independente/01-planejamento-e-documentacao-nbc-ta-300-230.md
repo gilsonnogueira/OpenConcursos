@@ -178,15 +178,20 @@ Planejar uma auditoria envolve estabelecer a estratégia global para o trabalho 
 > O planejamento **NÃO é uma fase isolada ou estanque** da auditoria, mas sim um **processo contínuo e iterativo** que muitas vezes **começa logo após (ou em conexão com) a conclusão da auditoria anterior**, continuando até a conclusão do trabalho de auditoria atual. O planejamento, todavia, inclui a consideração da época de certas atividades e procedimentos que precisam ser concluídos *antes* da realização de procedimentos adicionais de auditoria (como a avaliação de riscos da NBC TA 315 e a determinação da materialidade da NBC TA 320).
 
 ```mermaid
-flowchart LR
+flowchart TD
     subgraph CICLO["Ciclo Contínuo e Iterativo do Planejamento (NBC TA 300)"]
-        direction LR
-        CONC["Conclusão da Auditoria Anterior"] --> ATIV["1. Atividades Preliminares<br/>(NBC TA 220, Ética e NBC TA 210)"]
-        ATIV --> EG["2. Estratégia Global de Auditoria<br/>(Alcance, Época, Direção e Recursos)"]
-        EG --> PA["3. Plano de Auditoria<br/>(Procedimentos de Risco e Substantivos)"]
-        PA --> EXEC["4. Execução em Campo<br/>e Supervisão da Equipe"]
-        EXEC -.->|"Evidências contraditórias ou eventos inesperados<br/>(Item 10: Atualização Dinâmica)"| EG
-        EXEC -.->|"Desvios em controles ou novos riscos"| PA
+        CONC["Conclusão da Auditoria Anterior"]
+        ATIV["1. Atividades Preliminares<br/>(NBC TA 220, Ética e NBC TA 210)"]
+        EG["2. Estratégia Global de Auditoria<br/>(Alcance, Época, Direção e Recursos)"]
+        PA["3. Plano de Auditoria<br/>(Procedimentos de Risco e Substantivos)"]
+        EXEC["4. Execução em Campo e Supervisão"]
+
+        CONC --> ATIV
+        ATIV --> EG
+        EG --> PA
+        PA --> EXEC
+        EXEC -.->|"Item 10: Atualização Dinâmica"| EG
+        EXEC -.->|"Novos Riscos Identificados"| PA
     end
 ```
 
@@ -461,9 +466,13 @@ A forma, o conteúdo e a extensão da documentação de auditoria dependem de fa
 ### 4.6. Montagem do Arquivo Final de Auditoria e Prazo de Guarda (Itens 14 a 16 e A21-A24)
 
 ```mermaid
-flowchart LR
-    DATA["DATA DO RELATÓRIO<br/>DO AUDITOR"] ==>|"Até 60 DIAS (Item A21)<br/>Processo estritamente ADMINISTRATIVO"| MONT["CONCLUSÃO DA MONTAGEM<br/>DO ARQUIVO FINAL DE AUDITORIA"]
-    MONT ==>|"Mínimo de 5 ANOS a contar da<br/>Data do Relatório (Item A23)"| GUARDA["PRAZO DE RETENÇÃO E CUSTÓDIA<br/>(Proibido apagar ou descartar antes do fim)"]
+flowchart TD
+    DATA["<b>Data do Relatório do Auditor</b>"]
+    MONT["<b>Conclusão da Montagem do Arquivo Final</b><br/>• Prazo limite: até 60 dias (Item A21)<br/>• Processo estritamente administrativo"]
+    GUARDA["<b>Prazo de Retenção e Custódia</b><br/>• Mínimo de 5 anos da data do relatório<br/>• Vedado descartar documentação antes do prazo"]
+
+    DATA ==>|Até 60 Dias| MONT
+    MONT ==>|Mínimo 5 Anos| GUARDA
 ```
 
 #### A) O Processo Administrativo de Montagem do Arquivo Final (Itens 14 e A21-A22)

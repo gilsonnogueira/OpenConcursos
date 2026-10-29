@@ -13,27 +13,27 @@ Na economia corporativa moderna, a separação entre a **propriedade do capital*
 * **O Papel Institucional da Auditoria Independente:** Atua como um mecanismo redutor do custo de agência e da assimetria informacional. Ao submeter as demonstrações preparadas pelo Agente ao escrutínio técnico de um terceiro independente dotado de fé pública contábil, restaura-se a confiança sistêmica do mercado de capitais.
 
 ```mermaid
-flowchart LR
-    subgraph Entidade["Entidade Auditada (Agente)"]
+flowchart TD
+    subgraph Entidade["1. Entidade Auditada (Agente)"]
         ADM["Administração / Governança<br/>(Parte Responsável)"]
         DC["Demonstrações Contábeis<br/>(Informação sobre o Objeto)"]
         ADM -->|Elabora e Apresenta| DC
     end
 
-    subgraph Auditoria["Auditor Independente"]
+    subgraph Auditoria["2. Auditoria Independente"]
         AUD["Auditor Externo<br/>(3ª Parte Independente)"]
-        CRIT["Estrutura de Relatório Financeiro<br/>(Critérios: CPC / IFRS / Lei 6.404)"]
-        REL["Relatório de Auditoria<br/>(Opinião de Asseguração Razoável)"]
+        CRIT["Critérios Técnicos<br/>(CPC / IFRS / Lei 6.404)"]
+        REL["Relatório do Auditor<br/>(Asseguração Razoável)"]
+        CRIT -.->|Parâmetro| AUD
+        AUD -->|Emite| REL
     end
 
-    subgraph Mercado["Mercado e Sociedade (Principal)"]
-        USU["Usuários Previstos<br/>(Investidores, Credores, Fisco, Reguladores)"]
+    subgraph Mercado["3. Mercado e Sociedade (Principal)"]
+        USU["Usuários Previstos<br/>(Investidores, Credores, Fisco)"]
     end
 
-    DC -->|Examina contra| AUD
-    CRIT -->|Parâmetro técnico| AUD
-    AUD -->|Emite| REL
-    REL -->|Aumenta o grau de confiança| USU
+    DC -->|Submete para Exame| AUD
+    REL -->|Gera Confiança Informacional| USU
 ```
 
 ---

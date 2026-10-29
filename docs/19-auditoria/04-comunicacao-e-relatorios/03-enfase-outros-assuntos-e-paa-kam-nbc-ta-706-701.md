@@ -52,11 +52,20 @@ Enquanto o parágrafo de ênfase trata de assunto já divulgado nas demonstraç�
 > *"Parágrafo incluído no relatório de auditoria que se refere a um assunto **não apresentado nem divulgado nas demonstrações contábeis** e que, de acordo com o julgamento do auditor, é relevante para os usuários entenderem a auditoria, as responsabilidades do auditor ou o relatório de auditoria."*
 
 ```mermaid
-graph LR
-    subgraph "Diferença Essencial de Origem (NBC TA 706)"
-        A["Parágrafo de ÊNFASE"] -->|Trata de assunto| B["APRESENTADO ou DIVULGADO nas DFs (Ex: Nota Explicativa nº 15)"]
-        C["Parágrafo de OUTROS ASSUNTOS"] -->|Trata de assunto| D["NÃO APRESENTADO nem divulgado nas DFs (Ex: Responsabilidades, Auditor Antecessor)"]
+flowchart TD
+    subgraph ENFASE["Parágrafo de ÊNFASE (NBC TA 706)"]
+        E1["<b>Objeto:</b> Assunto já apresentado ou divulgado de forma adequada nas Demonstrações"]
+        E2["<b>Finalidade:</b> Destacar tema fundamental para a compreensão dos usuários"]
+        E1 --- E2
     end
+
+    subgraph OUTROS["Parágrafo de OUTROS ASSUNTOS (NBC TA 706)"]
+        O1["<b>Objeto:</b> Assunto NÃO apresentado nem divulgado nas Demonstrações"]
+        O2["<b>Finalidade:</b> Relevante para a compreensão da auditoria, responsabilidades ou relatório"]
+        O1 --- O2
+    end
+
+    ENFASE -.->|Diferença Essencial de Origem| OUTROS
 ```
 
 ### 2.1. Hipóteses Típicas de Inclusão de Outros Assuntos:

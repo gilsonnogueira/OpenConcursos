@@ -58,9 +58,13 @@ O sigilo profissional é regra de ouro, mas **NÃO é absoluto**. A NBC PG 100 e
 A Estrutura Conceitual especifica uma abordagem em **três etapas** para que o profissional cumpra os princípios fundamentais e os requisitos de independência:
 
 ```mermaid
-flowchart LR
-    PASSO1["ETAPA 1: IDENTIFICAR<br/>Identificar ameaças ao cumprimento dos 5 princípios fundamentais"] --> PASSO2["ETAPA 2: AVALIAR<br/>Avaliar se as ameaças identificadas estão em um NÍVEL ACEITÁVEL"]
-    PASSO2 -->|Não estão em nível aceitável| PASSO3["ETAPA 3: TRATAR<br/>(a) Eliminar as circunstâncias;<br/>(b) Aplicar Salvaguardas; ou<br/>(c) Recusar / Encerrar o trabalho!"]
+flowchart TD
+    PASSO1["<b>ETAPA 1: IDENTIFICAR</b><br/>Identificar ameaças ao cumprimento<br/>dos 5 princípios fundamentais"]
+    PASSO2["<b>ETAPA 2: AVALIAR</b><br/>Avaliar se as ameaças estão<br/>em um NÍVEL ACEITÁVEL"]
+    PASSO3["<b>ETAPA 3: TRATAR</b><br/>(a) Eliminar as circunstâncias;<br/>(b) Aplicar Salvaguardas; ou<br/>(c) Recusar / Encerrar o trabalho!"]
+
+    PASSO1 --> PASSO2
+    PASSO2 -->|Ameaça em Nível Inaceitável| PASSO3
 ```
 
 ### 3.1 O Critério do "Terceiro Razoável e Informado" (Item 120.5 A6)

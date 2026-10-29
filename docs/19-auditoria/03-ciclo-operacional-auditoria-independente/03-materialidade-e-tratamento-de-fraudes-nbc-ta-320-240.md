@@ -149,14 +149,14 @@ O auditor **deve acumular as distorções identificadas durante a auditoria, que
 Para auxiliar o auditor a avaliar o efeito das distorções acumuladas e comunicá-las à administração e aos responsáveis pela governança, a NBC TA 450 distingue **três categorias de distorções**:
 
 ```mermaid
-flowchart LR
-    DIST["DISTORÇÕES ACUMULADAS NA AUDITORIA<br/>(NBC TA 450, Item A6)"]
+flowchart TD
+    DIST["<b>DISTORÇÕES ACUMULADAS NA AUDITORIA</b><br/><i>(NBC TA 450, Item A6)</i>"]
     
-    DIST --> D1["1. DISTORÇÕES FACTUAIS<br/>(Factual Misstatements)<br/>• Distorções sobre as quais NÃO HÁ DÚVIDA<br/>• Erro objetivo comprovado em documento"]
+    DIST --> D1["<b>1. Distorções Factuais</b><br/>• Erros objetivos sobre os quais não há dúvida<br/>• Ex.: Cálculo aritmético errado comprovado"]
     
-    DIST --> D2["2. DISTORÇÕES DE JULGAMENTO<br/>(Judgmental Misstatements)<br/>• Diferenças decorrentes de julgamentos da administração<br/>(estimativas ou políticas contábeis) que o auditor<br/>considera NÃO RAZOÁVEIS ou INADEQUADAS"]
+    DIST --> D2["<b>2. Distorções de Julgamento</b><br/>• Julgamentos da gestão considerados inadequados<br/>• Ex.: Premissas de estimativas contábeis sem razoabilidade"]
     
-    DIST --> D3["3. DISTORÇÕES PROJETADAS<br/>(Projected Misstatements)<br/>• Melhor estimativa de distorções em populações,<br/>extrapolando os erros encontrados na amostra<br/>para a população inteira (NBC TA 530)"]
+    DIST --> D3["<b>3. Distorções Projetadas</b><br/>• Extrapolação amostral para a população inteira<br/>• Estimativa estatística calculada via NBC TA 530"]
 ```
 
 #### Comunicação, Solicitação de Correção e Compensação (*Offsetting*) (Itens 8 a 11 e A19-A21)

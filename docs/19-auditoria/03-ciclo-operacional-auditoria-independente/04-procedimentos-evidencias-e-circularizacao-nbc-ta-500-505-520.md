@@ -31,28 +31,16 @@ flowchart TD
 Embora a confiabilidade da evidência de auditoria seja influenciada por sua fonte e natureza e dependa das circunstâncias individuais em que é obtida, a NBC TA 500 estabelece **cinco generalizações obrigatórias** que despencam em concursos:
 
 ```mermaid
-flowchart LR
-    subgraph Menos_Confiavel["Menor Confiabilidade Relativa"]
-        E_INT["Evidência de Fonte Interna"]
-        E_IND["Evidência Obtida Indiretamente (Inferência / Ouvir dizer)"]
-        E_VERB["Evidência Verbal / Oral"]
-        E_COP["Cópias, Fax e Documentos Digitalizados"]
-        E_CFRAC["Evidência Interna com Controles Fracos"]
+flowchart TD
+    subgraph BAIXA["Menor Confiabilidade Relativa"]
+        E1["• Fonte Interna da Entidade<br/>• Evidência Obtida Indiretamente / Por Ouvir Dizer<br/>• Declarações Apenas Verbais ou Informais<br/>• Fotocópias e Documentos Digitalizados<br/>• Documentos sob Controles Internos Fracos"]
     end
 
-    subgraph Mais_Confiavel["Maior Confiabilidade Relativa"]
-        E_EXT["Evidência de Fonte Externa e Independente"]
-        E_DIR["Evidência Obtida Diretamente pelo Auditor"]
-        E_DOC["Evidência Documental (Papel ou Eletrônica)"]
-        E_ORIG["Documentos Originais"]
-        E_CEFET["Evidência Interna com Controles Efetivos"]
+    subgraph ALTA["Maior Confiabilidade Relativa"]
+        S1["• Fonte Externa e Independente<br/>• Evidência Obtida Diretamente pelo Auditor (Ex.: Inspeção Física)<br/>• Evidência Documentada em Papel ou Meio Eletrônico<br/>• Documentos Originais<br/>• Documentos Gerados sob Controles Internos Eficazes"]
     end
 
-    E_INT -->|Superada por| E_EXT
-    E_IND -->|Superada por| E_DIR
-    E_VERB -->|Superada por| E_DOC
-    E_COP -->|Superada por| E_ORIG
-    E_CFRAC -->|Superada por| E_CEFET
+    BAIXA ==>|Regra Geral de Superação Técnica (NBC TA 500)| ALTA
 ```
 
 1. **Fonte Externa vs. Fonte Interna:** A confiabilidade da evidência de auditoria é **maior quando obtida de fontes independentes fora da entidade** (ex.: extratos bancários obtidos diretamente do banco, respostas de circularização de clientes e fornecedores).

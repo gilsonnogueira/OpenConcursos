@@ -100,17 +100,14 @@ A auditoria operacional (ou de desempenho) não busca punir irregularidades form
 A avaliação do desempenho público ancora-se no modelo dos **5 E's**:
 
 ```mermaid
-flowchart LR
-    A["Insumos (Inputs)"] -->|Economicidade: Gastar com parcimônia| B["Processos / Atividades"]
-    B -->|Eficiência: Fazer o máximo com o mínimo de recursos| C["Produtos / Serviços (Outputs)"]
-    C -->|Eficácia: Atingir as metas planejadas| D["Resultados Imediatos (Outcomes)"]
-    D -->|Efetividade: Transformação duradoura da realidade social| E["Impacto Social Final (Impact)"]
+flowchart TD
+    A["Insumos (Inputs)"] -->|Economicidade: Gastar com Parcimônia| B["Processos / Atividades"]
+    B -->|Eficiência: Relação Insumo vs Produto| C["Produtos / Serviços (Outputs)"]
+    C -->|Eficácia: Atingimento das Metas| D["Resultados Imediatos"]
+    D -->|Efetividade: Impacto Real na Sociedade| E["Impacto Social Duradouro"]
     
-    subgraph "Dimensão Transversal"
-        EQ["Equidade: Distribuição justa e sem privilégios entre cidadãos e regiões"]
-    end
-    
-    EQ -.-> A & B & C & D & E
+    EQUIDADE["Equidade: Distribuição justa e inclusiva dos recursos"]
+    E -.-> EQUIDADE
 ```
 
 ### Análise Conceitual Aprofundada dos 5 E's:
@@ -190,18 +187,15 @@ A Constituição de 1988 vedou taxativamente a criação de novos Tribunais, Con
 A auditoria governamental desenvolve-se ao longo de um ciclo estruturado em **4 Fases Interdependentes**:
 
 ```mermaid
-flowchart LR
-    F1["1. Planejamento da Auditoria"] --> F2["2. Execução dos Procedimentos"]
-    F2 --> F3["3. Relatório e Deliberação"]
-    F3 --> F4["4. Monitoramento (Follow-up)"]
-    F4 -.->|Retroalimentação de Riscos| F1
-    
-    subgraph "Instrumentos de Cada Fase"
-        F1 -.-> I1["Visão Geral do Objeto, Matriz de Planejamento e Matriz de Riscos"]
-        F2 -.-> I2["Testes de Auditoria, Papéis de Trabalho e Matriz de Achados"]
-        F3 -.-> I3["Relatório de Auditoria, Determinações e Recomendações"]
-        F4 -.-> I4["Monitoramento do Cumprimento dos Planos de Ação do Gestor"]
-    end
+flowchart TD
+    F1["<b>1. Planejamento da Auditoria</b><br/>• Visão geral do objeto e Matriz de Planejamento<br/>• Delimitação do escopo e critérios de auditoria"]
+    F2["<b>2. Execução dos Procedimentos</b><br/>• Aplicação de testes e coleta de evidências<br/>• Elaboração da Matriz de Achados (CCCE)"]
+    F3["<b>3. Relatório e Comunicação</b><br/>• Consolidação dos achados e propostas de deliberação<br/>• Painel de esclarecimentos e contraditório preliminar"]
+    F4["<b>4. Monitoramento (Follow-up)</b><br/>• Acompanhamento do cumprimento das deliberações<br/>• Avaliação do impacto das determinações e recomendações"]
+
+    F1 --> F2
+    F2 --> F3
+    F3 --> F4
 ```
 
 ---
